@@ -6,9 +6,9 @@ onenote-modified: 2022-11-06 20:43:47 -0500
 ---
 The **amulet of seven-hearted death** is an enchanted amulet.
 
-Created by a native civilization of the [[Colossal Ocean]] from a unique effect of the [[Whirlpool of Souls]], this piece of jewelry was forged from a deposit of saturated red [[Mana]], which acts as a rare binding component in enchantment. The amulet was created in the image of a ruby skull, in reverence of an ancient [[Death]] entity not known extensively of outside of their culture, named [[Macha]], called "Seven-Hearted Death". 
+Created by a native civilization of the [[Colossal Ocean]] from a unique effect of the [[Whirlpool of Souls]], this piece of jewelry was forged from a deposit of saturated red [[mana]], which acts as a rare binding component in [[enchantment]]. 
 
-This is owned by [[Even Baxly]].
+Owned by [[Even Baxly]], the amulet was created in the image of a ruby skull, in reverence of an ancient [[Avatar of Death|death entity]] not known extensively of outside of their culture, named [[Macha]], called "Seven-Hearted Death". 
 
 >![[⎋ Gameplay]]
 >>[!info]+ D&D 5e

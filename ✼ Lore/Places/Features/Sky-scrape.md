@@ -13,7 +13,7 @@ It emits white light at night, though it is visible at all hours of the [[Starfa
 
 When the [[Tzitzimitl|tzitzimitl]] perished at the hands of the [[S4]], all the energy that had built up in the rune threatened to cause a [[The Sheer#Wildcat destabilization|wildcat destabilization]], poised to create a massive [[Ghost storm|ghost storm]] that would destroy the whole of [[The Heavens]] — effectively causing a [[TPK]]. 
 
-Only the united power of the S4 together were able to condense the built-up force and dissipate it into [[Out There|the Out There]], leaving the rune behind in the night sky. In the process, an [[Omen|Omen]] arrived, named [[Emygdia]].
+Only the united power of the S4 together were able to condense the built-up force and dissipate it into [[Out There|the Out There]], leaving the rune behind in the night sky. In the process, an [[Omen|Omen]] arrived.
 
 # Effects
 The rune originally demonstrated an immense power to connect vast points in space, similar to a macroscale [[Rune|runic]] gun, partly by leveraging and consuming the energy of the [[Elseworld|Elseworld]].

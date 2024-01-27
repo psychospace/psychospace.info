@@ -11,7 +11,7 @@ Pinwheel's outskirts are marked by a number of heavily chivalry-based island soc
 # History
 In ancient years, the outskirt nations of Pinwheel followed a stringent law of pride and love for the natural world, even if their observations of it did disagree, and a kind of scientific faith in the [[Divine Equation]] arose. These native nations have fostered long-standing alliances with the government of Pinwheel's mainland: friendly, though strained and decidedly tacit. 
 
-In [[BPT ]], [[Augen]] and others collectively formed the tradition of [[Pinwheel Tempo]].
+[[Augen]] and others collectively formed the tradition of [[Pinwheel Tempo]].
 
 ## Modern history
 During the [[War of the Masters]], Pinwheel was operated by an individual known as [[Xenian]] the Observer, who had joined the war out of promise of the legends of what might have been a united remnant that broke apart to become the Colossal Ocean. It aided [[Dawndust]]'s allies in arming them.

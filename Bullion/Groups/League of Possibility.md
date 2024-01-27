@@ -1,0 +1,1 @@
+A philosophical society concerned with the meaning of resurrection in a world where "death" is a consequence: the meaning of pain in a world with healing magic. Emerged as a conflation of many similar high society clerical-skeptic astrologer circles, originally founded in the Helix district in [[Eleyda]].

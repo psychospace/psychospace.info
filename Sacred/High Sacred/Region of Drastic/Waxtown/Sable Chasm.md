@@ -1,0 +1,9 @@
+**Sable Chasm** is a base beneath the city of [[Waxtown]], constructed by magic during the time of the [[Carapa Republic]]. It was later co-opted by the [[Spider's Web]] as a hideout or trap.
+
+# Layout
+It is, in essence, a massive elevator-like rig, which uses chains to move itself down to lava pits and closer to desired minerals, found in the heart of [[Mount Celestia]], which the region sits just about below. As it is constructed of flameproof minerals, it served as extremely helpful, but eventually fell into disuse after the fall of the republic.
+
+
+The Upper Walkway of the Chasm is about 20 feet wide and 180 feet long. Ladders and stairs spiral off the walkway and lead to the Sable Hideout, below the walkway, which winds around and holds many different “chambers”, some exposed to the open searing air, and others not. The Upper Walkway was designed to always sit above the lava a safe distance, while the Hideout butts right up to it, and its lower levels can get singed depending on the speed the walkway falls in.
+
+The Chasm has 6 settings, from 1 (the highest up at street level) to 6 (the lowest, into the lava). It’s currently on setting 4, making the Upper Walkway about 100 feet above the lava and the lowest level of the Hideout about 40 feet. The notches go in steps of 20 feet up or down (meaning setting 6 has the walkway 60 feet above and the Hideout 0 feet). The lever to mess with the settings is down two levels in the Hideout, in a large room marked in [[Old Duer]] “CHAIN CONTROL ROOM”. Being as the mechanism is extremely old and rusted, it takes 1 action to rise up or down 2 settings.

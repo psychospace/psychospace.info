@@ -1,0 +1,1 @@
+The **_Kymodokê_** was a [[Great Nortian Empire|Nortian]] [[Airship|Airship]], equipped with a [[Runic engine|runic engine]], captured by the [[Kingdom of Sacred]]. It was later repurposed by the [[S4]] to embark upon [[Aet'Caldwyn]].

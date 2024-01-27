@@ -1,0 +1,5 @@
+Pronounced “*eh-kyets*”, **Ekaitz** is the [[Angel|angelic]] guide and “godparent” of the entire [[Great Nortian Empire|Nortian]] imperial line. A [[celestial]] who would act as liaison for [[Uforia]], its creator, it appears as a ghostly imprint in a strike of lightning, and occasionally as a storm altogether, both of whose bolts will be shift sky blue. As a member of the [[Temple of the Uforiad|Uforiad]], it is called “Dream of Shields”.
+
+There was latent power in Uforia’s lightning breath, a tool intended to (but she could not use to) defend herself. As Uforia dreamed of [[Dizforia|horrors]] that would be committed to attain its power, this “tool” manifested into Ekaitz. 
+
+Ekaitz eventually joined with [[Valerian]] (and all subsequent members of the imperial line) as a *[[Fylgja|fylgja]]*, enabling the ability for the empire to form.

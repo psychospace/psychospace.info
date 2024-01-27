@@ -1,0 +1,1 @@
+A type of [[Undead]] spawned when a body of a [[Witchcraft|warlock]] returns to life with a fragment of its patron still inside it, essentially severing parts of an entity and stranding them.

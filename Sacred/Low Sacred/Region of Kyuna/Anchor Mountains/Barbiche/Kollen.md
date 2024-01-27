@@ -1,0 +1,3 @@
+**Kollen** is a [[satyr]] from [[Barbiche]].
+
+The grumbling mine boss whose family constructed the house over the channel bridge just inside the cave that gates access to the mountain peak. That family is rumored to be the origin point of the Champion legend, and for this reason he may be a relative to Kessah, although this history is so old that it no longer has any who recall it. Has a voice to die for and is said to be a party monster because of it. Easily coerced to open the path to the mountain’s peak with a good bit of booze. Father to Baser and Jawme.

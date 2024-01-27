@@ -1,0 +1,1 @@
+The house of the **Integra family**, where [[Kazumi Integra]] and [[Maccus Integra]] live, is an old guard tower from the old Holy Port Wall in the [[Walljay Quarter]], also acting as his parents' business and laboratory.

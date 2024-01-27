@@ -1,0 +1,1 @@
+Reapvale is a minor town in the [[Kingdom of Sacred]]. Located on the outskirts of the [[Sorbet Islands]], the town is known for its association with the worship of [[Death]] as a domain.

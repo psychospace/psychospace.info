@@ -1,0 +1,1 @@
+The **University of Anima** is a prominent location of research on the [[Adyu Islands|Adyu Island]] of [[Anima]].

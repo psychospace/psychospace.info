@@ -1,0 +1,3 @@
+*Rex* **Stegos Dino** was a non-binary descendant of a nephew of [[Janen Dino]]. At age 14, he was hurried to the throne of the [[Kingdom of Sacred]] after [[Dakouta Dino]]'s abrupt death with no heirs. He was originally born into the trade of physicians. His partner was [[Coel Vari]].
+
+Their royal officiant was their younger brother, [[Spino Dino]], who took the throne after Stegos abandoned it in [[1034 PT]], fearing an uprising over their poor rulership.

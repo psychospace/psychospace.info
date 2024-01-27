@@ -1,0 +1,31 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "00 - Meta/Templates",
+  "templates_pairs": [
+    [
+      "ordinal_suffix_of",
+      "var j = i % 10,\n        k = i % 100;\n    if (j == 1 && k != 11) {\n        return i + \"st\";\n    }\n    if (j == 2 && k != 12) {\n        return i + \"nd\";\n    }\n    if (j == 3 && k != 13) {\n        return i + \"rd\";\n    }\n    return i + \"th\";"
+    ]
+  ],
+  "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "00 - Scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

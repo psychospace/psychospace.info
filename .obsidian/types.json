@@ -1,0 +1,22 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "onenote-created": "date",
+    "onenote-modified": "date",
+    "factions": "multitext",
+    "ancestry": "multitext",
+    "pronouns": "multitext",
+    "users": "multitext",
+    "issues": "multitext",
+    "location": "multitext",
+    "cssclass": "multitext",
+    "SPOILER": "multitext",
+    "magic": "multitext",
+    "enemies": "multitext",
+    "yr": "number",
+    "century": "text",
+    "allies": "multitext"
+  }
+}

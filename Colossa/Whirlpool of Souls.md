@@ -1,0 +1,1 @@
+The **Whirlpool of Souls** is a feature of the [[Colossal Ocean]]. Located just about over [[Unwri]], the Colossal Ocean experiences a vast array of phemomena to do with [[Soul|souls]].

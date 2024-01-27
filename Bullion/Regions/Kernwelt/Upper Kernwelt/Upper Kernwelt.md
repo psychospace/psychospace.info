@@ -1,0 +1,3 @@
+The **Upper Kernwelt** is a minor geographic region of [[Bullion]]. It consists of high mountain ridges and valleys, which act as a natural barrier and marks the northern boundary between the [[Kernwelt]] and the [[Aed & Maed]].
+
+Beginning in the northwest with the [[Valle Insólito]] and her [[Rio Insólito|river]], the region flows towards the east-south-east direction. [[Philda's Reach]] and the [[Graying Valley]] lie beyond [[Mt. Egiazko]] and the reach of the train tracks, about half a day's walk from [[Ziegfeld Station]]. [[Sinag Massif]] is the largest volcano in the region.

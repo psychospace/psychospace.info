@@ -1,0 +1,1 @@
+The **City of Blure** is the capital city of the [[Ioyon Dynasty of Gears]] in [[Pinwheel]].

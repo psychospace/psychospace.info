@@ -1,0 +1,771 @@
+{
+  "workspaces": {
+    "default": {
+      "main": {
+        "id": "b587b01a47541fbb",
+        "type": "split",
+        "children": [
+          {
+            "id": "b72b122926d62c5a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41f458b49fe193f5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00 - Planning/SBC/Founders/Emygdia Nevarez.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": true
+                  }
+                },
+                "group": "be57ba2c1c737837"
+              }
+            ]
+          },
+          {
+            "id": "a3c01b543fbf45e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a0d62a2f4e1dbd2b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00 - Planning/SBC/Founders/Emygdia Nevarez.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "be57ba2c1c737837"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "697bf646e097c031",
+        "type": "split",
+        "children": [
+          {
+            "id": "8b44aa33018e430f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7df7d72b6557e333",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7b5171bf50e8971b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1d7c38d29e44d31b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "ciro",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 304.5
+      },
+      "right": {
+        "id": "8140255e70affaef",
+        "type": "split",
+        "children": [
+          {
+            "id": "9eac3d4c862aad2a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "822958835108b8bb",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "62ccc6952a6835e3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "00 - Planning/SBC/Founders/Emygdia Nevarez.md"
+                  }
+                }
+              },
+              {
+                "id": "e7ba9a4a4c86d190",
+                "type": "leaf",
+                "state": {
+                  "type": "stats-tracker",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8dc7f2f55da88a6a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "c5540f9997ebe7dc",
+                "type": "leaf",
+                "state": {
+                  "type": "dangling-links",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "18c6be426913821e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "686eb867358f59f6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "00 - Planning/SBC/Founders/Emygdia Nevarez.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "1b395d6c854f27b5",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "00 - Planning/SBC/Founders/Emygdia Nevarez.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 515.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-dangling-links:Show dangling links panel": false,
+          "graph:Open graph view": false,
+          "switcher:Open quick switcher": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "command-palette:Open command palette": false,
+          "random-note:Open random note": false,
+          "markdown-importer:Open format converter": false,
+          "templates:Insert template": false,
+          "smart-random-note:Open Random Note from Search": true,
+          "templater-obsidian:Templater": false,
+          "workspaces:Manage workspace layouts": false,
+          "publish:Publish changes...": false
+        }
+      },
+      "active": "e7ba9a4a4c86d190"
+    },
+    "single-column": {
+      "main": {
+        "id": "b587b01a47541fbb",
+        "type": "split",
+        "children": [
+          {
+            "id": "5d9b18e26c3893f5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "908a2755972e8439",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00 - Meta/⍟ Twin Fantasy.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "be57ba2c1c737837"
+              },
+              {
+                "id": "18dda1fae66111c1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00 - Meta/Templates/Template - Timeline Year.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d8a568b4a5ee07ed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "✼ Stories/⎉ Documents/⎉ Declaration of Project Ephemeris.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "28317270acf86007",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "✼ Lore/Places/Mer de Vide.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4fb5639a04d60703",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Noemite.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "697bf646e097c031",
+        "type": "split",
+        "children": [
+          {
+            "id": "8b44aa33018e430f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7df7d72b6557e333",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7b5171bf50e8971b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1d7c38d29e44d31b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "\"mer de vide\"",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 253.5062484741211
+      },
+      "right": {
+        "id": "8140255e70affaef",
+        "type": "split",
+        "children": [
+          {
+            "id": "9eac3d4c862aad2a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "822958835108b8bb",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "e7ba9a4a4c86d190",
+                "type": "leaf",
+                "state": {
+                  "type": "stats-tracker",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8dc7f2f55da88a6a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "62ccc6952a6835e3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "00 - Meta/⍟ Twin Fantasy.md"
+                  }
+                }
+              },
+              {
+                "id": "0f4cdd986b9656e3",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "00 - Meta/⍟ Twin Fantasy.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": false,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:\"✼ Stories\"  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 2818303
+                          }
+                        },
+                        {
+                          "query": "tag:#remnant OR tag:#government  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16262620
+                          }
+                        },
+                        {
+                          "query": "path:\"✼ Lore\"  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14810880
+                          }
+                        }
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 0.7890625,
+                      "lineSizeMultiplier": 0.6359375,
+                      "collapse-forces": false,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 14.375,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.25883865621816887,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "be57ba2c1c737837"
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "18c6be426913821e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "686eb867358f59f6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "00 - Meta/⍟ Twin Fantasy.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "1b395d6c854f27b5",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "00 - Meta/⍟ Twin Fantasy.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "c5540f9997ebe7dc",
+                "type": "leaf",
+                "state": {
+                  "type": "dangling-links",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "timeline-view:Open timeline view": false,
+          "obsidian-dangling-links:Show dangling links panel": false,
+          "graph:Open graph view": false,
+          "switcher:Open quick switcher": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "command-palette:Open command palette": false,
+          "random-note:Open random note": false,
+          "markdown-importer:Open format converter": false,
+          "templates:Insert template": false,
+          "smart-random-note:Open Random Note from Search": true,
+          "templater-obsidian:Templater": false,
+          "workspaces:Manage workspace layouts": false,
+          "publish:Publish changes...": false
+        }
+      },
+      "active": "908a2755972e8439"
+    },
+    "two-column": {
+      "main": {
+        "id": "b587b01a47541fbb",
+        "type": "split",
+        "children": [
+          {
+            "id": "b72b122926d62c5a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41f458b49fe193f5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "✼ Lore/Magic/Clade/New/Psion.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "be57ba2c1c737837"
+              }
+            ]
+          },
+          {
+            "id": "a3c01b543fbf45e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a0d62a2f4e1dbd2b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "✼ Lore/Magic/Clade/New/Psion.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "be57ba2c1c737837"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "697bf646e097c031",
+        "type": "split",
+        "children": [
+          {
+            "id": "8b44aa33018e430f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7df7d72b6557e333",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7b5171bf50e8971b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1d7c38d29e44d31b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "ciro",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 304.5
+      },
+      "right": {
+        "id": "8140255e70affaef",
+        "type": "split",
+        "children": [
+          {
+            "id": "9eac3d4c862aad2a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "27512e62156e4872",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "✼ Lore/Magic/Clade/New/Psion.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5087618855792597,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "822958835108b8bb",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "62ccc6952a6835e3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "✼ Lore/Magic/Clade/New/Psion.md"
+                  }
+                }
+              },
+              {
+                "id": "e7ba9a4a4c86d190",
+                "type": "leaf",
+                "state": {
+                  "type": "stats-tracker",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8dc7f2f55da88a6a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "c5540f9997ebe7dc",
+                "type": "leaf",
+                "state": {
+                  "type": "dangling-links",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "18c6be426913821e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "686eb867358f59f6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "✼ Lore/Magic/Clade/New/Psion.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "1b395d6c854f27b5",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "✼ Lore/Magic/Clade/New/Psion.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 515.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "timeline-view:Open timeline view": false,
+          "obsidian-dangling-links:Show dangling links panel": false,
+          "graph:Open graph view": false,
+          "switcher:Open quick switcher": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "command-palette:Open command palette": false,
+          "random-note:Open random note": false,
+          "markdown-importer:Open format converter": false,
+          "templates:Insert template": false,
+          "smart-random-note:Open Random Note from Search": true,
+          "templater-obsidian:Templater": false,
+          "workspaces:Manage workspace layouts": false,
+          "publish:Publish changes...": false
+        }
+      },
+      "active": "41f458b49fe193f5"
+    }
+  },
+  "active": "two-column"
+}

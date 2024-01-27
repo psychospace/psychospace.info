@@ -1,0 +1,3 @@
+**Sebya** is an important settlement in [[Mozga-Chelyust]] in [[Yofora]].
+
+Surrounded by dense swamps and abundant native species of flora and fauna, this area went uninhabited for much of modern [[Great Nortian Empire|Nortia]] until the mid-[[10th century]], when a weakness was discovered in the [[Dustwall]] along the“spike” which protrudes out from Chelyust’s coast. Seeking new opportunities for farming and industry, the area was aggressively re-settled.

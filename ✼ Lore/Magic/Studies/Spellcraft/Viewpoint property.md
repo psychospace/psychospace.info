@@ -1,0 +1,20 @@
+---
+tags:
+  - magic
+aliases:
+  - viewpoint
+---
+The **viewpoint property** of [[Magic#cast|cast magic]] is a principle of nature. It is a necessary compromise of [[Compilation]]. 
+# Tenets
+When you interpret the [[Divine Equation|Equation]] to create an arcane spell, or interpret a natural law to create a divine spell, you act from your **perspective** within said Equation. 
+
+Depending on the caster, in other words, the same spell might take slightly different forms based on the “starting point” of that interpretation.
+
+## Commonalities
+Just as souls can be connected [[Soul bond|through blood or shared origin]], so too can magical starting points. As observed by magical students, collaborating on creating spells can result in “origin points” aligning more and more with one another over time, and studying from a specific professor of magic can pull a student towards that common origin. Thus, it is possible to deduce if casters have a common teacher.  ^6ab8a5
+
+## Detriments
+
+This rule is also possible to become a negative aspect of analysis, as it is often related to archaeology. Due to many significant magical and cosmological events, many old spells or pieces of technology which operated relying on stative “viewpoints” no longer function, or can even be made to function from notes of their time. 
+
+For example, an [[Airship]]'s [[Core engine|core engine]] relies upon a common understanding of what a “[[Soul]]” does, and if such a definition has changed since (say, through evolution), cores from that era will no longer function. Such technology must be reinvented, as is the case with things like [[Void Breaker|void breakers]].

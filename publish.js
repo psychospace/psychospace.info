@@ -1,0 +1,1 @@
+document.body.addClass('t-d');

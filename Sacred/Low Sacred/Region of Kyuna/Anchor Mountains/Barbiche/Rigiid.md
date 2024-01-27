@@ -1,0 +1,1 @@
+M, the father of [[Tumshee]] and husband to [[Rinee]], a farmer who retired from guardpost duty after a mountain-lion gave him damage to his leg. Not very popular in the town of [[Barbiche]].

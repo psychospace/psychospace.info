@@ -1,0 +1,3 @@
+Certain [[Spell|spells]] (called "**cruel**" by arcane researchers) are capable of completely absorbing [[Vibe]] and drying up an area, leaving [[Light (property)#Darkness|Darkness]] in their wake for a time. Cruel magic is often described as being intense and difficult to comprehend.
+
+Very rarely are cruel spells identified and taught. However, under certain circumstances, such as when an area is rarely inhabited or has other latent protections, normal spells can become cruel by a direct result.

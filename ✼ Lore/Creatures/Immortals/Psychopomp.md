@@ -1,0 +1,5 @@
+A **psychopomp** is a [[monitor]] who aids [[Exponen]] in facilitating the judgement of the [[Death|dead]]. They are native to the [[Scarlet Skies]], especially [[Unwri]].
+
+Granted a divine insight by the after-effects of [[The Gathering]], psychopomps have earned their portentious name through an ability to cut through [[Psychospace]]'s existing buffers and deliver, protect, execute, and otherwise enforce fate. 
+
+Many kinds of psychopomp exist for the many aspects of death as a complex emotional and existential law of reality, facilitating comforting and destructive roles. In the end, all psychopomp roles are for the mission of keeping the dead calm and cared for. Even a [[Petitioner]] can find themselves toiling as one should they commit themselves to the prospect. The most powerful judges are known as the [[yamaraj|yamarajes]], effectively [[Dragon|dragons]] who have committed themselves entirely to the divine.

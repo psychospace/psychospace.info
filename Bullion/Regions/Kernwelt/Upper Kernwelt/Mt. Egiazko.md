@@ -1,0 +1,1 @@
+**Mt. Egiazko** is a high mountain in the [[Upper Kernwelt]], bordering on the [[Graying Valley]].

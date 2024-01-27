@@ -1,0 +1,5 @@
+**Raldena** is an abandoned mining town nearby to [[Regina]] on the [[Regina Steppe]], in the [[Emirate of Qaulhain]]. It sat upon the side of [[Mount Lavas]].
+
+For many years, the mines of Raldena produced a economically-stable amount of coal, [[Silver piece|silver]], and other materials. However, in [[1244 PT]], the cave system began to burn, and the pine forests around the town went up with it, destroying much of the town which existed beforehand. The town, subsequently, was abandoned.
+
+By the time of [[1249 PT]], the town had become something of a local legend, with all of its inhabitants apparently moved out. The smoke and smog was still choking and required protection. When the [[Mass-Resurrection Incident]] occurred, or around that time, the smog grew to encompass the whole mountain. This became a point of inquiry of the local [[Chirologist|chirologists]].

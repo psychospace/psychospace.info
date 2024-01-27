@@ -1,0 +1,1 @@
+**Fukushiza Kamikatsu** was a feudal trade prince from [[Archipel]] who offered a large fleet of ships and skilled labor, and generally helped finance [[Kingdom of Sacred|Sacred]]'s elements of the [[War of the Masters]] so long as Kami got some islands to control.

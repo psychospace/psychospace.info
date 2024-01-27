@@ -1,0 +1,1 @@
+**Mozga-Chelyust** is the north oblast of the [[Yofora|Yoforan]] mainland in [[Great Nortian Empire|Nortia]]. The northwest section is called *Chelyust* (“jaw”, for its bent inner peninsula resembling a mouth) while its northeast portion is called *Mozga* (“brain”, for its spinal appearance).

@@ -23,4 +23,6 @@ Something is about to go terribly wrong.
 
 # Legal
 Psychospace: Second Contact is not an official Lancer product; it is a third party work, and is not affiliated with Massif Press. Psychospace: Second Contact is published via the Lancer Third Party License.
+
 *Lancer* is copyright Massif Press.
+![[00 - Meta/Images/Legal/powered-by-lancer.png]]

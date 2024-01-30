@@ -18,7 +18,7 @@ The **unwelcome presence** (colloquially “**the Signal**” or “*the strange
 It appears to have a mind of its own, and its origin is unknown. It is theorized to be either the creation of an [[Outsider|Outsider]], or an Old One itself, connected with [[the Fortress]].
 
 # Manifestations
->[!quote | subtitle] Linguistic patterning *example of a secondary manifestation of [[The Signal|the signal]]*
+>[!quote | author subtitle] Linguistic patterning *example of a secondary manifestation of [[The Signal|the signal]]*
 ><small>"The judicator. The storm brewing in your cup. The one without the two. They kept telling the client that I'd keep my client. Brother to sister, man to man. Dead and not alive. The client continued to wake. Material, shape, a canal without lightning. You've always been the way you've never been. Collaboration is the death of collaboration. Fear her. Two days later I went to bed in his tower, and he was never heard from again. Two days later there was a new body."</small>
 
 

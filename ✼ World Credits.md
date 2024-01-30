@@ -7,28 +7,40 @@ tags:
   - meta
 ---
 ![[⎋ Real-World]]
->[!aside | right] 
+>[!aside | right]-
 >#### Copyright Notice
 >For any queries about the content of this wiki, licensing, or copyright, please email [jan@psychospace.info](mailto:jan@psychospace.info). 
 
-[[The Heavens]] has been contributed to by many people. Their names are enshrined here.
+[[✼ Psychospace.info]] is the product of many people's efforts. Their names are enshrined here.  
 
-
+If you wish to financially support the development of this world, ==please consider donating to [Ko-fi](https://ko-fi.com/psychospace)==. 
 ---
-*This page was last updated on January 23rd, 2023.*
+Everything helps immensely, towards commissioning art, keeping the lights on, and keeping my body breathing. Thank you for your consideration.
+
+*This page was last updated on January 29th, 2023.*
 
 
 # Author & Curator
-**January April November** (*she/her*) is an author, game developer, and weirdo who is the original creator, primary writer, and curator of the absolute-nonsense paracosm that is [[The Heavens]]. She is the Gamemaster behind [[⍟ Magical Mystery Tour]], [[⍟ Extra Innings]], and [[⍟ Twin Fantasy]].
+**January April November** (*she/her*) is an author, game developer, and weirdo who is the original creator, primary writer, and curator of the absolute-nonsense paracosm that is [[The Heavens]]. If a page isn't listed in the [[#Contributors]] list.
 
-If you wish to support the development of this world, ==please consider donating to [Ko-fi](https://ko-fi.com/psychospace)==.
+She is the Gamemaster behind [[⍟ Magical Mystery Tour]], [[⍟ Extra Innings]], and [[⍟ Twin Fantasy]].
 
+# Contributors
 
+ Though I can't assure every contributor is compensated, contributions are credited accordingly below.
 
-# Players *(alphabetically sorted)*
+## Authors
+The following users have graciously dedicated their time to working on this wiki. Some have authored pages entirely and contributed them, while others have offered edits which improve the experience. I appreciate the work of all volunteers.
+
+>[!|ttl-l no-i clean]- CombustibleToast
+>- [[Silver (XI)]]
+>- [[Draccor]]
+>- [[Brisl]]
+
+## Players
 As players in tabletop roleplaying, they are as much contributors to the world and how it ends up taking shape as any. The players are listed below along with the characters they control/controlled.
 
-Players contribute to this world by adding detail and character to unilluminated parts of it.
+Players also contribute to this world by adding detail and character to unilluminated parts of it, sometimes directly, and sometimes indirectly.
 
 >[!table|no-i]
 >| Player | Characters | Roleplays |
@@ -53,31 +65,44 @@ Players contribute to this world by adding detail and character to unilluminated
 | Veronica <br>*"ArcaneDreamer"* | [[Serratura Neeman]] | [[⍟ Magical Mystery Tour]]
 | Victoria <br>*"skaialark"* | [[TRUE NAME (12-242)\|TRUE NAME]]<br>[[million-dollar]] | [[⍟ Extra Innings]]<br>[[⍟⛒ Second Contact]]
 
-## Pre-MMT
-Multiple characters originated from before the world itself existed. Credit is owed to all of the players of *Graffiti & Golems*, who inspired the characters, stories, and backstories of [[Critical Hit]].
+### Pre-MMT
+Multiple concepts originated from before the world itself existed. 
 
-Credit is also owed to the people who played in *Glory to Nascia*, who inspired [[The Unfortunate]], and the people who bore with me in *Flight of the Knife*, who inspired [[Special Task Force Undergarden]].
+Credit is owed to:
+- all of the players of *Graffiti & Golems*
+    - which inspired the characters, stories, and backstories of [[Critical Hit]]
+- the people who played in *Glory to Nascia*
+    - which inspired [[The Unfortunate]]
+- and the people who bore with me in *Flight of the Knife*
+    - which inspired [[Special Task Force Undergarden]].
 
 Had I never had each of those experiences, I would not be the writer I am today. From the bottom of my heart, thank you.
-# Artists
-* [tinykitten1708](https://twitter.com/tiny_1708) 
+## Artists
+*All artists whose work is reproduced here have been rightfully compensated for their work.*
+
+* [tinykitten1708](https://twitter.com/tiny_1708)  ^f432ac
 	* [[Trobairitz]] and [[Certain (evangel)|Certain]]
-* [root_circuit](https://www.tumblr.com/rootcircuit)
+* [root_circuit](https://www.tumblr.com/rootcircuit) ^39db75
 	* [[Hazel Sobol|Hazel Sobol]]
 	* [[Serena Nortia]]
 	* [[Chiave Neeman]]
 	* [[Lethal]]
 	* [[Ikabod Caruso]]
 	* [[Shohei Integra]]
+	* [[Linnaeus Dino]] (dragonic, initial)
 	* and all the members of the [[S4]], except for Even Baxly
-* [cosmic_novas](https://cosmic-novas.carrd.co/) 
+* [cosmic_novas](https://cosmic-novas.carrd.co/)  ^21f7bd
 	* [[Mistral Taylor Burgitsk]]
-	* Cured Linnaeus
-* [forbiddentaako](https://forbiddentaako.tumblr.com/)
-	* The [[mmt_poster.jpeg|poster]] for [[⍟ Magical Mystery Tour]]
-	* Dragonic Linnaeus
-	* [[Illarion Parasom]]
-	* Bianca / Scarla
+	* [[Zero Day]], [[Sky-scrape]], and [[Crest of Conception]]
+	* [[Linnaeus Dino]] (cured)
+* [forbiddentaako](https://forbiddentaako.tumblr.com/) ^4926d3
+	* [[mmt_poster.jpeg|Poster]] for [[⍟ Magical Mystery Tour]]
+	* MMT's final bosses:
+    * [[Linnaeus Dino]] (dragonic, final)
+    * [[Illarion Parasom]]
+    * [[Bianca Nortia]] / [[Scarla Nitrum]]
+* [mollystars](https://mollystars.neocities.org/)
+    * [[Tailed Stranger]] (art & visual design)
 * [CombustibleToast](https://combustibletoast.itch.io/)
 	* [[Homecoming]]'s 3D model
 
@@ -85,10 +110,10 @@ Had I never had each of those experiences, I would not be the writer I am today.
 ## Software
 * [watabou](https://watabou.github.io/), as well as the [Wonderdraft](https://www.wonderdraft.net/) team
 	* for creating many useful tools used in map generation and creation
-* [Foundry](https://foundryvtt.com/)
+* [Foundry](https://foundryvtt.com/), especially its module development community
 	* for facilitating much of the roleplay which led to today
-* [SIRvb](https://publish.obsidian.md/slrvb-docs/ITS+Theme/ITS+Theme)
-	* for creating ITS Theme, the theme this site uses
+* [SIRvb](https://ko-fi.com/slrvb)
+	* for creating [ITS Theme](https://publish.obsidian.md/slrvb-docs/ITS+Theme/ITS+Theme), the theme this site uses
 * [Obsidian](https://obsidian.md/)
 	* for hosting this wiki and for infinite other things
 

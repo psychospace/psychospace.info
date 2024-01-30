@@ -18,7 +18,7 @@ pronouns:
 >>[!caption] 
 >>![[image_trobicerty.png]]
 >>Pictured right.
->>[[✼ World Credits|(Credits)]]
+>>Art by [[✼ World Credits#^f432ac|tinykitten1708]].
 >#### General Information
 >| | |
 >| --- | --- |

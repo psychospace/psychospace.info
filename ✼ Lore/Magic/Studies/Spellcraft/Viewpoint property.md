@@ -15,6 +15,6 @@ Just as souls can be connected [[Soul bond|through blood or shared origin]], so 
 
 ## Detriments
 
-This rule is also possible to become a negative aspect of analysis, as it is often related to archaeology. Due to many significant magical and cosmological events, many old spells or pieces of technology which operated relying on stative “viewpoints” no longer function, or can even be made to function from notes of their time. 
+Due to many significant magical and cosmological events, many antiquated spells or pieces of technology operating on stative “viewpoints” no longer function, or can even be made to function from notes of their time. In other words, [[time|times]] change, and can disrupt existing knowledge on that alone.
 
 For example, an [[Airship]]'s [[Core engine|core engine]] relies upon a common understanding of what a “[[Soul]]” does, and if such a definition has changed since (say, through evolution), cores from that era will no longer function. Such technology must be reinvented, as is the case with things like [[Void Breaker|void breakers]].

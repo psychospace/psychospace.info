@@ -8,4 +8,4 @@ The Manteians are also sometimes called *Alect Corpsmen / Corpswomen,* and their
 
 %%The [[Single-Brain Cell/|SBC]] call them and the Keepers collectively “Eggheads”.
 
-As of [[1285 PT]], the High Manteians include [[Clara Bordeaux]], [[Lenore Arviel]], [[Eudico Fenske]], and Al.%%
+As of [[1285 PT]], the High Manteians include [[Al Bordeaux]], [[Lenore Arviel]], [[Eudico Fenske]], and Al.%%

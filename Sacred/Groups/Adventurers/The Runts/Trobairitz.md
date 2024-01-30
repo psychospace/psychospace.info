@@ -14,16 +14,19 @@ issues:
   - rewrite
 campaign: "[[⍟ Magical Mystery Tour]]"
 ---
+>[!infobox | wikipedia right]+
+># Trobairitz
+>>[!caption] 
+>>![[image_trobicerty.png]]
+>>Pictured left.
+>>Art by [[✼ World Credits#^f432ac|tinykitten1708]].
 
 A genderfluid poet, **Trobairitz** or **Trobi** is a [[Wizardry|wizard]] jackalwere who was once servant to [[Ikabod Caruso]] in [[Rainbow Ridge]] under the name Santo. 
 
-*Pictured left (commissioned from [tinykitten1708](https://twitter.com/tiny_1708))*
-
-![[image_trobicerty.png| right wsmall]]
 
 In combat, he wields a [[Broom of stars]], a powerful magic staff once used by the Sacred Royal Custodians, which grants him access to a number of fiery spells for both utility in cleaning up messes and security in beating back his foes.
 
-The name "Trobairitz" comes from the old [[Sylvan]] word for "troubadour", or more literally"wandering composer". It has a femme connotation.
+The name "Trobairitz" comes from the old [[Sylvan]] word for "troubadour", or more literally "wandering composer". It has a femme connotation.
 
 # History
 

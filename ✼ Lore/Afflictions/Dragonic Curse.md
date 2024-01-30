@@ -1,7 +1,16 @@
 ---
-tag: magic
+tags:
+  - magic
+cover: '"00 - Meta/Images/img_lin_dragon.png"'
+description: Manifestation of the grudge of Arahabaki and Arizhmiya, the Dragonic Curse was a long-standing plague on the crown of the Kingdom of Sacred.
 ---
-Manifestation of the grudge of [[Arahabaki]] and [[Arizhmiya]], the **Dragonic Curse** was a long-standing plague on the crown of the [[Kingdom of Sacred]]. It was cured in [[1251 PT]]. ^a18b0b
+>[!infobox|right wmed]
+>>[!caption| center]
+>>![[img_lin_dragon.png]]
+>>Prince [[Linnaeus Dino|Linnaeus]] as a dragonic whillo.<br> Art by [[✼ World Credits#^4926d3|forbiddentaako]].
+^3c6376
+
+Manifestation of the grudge of [[Arahabaki]] and [[Arizhmiya]], the **Dragonic Curse** was a long-standing plague on the crown of the [[Kingdom of Sacred]]. It was cured in [[1251 PT]] on [[Zero Day]]. ^a18b0b
 
 # History
 The hatred which [[Arizhmiya|Lagacia]] felt for [[Anti]], which had stolen its "endpoint" by making it [[immortal]], metastasized into the power of [[occultation]], the ability to "stop" the [[Time|future]]. Over time, this hatred, which caused Arizhmiya to shatter its body and forgo its former name, burrowed itself into the [[blackflame]], which it would use to [[Breaking of Sacred|break Sacred]].

@@ -1,6 +1,6 @@
 ---
 cssclasses:
-  - readable
+  - funny-effect
 tags:
   - roleplay
   - AU/lancer
@@ -19,8 +19,7 @@ The appearance of the Sea, termed DSA-40975, was quickly investigated as an anom
  
 With the state of relations between Union and DSA-40975 quickly falling apart, a squadron of elite mech pilots known as Lancers, consisting of [[million-dollar]], [[MechaMondayz]], [[Warden (SC)|Warden]], [[Wretch (SC)|Wretch]], and [[Kitty-Regent]], are dispatched from the *[[Draccor]]* to the *Atlantea* to fuel her up and make for atmospheric escape, but quickly find more than they bargained for: a [[dragon]] tearing the *Draccor* apart on deployment.
 
-Something is about to go terribly wrong.
-
+Something is about to go terribly <span style="animation: distort-subtle 5s infinite;">wrong</span>.
 # Legal
 Psychospace: Second Contact is not an official Lancer product; it is a third party work, and is not affiliated with Massif Press. Psychospace: Second Contact is published via the Lancer Third Party License.
 

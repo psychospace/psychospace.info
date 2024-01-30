@@ -7,7 +7,7 @@ pronouns:
 ---
 **Brisl** is a 26 (objective) year old person who works as the sortie operator aboard the [[Draccor]]. 
 # History
-Brisl is from a once-isolated world with extreme conditions. They, however, were not born there, and instead aboard a Union refugee ship. She lived out most of her life on [[Mars]], where she grew up deep in Union controlled space.
+Brisl is from a once-isolated world with extreme conditions. However, they grew up aboard a [[Union]] ship, and lived out most of their life on [[Mars]] deep in Union space.
 ## Current Affairs
 Brisl works as the sortie operator aboard the [[Draccor]], though the ship has been destroyed and their whereabouts and fate are currently unknown. 
 # Personality

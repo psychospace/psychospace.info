@@ -11,7 +11,7 @@ A significant enough [[Reality-Bending|reality-bend]] results in what is known a
 Altercations result in colossal, unpredictable, and unplanned errors, especially to the cause, even further beyond the bend that caused them. Repeated, consistent altercations create [[Haze]], a factor which preaches the caution one must take when tangling with [[New Magic|new-magic]].
 
 Some examples of an altercation's effects include:
-* Time travel, for the effect and/or the caster
+* [[Time travel]], for the effect and/or the caster
 * A random, catastrophic [[Tribute]] cost
 * An error or adjustment in [[Logic]]
 * At worst, an altercation might [[Collapse state|end the entire world]].

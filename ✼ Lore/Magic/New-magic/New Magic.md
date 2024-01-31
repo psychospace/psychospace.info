@@ -16,7 +16,7 @@ description: New magic is the term given to a roughly-categorical systemic chang
 It is categorically different from current understandings of "book [[Magic|magic]]" that existed before it and exists alongside it. 
 
 # Properties
->[!quote] Unknown witch
+>[!quote | author] Unknown witch
 >"*They* call it new. But it's only ‘new’ if you haven't been paying attention. It’s only ‘new’ to people like the scanners, only ‘new’ because now they got a name for the movement. Only ‘new’, cuz the ‘old’ has decided it has a problem with it."
 
 Derived from indistinct entities or systemic alterations, such as [[The Signal|the signal]], new magic scrapes the potential of the [[divinity]], and is thus on a baseline more uncontrolled and wild than usual magic. Specifically, there is a requirement that some level of [[reality-bending]] without the necessity of [[Spell|spells]] occurs under its use. 

@@ -17,8 +17,8 @@ cssclasses:
 ![[Year (unit)#^114bc9]]
 
 >[!caption|sban]
-![[mmt_poster.jpeg|banner+tall p+ctcc]]
-[[mmt_poster.jpeg|Poster]] by *forbiddentaako*
+![[img_mmt_poster.jpeg|banner+tall p+ctcc]]
+[[img_mmt_poster.jpeg|Poster]] by *[[✼ World Credits#^4926d3|forbiddentaako]].*
 
 >[!info|clean no-title] 
 ># What is this world?

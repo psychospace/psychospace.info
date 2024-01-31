@@ -7,7 +7,7 @@ description: Magical Mystery Tour was the first campaign set in the Heavens, con
 ![[⎋ Real-World]]
 
 >[!caption | right] 
->![[mmt_poster.jpeg|wmedium]] Poster created by [[✼ World Credits|forbiddentaako]]
+>![[img_mmt_poster.jpeg|wmedium]] Poster created by [[✼ World Credits|forbiddentaako]]
 
 ***Magical Mystery Tour***, also known as **MMT** or "**Campaign 1**", is a campaign in D&D5e which began in January, 2020, and has continued until present day. It is Game Mastered by January November. 
 

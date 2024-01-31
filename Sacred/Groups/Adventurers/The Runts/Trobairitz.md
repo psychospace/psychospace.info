@@ -17,7 +17,7 @@ campaign: "[[⍟ Magical Mystery Tour]]"
 >[!infobox | wikipedia right]+
 ># Trobairitz
 >>[!caption] 
->>![[image_trobicerty.png]]
+>>![[img_trobicerty.png]]
 >>Pictured left.
 >>Art by [[✼ World Credits#^f432ac|tinykitten1708]].
 

@@ -16,7 +16,7 @@ pronouns:
 ># Certain
 >## SKULD
 >>[!caption] 
->>![[image_trobicerty.png]]
+>>![[img_trobicerty.png]]
 >>Pictured right.
 >>Art by [[✼ World Credits#^f432ac|tinykitten1708]].
 >#### General Information

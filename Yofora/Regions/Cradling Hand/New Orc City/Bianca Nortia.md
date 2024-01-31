@@ -2,6 +2,12 @@
 onenote-created: 2019-12-26 13:03:03 -0500
 onenote-modified: 2021-10-29 00:02:53 -0400
 ---
+>[!infobox|right]
+># Bianca Arize Mezeyad Nortia
+>## Бьянка Аризе Мезеяд Нортиа
+>>[!caption]
+>>![[img_biancascarla.png]]
+>>Bianca Nortia's body, possessed by [[Scarla Nitrum]]. *Art by [[✼ World Credits#^4926d3|forbiddentaako]].*
 
 **Bianca Arize Mezeyad Nortia**^[Бьянка Аризе Мезеяд Нортиа] was the [[aasimar]] empress of the [[Great Nortian Empire]]. The mother of [[Serena Nortia|Serena]], [[Iosif Nortia|Iosif]], [[Leonid Nortia|Leonid]], and [[Lidiya Nortia|Lidiya]], she was known for her magical prowess, leading her country through the dangers of the late [[War of the Masters]].
 

@@ -14,7 +14,7 @@ description: The Tailed Stranger was a mysterious omen who appeared to the S4 on
 ># Unknown
 >>[!caption]
 >>![[img_stranger.png]]
->>Art and design by [[✼ World Credits|mollystars]].
+>>Art and design by [[✼ World Credits#^a4d4bd|mollystars]].
 
 The **tailed stranger** was a mysterious presence, claiming to be an [[omen]], which appeared during the final moments of [[Zero Day]] to the [[S4]]. Its[^1] true identity is unknown.
 

@@ -12,7 +12,7 @@ pronouns:
   - he-him
 campaign: "[[⍟ Magical Mystery Tour]]"
 ---
->[!infobox|right wikipedia ws-med]
+>[!infobox|right wikipedia ws-med]+
 ># Linnaeus Mi Invict Dino
 >>[!caption|center]
 >>![[img_lin_cured.png]]

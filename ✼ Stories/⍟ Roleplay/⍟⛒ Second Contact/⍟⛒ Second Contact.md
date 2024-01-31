@@ -1,9 +1,12 @@
 ---
-cssclasses: []
+cssclasses: 
 tags:
   - roleplay
   - AU/lancer
 permalink: au/2c
+aliases:
+  - 2C
+  - Second Contact
 ---
 
 ![[⎋ Secondary Canon]] ![[⎋ Real-World]]

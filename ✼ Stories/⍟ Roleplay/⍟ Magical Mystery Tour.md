@@ -3,6 +3,9 @@ tags:
   - roleplay
 permalink: mmt
 description: Magical Mystery Tour was the first campaign set in the Heavens, concerning the S4 and their attempt to rescue the kidnapped Prince of Sacred.
+aliases:
+  - Magical Mystery Tour
+  - MMT
 ---
 ![[⎋ Real-World]]
 

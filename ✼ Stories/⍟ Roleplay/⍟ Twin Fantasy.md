@@ -4,6 +4,9 @@ tags:
 permalink: 2f
 cssclasses:
   - readable
+aliases:
+  - 2F
+  - Twin Fantasy
 ---
 ![[⎋ 2FPG]]
 ![[⎋ Real-World]]

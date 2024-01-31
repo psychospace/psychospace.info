@@ -33,6 +33,6 @@ cssclasses:
 
 ---
 # What even IS psychospace?
-![[Psychospace | no-foot]]
+>![[Psychospace | no-foot]]
 
 [^huh?]:  "<b>High-magic</b>" — [[magic|magic]] is highly prevalent in the natural order of the setting. "**Fantasypunk**"  — the setting has a strong fusion of fantastical sword-and-[[sorcery]] elements alongside steampunk and dieselpunk late-19th-century aesthetics, tech, and sensibilities, without a clear delineation between the two. Think "most *Final Fantasy* settings" and you've got the right idea.

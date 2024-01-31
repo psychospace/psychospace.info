@@ -30,7 +30,7 @@ Through contact with a possibility-field, such as a [[Gift (witchcraft)|Gift]], 
 
 Incredibly rarely, if ever, have entities from [[the Heavens]] been able to travel to an alternate worldline, except [[elseworld]], as the cycle of souls through [[reincarnation]] keeps them anchored to the Divine Equation. 
 
-During travels of [[Ith'Paraan|Ith'Par]] [[Void breaker|void breakers]], lore of theirs reported being subject to alternate "rules" and so alternate logic when traveling to different star systems.
+During travels of [[Ith'Paraan|Ith'Par]] [[Void breaker|void breakers]], lore of theirs reported being subject to alternate "rules" and so alternate logic when traveling to different [[Manifold Seas|manifold seas]].
 
 Certain entities, since the rise of [[new magic]], have been reportedly [[Collapse state#Ark effect|escapees]] of collapsed worldlines, though such worldlines have thus far gone unobserved by researchers.
 

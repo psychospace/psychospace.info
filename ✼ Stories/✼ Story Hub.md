@@ -48,7 +48,7 @@ Stories in **mythology** are in-universe historical texts, often cited within th
 * [[◍ Roots of the Remaking]] - Details the gods' relationship with [[Chaos]].
 * [[◍ Apocryphal Passage - Azure Sky]] - A passage from the [[Apocrypha of Winds]].
 
-# AUs
+# ⛒ Alternate Canons
 ![[⎋ Secondary Canon|no-link]]
 Stories in **AUs** or marked with the AU symbol take place outside of primary canon.
 

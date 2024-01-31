@@ -21,7 +21,7 @@ Everything helps immensely, towards commissioning art, keeping the lights on, an
 
 
 # Author & Curator
-**January April November** (*she/her*) is an author, game developer, and weirdo who is the original creator, primary writer, and curator of the absolute-nonsense paracosm that is [[The Heavens]]. If a page isn't listed in the [[#Contributors]] list.
+**January April November** (*ae/aer*, *she/her*) is an author, game developer, and weirdo who is the original creator, primary writer, and curator of the absolute-nonsense paracosm that is [[The Heavens]]. If a page isn't listed in the [[#Contributors]] list, ae probably made it.
 
 She is the Gamemaster behind [[⍟ Magical Mystery Tour]], [[⍟ Extra Innings]], and [[⍟ Twin Fantasy]].
 

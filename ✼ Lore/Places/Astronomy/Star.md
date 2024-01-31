@@ -1,4 +1,4 @@
-*Not to be confused with a [[Power star|power star]].*
+>[!question|ttl-c bg-c-blue] Not to be confused with a [[Power star|power star]].
 
 A **star** is a celestial object comprised of a [spheroid of plasma](https://en.wikipedia.org/wiki/Star) held together with a self-[[Gravity|gravitational]] force. Their interactions bind together [galaxies](https://en.wikipedia.org/wiki/Galaxy). Stars are believed to be impressive beacons of the [[Manifold Seas]], as isolated influences of  [[Out There|the Out There]].
 

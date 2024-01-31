@@ -3,11 +3,11 @@ aliases:
   - reincarnate
   - rebirth
 ---
+>[!question|ttl-c bg-c-blue] Not to be confused with [[resurrection]] or [[necromancy]].
+
 **Reincarnation** is a powerful natural process, whereby [[Soul|souls]] (usually [[Death|deceased]]) are recycled and granted new [[Creature|life]] distinct from the ended life. It is also an intrigue of [[magic]].
 
 In the process of reincarnation, in almost all cases, knowledge of any past lives will not be accessible or relevant to the new life.
-
-*Not to be confused with [[Resurrection]] or [[Necromancy]].*
 
 # Precedence
 ## Natural reincarnation

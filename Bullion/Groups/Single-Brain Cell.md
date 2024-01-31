@@ -16,10 +16,10 @@ allies:
 
 An occult circle of like-minded troublemakers and artificers, centered on [[Broadcaster|Broadcasters]] of various talent, jokingly self-identified as the ***Single-Brain Cell***, or “*One-Brace*” for short, referred to as "*the project*", has emerged as a group of note in [[Bullion]] in the last four years (as of [[1285 PT]]).
 
-Known to be bonded telepathically and through several items, One-Brace was originally believed to be part of alchemical trafficking, but is now known for creating many dead-ends in the [[The Shibboleth|Shibb]]-wide hunt for the [[Lynchpin Device|lynchpin devices]], through complex pranks, [[Reality-Bending|reality-twitching]] enchantments, false [[Antique|antiques]], and catastrophic schemes. 
+Known to be bonded telepathically and through several items, One-Brace was originally believed to be part of alchemical trafficking, but is now known for creating many dead-ends in the [[The Shibboleth|Shibb]]-wide hunt for the [[Lynchpin Device|lynchpin devices]], through complex pranks, [[Reality-Bending|reality-twitching]] enchantments, [[Antique#False antiques|false antiques]], and catastrophic schemes. 
 
 # Ideology
->[!quote | author] anonymous message published by the [[Tonapoulis Gazette]]
+>[!quote | author] anonymous member, anecdote published by the [[Tonapoulis Gazette]]
 >They want us to fight fair. But this ain't a fight worth fightin' fair.
 
 They seem to be a group of powerful, if mentally dubious, but otherwise normal teenagers and young-adults from throughout [[Bullion]]. Based on the variety of actions they've taken responsibility for, their actions are persistently in protest for the Shibboleth's actions regarding [[new magic]].

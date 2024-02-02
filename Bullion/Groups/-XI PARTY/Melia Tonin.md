@@ -13,7 +13,7 @@ Dr. **Melia "Mellie" Tonin** is an acclaimed [[Owohain|Owoi]] [[Kitsune|kitsune]
 
 # History
 
-Melia was born near to the end of [[1217 PT]] to [[Cera Tonin]]%% and Dakota Hazelwick%%.
+Melia was born near to the end of [[1217 PT]] to [[Cera Tonin]].
 
 Melia trained in chirurgery at the [[Third Institute]]. 
 

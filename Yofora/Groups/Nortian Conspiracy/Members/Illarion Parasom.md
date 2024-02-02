@@ -16,7 +16,7 @@ SPOILER:
 >## Илларион Парасом
 >>[!caption]  
 >>![[img_illarion.png]]
->>Illarion in the [[Nail of Nortia]] clocktower room. *[[✼ World Credits|(Credits)]]*
+>>Illarion in the [[Nail of Nortia]] clocktower room. *Art by [[✼ World Credits#^4926d3|forbiddentaako]].*
 
 **Illarion Parasom** was the disgraced [[Lord of Law]] of the [[Great Nortian Empire]] from [[1214 PT]] to [[1251 PT]]. A noble of [[House Parasom]], they masterminded the [[Nortian Conspiracy]], which usurped the government and caused the [[Dragonic War]].
 

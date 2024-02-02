@@ -3,7 +3,7 @@ onenote-created: 2020-02-09 16:47:58 -0500
 onenote-modified: 2022-01-23 16:53:49 -0500
 ---
 
-A [[Illithid|mind flayer]] who has made her humble home in a mountainside nearby [[Miraclesfield]], threatening those who encroach while simultaneously creating a mythical vibe about herself. In her heart of hearts, she is a kind person, originally whatever the equivalent of a Illithid conscientious objector would be.
+**Noella** is a [[Illithid|mind flayer]] who has made her humble home in a mountainside nearby [[Miraclesfield]], threatening those who encroach while simultaneously creating a mythical vibe about herself. In her heart of hearts, she is a kind person, originally whatever the equivalent of a Illithid conscientious objector would be.
 
 She adopted [[Medu]] from a young age and taught her how to cast magic and hunt for herself. She has also sometimes adopted (mostly illicitly) other orphans from the street to similar effect.
 

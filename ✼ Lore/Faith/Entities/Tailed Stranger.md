@@ -14,7 +14,7 @@ description: The Tailed Stranger was a mysterious omen who appeared to the S4 on
 ># Unknown
 >>[!caption]
 >>![[img_stranger.png]]
->>Art and design by [[✼ World Credits|mollystars]].
+>>Art and design by [[✼ World Credits#^a4d4bd|mollystars]].
 
 The **tailed stranger** was a mysterious presence, claiming to be an [[omen]], which appeared during the final moments of [[Zero Day]] to the [[S4]]. Its[^1] true identity is unknown.
 
@@ -50,4 +50,4 @@ It was theorized by the investigation this possibility emerging may have somethi
 [^1]: From an out-of-universe [[⎋ Real-World|meta perspective]], the stranger is referred to with singular it/its/itself pronouns for the purposes of clarity. In-universe, the stranger did not self-reference with any pronouns, nor could the stranger's gender be determined; the stranger also intermittently referred to itself in the plural sense.
 [^2]: Given the brevity of its appearance, and the freezing of time, the stranger could not be questioned on any details of these elements.
 [^3]: Likely [[Serena Nortia]].
-[^4]: A similar self-consistency or self-existence principle is the [[Syncretist|syncretic]] component of the story of [[Amakudari-no-Mikoto]], whose [[Amakudari's phantom|phantom]] warned itself not to return to the planet: which itself defied, leading to its phantom's travel, and so on. 
+[^4]: A similar self-consistency or self-existence principle is the [[Syncretism|syncretic]] component of the story of [[Amakudari-no-Mikoto]], whose [[Amakudari's phantom|phantom]] warned itself not to return to the planet: which itself defied, leading to its phantom's travel, and so on. 

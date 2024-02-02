@@ -1,7 +1,7 @@
 ---
 tag: anc/figment/eidolon
 ---
-*Not to be confused with "personal eidolons" known as [[Origo]].*
+>[!question|ttl-c bg-c-blue]  For "personal eidolons",  see [[origo]].
 
 ---
 **Eidolons** are [[Figment|figments]] which act as the guardian and psychospacial representative of a group of people, usually a large, well-connected community. Eidolons are said to be created by the very [[Divinity|gods]] as liaisons, and are generated as a result of a purification of a settlement.

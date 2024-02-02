@@ -23,4 +23,4 @@ This ultimately culminated in an epochal meteor impact in the modern [[Wabi Step
 The land was eventually reclaimed by [[Elf|elven]] conquistadors from [[Archipel]] in the [[Bullion#Fourth Era|Fourth Era]], eventually leading to the modern-day [[River-Lands of Ancestral Ith'Paraan|AIP]].
 
 # Etymology
-![[Oa'Rovi Dictionary#Ith'Paraan {Iθ-PARAAN}]]
+![[Dictionary - Oa'Rovi#Ith'Paraan {Iθ-PARAAN}]]

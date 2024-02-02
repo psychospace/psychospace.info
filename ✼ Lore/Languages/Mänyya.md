@@ -2,8 +2,7 @@
 alias: Elvish, Amanese, Manyya
 tag: language
 ---
->[!note]
->*Elvish* links here: not to be confused with the adjective form of the [[Elf|elves]].
+>[!question|ttl-c bg-c-blue]  Not to be confused with "elven", the adjective form of [[Elf|elf]].
 
 **Amanese** or **Elvish**, known natively as **Mänyya**[^1] is the modern [[Elf|elven]] language used in the Heavens, in particular [[Bullion]]. It is full of beautiful syllabary that turns to sharp, convincing language when dealing with topics that are distasteful or combative.
 

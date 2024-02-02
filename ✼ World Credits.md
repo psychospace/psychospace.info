@@ -21,7 +21,7 @@ Everything helps immensely, towards commissioning art, keeping the lights on, an
 
 
 # Author & Curator
-**January April November** (*she/her*) is an author, game developer, and weirdo who is the original creator, primary writer, and curator of the absolute-nonsense paracosm that is [[The Heavens]]. If a page isn't listed in the [[#Contributors]] list.
+**January April November** (*ae/aer*, *she/her*) is an author, game developer, and weirdo who is the original creator, primary writer, and curator of the absolute-nonsense paracosm that is [[The Heavens]]. If a page isn't listed in the [[#Contributors]] list, ae probably made it.
 
 She is the Gamemaster behind [[⍟ Magical Mystery Tour]], [[⍟ Extra Innings]], and [[⍟ Twin Fantasy]].
 
@@ -81,30 +81,30 @@ Had I never had each of those experiences, I would not be the writer I am today.
 *All artists whose work is reproduced here have been rightfully compensated for their work.*
 
 * [tinykitten1708](https://twitter.com/tiny_1708)  ^f432ac
-	* [[Trobairitz]] and [[Certain (evangel)|Certain]]
+	* [[Trobairitz]] and [[Certain (evangel)|Certain]] ([[img_trobicerty.png|!]])
 * [root_circuit](https://www.tumblr.com/rootcircuit) ^39db75
-	* [[Hazel Sobol|Hazel Sobol]]
-	* [[Serena Nortia]]
-	* [[Chiave Neeman]]
-	* [[Lethal]]
-	* [[Ikabod Caruso]]
-	* [[Shohei Integra]]
-	* [[Linnaeus Dino]] (dragonic, initial)
+	* [[Hazel Sobol|Hazel Sobol]] ([[icon_buster.png|!]])
+	* [[Serena Nortia]] ([[icon_serena.png|!]])
+	* [[Chiave Neeman]] ([[icon_chiave.png|!]])
+	* [[Lethal]] ([[icon_lethal.png|!]])
+	* [[Ikabod Caruso]] ([[icon_ikabod.png|!]])
+	* [[Shohei Integra]] ([[icon_shohei.png|!]])
+	* [[Linnaeus Dino]] (dragonic, initial) ([[icon_lin.png|!]])
 	* and all the members of the [[S4]], except for Even Baxly
 * [cosmic_novas](https://cosmic-novas.carrd.co/)  ^21f7bd
-	* [[Mistral Taylor Burgitsk]]
-	* [[Zero Day]], [[Sky-scrape]], and [[Crest of Conception]]
-	* [[Linnaeus Dino]] (cured)
+	* [[Mistral Taylor Burgitsk]] ([[img_mtb.jpg|!]])
+	* [[Zero Day]], [[Sky-scrape]], and [[Crest of Conception]] ([[img_zeroday.png|!]])
+	* [[Linnaeus Dino]] (cured) ([[img_lin_cured.png|!]])
 * [forbiddentaako](https://forbiddentaako.tumblr.com/) ^4926d3
-	* [[mmt_poster.jpeg|Poster]] for [[⍟ Magical Mystery Tour]]
+	* [[img_mmt_poster.jpeg|Poster]] for [[⍟ Magical Mystery Tour]]
 	* MMT's final bosses:
-    * [[Linnaeus Dino]] (dragonic, final)
-    * [[Illarion Parasom]]
-    * [[Bianca Nortia]] / [[Scarla Nitrum]]
-* [mollystars](https://mollystars.neocities.org/)
-    * [[Tailed Stranger]] (art & visual design)
-* [CombustibleToast](https://combustibletoast.itch.io/)
-	* [[Homecoming]]'s 3D model
+    * [[Linnaeus Dino]] (dragonic, final) ([[img_lin_dragon.png|!]])
+    * [[Illarion Parasom]] ([[img_illarion.png|!]])
+    * [[Bianca Nortia]] / [[Scarla Nitrum]] ([[img_biancascarla.png|!]])
+* [mollystars](https://mollystars.neocities.org/) ^a4d4bd
+    * [[Tailed Stranger]] (art & visual design) ([[img_stranger.png|!]])
+* [CombustibleToast](https://combustibletoast.itch.io/) ^30d1d3
+	* [[Homecoming]]'s 3D model ([[img_homecoming.png|!]])
 
 # Acknowledgements and thanks
 ## Software

@@ -1,9 +1,12 @@
 ---
-cssclasses: []
+cssclasses: 
 tags:
   - roleplay
   - AU/lancer
 permalink: au/2c
+aliases:
+  - 2C
+  - Second Contact
 ---
 
 ![[⎋ Secondary Canon]] ![[⎋ Real-World]]
@@ -12,9 +15,11 @@ permalink: au/2c
 It began on January 8, 2024.
 
 # Summary
-It covers an [[✼ Story Hub#AUs|alternate universe]] in which the [[Antic Sea]] suddenly appeared in the Milky Way some fifteen-thousand years from (out-of-game) present day. The existence and nature of [[psychospace]], let alone [[Human|humans]] indistinct from expectation, runs afoul of their commonly understood science.
+It covers an [[✼ Story Hub#AUs|alternate universe]] in which the [[Antic Sea]], as it was in [[1250 PT]], suddenly appeared in the [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) some fifteen-thousand years in the future from current day. The existence and nature of [[psychospace]], let alone [[Human|humans]] indistinct from expectation, runs afoul of their commonly understood science.
 
-The appearance of the Sea, termed DSA-40975, was quickly investigated as an anomaly by *Lancer*'s Union, the governing body of much of the local Milky Way, befuddled by both [[magic]] and the medieval level of tech they saw on the ground. Per their standard procedure, once first contact was established upon their landing at [[Ladybug]], Union offered the [[Kingdom of Sacred]] under Queen [[Velocis Dino]] a tentative place in its affairs, while setting up an operating base nearby in the flagship *[[U-MC Atlantea]]*. However, the relationship quickly soured due to the eerie, almost [[Outsider|alien]] nature of these visitors, and this animosity does not bode well for the future. 
+The appearance of the Sea, termed DSA-40975, was quickly investigated as an anomaly by *Lancer*'s Union, the governing body of much of the local Milky Way, befuddled by [[magic]], apparent [[Human|humans]] and human-variants, and the medieval level of tech they saw on the ground on [[the Planet|DSA-40975-3]]. 
+
+Per their standard procedure, once first contact was established upon their landing at [[Ladybug]], Union offered the [[Kingdom of Sacred]] under Queen [[Velocis Dino]] a tentative place in its affairs, while setting up an operating base nearby in the flagship *[[U-MC Atlantea]]*. However, the relationship quickly soured due to the eerie, almost [[Outsider|alien]] nature of these visitors, and this animosity does not bode well for the future. 
  
 With the state of relations between Union and DSA-40975 quickly falling apart, a squadron of elite mech pilots known as Lancers, consisting of [[million-dollar]], [[MechaMondayz]], [[Warden (SC)|Warden]], [[Wretch (SC)|Wretch]], and [[Kitty-Regent]], are dispatched from the *[[Draccor]]* to the *Atlantea* to fuel her up and make for atmospheric escape, but quickly find more than they bargained for: a [[dragon]] tearing the *Draccor* apart on deployment.
 
@@ -23,4 +28,4 @@ Something is about to go terribly <span class="horus">wrong</span>.
 Psychospace: Second Contact is not an official Lancer product; it is a third party work, and is not affiliated with Massif Press. Psychospace: Second Contact is published via the Lancer Third Party License.
 
 *Lancer* is copyright Massif Press.
-![[00 - Meta/Images/Legal/powered-by-lancer.png]]
+![[00 - Meta/Images/Legal/powered-by-lancer.png|center]]

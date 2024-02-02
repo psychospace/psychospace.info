@@ -6,6 +6,8 @@
 >[!quote | author] [[Scarla Nitrum|Nemain]]
 >"Would you rather this be in terms you can comprehend? [[Outsider|They're]] going to fire a gun across the stars, and you're going to have to catch the bullet." 
 
+^8c0d87
+
 >[!infobox|right]
 ># Sky-scrape
 >>[!caption] 

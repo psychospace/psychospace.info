@@ -1,10 +1,15 @@
 ![[⎋ 2FPG]]
 "**The Best**" is the known alias of a core member of the [[Single-Brain Cell]]. Also known as "Fast-Talker", he is believed to be an enforcer and [[Broadcaster]] of the central collective. His true identity is unknown to the general public.
 
-According to authorities, "Mr. The Best" is the business-name of a particularly notorious member of the [[Eleyda|Eleydan]] criminal underworld who vanished around the time that SBC first came into being. Several names have been used in connection with The Best, though have been lost from records due to negligence or the effects of his abilities. The new alias for this criminal, "The Best", appears to be itself some kind of hypnotic subconscious suggestion on the part of the criminal himself.
+# Etymology
+According to authorities, "Mr. The Best" is the business-name of a particularly notorious member of the [[Eleyda|Eleydan]] criminal underworld who vanished around the time that SBC first came into being.
 
+Several names have been used in connection with The Best, though have been lost from records due to negligence or the effects of his or his associates' abilities. The new and current alias for this criminal, "The Best", appears to be itself some kind of hypnotic subconscious suggestion on the part of the criminal himself.
+
+# Description by authorities
  His [[Codec]], quoted as being known as  "Mindfuck", seems to harbor extreme powers of compulsion and suggestion, and has been used across most projects associated with the SBC. His psychology is described as incredibly impulsive and callous, finding humor in causing mayhem and mischief. As an enchanter, he is apparently responsible for the prank which embarrassed the Luminaria-apparent [[Ithibela Rysae|Suimari]].
 
 Physically, The Best is believed to be a 24-year old [[Elf#Half-elf|half-elf]] [[Changeling#Axial changeling|mayling]]. In almost all descriptions, he has black or dark-brown hair, half-dyed red or pink, which extends to his mid-back at its longest. His eyes are heterochromatic, one a vibrant orange, one an icy blue. Their chest apparently has glass-shatter-like scars across it emblematic of [[witchcraft]] or self-[[transmutation]]. His voice is described as scratchy, baritone, and commanding, like a well-trained singer.
 
+# Public sentiment
 Due to his abilities, sightings should be immediately reported and suspects are not to be approached, even by [[Blue Cinder Militia]] members, without protection from [[Sanza Rayo#Codec Lamella|lamellan light]] suits. Rewards for information leading to his capture total over 1,500[[Gold piece|gp]].

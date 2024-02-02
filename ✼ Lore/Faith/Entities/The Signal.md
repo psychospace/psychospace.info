@@ -36,7 +36,7 @@ When a leak of the Signal (a “*shimmer*”) is found, its formation possesses 
 In controlled environments, study of the presence has also given rise to [[Thaumaturgy]], a study of magic akin to [[Witchcraft]], and one of several so-called “[[New Magic|new magics]]”. 
 
 # History
-Detailed by [[Viers Callinan]], in [[616 PT]], when the [[elseworld]] [[616 E-PT|suffered]] a [[Collapse state|collapse state]] and became darkened, there emerged a powerful "[antinoise](https://en.wikipedia.org/wiki/Wave_interference)" which manifested then, deafening [[the Planet]] to any cries for help from its opposite, in doing so further locking away the doomed reality. [[Syncretist|Syncretists]] now believe that this was the earliest manifestation of the Signal.
+Detailed by [[Viers Callinan]], in [[616 PT]], when the [[elseworld]] [[616 E-PT|suffered]] a [[Collapse state|collapse state]] and became darkened, there emerged a powerful "[antinoise](https://en.wikipedia.org/wiki/Wave_interference)" which manifested then, deafening [[the Planet]] to any cries for help from its opposite, in doing so further locking away the doomed reality. [[Syncretism|Syncretists]] now believe that this was the earliest manifestation of the Signal.
 
 The first modern discovery of the Signal occurred in [[1245 PT]] when [[Amanita Parasom|Amanita]] and [[Octavia Parasom]] completed the *[[Visage of the Fortress]]* ritual, hearing a strange whispering noise emerging on the final layer (which mimicked [[Väräh]]). Though they were able to evade it through using their [[Soul bond|soul bond]], it produced a globule of energy they called a "bubble", which refused to be dispelled and which turned any physical attacks on it back on them.
 

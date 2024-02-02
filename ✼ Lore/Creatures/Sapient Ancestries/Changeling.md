@@ -2,32 +2,37 @@
 tags:
   - sapient
 ---
-**Changelings** are a diverse #sapient heritage of [[Fey]] peoples who have a unique affinity for [[Vitality energy|positive energy]], resulting in an extreme affinity for [[Magic]]. They may be the children of any ancestry, but possess unique talents which generally tie them to chaos. Similar to [[Scion|scions]], their uniquely-aligned [[Soul|souls]] are the product of powerful magic crossing a mortal bloodline, in this case the ethereality of [[Kibangan]] as afflicted by [[Elemental energy|elemental chaos]].
+**Changelings** are a diverse #sapient heritage of [[fey]] peoples who have a unique affinity for [[Vitality energy|positive energy]], resulting in an extreme affinity for [[magic]]. 
 
+They may be the children of any ancestry, but possess unique talents which generally tie them to chaos. Similar to [[Scion|scions]], their uniquely-aligned [[Soul|souls]] are the product of powerful magic crossing a mortal bloodline, in this case the ethereality of [[Kibangan]] as afflicted by [[Elemental energy|elemental chaos]].
+
+# Types
 All changelings, though generally rare, revel in their magic, and this influences how they view many things in life, including love. They tend towards polyamory and pansexuality, with all members of a relationship in love with one another, possibly a consequence of their origins. 
 
 Many bedtime stories throughout the remnants share tales of horrifying beings with too much magic and no true face, and, when changelings are born, it is the parent's responsibility to make sure their children are not hurt by this association.
-# Types
+
 
 There are two general uses for the term "changeling": medial changelings, and axial changelings.
 
 ## Medial changeling
-**Medial changelings**, also known as **mercurials**, are the product of a bloodline which has been drawn towards neutral chaos, the "true state" of [[Chaos]]. Originally believed to have been created by magic itself, or some experimentation of the [[First Magicians]], medial changelings are people with a unique attachment to concepts of persona, able to transform their [[Body|bodies]] and visages at will.
+**Medial changelings**, also known as **mercurials**, are the product of a bloodline which has been drawn towards neutral chaos, the "true state" of [[chaos]]. Originally believed to have been created by magic itself, or some experimentation of the [[First Magicians]], medial changelings are people with a unique attachment to concepts of persona, able to transform their [[Body|bodies]] and visages at will.
 
 Medials generally have many "people" that they can choose to become, known as **masks**, and might invent a new one to undertake a new role. A medial will often have a preferred form, but this is rarely (if ever) the form it was born with: its *true* form. Following the concept of a [[True name (concept)|true name]], medials greatly fear their shapeshifting nature being unveiled against their will, believing that their true form — usually with pale skin, and graying, vivid hair — is the most holy of forms they possess. 
 
-All medials go through a distinct personal trial known as actualization, where a changeling internalizes how important it is to express one self with all the tools they have. This usually occurs at the end of adolescence and is a necessary step of proper puberty for their identity[^1], and an important threshold with concerns towards its ability to control its own body. If a medial is prevented from actualizing, its trauma may turn it into a [[Doppelganger]]. An abused changeling may even become a [[Wegbrechen]] if it loses a love for life.
+All medials go through a distinct personal trial known as actualization, where a changeling internalizes how important it is to express one self with all the tools they have. This usually occurs at the end of adolescence and is a necessary step of proper puberty for their identity[^1], and an important threshold with concerns towards its ability to control its own body. If a medial is prevented from actualizing, its trauma may turn it into a [[doppelganger]]. An abused changeling may even become a [[wegbrechen]] if it loses a love for life.
 
-Communities of medials living together are often seen, wherever medials are found. Members of those communities or families might share responsibilities for a specific mask, and revel in their ability to freely express themselves without fear of judgement. Outside of such communities, medials are often born without much sense to their placement or recurrence, though are usually born to [[sorcerer|sorcerers]].
+Though medials themselves are rare, communities of medials living together are typical, wherever medials are found. Members of those communities or families might share responsibilities for a specific mask, and revel in their ability to freely express themselves without fear of judgement. 
+
+Outside of such communities, medials are often born without much sense to their placement or recurrence, though are usually born to [[sorcery|sorcerers]].
 ## Axial changeling
-**Axial changelings**, also known as **maylings**, are born to those whose bloodlines have been crossed with [[hag|hags]]. Unlike medials, axials are (true to their name) drawn more to the far ends of the axioms of elemental chaos. Also unlike medials, instead of a transitory form, these changelings possess transitive magics, very keenly tuned towards studies like [[Witchcraft|witchcraft]]. 
+**Axial changelings**, also known as **maylings**, are born to those whose bloodlines have been crossed with [[hag|hags]]. Unlike medials, axials are (true to their name) drawn more to the far ends of the axioms of [[Elemental energy|elemental chaos]]. Also unlike medials, instead of a transitive form, these changelings possess transitive magics, very keenly tuned towards advanced occult studies like [[Witchcraft|witchcraft]]. 
 
-Usually, these changelings can be identified by their eyes: heterochromia, with one eye a very particular color that represents the influence of their blood. They also might be identified by their ability to cast and access magical talents from before they can read. Axial changelings eventually manifest even more abilities from their motherly hag's origins, all of which varies depending on the type of hag they were.
+Usually, these changelings can be identified by their eyes: [heterochromia](https://en.wikipedia.org/wiki/Heterochromia_iridum), with one eye a very particular and atypical color that represents the influence of their blood. They also might be identified by their ability to cast and access magical talents from before they can read or understand a single language. Axial changelings eventually manifest even more abilities from their motherly hag's origins, all of which varies depending on the type of hag.
 
-Maylings are feared most by those who already fear fey, as the energies dwelling within a mayling are potent chaos from the time of [[The Gathering]]. In sum total, the existence of axial changlings is an opportunity seized by hags of all cradles to influence the [[Wild Blue Yonder]] with their psionic talents.
+Maylings are feared most by those who already fear fey, as the energies dwelling within a mayling are, to some, potent chaos from the time of [[The Gathering]]. In sum total, the existence of axial changelings is an opportunity seized by hags of all cradles to influence the [[Wild Blue Yonder]] with their psionic talents.
 
 # The Call
-All changeling [[Soul|souls]], regardless of distinction, eventually receive a psionic calling to abandon their mortal life, and return to their origins. This is known as **the Call**. The Call tends to strike at random between the ages of 10 and 40 (in [[human]] years).
+All changeling [[Soul|souls]], regardless of distinction, eventually receive a psionic calling to abandon their mortal life, and return to their origins, through the awakening of a dormant [[soul bond]]. This is known as **the Call**. The Call tends to strike at random between the ages of 10 and 40 (in [[human]] years).
 
 For axial changelings, this is a calling implanted in them by their hag blood, calling them home to join the coven and betray reality. For medial changelings, this is a call to abandon all present identities and pursue the secrets of the universe, vanishing into the world as easily as they were brought in. 
 

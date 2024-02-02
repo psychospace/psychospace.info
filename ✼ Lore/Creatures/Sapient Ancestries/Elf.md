@@ -6,8 +6,7 @@ aliases:
   - elven
   - half-elf
 ---
->[!note]
->This article is about the ancestry. Not to be confused with the language of [[Mänyya]], often called Elvish.
+>[!question|ttl-c bg-c-blue]  This article is about the ancestry. For the Elvish language, see [[Mänyya]].
 
 **Elves** are a diverse group of #sapient  peoples who are partly [[Fey]]. A group of elves is commonly known as a **party**, though this terminology has become less specific to the elves themselves over the years.
 

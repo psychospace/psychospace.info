@@ -2,8 +2,7 @@
 tags:
   - being/entity
 ---
-![[⎋ Spoilers - MMT]]
-
+![[Sky-scrape#^8c0d87]]
 
 A **tzitzimitl** (plural: **tzitzimimeh**) was a monstrous ancient [[Divinity|god]]-like [[aberration]] whose influence was manifest [[Out There|from the stars]]. Emissaries of an unknown world, the tzitzimimeh are intended to be silent spectators to the development of [[manifold seas]].
 

@@ -13,7 +13,7 @@ As a low-end derivation of [[Kibangan]], it is a plane of perfecting the concept
 ## Origins
 Supposedly, it has existed since the time of the [[Unknown Era]], making it the oldest planar structure known to the Heavens. Mortals have slipped in and out for eons. 
 
-According to [[Syncretist|syncretic]] literature, when [[The Maker]] and [[The Unmaker]] fused and restructured the world from its remains at the end of the [[War of Chaos]], the Fortress was created, apparently to assure and support the continued idea of a “reality”. 
+According to [[Syncretism|syncretic]] literature, when [[The Maker]] and [[The Unmaker]] fused and restructured the world from its remains at the end of the [[War of Chaos]], the Fortress was created, apparently to assure and support the continued idea of a “reality”. 
 
 From within the Fortress, the twins-as-one later known as [[Anti]] bound the flow of [[chaos]] and [[gravity]] which orbited the planet onto this axis point. Anti proceeded to produce two attempts at creating coherent fatal [[Worldline|worldlines]] for the world. The first eventually became [[elseworld]], and the second, and final, became [[the Planet]] as we know it.
 

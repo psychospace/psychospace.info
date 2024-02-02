@@ -2,6 +2,7 @@
 permalink: principles
 issues:
   - incomplete
+word-goal: "1000"
 ---
 
 This incomplete page contains information on how [[✼ Psychospace.info]] articles are styled and may be referenced.

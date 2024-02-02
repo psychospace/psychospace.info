@@ -4,6 +4,7 @@ aliases:
   - old magic
   - magically
   - magical
+  - arcane
 tags:
   - magic
 ---

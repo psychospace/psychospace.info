@@ -3,7 +3,7 @@ cssclasses:
   - readable
 permalink: narration/golorr
 ---
->[!meta]
+>[!recite| bg-orange] Context
 >This narration was originally used for [[⍟ Magical Mystery Tour]], in the scene in which [[Golorr]] was freed from its stone in the [[Vault of Foreknowledge]]. It was written by January November.
 >
 >This scene was performed on March 26th, 2023, as part of MMT Session 65. It consisted of nine months of planning and putting together the disparate pieces of MMT's greater lore in order to deliver a very satisfying and answering final set-piece.
@@ -104,7 +104,7 @@ We are Golorr, [[Aboleth]], beyond gods and men. We have seen four peoples rise 
 
 >The [[Anti|Ignition Point]], the God of Gods, took pity on the entities that had made only spluttering fire with all their wills, and made the figures three to be without ending as consolation. This marked a genesis of a new pantheon: the new patrons of an unending legacy. 
 
-[Statues appear in the void: one of a giant, and one of a dragon. Stars fill the void, and where the glittering particles existed, now take the form of a timid statue, a shade of a baby, desperately trying to keep its cohesive physical form.]
+[Statues appear in the void: one of a [[giant]], and one of a dragon. Stars fill the void, and where the glittering particles existed, now take the form of a timid statue, a shade of a baby, desperately trying to keep its cohesive physical form.]
 
 >It is believed thus the primeval angel and outsider being from on high became the platinum drake [[Athemat]] and the sun-giant [[Cientia]] respectively: soul and time, concepts lost to the infant world, now returned. 
 >

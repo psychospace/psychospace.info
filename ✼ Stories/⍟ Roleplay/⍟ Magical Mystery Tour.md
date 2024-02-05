@@ -12,7 +12,7 @@ aliases:
 >[!caption | right] 
 >![[img_mmt_poster.jpeg|wmedium]] Poster created by [[✼ World Credits|forbiddentaako]]
 
-***Magical Mystery Tour***, also known as **MMT** or "**Campaign 1**", is a campaign in D&D5e which began in January, 2020, and has continued until present day. It is Game Mastered by January November. 
+***Magical Mystery Tour***, also known as **MMT** or "**Campaign 1**", is a campaign in D&D5e which lasted from January 24th, 2020, until February 4th, 2024. It was Game Mastered by January November. 
 
 In-universe, the adventure began in the [[Kingdom of Sacred]], in the final month of [[1250 PT]], and followed the fraught events preceding and during the [[Dragonic War]], concerning the journeys of those connected to Prince [[Linnaeus Dino]]. It is the first game run in (and invented) [[The Heavens]].
 

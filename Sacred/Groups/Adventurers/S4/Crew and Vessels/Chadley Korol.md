@@ -11,7 +11,7 @@ issues:
 status: alive
 ---
 
-**Shadorokov Korol**, better known as **Chadley**, was a [[Great Nortian Empire|Nortian]] goliath captain of the *[[Sun Chaser]]* who was briefly an ally of the [[S4]] during the [[Dragonic War]].
+**Shadorokov Korol**, better known as **Chadley**, was a [[Great Nortian Empire|Nortian]] [[Anlage|goliath]] captain of the *[[Sun Chaser]]* who was briefly an ally of the [[S4]] during the [[Dragonic War]].
 
 # History
 

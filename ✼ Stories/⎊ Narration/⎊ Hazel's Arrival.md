@@ -245,7 +245,7 @@ You have given me a scar I shall savor every day… charged with the emotions of
 A loud chime is heard as [[Red Spark|a great red-white light]], like a massive flare, emerges from the epicenter of the blast, shooting high, high up into the sky. It can be seen from nearly everywhere in Sacred:
 - [[Maline Tower|Ikabod's tower]], empty and dusty with an unknown face sweeping the halls and keeping house, barely noticing the sudden pillar of light blaring out the window until they pass an open window and drop to their knees in despair --
 - [[The Twist Ending]] bar in [[Ladybug]]: whose patrons all turn to a red glint on the horizon as the air grows cold --
-- Giants of both ice and fire in the castle in the clouds atop the [[Father Sakura]] in [[Cherryheart]] mutter hushed curses, in disbelief
+- [[Giant|Giants]] of both ice and fire in the castle in the clouds atop the [[Father Sakura]] in [[Cherryheart]] mutter hushed curses, in disbelief
 - The [[Claytowers]] in [[Midzone]], where [[Victory Starscouts|Starscouts]] pass around binoculars to get a handle on what they're seeing --
 - Stoic black and white checker-coat clerics watching a deep basin of gray water flicker with images in [[Destiny Cathedral]], turning away in suppressed fright --
 - The children of two disparate families in [[Wisfer]]'s [[Silverfields]], stop their playing at being heroes as a toy rolls across the ground and comes to a stop --

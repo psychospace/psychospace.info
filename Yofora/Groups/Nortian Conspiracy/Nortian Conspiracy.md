@@ -45,7 +45,7 @@ The political figures were to fund the secret research being conducted to prepar
 
 Under [[Wren Doggabone]], the [[Navy of Cacophony]], the [[Army of Euphony]] and particularly [[Hazel Sobol]] were under their command. Illarion already commanded the [[Prime Doppelguard]].
 
-The criminal cult known as [[Heartknock]] was created to further facilitate experimentation on Sacred to find the source of occultation or further rebuff its power. Many criminals and civilian engineers were reclaimed for the Heartknock to work on esoterica, such as their [[Shiny Mask|shiny masks]], or their experimentation.
+The criminal cult known as [[Heartknock]] was created to further facilitate experimentation on Sacred to find the source of occultation or further rebuff its power. Many criminals and civilian engineers were [[Reclamation (Bullion)|reclaimed]] for the Heartknock to work on esoterica, such as their [[Shiny Mask|shiny masks]], or their experimentation.
 
 Despite being unaware of all of this, Bianca became increasingly convinced that her [[Lord of Law]] was to betray her, and though she allowed the preparations for emergencies, she began to hide away and protect herself. Even she, however, was incapable of perceiving the lengths to which the entity that was his wife would go.
 

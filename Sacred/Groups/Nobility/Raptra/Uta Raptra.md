@@ -8,6 +8,6 @@ issues:
   - retag
 ---
 
-A half-giant woman who used to be the queen consort of [[Hadro Dino]], and is mother of [[Velocis Dino]].
+A [[anlage]] woman who used to be the queen consort of [[Hadro Dino]], and is mother of [[Velocis Dino]].
 
 She passed away in [[1211 PT]].

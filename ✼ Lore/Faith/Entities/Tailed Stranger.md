@@ -26,7 +26,7 @@ Prior to its appearance, disturbances had been occurring at the [[Nail of Nortia
 
 By the time of [[Scarla Nitrum]]'s death, it fully manifested during the etching of the [[sky-scrape]], seemingly freezing time in place while it was so. Shortly after arriving, it appeared to recognize when and where it had appeared, freaking out, and apparently heard[^2] from an unknown source, speaking possessively and obsessively, that "she[^3] is *our* enemy".
 
-Apparently, it had arrived from the future to kill the S4, all in service of a goal to "save the world". However, due to a rarely-observed[^4] element of [[logic]], the gun it drew on the frozen adventurers was [unable](https://en.wikipedia.org/wiki/Chronology_protection_conjecture) to [[Reality-Bending|alter reality]], appeared to misfire seven separate times, and failed to erase them. Its last shot was fired backwards into the roof of the Nail of Nortia, cracking open the brick. It regretted its actions.
+Apparently, it had arrived from the future to kill the S4, all in service of a goal to "save the world". However, due to a rarely-observed[^4] element of [[logic]], the gun it drew on the frozen adventurers was [unable](https://en.wikipedia.org/wiki/Chronology_protection_conjecture) to [[Reality-Bending|alter reality]], appeared to misfire seven separate times, and failed to erase them. Its last shot was [fired backwards into the roof](https://en.wikipedia.org/wiki/Deloping) of the Nail of Nortia, cracking open the brick. It expressed regret for its actions.
 
 The stranger then conveyed a number of things to the party.
 

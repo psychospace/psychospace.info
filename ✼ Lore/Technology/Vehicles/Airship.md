@@ -20,6 +20,8 @@ Steelclad ships are constructed at special drydocks known as **swan forges**, na
 ## Pre-shipflight
 It is believed that [[First Magicians]] originally tamed or allied themselves with [[Dragon|dragons]] for the task of flight. For almost all [[✼ Timeline Hub|history]], various creatures of [[The Above]] were worked for the task of personal flight.
 
+The first airship, a vessel specifically created to ferry passengers across the skyseas, was probably constructed in the period around 15,000 to 10,000 years ago, though several civilizations had tamed dragons and traveled the skies in limited capacities beforehand.
+
 In the era of [[Ith'Paraan|Ith'Paraan]], [[Witchcraft|witches]] known as void farers were able to use their [[Gift (witchcraft)|connection]] to their patron to mimic the role performed by cores today, able to raise islands and use them as vessels. Some myths state that the area now known as the [[Wabi Steppe]] was a mined location for these islands. This goal was the ambition of its founder, [[Amakudari-no-Mikoto]].
 
 Elsewhere, [[Wraithsword|wraith weapons]] were utilized by the native peoples of the [[Colossal Ocean]] to conduct trade with one another.

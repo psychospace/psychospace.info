@@ -34,7 +34,6 @@ The following users have graciously dedicated their time to working on this wiki
 
 >[!|ttl-l no-i clean]- CombustibleToast
 >- [[Silver (XI)]]
->- [[⍟⛒ Second Contact]]
 >- [[Draccor]]
 >- [[Brisl]]
 

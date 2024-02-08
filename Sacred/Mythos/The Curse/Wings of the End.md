@@ -11,4 +11,4 @@ In particular, this sword was recovered by [[Great Nortian Empire|Nortian]] sold
 
 It hovered on its own and attended Queen Velocis as an ally bound to her. It harbors goals of seeing the perpetuation of its power throughout the ages, but often enjoys the simpler things in life, such as tea and secretarial duties. The soul that inhabits it was once an old noble on the island which inhabited it, but this identity has eroded over the aeons.
 
-The sword gave its subjectivity up in order to become vessel to the [[Blackflame]] in [[1251 PT]], in hopes that the prince [[Linnaeus Dino]] would no longer suffer. The *[[Wings of Dawn]]* was named in honor of its sacrifice.
+The sword gave its subjectivity up in order to become vessel to the [[Blackflame]] in [[1251 PT]], in hopes that the prince [[Lazuli Dino]] would no longer suffer. The *[[Wings of Dawn]]* was named in honor of its sacrifice.

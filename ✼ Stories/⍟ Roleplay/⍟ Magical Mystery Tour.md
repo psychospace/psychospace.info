@@ -14,7 +14,7 @@ aliases:
 
 ***Magical Mystery Tour***, also known as **MMT** or "**Campaign 1**", is a campaign in D&D5e which lasted from January 24th, 2020, until February 4th, 2024. It was Game Mastered by January November. 
 
-In-universe, the adventure began in the [[Kingdom of Sacred]], in the final month of [[1250 PT]], and followed the fraught events preceding and during the [[Dragonic War]], concerning the journeys of those connected to Prince [[Linnaeus Dino]]. It is the first game run in (and invented) [[The Heavens]].
+In-universe, the adventure began in the [[Kingdom of Sacred]], in the final month of [[1250 PT]], and followed the fraught events preceding and during the [[Dragonic War]], concerning the journeys of those connected to Prince [[Lazuli Dino]]. It is the first game run in (and invented) [[The Heavens]].
 
 # Arcs
 ## Arc 1 - "Nova"
@@ -26,11 +26,11 @@ In Arc 3, **Syzygy**, all eyes are trained on the party's journeys to assemble t
 ## Arc 4 - "Apsis"
 In Arc 4, **Apsis**, the last pieces of the stone are collected, leading to a reunion with the party's frenemy, Master [[Ikabod Caruso]]. Seeking repentance and discovering strange connections, the party gather themselves, as well as unexpected but persistent allies, into the final stretch, following ancient instructions for the revival of the [[Carapa Republic]] in order to wrangle the dragonic curse's source, [[Arahabaki]].
 ## Arc 5 - "Redshift"
-In Arc 5, **Redshift**, the party embarks towards [[Yofora]] for their final mission to stop the Conspiracy, rescue and cure the ailing Linnaeus, end the war, and return both Nortia and Sacred to proper order.
+In Arc 5, **Redshift**, 
 # Pre-Game Post
 ## Discord Intro
 >[!quote| author] Narration
->The prince of Sacred, Linnaeus "[[Linnaeus Dino|Linnie]]" Dino, requests capable individuals to escort him and his companion along the long and difficult trek back to the capitol in time for the Summit of Sacred at Year's Start. Rewards include: [[Gold piece|gold]], property in the capitol, the favor of the prince, the chance to experience the myriad creatures and features of the dangerous regions of Low Sacred, and complimentary tickets to the events of the Summit of Sacred upon your arrival in the capitol. Non-adventurers need not apply. By applying to this position as royal escort, you assume the risks of adventuring: incineration, sickness, deep-frost, disintegration, [[Psionics|psychic]] dismemberment, extramagical disappearance, death(s), radiation, curses, monster-related trauma, [[Confluence|psychospacial torrents]], etc.
+>The prince of Sacred, Linnaeus "[[Lazuli Dino|Linnie]]" Dino, requests capable individuals to escort him and his companion along the long and difficult trek back to the capitol in time for the Summit of Sacred at Year's Start. Rewards include: [[Gold piece|gold]], property in the capitol, the favor of the prince, the chance to experience the myriad creatures and features of the dangerous regions of Low Sacred, and complimentary tickets to the events of the Summit of Sacred upon your arrival in the capitol. Non-adventurers need not apply. By applying to this position as royal escort, you assume the risks of adventuring: incineration, sickness, deep-frost, disintegration, [[Psionics|psychic]] dismemberment, extramagical disappearance, death(s), radiation, curses, monster-related trauma, [[Confluence|psychospacial torrents]], etc.
 >
 >You have until the Ides of Gewalt to gather your things and prepare your case. Upon the morning of the 11th day since this message's posting, please roll up to the Rainbow Ridge Trading Post at dawn and prepare to give an interview. The magical mission will begin that night once all interviews are complete. Please note: This interview may require physical output.
 

@@ -7,7 +7,7 @@ description: Manifestation of the grudge of Arahabaki and Arizhmiya, the Dragoni
 >[!infobox|right wmed]
 >>[!caption| center]
 >>![[img_lin_dragon.png]]
->>Prince [[Linnaeus Dino|Linnaeus]] as a dragonic whillo.<br> Art by [[✼ World Credits#^4926d3|forbiddentaako]].
+>>Prince [[Lazuli Dino|Linnaeus]] as a dragonic whillo.<br> Art by [[✼ World Credits#^4926d3|forbiddentaako]].
 ^3c6376
 
 Manifestation of the grudge of [[Arahabaki]] and [[Arizhmiya]], the **Dragonic Curse** was a long-standing plague on the crown of the [[Kingdom of Sacred]]. It was cured in [[1251 PT]] on [[Zero Day]]. ^a18b0b
@@ -26,7 +26,7 @@ In the final battle of the [[Drastic|Holy Port of Ace]], the curse was invoked b
 
 The curse continued to strike many times, ravaging [[House Dino]] each time.
 
-In order to cure [[Linnaeus Dino]], who was born afflicted and on the verge of succumbing, [[Golorr]] prescribed the [[S4]] utilizing the [[blackflame]] to contain it.
+In order to cure [[Lazuli Dino]], who was born afflicted and on the verge of succumbing, [[Golorr]] prescribed the [[S4]] utilizing the [[blackflame]] to contain it.
 
 # Effects
 The [[Curse|curse]] struck randomly on those who upheld the crown of the Kingdom, falling into mythos each time it did. Notably it was not a curse on the bloodline, as was believed by many powerful mages over the years, but rather a curse on the burden of rulership. 

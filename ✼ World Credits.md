@@ -63,7 +63,7 @@ Players also contribute to this world by adding detail and character to unillumi
 | Sam <br>*"SeerOfTheNight"* | [[Melia Tonin]]<br>??? | [[⍟ Extra Innings]]<br>[[⍟ Twin Fantasy]]
 | Samantha <br>*"MellowDrama"* | [[Aingeru Ariessus]] | [[⍟ Extra Innings]]
 | Veronica <br>*"ArcaneDreamer"* | [[Serratura Neeman]] | [[⍟ Magical Mystery Tour]]
-| Victoria <br>*"skaialark"* | [[TRUE NAME (12-242)\|TRUE NAME]]<br>[[million-dollar]] | [[⍟ Extra Innings]]<br>[[⍟⛒ Second Contact]]
+| Victoria <br>*"corrucyst"* | [[TRUE NAME (12-242)\|TRUE NAME]]<br>[[million-dollar]] | [[⍟ Extra Innings]]<br>[[⍟⛒ Second Contact]]
 
 ### Pre-MMT
 Multiple concepts originated from before the world itself existed. 
@@ -89,22 +89,24 @@ Had I never had each of those experiences, I would not be the writer I am today.
 	* [[Lethal]] ([[icon_lethal.png|!]])
 	* [[Ikabod Caruso]] ([[icon_ikabod.png|!]])
 	* [[Shohei Integra]] ([[icon_shohei.png|!]])
-	* [[Linnaeus Dino]] (dragonic, initial) ([[icon_lin.png|!]])
+	* [[Lazuli Dino]] (dragonic, initial) ([[icon_lin.png|!]])
 	* and all the members of the [[S4]], except for Even Baxly
 * [cosmic_novas](https://cosmic-novas.carrd.co/)  ^21f7bd
 	* [[Mistral Taylor Burgitsk]] ([[img_mtb.jpg|!]])
 	* [[Zero Day]], [[Sky-scrape]], and [[Crest of Conception]] ([[img_zeroday.png|!]])
-	* [[Linnaeus Dino]] (cured) ([[img_lin_cured.png|!]])
+	* [[Lazuli Dino]] (cured) ([[img_lin_cured.png|!]])
 * [forbiddentaako](https://forbiddentaako.tumblr.com/) ^4926d3
 	* [[img_mmt_poster.jpeg|Poster]] for [[⍟ Magical Mystery Tour]]
 	* MMT's final bosses:
-    * [[Linnaeus Dino]] (dragonic, final) ([[img_lin_dragon.png|!]])
+    * [[Lazuli Dino]] (dragonic, final) ([[img_lin_dragon.png|!]])
     * [[Illarion Parasom]] ([[img_illarion.png|!]])
     * [[Bianca Nortia]] / [[Scarla Nitrum]] ([[img_biancascarla.png|!]])
 * [mollystars](https://mollystars.neocities.org/) ^a4d4bd
     * [[Tailed Stranger]] (art & visual design) ([[img_stranger.png|!]])
 * [CombustibleToast](https://combustibletoast.itch.io/) ^30d1d3
 	* [[Homecoming]]'s 3D model ([[img_homecoming.png|!]])
+* [corrucyst](https://cohost.org/corrucyst) ^10a462
+    * [[R. S. Langford]] ([[doc.png|!]])
 
 # Acknowledgements and thanks
 ## Software

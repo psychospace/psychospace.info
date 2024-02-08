@@ -7,7 +7,7 @@ onenote-modified: 2022-01-23 16:54:17 -0500
 She is a 10th-level crown paladin.
 
 # History
-A childhood friend of the prince [[Linnaeus Dino|Linnaeus]], Lylian traveled with him on more than one occasion, idolizing him.
+A childhood friend of the prince [[Lazuli Dino|Linnaeus]], Lylian traveled with him on more than one occasion, idolizing him.
 
 Following their separation from most of House Burgitsk's [[Burgitsk Houseguard|honor guard]] just before their arrival in [[Rainbow Ridge]], Lylian sent [[Wandar Burgitsk|Wandar]], her mother, a letter regarding her trip to [[Puzzledam]] to hold her safely until the storm passed. Secretly, though, suspicious of [[Ikabod Caruso]], she conducted investigations into him during the half-month the first arc took place in.
 

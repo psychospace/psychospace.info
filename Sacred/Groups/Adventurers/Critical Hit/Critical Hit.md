@@ -5,6 +5,7 @@ They used to be an elite team within the lore of Sacred's military, completing m
 As of [[1251 PT]], they remain incredibly popular but broken apart and fractured. Recapturing those olden days, should you ask their members, seems nigh impossible now.
 
 # History
+
 Critical Hit began as a group of five dissidents against the nobility of Sacred, named **the Badgers** for their lack of compunction about property damage, formed initially in the last month of [[1211 PT]] in [[Waxtown]]. Over the course of the [[1212 PT|following year]], the Badgers worked in shady jobs so as to remain under the notice of the existing [[Ban of Ignoble Conduct]], which placed an effective ban on adventuring parties and their assembly. 
 
 After being underpaid for forcibly displacing a legion of hobgoblins in the Cirque of Endymion, the party moved to Drastic to escape further notice and to chase stronger opportunities, with [[Junah Rollingstone]] in particular keen on upsetting his [[Bain Rollingstone|father]]'s business at its political roots.

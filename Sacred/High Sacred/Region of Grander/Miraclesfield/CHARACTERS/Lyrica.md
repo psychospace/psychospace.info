@@ -6,7 +6,7 @@ onenote-modified: 2022-03-27 17:23:08 -0400
 issues:
   - incomplete
 ---
-**Lyrica Liesel Amia** is a [[Visitant]]; a clone of [[Linnaeus Dino]].
+**Lyrica Liesel Amia** is a [[Visitant]]; a clone of [[Lazuli Dino]].
 
 Crafted from the prince's sense of authority, she was [[Ikabod Caruso]]'s first creation for the purpose of curing the [[Dragonic Curse]], deemed a failure. 
 

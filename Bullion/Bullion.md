@@ -17,8 +17,6 @@ The rains pool here as [[Divinity|gods]] are born. Eventually, [[Bioh]] is said 
 There is evidence of [[First Magicians]] reaching Bullion in about 550,000 BPT, though evidently it was to harvest energy collected by the echoes. Shortly thereafter, geological and physical evidence of early [[Elemental creatures|elementals]] manifests, likely as the strongest echoes are changed by their hoarding.
 
 In around 500,000 BPT, [[The Gathering]] took place.
-
-%%In [/[1281 PT]], [/[Inocencio Tethys|Tethys]] was sent back to this era.%%
 ## Second Era 
 
 The second era of Bullion took place from 200,000 - 25,000 BPT.

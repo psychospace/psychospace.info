@@ -14,7 +14,7 @@ factions:
 status: alive
 campaign: "[[⍟ Magical Mystery Tour]]"
 ---
-**Lacuna** is a [[Visitant]] of [[Linnaeus Dino|Linnaeus]].
+**Lacuna** is a [[Visitant]] of [[Lazuli Dino|Linnaeus]].
 
 Crafted from the prince's sense of humanitarian tendencies, they were [[Ikabod Caruso]]'s third creation for the purpose of curing the [[Dragonic Curse]], deemed a failure.  During [[Red Spark]], their unconscious body fled the [[Ivan's Tiger|Ivan's Tiger]] and traveled, at random, to [[Toride]].
 

@@ -23,7 +23,7 @@ At 18, he joined the [[City & Castle]]. During his three years in the guard, he 
 
 On [[1250 PT#11-12-1250|11-12-1250]], he undertook a job with the Fold to induct [[Theresa Leighton|Tessa Leighton]], undergoing a basic introductory mission. However, the [[ghost storm]] [[1250 PT#11-18-1250|ensnared him]] and his soul was damaged in the process, later suddenly [[1250 PT#12-2-1250|reappearing]] in [[Rainbow Ridge]]. [[Serena Nortia|Serena]], who was nearby at the time, believed his arrival was [[◍ Apocryphal Passage - Azure Sky|foretold]] in the [[Apocrypha of Winds|Apocrypha of Winds]], and used [[monism]] on the boy, who had [[Yofora|Yoforan]] blood, to act as his "guardian angel".
 
-With Serena as his guide, Shohei joined up with [[Linnaeus Dino|Linnaeus]]' royal escort group, possibly because at the time he was in somewhat of a denial of his homosexuality.
+With Serena as his guide, Shohei joined up with [[Lazuli Dino|Linnaeus]]' royal escort group, possibly because at the time he was in somewhat of a denial of his homosexuality.
 
 At the time of [[Red Spark]], Shohei's still-fragile [[Soul]] was almost broken altogether by the [[Off-wave|shock]] of the death of [[Ildy]], forcing Serena to fully possess him. 
 

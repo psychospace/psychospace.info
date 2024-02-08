@@ -10,7 +10,7 @@ The **Runts** are an adventuring party formed around the end of [[1250 PT]]. Abo
 
 
 # History
-When Prince [[Linnaeus Dino|Linnaeus]] initially [[⍟ Magical Mystery Tour|called for an escort group]] to allow him to return to Drastic safely, it was done so as an audition process. However, the just-formed [[S4]] sidestepped that altogether in their bravery of stopping [[Phys]] from attacking [[Rainbow Ridge]], impressing the prince outright. Meanwhile, several other parties sought to claim the rewards of aiding the prince, including Hikawera, a nonbinary triton oddball [[Witchcraft|warlock]] from the remnant of Pinwheel, and Medu, a human cleric with an esoteric streak from [[Miraclesfield]]. 
+When Prince [[Lazuli Dino|Linnaeus]] initially [[⍟ Magical Mystery Tour|called for an escort group]] to allow him to return to Drastic safely, it was done so as an audition process. However, the just-formed [[S4]] sidestepped that altogether in their bravery of stopping [[Phys]] from attacking [[Rainbow Ridge]], impressing the prince outright. Meanwhile, several other parties sought to claim the rewards of aiding the prince, including Hikawera, a nonbinary triton oddball [[Witchcraft|warlock]] from the remnant of Pinwheel, and Medu, a human cleric with an esoteric streak from [[Miraclesfield]]. 
 
 Aboard their airship, along with a displacer beast kit trained by Medu named [[Ann]], the two were held up from the auditioning process by a vision Hika had received from their mysterious patron in the town of [[Ladybug]], preventing them from claiming the title of prince's ally: however, when fate brought them together, they quickly developed a rivalrous attitude with the actual escort group, becoming the adventuring party known as the Runts. 
 

@@ -17,7 +17,7 @@ I prithee, as I deliver these words unto you, panic not. Remain thy soul calm. B
 
 The times are new again with the rising of this new year. I will not lie to you. Our immediate forces are routed. 
 
-[[Red Spark|A battle]] has befallen [[Drastic]], and betrayed our very peace. In the chaos, [[Linnaeus Dino|the Prince]]… my son… was kidnapped, all to do with a [[Dragonic Curse|curse]] that threatens to destroy him. [[Ildy]], eidolon guardian, is dead as well. Damage to nearly every building in the city, and countless dead weigh upon my mind and soul as I look now to the future. I had failed. Failed utterly in defending you all, as your knight. For this, I will avenge you.
+[[Red Spark|A battle]] has befallen [[Drastic]], and betrayed our very peace. In the chaos, [[Lazuli Dino|the Prince]]… my son… was kidnapped, all to do with a [[Dragonic Curse|curse]] that threatens to destroy him. [[Ildy]], eidolon guardian, is dead as well. Damage to nearly every building in the city, and countless dead weigh upon my mind and soul as I look now to the future. I had failed. Failed utterly in defending you all, as your knight. For this, I will avenge you.
 
 The moment of danger has approached and entangled us in a [[Dragonic War|game]] greater than ourselves, in a plot to destroy the very soul of this nation. Our Victory Eternal. My son. The guardian of our capitol. All stolen from us. All must be repaid.
 

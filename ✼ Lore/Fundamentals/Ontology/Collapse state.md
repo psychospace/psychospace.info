@@ -20,11 +20,6 @@ The concept was observed and studied in laboratory-setting first by those who di
 
 The term was invented by [[Ema Ekotoba]]. Older, common terms for the apocalyptic state include **nubbin** or **NBN** (standing for "nothing-but-nothing").
 
-%%## Alternative concepts
-Some believe, instead of reality 'ending' in some cataclysmic apocalypse event, a "collapsed" reality simply fades from observability or relevance to others. This effectively would cut a reality off from one another, without affecting the lives of unrelated people.
-
-In this hypothesis, the [[Elseworld]] is liable to be the only observable worldline in this state of existence.%%
-
 # Ark effect
 In an application of macro-scale [[bias coagulation]], known here as the "ark effect", things which bring about a collapse state, or are nearby when a collapse state manifests, tend to survive them.
 

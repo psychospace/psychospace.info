@@ -9,7 +9,7 @@ As of [[1251 PT]]:
 [[Tyranno Re Ursus|Tyranno Re Ursus Dino]]
 	His Radiant Highness, the King Consort of the Kingdom of Sacred, Lord-Duke of [[Drastic]]
 *and*, *by Right*
-[[Linnaeus Dino|Linnaeus Mi Invict Dino]]
+[[Lazuli Dino|Linnaeus Mi Invict Dino]]
 	His Royal Highness, the Prince of the Kingdom of Sacred, Son of Velocis, Heir to the Throne
 
  [[Mistral Taylor Burgitsk|Mistral Taylor Asker-Altta Burgitsk]]

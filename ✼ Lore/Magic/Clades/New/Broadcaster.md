@@ -12,12 +12,7 @@ A Broadcaster is able to use this perception as a channel for [[Reality-Bending|
 
 Typically, they are proficient [[Psion|psions]]: this is not a given, however, as some struggle to control their abilities and thus can't be called a "caster" in the traditional sense. 
 
-
-
-
 # Definition
-
-
 
 Owing to their natural propensity, they are typically spared the more basic "[[New Magic|new-magic]]" work that has been cropping up since it emerged: for example, a Broadcaster [[Shotcaller|shotcaller]] is a rare sight.
 
@@ -28,9 +23,3 @@ While Broadcasters on the whole find themselves catalogued and tagged by governm
 # External views
 
 The [[Numberless Children]] advocates for their freedom from oppression.
-
-%%
-```query
-tag:#caster/psi/broad
-```
-%%

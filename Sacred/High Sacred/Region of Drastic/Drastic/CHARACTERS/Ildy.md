@@ -6,6 +6,6 @@ onenote-modified: 2020-07-28 22:44:27 -0400
 
 **Ildy** was the old [[Eidolon]] defender of [[Drastic]] who embodied love. In essence, as eidolon of the capitol, he was chief amongst all other eidolons in the [[Kingdom of Sacred]].
 
-[[Linnaeus Dino|Linnie]]'s traveling companion, the ever-faithful eidolon was one of the sole confidants of the young prince's [[Dragonic Curse|curse]].
+[[Lazuli Dino|Linnie]]'s traveling companion, the ever-faithful eidolon was one of the sole confidants of the young prince's [[Dragonic Curse|curse]].
 
 However, he was [[Red Spark|killed]] viciously by the [[Nortian Conspiracy]], and he dropped the [[Wand of Mythos]] upon death.

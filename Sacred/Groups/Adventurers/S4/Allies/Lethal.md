@@ -37,14 +37,14 @@ residence: "[[S4t]]"
 >| Aliases | L. |
 >| Pronouns |  he-him, they-them  |
 >| Ancestry | [[Visitant]] [[human]] [[aasimar]] |
->| Conditions | [[Soul bond]] to [[Linnaeus Dino\|Linnaeus]] and other visitants |
+>| Conditions | [[Soul bond]] to [[Lazuli Dino|Linnaeus]] and other visitants |
 >| Occupation(s) | Adventurer, aide to the [[S4]] |
 >| Skills and Abilities | Roguish abilities, highly-tuned psionics, knack for martial arts |
 >| Partner(s) | n/a |
 >| Likes | Long walks, cats, his family, companionship |
 >| Dislikes | Selfishness |
 
-**Lethal Amia** is an adventurer and [[visitant]] of [[Linnaeus Dino|Linnaeus]], created prior to the [[Dragonic War]]. During the conflict, he was the first visitant of this nature discovered by the [[S4]] following the [[Red Spark]], and played a key role in their journey to assemble the [[Golorr|Stone of Golorr]].
+**Lethal Amia** is an adventurer and [[visitant]] of [[Lazuli Dino|Linnaeus]], created prior to the [[Dragonic War]]. During the conflict, he was the first visitant of this nature discovered by the [[S4]] following the [[Red Spark]], and played a key role in their journey to assemble the [[Golorr|Stone of Golorr]].
 
 Following the conflict, Lethal was instrumental in the visitants' further endeavors.
 # History

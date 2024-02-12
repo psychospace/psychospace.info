@@ -4,7 +4,11 @@ tags:
 status: unknown
 pronouns:
   - they-them
+aliases:
+  - boobs
 ---
+![[⎋ Secondary Canon]]
+
 **Brisl** is a 26 (objective) year old person who works as the sortie operator aboard the [[Draccor]]. 
 # History
 Brisl is from a once-isolated world with extreme conditions. However, they grew up aboard a [[Union]] ship, and lived out most of their life on [[Mars]] deep in Union space.

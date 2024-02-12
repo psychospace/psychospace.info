@@ -22,12 +22,8 @@ In its pure form, it occurs in distinctive [cubic-crystalline](https://en.wikipe
 
 When worked in metallurgy, noemite is resistant to [annealing](https://en.wikipedia.org/wiki/Annealing_(materials_science)), and the edges of its cubic crystals typically remain as distinct square "flows" upon the surface of the material, even after its symmetries have been reworked multiple times.
 
-Individual nodes of noemite harbor the ability to sustain a personal, [[Psionics|psychokinetic]], [[Gravity|gravitational]] field, which allows them to hover in arrangement when suffused by the shape of the ambient [[phoreus field]].
+Individual nodes of noemite harbor the ability to sustain a personal, [[Psionics|psychokinetic]], [[Gravity|gravitational]] field, which allows them to hover in arrangement when suffused by the shape of the ambient [[phoreus field]]. Individual nodes are also able to alter their alignment and fixed-height in accordance with directed [[Off-wave|off-waves]] in its environment.
 
-Noemite's most noteworthy properties arise from its interaction with [[Echo|echoes]], which attune and adhere to the metal. Echoes can be transported using noemite as a medium, via physical resonance (usually through contact and vibrations) in other nodes. 
-
-These two properties form the extreme basis of its ability to transmit verlan, a phoreic energy.
-
-A distinct is also able to alter its alignment and fixed-height in accordance with directed [[Off-wave|off-waves]] in its environment
+Noemite's most noteworthy properties arise from its interaction with [[Echo|echoes]], which attune and adhere to the metal. Echoes can be transported using noemite as a medium, via physical resonance (usually through contact and vibrations) in other nodes. These properties form the extreme basis of its ability to transmit [[verlan]].
 
 Noemite can be alloyed to produce a [teflon](https://en.wikipedia.org/wiki/Polytetrafluoroethylene)-like plastic polymer known as ***emanite***.

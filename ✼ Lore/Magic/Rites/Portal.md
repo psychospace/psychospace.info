@@ -5,7 +5,7 @@ aliases:
   - teleportation
 ---
 
-In [[magic|arcane]] terms, a **portal** is a form of artificially-created threshold between [[Plane|planes]], or between two separate locales on the same plane.  Using a portal, one can effect **teleportation**, transporting themselves without traversing any physical space in between. 
+In [[magic|arcane]] terms, a **portal** is a form of artificially-created threshold between [[Plane|planes]], or between two separate locales on the same plane.  Using a portal, one can effect **teleportation**, transporting themselves without traversing any physical space in between.  ^d4d606
 
 Many form of portals exist, from those powered by [[Rune|runetech]] and the [[The Sheer|Sheer]], to those instantaneously created by a [[dimension door]], to those used in [[enchantment]] to maintain a [[Plane#Demiplane|demiplane]]. 
 

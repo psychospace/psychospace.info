@@ -25,7 +25,3 @@ Altercations are most often attributed to the effect of [[Lynchpin Device|lynchp
 
 # History
 Originally, altercations went unacknowledged by reality, potentially allowing anything and anyone to rise to [[Mortal God Ritual|godhood]]. To prevent this (except in extraordinary circumstances), the [[Divinity|gods]] created the lynchpins.
-
-%%%
-negotiation
-%%

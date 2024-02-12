@@ -11,5 +11,5 @@ Since 1245 PT, the house was undergoing consistent renovations year over year, i
 
 In [[1249 PT]], the Fortress-pocket temporarily caused the manor to vanish from existence. 
 
-Eventually, as part of the precautions taken by the [[Nortian Conspiracy]] just before [[1251 PT]], the pocket bound to the manor was "snagged" to the primary stairwell of the [[Nail of Nortia]], preventing access to the higher floors so as to protect the investigations of the [[Masterwork Laboratory]] into the kidnapped [[Linnaeus Dino]].
+Eventually, as part of the precautions taken by the [[Nortian Conspiracy]] just before [[1251 PT]], the pocket bound to the manor was "snagged" to the primary stairwell of the [[Nail of Nortia]], preventing access to the higher floors so as to protect the investigations of the [[Masterwork Laboratory]] into the kidnapped [[Lazuli Dino]].
 

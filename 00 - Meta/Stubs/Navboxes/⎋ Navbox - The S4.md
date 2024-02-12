@@ -25,5 +25,5 @@ permalink: nb/s4
 >    - [[Eldral Levin]]
 >    - [[Star of the North]]
 >    - [[Alexios Hawthorne]]
->    - [[Linnaeus Dino]]
+>    - [[Lazuli Dino]]
 >

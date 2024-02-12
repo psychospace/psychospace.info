@@ -1,6 +1,10 @@
 ---
 permalink: docs
-cssclasses: readable
+cssclasses:
+  - readable
+tags:
+  - hub
+description: This page acts as a hub for content adjacent to the Heavens. If you're interested in non-wiki reading material, please regularly check this page for new stories and the like.
 ---
 %%
 ```dataview
@@ -8,11 +12,11 @@ LIST
 FROM -outgoing([[#]]) and "psychospace.info/✼ Stories"
 SORT file.name
 ```
-%%
 
 [[✼ Story Hub|🝰 Stories]] 🢖 🙪⋆🜲⋆🝩⋆🜞⋆🜍⋆🝮
----
-This page acts as a hub for the pages in the **Stories** folder. If you're interested in non-wiki reading material, please regularly check this page for new stories and the like.
+%%
+
+This page acts as a #hub for the pages in the **Stories** folder. If you're interested in non-wiki reading material, please regularly check this page for new stories and the like.
 # ⊛ Prose
 Stories in **prose** are stories written about or from the perspective of characters.
 
@@ -23,7 +27,7 @@ Stories in **prose** are stories written about or from the perspective of charac
 Stories in **roleplay** are stories which play out in tabletop roleplaying systems.
 
 * **[[⍟ Magical Mystery Tour]]** 
-    * The first campaign, which invented the Heavens. It covers the adventures of the people and destinies connected to [[Linnaeus Dino|Linnaeus]], Prince of [[Kingdom of Sacred|Sacred]].
+    * The first campaign, which invented the Heavens. It covers the adventures of the people and destinies connected to [[Lazuli Dino|Linnaeus]], Prince of [[Kingdom of Sacred|Sacred]].
 * **[[⍟ Extra Innings]]** 
     * A series acting as an experimental test for Pathfinder. An unexpected change of fate: Victims of a [[Mass-Resurrection Incident|mass-resurrection]] investigate their own return.
 * **[[⍟ Twin Fantasy]]** 

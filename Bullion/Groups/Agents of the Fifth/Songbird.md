@@ -20,10 +20,3 @@ Their school of chivalry, called *Plainsong*, derives from a longstanding tradit
 The [[Single-Brain Cell|SBC]] call them “Brims” for their braces (usually around the neck or leg), usually forged out of magic-resistant material like [[brimstone]].
 
 
-%%
-```query
-tag:#caster/psi/songbird
-```
-%%
-
-

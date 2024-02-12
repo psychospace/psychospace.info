@@ -40,4 +40,4 @@ Detailed by [[Viers Callinan]], in [[616 PT]], when the [[elseworld]] [[616 E-PT
 
 The first modern discovery of the Signal occurred in [[1245 PT]] when [[Amanita Parasom|Amanita]] and [[Octavia Parasom]] completed the *[[Visage of the Fortress]]* ritual, hearing a strange whispering noise emerging on the final layer (which mimicked [[Väräh]]). Though they were able to evade it through using their [[Soul bond|soul bond]], it produced a globule of energy they called a "bubble", which refused to be dispelled and which turned any physical attacks on it back on them.
 
-Later, remnants of the signal were again detected
+%%Later, remnants of the signal were again detected%%

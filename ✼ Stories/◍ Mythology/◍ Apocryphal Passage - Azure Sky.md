@@ -16,7 +16,7 @@ Eighteen counts the sutures,<br>
 >
 [[Ikabod Caruso|Three tired eyes]] to show you.<br>
 Four [[Trobairitz|broken]] [[Certain (evangel)|eyes]] who flee.<br>
-[[Linnaeus Dino|Five-pointed star]] [[Dragonic Curse|made anew]],<br>
+[[Lazuli Dino|Five-pointed star]] [[Dragonic Curse|made anew]],<br>
 And [[Visitant|six]] [[SUEANNIL|pairs]] nightmares see.<br>
 >
 Seven shall number [[S4|sealers]]:<br>
@@ -36,7 +36,7 @@ The face, the mask, [[Bias coagulation|dispute]].<br>
 >
 Seven souls, seals, one<br>
 [[Dinofang|All linking all the rest]].<br>
-[[Blackflame|Darkness scorch]] [[Linnaeus Dino|the son]]<br>
+[[Blackflame|Darkness scorch]] [[Lazuli Dino|the son]]<br>
 When all unite [[⎊ Golorr Bares All|the crest]].<br>
 >
 [[Sakuya and Ninigi|Blue and red]] in tandem,<br>

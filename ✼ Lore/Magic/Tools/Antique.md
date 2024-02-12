@@ -9,7 +9,7 @@ In [[Draconic]], the concept is called a **tsukumogami** (lit. "tool *kami*"), a
 Such effects are the result of multiple generations of [[Psychospace|psychospacial]] influence.
 
 # False antiques
-A so-called **false antique** is an object whose existence has been artificially and retroactively (through [[Discrepant|discrepancy]]) lengthened%%, usually through [[New Magic]]%%, in order to grant it the properties of an antique. 
+A so-called **false antique** is an object whose existence has been artificially and retroactively (through [[Discrepant|discrepancy]]) lengthened, usually through [[New Magic]], in order to grant it the properties of an antique. 
 
 From the perspective of the present day, such objects have been a part of history for an extended period, but only artificially so. The creation of a false antique produces a monumental [[Context|chiral incongruity]] with reality, dangerous if nothing else, which can be observed and repaired if its development is caught early enough.
 

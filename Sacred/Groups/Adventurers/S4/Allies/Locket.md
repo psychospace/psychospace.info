@@ -6,7 +6,7 @@ tags:
 issues:
   - incomplete
 ---
-**Locket** is a [[Visitant]] of [[Linnaeus Dino]], created by [[Ikabod Caruso]].
+**Locket** is a [[Visitant]] of [[Lazuli Dino]], created by [[Ikabod Caruso]].
 
 Crafted from the prince's sense of creativity, she was Ikabod's sixth creation for the purpose of curing the [[Dragonic Curse]], and was the first to be marked a success.
 

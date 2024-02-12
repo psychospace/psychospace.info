@@ -21,7 +21,7 @@ A **supraekeic**^[Pronounced [sou-pra-eh-kay-ick]. From "supra", meaning "transc
 
 Such ships are designed for regular travel between layers of the [[The Planet#Planar stack|planar stack]]. A supraekeic craft is ultimately designed to avert or protect against [dysbarism](https://en.wikipedia.org/wiki/Dysbarism) in its crew and passengers, especially if the ship is constantly on the move, such as in the case of ships built for hunting, mining, or fishing.
 
-The construction of supraekeic craft is novel, rare, and usually industrial in nature. For much of their existence, airships designed to travel between layers have provided with redundant "strip-parts" which are designed to protect utilitarian armor from  upon descending to a lower layer. 
+The construction of supraekeic craft is novel, rare, and usually industrial in nature. For much of their existence, airships designed to travel between layers have provided with redundant "strip-parts" which are designed to protect utilitarian armor from corrosion, by being "stripped off" from the forces acting upon an airship, while descending to a lower layer. 
 
 Such craft are typically described as being capable of **infrayonder** (below the [[Wild Blue Yonder|Yonder]]) or **interyonder** (above the Yonder) travel.
 

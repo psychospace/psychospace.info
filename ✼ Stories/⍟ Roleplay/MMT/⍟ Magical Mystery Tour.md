@@ -26,7 +26,7 @@ In Arc 3, **Syzygy**, all eyes are trained on the party's journeys to assemble t
 ## Arc 4 - "Apsis"
 In Arc 4, **Apsis**, the last pieces of the stone are collected, leading to a reunion with the party's frenemy, Master [[Ikabod Caruso]]. Seeking repentance and discovering strange connections, the party gather themselves, as well as unexpected but persistent allies, into the final stretch, following ancient instructions for the revival of the [[Carapa Republic]] in order to wrangle the dragonic curse's source, [[Arahabaki]].
 ## Arc 5 - "Redshift"
-In Arc 5, **Redshift**, 
+See [[MMT - Arc 5, Redshift]].
 # Pre-Game Post
 ## Discord Intro
 >[!quote| author] Narration

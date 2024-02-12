@@ -27,7 +27,7 @@ The third-nearest planet to the [[star]] [[Cien]] in the [[Antic Sea]], Yalagnu 
 ## Planar stack
 The Planet is comprised of what is known as the **planar stack**, a material, physical stratification of [[Chaos]]. The [[Skysea|skyseas]] divide each layer further into distinct areas, each of which are populated by [[Remnant|remnants]]: great continents of floating, suspended rock, which harbor most of the Planet's life.
 
-Vertically layered through an immense [atmosphere](https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Stratification) are seven distinct [[Plane#Realm|realms]], each of which holds particular sway over a distinct piece of [[Elemental energy|elemental chaos]], a powerful energy that defines and abstracts nature into component pieces. Their thresholds are usually comprised of [[cloudscape|clouds]] which were [[The Gathering|intended]] to prevent collusion between the elements. 
+Vertically layered through an immense [atmosphere](https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Stratification) are seven distinct [[Plane#Realm|realms]], each of which holds particular sway over a distinct piece of [[Elemental energy|elemental chaos]], a powerful energy that defines and abstracts nature into component pieces. Their thresholds are usually comprised of [[cloudscape|clouds]] which were [[The Gathering|intended]] to prevent collusion between the elements.  ^b65a40
 
 These realms are, from highest to lowest:
 - The [[Dark Sea]]

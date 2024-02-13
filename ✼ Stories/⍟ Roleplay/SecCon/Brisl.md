@@ -4,8 +4,6 @@ tags:
 status: unknown
 pronouns:
   - they-them
-aliases:
-  - boobs
 ---
 ![[⎋ Secondary Canon]]
 

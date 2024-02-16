@@ -26,7 +26,7 @@ Individual nodes of noemite harbor the ability to sustain a personal, [[Psionics
 
 Noemite's most noteworthy properties arise from its interaction with [[Echo|echoes]], which attune and adhere to the metal. Echoes can be transported using noemite as a medium, via physical resonance (usually through contact and vibrations) in other nodes. These properties form the extreme basis of its ability to transmit [[verlan]].
 
-# [Alloys](https://en.wikipedia.org/wiki/Alloy)
+# Alloys
 ## Emanite 
 A [teflon](https://en.wikipedia.org/wiki/Polytetrafluoroethylene)-like polymer-alloy of noemite made with [zinc](https://en.wikipedia.org/wiki/Zinc) (10%-8%), [silicon](https://en.wikipedia.org/wiki/Silicon) (5%-3%), and other optional additives including, [bismuth](https://en.wikipedia.org/wiki/Bismuth), [copper](https://en.wikipedia.org/wiki/Copper), [silver](https://en.wikipedia.org/wiki/Silver), [gold](https://en.wikipedia.org/wiki/Gold), [platinum](https://en.wikipedia.org/wiki/Platinum), and [uranium](https://en.wikipedia.org/wiki/Uranium). The most commonly used mixture is Proper Emanite, containing zinc, silicon, and gold. It has a high [plastic deformation point](https://en.wikipedia.org/wiki/Plasticity_(physics)) and can sustain a lot of elastic deformation. This provides a juxtaposition of a soft, plastic like material that is also cold to the touch due to its good thermal conductivity. 
 ## Diestermite

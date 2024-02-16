@@ -35,5 +35,5 @@ A noemite-[lithium](https://en.wikipedia.org/wiki/Lithium) alloy developed by [[
 Diestermite deteriorates over a few months to a year after fully cooling in a process called Sliation. The lithium in the alloy creeps its way out of solution and onto the surface of the metal. This forms an outer plating of lithium encasing a pure noemite core. This process can be accelerated down to a few days by exposing it to heat or psionic energy for the duration. 
 This phenomenon can be used to create a solid shaped piece of noemite, as noemite in its pure state is hard and resists annealing. The alloy is created, cooled to a workable temperature, then shaped into its desired form. After accellerating the sliation, the outer layer of lithium can be removed through washing and/or scraping. 
 [Lead](https://en.wikipedia.org/wiki/Lead) can be added as an additive with a mass of around 1.5%-1% of the alloy to prevent Sliation. This marginally decreases the alloy's conductivity while dramatically increasing its lifetime, up to the order of decades.
-##  Paste
+## Sigmar's Paste
 A noemite-[mercury](https://en.wikipedia.org/wiki/Mercury_(element)) [amalgam](https://en.wikipedia.org/wiki/Amalgam_(chemistry)) with a mass distribution of 85% to 15% respectively. It is primarily used as a plaster for filling psircuit traces for small-scale [[Verlan||verlan]] systems. 

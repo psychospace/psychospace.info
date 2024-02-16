@@ -36,6 +36,7 @@ The following users have graciously dedicated their time to working on this wiki
 >- [[Silver (XI)]]
 >- [[Draccor]]
 >- [[Brisl]]
+>- [[Noemite#Alloys]]
 
 ## Players
 As players in tabletop roleplaying, they are as much contributors to the world and how it ends up taking shape as any. The players are listed below along with the characters they control/controlled.

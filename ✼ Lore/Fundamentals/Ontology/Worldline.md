@@ -3,11 +3,13 @@ aliases:
   - worldlines
 ---
 ![[⎋ 2FPG]]
-In [[Thaumaturgy|thaumaturgical]] studies, a "**worldline**" is the [[Epitome|epitome]] of the very [[The Heavens|Heavens]] themselves, though sometimes the definition expands to include other planetoids or sometimes the breadth of all of [[Manifold Seas|manifold space]]. A worldline describes the change of the world through [[time]] *and* space, rather than concerning the timeline of a singular piece of it. 
+In [[Thaumaturgy|thaumaturgical]] studies, a "**worldline**" is the [[Epitome|epitome]] of the very [[The Heavens|Heavens]] themselves. A worldline describes the change of the world through [[time]] *and* space, rather than concerning the timeline of a singular piece of it. 
+
+Sometimes, though rarely, the definition expands to include other planetoids, [[Manifold Seas]], or sometimes all of the [[universe]]. 
 
 Someone who could [[time travel|travel through time]] could travel along the worldline through both time and space at once, effectively granting an extremely powerful [[teleportation]] ability.
 
-The worldline described on this wiki is, without otherwise specifying, describing the events of the primary worldline (which hasn't [[End Times|ended]], yet, to my knowledge). **Alternate** worldlines are also described, such as [[Elseworld]]. 
+The worldline described on this wiki is, without otherwise specifying, describing the events of the *primary worldline* (which hasn't [[End Times|ended]], yet, to my knowledge). **Alternate** worldlines are also described, such as [[Elseworld]].  ^a586f7
 
 # Nature
 

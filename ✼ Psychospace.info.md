@@ -8,11 +8,13 @@ cssclasses:
 
 **Welcome to the official wiki of [[The Heavens|the Heavens]], a high-magic fantasypunk[^huh?] universe, created by [January November](https://bsky.app/profile/blog.psychospace.info).**
 
+This wiki maintains *over 190,000 words* and over 1,000 articles^[Count last updated 2-16-2024.], and is continuously maintained by its team of [[✼ World Credits|contributors]].
+
 > Myth and mirth fuel the societies of the [[Wild Blue Yonder]] on floating sky-islands known as [[Remnant|remnants]], whose [[Flipside|flipsides]] hold secrets, other worlds, and treasure beyond compare. 
 > 
 > [[Magic]] finds its source in [[Psychospace|psychospace]], a realm of the mind which overlays all [[Soul|living things]], where your very emotion and ingenuity can conjure the [[Elemental energy|elements]], give [[Visitant|face]] to thought, [[Eidolon|guard]] your people, and much much more. 
 > 
-> As [[Airship|airships]] carve through cloud and charter through [[skysea|oceans of air]], buzzing away on the remnants' surfaces is a changing world... and one always about to receive another wake-up call.
+>As [[Airship|airships]] carve through [[Cloudscape|clouds]] and charter through [[skysea|oceans of air]], buzzing away on the remnants' surfaces is a changing world... and one always on the cusp of another wake-up call.
 
 ![[Year (unit)#^114bc9]]
 
@@ -22,12 +24,16 @@ cssclasses:
 
 >[!info|clean no-title] 
 ># What is this world?
->This world, **the Heavens**, was originally created by January November beginning in 2019 (AD, not [[Pinwheel Tempo|PT]]!) for [tabletop roleplaying](https://en.wikipedia.org/wiki/Tabletop_role-playing_game). While it is still used for this, it is also used for other purposes, such as fiction.
+>This world, **[[the Heavens]]**, was originally created by January November, beginning on August 5th, 2019 (AD, not [[Pinwheel Tempo|PT]]!) for [tabletop roleplaying](https://en.wikipedia.org/wiki/Tabletop_role-playing_game). 
 >
->It was initially designed to be largely without a distinct genre so that many different stories can be told within it. It was inspired primarily by many video games, cartoons both East and West, and various artists, such as [nelnal](https://twitter.com/nelnalium), [juanmao](https://twitter.com/juanmao1997?lang=en), [klaufir](https://www.patreon.com/salieske), and others.
+>Though the concepts which built it out (including psychospace itself) were initially designed with a science-fiction focus in mind, the setting became more fantasy-centric and was greatly expanded when the first campaign run in it, *[[⍟ Magical Mystery Tour]]*, was planned, prepared, and run. While it is still used for TTRPGs, it is also used for other purposes, such as fiction.
+>
+>The Heavens was designed to be largely without a distinct genre so that many different stories can be told within it. It was inspired primarily by many video games, cartoons both East and West, and various artists, such as [nelnal](https://twitter.com/nelnalium), [juanmao](https://twitter.com/juanmao1997?lang=en), [klaufir](https://www.patreon.com/salieske), and others.
 >
 >## What is this website?
->**Psychospace.info** acts as the official [wiki](https://en.wikipedia.org/wiki/Wiki) for the Heavens, maintained and written by its creator. It is always being updated and expanded to improve its coverage of the universe, as well as reveal things beyond the spoiler wall. Many people have [[✼ World Credits|contributed]] to this project over the years, and their work is represented here.
+>**Psychospace.info** acts as the official [wiki](https://en.wikipedia.org/wiki/Wiki) for the Heavens, maintained and written by its creator. It was initially launched on August 5th, 2023, and has grown ever since.
+>
+>Many people have contributed to this project over the years, and their work is represented here.
 >
 > You may also be interested in the many [[✼ Story Hub|stories]] told in this universe.
 

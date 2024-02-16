@@ -9,7 +9,7 @@ aliases:
 
 The **Planet** ([[Oa'Rovi]]: ***Yalagnu***^[Yal-Ashnu]), is the typical [[Shindani]] name of the physical [planet](https://en.wikipedia.org/wiki/Planet) which is home to the [[The Heavens|Heavens]], where life thrives and where [[psychospace]] is known to harbor an immense power. 
 
-
+The third-nearest planet to the [[star]] [[Cien]] in the [[Antic Sea]], Yalagnu is a diverse rocky world with peculiar [[gravity]], and two moons, [[Lex]] and [[Ordo]]. 
 
 # History
 Since [[Unknown Era|time immemorial]], it has harbored the flow of [[Soul|souls]] throughout the Antic Sea, and possesses complex planar substrata, including sharing the [[The Sheer|influence]] of [[Stronn|another star]], as well as a [[The Fortress|conduit]] to an [[Elseworld|alternate worldline]].
@@ -22,7 +22,6 @@ The Planet was architected from the [[Old world|old world]] by the [[Anti|god of
 Naturally, as the anchor point of [[logic]], the Planet also exists as the "surface" of the [[elseworld]], where [[necrospace]] rules.
 
 # Composition
-The third-nearest planet to the [[star]] [[Cien]] in the [[Antic Sea]], Yalagnu is a diverse rocky world with peculiar [[gravity]], and two moons, [[Lex]] and [[Ordo]]. 
 
 ## Planar stack
 The Planet is comprised of what is known as the **planar stack**, a material, physical stratification of [[Chaos]]. The [[Skysea|skyseas]] divide each layer further into distinct areas, each of which are populated by [[Remnant|remnants]]: great continents of floating, suspended rock, which harbor most of the Planet's life.

@@ -61,7 +61,7 @@ We are Golorr, [[Aboleth]], beyond gods and men. We have seen four peoples rise 
 >
 >You are to be forewarned that this will likely take a great time…
 
-*[The eyes glow bright white, and the light appears to fill your ever instinct. You suddenly each feel yourselves immersed in the water at your ankles, plunged into an ethereally massive puddle... you emerge in a land of pinks and purples, this great snake-like entity floating before you, an elder force in the universe, shaping the landscape you witness. You realize... you are, or at least perceive, inside psychospace.]*
+*[The eyes glow bright white, and the light appears to fill your ever instinct. You suddenly each feel yourselves immersed in the water at your ankles, plunged into an ethereally massive puddle... you emerge in a land of pinks and purples, this great snake-like entity floating before you, an elder force in the [[universe]], shaping the landscape you witness. You realize... you are, or at least perceive, inside psychospace.]*
 
 *[The scene shifts as rapidly as it was created, and you find yourself standing in the middle of an ancient street on a great body of water at night: with winged people lining the sidewalks on either side of you. The city prior to [[Drastic]]: the Holy Port of Ace. Golorr begins its odyssey...]*
 

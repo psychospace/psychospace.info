@@ -6,14 +6,14 @@ aliases:
   - outer space
   - Graciosa
 ---
-The **Out There** is a modern colloquialism given to the collection of [[Plane|planar]] and plane-like structures which permeate all existence, harboring things like [[The Planet|the Planet]] and its [[Antic Sea|world sea]].
+The **Out There** is a modern colloquialism given to the collection of [[Plane|planar]] and plane-like structures which permeate all [[universe|existence]], harboring things like [[The Planet|the Planet]] and its [[Antic Sea|world sea]].
 
-It is also called **Graciosa**, the **Outer Planes**, **Neverside**, or **[outer space](https://en.wikipedia.org/wiki/Outer_space)**, depending on the culture. 
+It is also called **Graciosa**, the **Outer Planes**, **Neverside**, or **[outer space](https://en.wikipedia.org/wiki/Outer_space)**, depending on the culture. Study of the Out There is known as **astronomy**.
 
 # Composition
 Nobody in the Heavens is quite aware of where the Out There came from, though a general consensus exists that it emerged from the [[Chartless Sea|Chartless Sea]], a plane of energetic expansion.
 
-Precisely stated, there are two intermediate states of the Out There: [[Manifold Seas|manifoldness]] and [[Chartless Sea|chartlessness]]. Entire regions can be divided cleanly between them: near-stellar "planetary" space, and interstellar "void" space. The former is governed by the influence of [[star|stars]], and the latter is governed by the tenuous influence of [[Outsider|Outsiders]]. ^6df3cf
+The Out There has two, precise, opposed natures: [[Manifold Seas|manifoldness]], where the rules are governed by [[star|stars]], and [[Chartless Sea#Chartlessness|chartlessness]], governed by [[Outsider|Outsiders]]. These natures determine the nature of the [[logic]] and natural laws which exist there.
 
 ## Ontology
 

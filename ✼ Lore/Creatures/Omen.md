@@ -7,4 +7,4 @@ Their births occurred within an unknown interval. Those born before [[1251 PT]] 
 
 Omens, like Broadcasters, are known to be drawn powerfully to one another's influence.
 
-Omens were often born aware of greater factors in reality, such as the [[Gift of Stars]]. They were also known for generally bearing bioluminescent [[bright eyes]], as well as [[Logic|luck]] unlike their peers.
+Omens were often born aware of greater factors in [[Universe|reality]], such as the [[Gift of Stars]]. They were also known for generally bearing bioluminescent [[bright eyes]], as well as [[Logic|luck]] unlike their peers.

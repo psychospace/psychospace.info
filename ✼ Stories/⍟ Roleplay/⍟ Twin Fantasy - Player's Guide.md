@@ -81,8 +81,10 @@ Here are some examples of regions in Bullion your character may be from.
 >- **[[Kernwelt]]**: The lower center of the landmass is home to dwarvish and other tunneler folk inside dusty mesas and clay villages, such as the harengon of the [[Siella Valley]]. Underground here are vast networks of complex ruins with a vast history, which has led to a culture of survivalists and explorers who brave them. Push further south and you'll reach [[Sirrhad]], a conglomeration of cities united by commerce and freedom of expression.
 
 
-# Format*
+# ~~Format*~~
 Many have asked what the "format" of the campaign will be. This campaign will be much more open-ended than how I initially planned [[⍟ Magical Mystery Tour]], something approaching a hybrid of traditional formats and [West-Marches](https://www.secretsofthebarrowmaze.com/what-is-a-west-marches-campaign/), to hopefully partly address issues I ran into while running campaign 1.
+
+**Update 2-16-2024:** This format has been scrapped, but I will leave it up for transparency's sake.
 
 - There will be three "core" group members. 
     - At least one member should attend each session. 

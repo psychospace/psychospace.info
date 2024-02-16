@@ -44,5 +44,5 @@ According to notes, [[Viers Callinan]] was able to identify and utilize a stable
 
 It was the connection of the elseworld to the real world that led [[Illarion Parasom]] to posit that both sides of the mirror would soon resemble each other.
 
-[^1]:  *Kayal* is an ancient [[Draconic]] phrase which means "archetypal", and by direct descendant an older form of the term [[aphorite|aphorite]]. This is supposedly a term these native descendants use as a protective turn of phrase, hoping that what lingering, dangerously fleeting form of [[Logic]] might spare them complete "deletion" from the universe if they speak into existence that they are essential pieces of it.
+[^1]:  *Kayal* is an ancient [[Draconic]] phrase which means "archetypal", and by direct descendant an older form of the term [[aphorite|aphorite]]. This is supposedly a term these native descendants use as a protective turn of phrase, hoping that what lingering, dangerously fleeting form of [[Logic]] might spare them complete "deletion" from the [[universe]] if they speak into existence that they are essential pieces of it.
 [^2]: For example, when a toddler [[Amanita Parasom]] glimpsed the elseworld through a dream of the dark from her [[quori|quori]] guide, her nascent shadow took on a protective spirit, and split, becoming [[Octavia Parasom]].

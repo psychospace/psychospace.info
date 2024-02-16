@@ -31,7 +31,7 @@ Although it had existed as a tangential belief in the arcane community for about
 Its origin appears to be undetermined, though many hypotheses exist, such as the [[sky-scrape]] or the [[End Times]].
 
 # Views
-[[Illarion Parasom]] held the belief that the change would bring reality to a breaking point. Some share this view.
+[[Illarion Parasom]] held the belief that the change would bring [[Universe|reality]] to a breaking point. Some share this view.
 
 As its proliferation can be said to threaten the world [[Fulcrum|on a global scale]] (and potentially has provably [[Collapse state|ended it]]), many governments have seen fit to limit its legal uses and sequester the science away, though births exhibiting the abilities of new magic continue to occur regardless of any efforts to contain it.
 

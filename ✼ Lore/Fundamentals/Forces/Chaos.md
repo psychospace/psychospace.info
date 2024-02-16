@@ -4,7 +4,7 @@ tags:
   - being/entity
   - energy
 ---
-**Chaos**^[Notably capitalized when referring to the being.], occasionally known as **the Remembered World**, is a primordial entity, taking the form of a source of energy and endless probability. It is a fundamental element of the [[Logic]] of the universe, originating from the [[Chartless Sea]].
+**Chaos**^[Notably capitalized when referring to the being.], occasionally known as **the Remembered World**, is a primordial entity, taking the form of a source of energy and endless probability. It is a fundamental element of the [[Logic]] of the [[universe]], originating from the [[Chartless Sea]].
 
 Chaos "itselves" are an entity in the loosest sense: a near-nonsensical system of disjointed [alters](https://en.wiktionary.org/wiki/alter#English) and personalities which have agglomerated together over millions of years. These alters are each [[Echo|echoes]] of the old world, making up modern day [[Soul|souls]]. One might say that Chaos, even incomprehensibly vast as it is, possesses a kind of "will", to act as guardian over nature and custodian of all creation. 
 

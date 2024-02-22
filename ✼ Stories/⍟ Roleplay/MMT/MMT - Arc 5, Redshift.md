@@ -3,12 +3,17 @@ permalink: mmt/arc/5
 tags:
   - roleplay
 ---
+>[!column | no-title txt-c]
+>>[!recite|no-i] [[MMT - Arc 4, Apsis|Arc 4, Apsis]] ←
+>
+>> [!recite|no-i] → // [[⍟ Twin Fantasy]]
+
 
 ***Redshift*** was the fifth and final arc of [[⍟ Magical Mystery Tour]], covering the [[S4]]'s mission to Nortia. Taking place predominantly over two extended days of missions, it covered the events of what is known as [[Zero Day]], which would forever change [[the Heavens]].
 
-In *Redshift*, the party embarked towards [[Yofora]] for their final mission to stop the Conspiracy, rescue and cure the ailing [[Lazuli Dino|Linnaeus]], end the war, and return both Nortia and Sacred to proper order.
+In *Redshift*, the party embarked towards [[Yofora]] for their final mission to stop the Conspiracy, rescue and cure the ailing [[Lazuli Dino|Linnaeus]], end the war, and return both Nortia and Sacred to proper order. ^df2ba5
 
-Meta-wise, this arc concluded the campaign, with sessions 73 through 81.
+Meta-wise, this arc concluded the campaign, with sessions 73 through 81, taking place from September 2023 to February 2024, just barely crossing the four-year anniversary of [[MMT - Arc 1, Nova|Arc 1]]'s beginning.
 
 # Events
 ### 3-2-1251

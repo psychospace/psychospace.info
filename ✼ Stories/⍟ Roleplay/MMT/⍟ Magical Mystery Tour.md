@@ -16,17 +16,28 @@ aliases:
 
 In-universe, the adventure began in the [[Kingdom of Sacred]], in the final month of [[1250 PT]], and followed the fraught events preceding and during the [[Dragonic War]], concerning the journeys of those connected to Prince [[Lazuli Dino]]. It is the first game run in (and invented) [[The Heavens]].
 
-# Arcs
-## Arc 1 - "Nova"
-In Arc 1, **Nova**, Linnaeus and [[Ildy]], stranded by a spontaneous [[Ghost storm|purple storm]], request the formation of an escort group to take them the long way home to [[Drastic]]. Beginning on [[1250 PT#12-11-1250|12-11-1250]], the party unites on the doorstep of the [[Maline Tower]]. Along their travels into [[Low Sacred]], they repeatedly encounter a dangerous cult known as [[Heartknock]]. At the end of the war, the [[Red Spark|Siege of Drastic]] occurred, [[⎊ Hazel's Arrival|rendering Linnaeus]] on the verge of succumbing to his secret [[Dragonic Curse]]: and setting his friends on the path to revenge.
-## Arc 2 - "Ephemeris"
-In Arc 2, **Ephemeris**, a [[Lethal|mysterious individual]] who exactly resembles the kidnapped prince draws the party into a web of mysteries. As forces sprawl behind the invasion and the curse itself, the queen calls for [[Project Ephemeris|national cooperation]], and the [[S4]] is truly born as a collective. When [[Volk Vendleberg]] is kidnapped and assumed killed, and [[Chiave Neeman|Chiave]] stolen as part of some plan, the party embark to rescue their friends from [[Dom Otdykha]].
-## Arc 3 - "Syzygy"
-In Arc 3, **Syzygy**, all eyes are trained on the party's journeys to assemble the [[Golorr|Stone of Golorr]], an artifact which supposedly holds the hidden origins of the curse. As each of Ikabod's experiments are finding themselves, and old enemies crop up left and right, the hammer of the Heartknock fully unveils their role in the war effort during the [[Miraclesfield Experiment]].
-## Arc 4 - "Apsis"
-In Arc 4, **Apsis**, the last pieces of the stone are collected, leading to a reunion with the party's frenemy, Master [[Ikabod Caruso]]. Seeking repentance and discovering strange connections, the party gather themselves, as well as unexpected but persistent allies, into the final stretch, following ancient instructions for the revival of the [[Carapa Republic]] in order to wrangle the dragonic curse's source, [[Arahabaki]].
-## Arc 5 - "Redshift"
-See [[MMT - Arc 5, Redshift]].
+# Events
+
+^0116d9
+
+The campaign was organized into five major arcs, structured as seasons.
+
+*For more information on the events of MMT, please see:* ^3e6067
+- [[MMT - Arc 1, Nova]]
+- [[MMT - Arc 2, Ephemeris]]
+- [[MMT - Arc 3, Syzygy]]
+- [[MMT - Arc 4, Apsis]]
+- [[MMT - Arc 5, Redshift]]
+## Arc 1 — “Nova”
+![[MMT - Arc 1, Nova#^1e4d07]]
+## Arc 2 — "Ephemeris"
+![[MMT - Arc 2, Ephemeris#^321688]]
+## Arc 3 — "Syzygy"
+![[MMT - Arc 3, Syzygy#^63e7ba]]
+## Arc 4 — "Apsis"
+![[MMT - Arc 4, Apsis#^e4ef35]]
+## Arc 5 - “Redshift”
+![[MMT - Arc 5, Redshift#^df2ba5]]
 # Pre-Game Post
 ## Discord Intro
 >[!quote| author] Narration

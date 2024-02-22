@@ -15,7 +15,6 @@ The elseworld resembles the planet in superficial ways, but on the brink of tota
 
 Much of society and mortality, as the denizens of the [[The Heavens|Heavens]] understand them, have effectively collapsed, with the [[Divinity|divines]] difficult to reach and punishment effectively eternal.
 
-
 As the reflection of the Planet, many places which existed at the time of the TPK remain, though in confused, complex, and often nonsensical shapes, all made harder to navigate via a persistent lack of [[star|starlight]] in the sky.  
 
 Were the planar stack maintained, it would be evident that the elseworld at one point were exactly like the Planet, containing else-forms of the [[Scarlet Skies]], [[Dark Sea]], [[The Above|Above]], [[The Below|Below]], [[Väräh]], and [[Umbraid]]. Due to the TPK, however, all of the individualized [[gravity]] of their [[Remnant|remnants]] have collapsed.

@@ -3,6 +3,8 @@ aliases:
   - Hell
   - remnantal
   - remnants
+tags:
+  - remnant
 ---
 A **remnant** is a floating landmass within the layers of [[the Planet]], suspended by [[Kibangan]]: a piece of land in a [[skysea]]. Most remnants are controlled by mortals, and many furnish their own societies and people. 
 

@@ -20,7 +20,7 @@ Mining noemite is considered extremely difficult when compared to other minerals
 
 In its pure form, it occurs in distinctive [cubic-crystalline](https://en.wikipedia.org/wiki/Cubic_crystal_system) structures, resembling [pyrite](https://en.wikipedia.org/wiki/Pyrite). 
 
-When worked in metallurgy, noemite is resistant to [annealing](https://en.wikipedia.org/wiki/Annealing_(materials_science)), and the edges of its cubic crystals typically remain as distinct square "flows" upon the surface of the material, even after its symmetries have been reworked multiple times.
+When worked in metallurgy, noemite is resistant to [annealing](https://en.wikipedia.org/wiki/Annealing_(materials_science)), and the edges of its cubic crystals typically remain as distinct square “flows” upon the surface of the material, even after its symmetries have been reworked multiple times.
 
 Individual nodes of noemite harbor the ability to sustain a personal, [[Psionics|psychokinetic]], [[Gravity|gravitational]] field, which allows them to hover in arrangement when suffused by the shape of the ambient [[phoreus field]]. Individual nodes are also able to alter their alignment and fixed-height in accordance with directed [[Off-wave|off-waves]] in its environment.
 
@@ -37,9 +37,9 @@ The most commonly used mixture is **proper emanite**, containing zinc, silicon, 
 Wires made from diestermite are used to provide a continuous physical conduit of psionic energy. Wires made in this way have lead added to prevent [[#sliation]]. 
 
 ### Sliation
-Diestermite deteriorates over a few months to a year after fully cooling in a process called **sliation**. The lithium in the alloy creeps its way out of solution and onto the surface of the metal. This forms an outer plating of lithium encasing a pure noemite core. This process can be accelerated down to a few days by exposing it to heat or psionic energy for the duration. 
+Diestermite deteriorates over a few months to a year after fully cooling in a process called **sliation**. The lithium in the alloy creeps its way out of solution and onto the surface of the metal, forming an outer plating of lithium encasing a pure noemite core. The process can be accelerated down to a few days by exposing it to heat or psionic energy for the duration. 
 
-This phenomenon can be used to create a solid shaped piece of noemite, as noemite in its pure state is hard and resists annealing. The alloy is created, cooled to a workable temperature, then shaped into its desired form. After accellerating the sliation, the outer layer of lithium can be removed through washing and/or scraping. 
+Sliation can be used to create a solid shaped piece of noemite, as noemite in its pure state is hard and resists annealing. The alloy is created, cooled to a workable temperature, then shaped into its desired form. After accelerating the sliation, the outer layer of lithium can be removed through washing and/or scraping. 
 
 [Lead](https://en.wikipedia.org/wiki/Lead) can be added as an additive with a mass of around 1.5%-1% of the alloy to prevent sliation. This marginally decreases the alloy's conductivity while dramatically increasing its lifetime, up to the order of decades.
 ## Sigmar's Paste

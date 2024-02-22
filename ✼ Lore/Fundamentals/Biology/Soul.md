@@ -12,7 +12,7 @@ In sapient creatures, its soul is also its personality, and its ability to empat
 
 A soul is made primarily of [[Vitality energy|positive energy]] and extremely potent [[Echo|echoes]]. These elements are held together by a form of self-[[Gravity|gravitational]] soul bond.
 
-All souls are said to find their terminus in [[Unwri]], becoming [[Petitioner|petitioners]], eventually to be recycled and reborn in the plane of [[Mana (plane)|Mana]]. Ersatz souls, such as [[Whatsit|whatsits]], [[Quasidragon|quasidragons]], and [[Eidolon]] souls, resemble the genuine article, but importantly have the distinction of being irretrievable if lost.
+All souls are said to find their terminus in [[Unwri]], becoming [[Petitioner|petitioners]], eventually to be recycled and reborn in the plane of [[Mana (plane)|Mana]]. Ersatz souls, such as [[Creature#Whatsit|whatsits]], [[Quasidragon|quasidragons]], and [[eidolon]] souls, resemble the genuine article, but importantly have the distinction of being irretrievable if lost.
 
 # Fylgja
 ![[Fylgja]]

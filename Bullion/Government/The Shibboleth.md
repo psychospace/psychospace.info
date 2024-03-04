@@ -10,7 +10,7 @@ tags:
 The **Shibboleth of Bullion**, also called “the Shib” for short, is the intergovernmental ruling body of much of the remnant of [[Bullion]], who coordinate in matters of warfare and trade. Comprised of seven nation-states, this collective was founded in the wake of the [[Bullion Civil War]] in [[1055 PT]].
 
 # Membership
-There were three founding states, and four additional have been granted full membership status. Its leader, the elected [[Lord President]] of Bullion, is usually the emir of the [[Golden Council]]%%; the incumbent to the office is [[Margaryda Archegon]]%%.  
+There were three founding states, and four additional have been granted full membership status. Its leader, the elected [[Lord President]] of Bullion, is usually the emir of the [[Golden Council]]; the incumbent to the office is [[Margaryda Archegon]].  
 
 The symbol of the Shibboleth is a [tiger lily](https://en.wikipedia.org/wiki/Lilium_lancifolium).
 
@@ -26,5 +26,3 @@ Their membership:
 A number of groups who act with effective autonomy have observer status: 
 - [[Blue Cinder Militia]]
 - The next up to pine for that position is the [[Kuroki Keiichi]].
-
-%%The [/[Single-Brain Cell|SBC]], who are wanted across the remnant, calls them "the secret club".%%

@@ -2,6 +2,9 @@
 tags:
   - roleplay
 permalink: xi
+aliases:
+  - XI
+  - Extra Innings
 ---
 ![[⎋ Real-World]]
 **Extra Innings** is a series taking place in [[The Heavens]] in [[1249 PT]]. It was run in *Pathfinder 2e*, starting on July 14th, 2023, by January November.

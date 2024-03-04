@@ -1,7 +1,16 @@
 ---
-tag: magic
+tags:
+  - magic
+cover: '"00 - Meta/Images/img_lin_dragon.png"'
+description: Manifestation of the grudge of Arahabaki and Arizhmiya, the Dragonic Curse was a long-standing plague on the crown of the Kingdom of Sacred.
 ---
-Manifestation of the grudge of [[Arahabaki]] and [[Arizhmiya]], the **Dragonic Curse** was a long-standing plague on the crown of the [[Kingdom of Sacred]]. It was cured in [[1251 PT]]. ^a18b0b
+>[!infobox|right wmed]
+>>[!caption| center]
+>>![[img_lin_dragon.png]]
+>>Prince [[Lazuli Dino|Linnaeus]] as a dragonic whillo.<br> Art by [[✼ World Credits#^4926d3|forbiddentaako]].
+^3c6376
+
+Manifestation of the grudge of [[Arahabaki]] and [[Arizhmiya]], the **Dragonic Curse** was a long-standing plague on the crown of the [[Kingdom of Sacred]]. It was cured in [[1251 PT]] on [[Zero Day]]. ^a18b0b
 
 # History
 The hatred which [[Arizhmiya|Lagacia]] felt for [[Anti]], which had stolen its "endpoint" by making it [[immortal]], metastasized into the power of [[occultation]], the ability to "stop" the [[Time|future]]. Over time, this hatred, which caused Arizhmiya to shatter its body and forgo its former name, burrowed itself into the [[blackflame]], which it would use to [[Breaking of Sacred|break Sacred]].
@@ -17,7 +26,7 @@ In the final battle of the [[Drastic|Holy Port of Ace]], the curse was invoked b
 
 The curse continued to strike many times, ravaging [[House Dino]] each time.
 
-In order to cure [[Linnaeus Dino]], who was born afflicted and on the verge of succumbing, [[Golorr]] prescribed the [[S4]] utilizing the [[blackflame]] to contain it.
+In order to cure [[Lazuli Dino]], who was born afflicted and on the verge of succumbing, [[Golorr]] prescribed the [[S4]] utilizing the [[blackflame]] to contain it.
 
 # Effects
 The [[Curse|curse]] struck randomly on those who upheld the crown of the Kingdom, falling into mythos each time it did. Notably it was not a curse on the bloodline, as was believed by many powerful mages over the years, but rather a curse on the burden of rulership. 

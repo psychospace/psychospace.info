@@ -14,7 +14,7 @@ Meta-wise, it constituted most of the events of *[[⍟ Magical Mystery Tour]]*.
 # Prelude
 The Conspiracy had been operating since several months prior. They had already prepared for war, though were waiting for a go-ahead.
 
-In 1250 PT, [[Linnaeus Dino]] turned to [[Ikabod Caruso]] to assist in curing his [[Dragonic Curse]]. During this process, naturally, Ikabod came to know about the [[curse]] and its properties. When [[Trobairitz]] fleed his care, he hired a new assistant, [[Judia Naz]], who leaked the information about the curse to the Conspiracy.
+In 1250 PT, [[Lazuli Dino]] turned to [[Ikabod Caruso]] to assist in curing his [[Dragonic Curse]]. During this process, naturally, Ikabod came to know about the [[curse]] and its properties. When [[Trobairitz]] fleed his care, he hired a new assistant, [[Judia Naz]], who leaked the information about the curse to the Conspiracy.
 
 The curse provided a pretense to capture the prince (as was the Conspiracy's master's wishes), leading to the events of the Summit of Sacred.
 ## Red Spark

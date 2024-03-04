@@ -6,7 +6,7 @@ campaign: "[[⍟ Magical Mystery Tour]]"
 SPOILER:
   - "[[Project KC]]"
 ---
-Officially dubbed [[Project KC]], the **Nortian Conspiracy** was a treasonous government group that subverted the [[Great Nortian Empire|Nortian]] empire in mid-[[1250 PT]], leading to the [[Dragonic War]]. Overseen by [[Illarion Parasom]]  and [[Scarla Nitrum]], it was primarily led by thirteen individuals, following a mythological fascination with [[Dizforia]]. The group kidnapped [[Linnaeus Dino|Prince Linnaeus Dino]].
+Officially dubbed [[Project KC]], the **Nortian Conspiracy** was a treasonous government group that subverted the [[Great Nortian Empire|Nortian]] empire in mid-[[1250 PT]], leading to the [[Dragonic War]]. Overseen by [[Illarion Parasom]]  and [[Scarla Nitrum]], it was primarily led by thirteen individuals, following a mythological fascination with [[Dizforia]]. The group kidnapped [[Lazuli Dino|Prince Linnaeus Dino]].
 
 The ultimate goal of the Conspiracy was to obtain proof of [[Occultation]], an immense power which [[Arizhmiya]] had created, which could halt the onset of an impending [[collapse state]].
 
@@ -45,7 +45,7 @@ The political figures were to fund the secret research being conducted to prepar
 
 Under [[Wren Doggabone]], the [[Navy of Cacophony]], the [[Army of Euphony]] and particularly [[Hazel Sobol]] were under their command. Illarion already commanded the [[Prime Doppelguard]].
 
-The criminal cult known as [[Heartknock]] was created to further facilitate experimentation on Sacred to find the source of occultation or further rebuff its power. Many criminals and civilian engineers were reclaimed for the Heartknock to work on esoterica, such as their [[Shiny Mask|shiny masks]], or their experimentation.
+The criminal cult known as [[Heartknock]] was created to further facilitate experimentation on Sacred to find the source of occultation or further rebuff its power. Many criminals and civilian engineers were [[Reclamation (Bullion)|reclaimed]] for the Heartknock to work on esoterica, such as their [[Shiny Mask|shiny masks]], or their experimentation.
 
 Despite being unaware of all of this, Bianca became increasingly convinced that her [[Lord of Law]] was to betray her, and though she allowed the preparations for emergencies, she began to hide away and protect herself. Even she, however, was incapable of perceiving the lengths to which the entity that was his wife would go.
 
@@ -55,7 +55,7 @@ By cooperating with Arizhmiya, who Illarion assumed was an [[angel]], in the mon
 
 Near the end of the year, the Conspiracy learned of the [[dragonic curse]]'s continued existence through [[Judia Naz]]. Illarion apparently realized that this was the proof of occultation and the "grim destiny", and used this as an excuse to seize control over the [[Kingdom of Sacred]], a goal which would help them "cleanse" it of all curses.
 
-This would be revealed when [[Linnaeus Dino|Linnaeus]] was most vulnerable and the populace could receive such a message, during the Summit of Sacred. Illarion had predicted from an interpretation of the [[Apocrypha of Winds]] that Serena would be present at the onset of the war, and thus when she evacuated Yofora in fear of her life, without believing that her mother was taken over, all was seeming to align.
+This would be revealed when [[Lazuli Dino|Linnaeus]] was most vulnerable and the populace could receive such a message, during the Summit of Sacred. Illarion had predicted from an interpretation of the [[Apocrypha of Winds]] that Serena would be present at the onset of the war, and thus when she evacuated Yofora in fear of her life, without believing that her mother was taken over, all was seeming to align.
 
 On the Third of Augenschien, the [[Red Spark|Siege of Drastic]] took place. Due to the secrecy with which the Nortian Empire already operated, Sacred had no preparations or anticipation for the attack, and was caught well off-guard by their once-ally. [[Ildy]] was slain, Linnaeus's curse was set in motion and revealed, and the prince himself was kidnapped, taken to the [[Nail of Nortia]] where he would be kept protected in the Masterwork Laboratory.
 

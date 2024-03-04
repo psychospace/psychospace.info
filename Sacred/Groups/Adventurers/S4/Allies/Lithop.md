@@ -12,7 +12,7 @@ factions:
   - "[[S4]]"
 campaign: "[[⍟ Magical Mystery Tour]]"
 ---
-**Lithop** (*lye-thopp*) is a [[Visitant]] of [[Linnaeus Dino|Linnaeus]]. 
+**Lithop** (*lye-thopp*) is a [[Visitant]] of [[Lazuli Dino|Linnaeus]]. 
 
 Crafted from the prince's sense of love for nature, she was [[Ikabod Caruso]]'s second creation for the purpose of curing the [[Dragonic Curse]], deemed a failure. 
 

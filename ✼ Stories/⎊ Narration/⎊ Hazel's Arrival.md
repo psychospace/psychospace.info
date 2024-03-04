@@ -27,7 +27,7 @@ permalink: narration/hazel
 
 [You see two, three, four similar zeppelin airvessels appear, each smaller than the "CHARYBDIS". They all circle the vessel, offering support. This is to say nothing of the four ships you see currently docked with the CHARYBDIS, and that's on the side facing the Stadium. How large is whatever this force is….?]
 
-[The [[Tyranno Re Ursus|king]] suddenly wavers. There's a moment of recognition in his eyes, and [[Succotash]] moves to stand ahead of him as they are surrounded by [[City & Castle]] guard, armed with heavy greatshields. [[Linnaeus Dino|Linnaeus]] is suddenly stranded, trapped in a section of the stadium where he cannot easily get away. He, too, is surrounded by C&Cs, but it is [[Ildy]] who stands closest and firmest. He looks up to the box where you all are sitting, hoping against hope. But of what Linnaeus hoped, it cannot be said.]
+[The [[Tyranno Re Ursus|king]] suddenly wavers. There's a moment of recognition in his eyes, and [[Succotash]] moves to stand ahead of him as they are surrounded by [[City & Castle]] guard, armed with heavy greatshields. [[Lazuli Dino|Linnaeus]] is suddenly stranded, trapped in a section of the stadium where he cannot easily get away. He, too, is surrounded by C&Cs, but it is [[Ildy]] who stands closest and firmest. He looks up to the box where you all are sitting, hoping against hope. But of what Linnaeus hoped, it cannot be said.]
 
 [The siren ends. Something is happening. You all stare up at the airship as it stops moving forward, its wings halted like oars left trailing in the air. It turns, before pitching downwards and bearing down directly over the Stadium. The audience screams, but again the ship halts, hangs there in the air.]
 
@@ -201,7 +201,7 @@ permalink: narration/hazel
 
 You have given me a scar I shall savor every day… charged with the emotions of the indignant.
 
->>[!quote|author] [[Linnaeus Dino]]
+>>[!quote|author] [[Lazuli Dino]]
 >"You cruel… heartless, arrogant bastard! What have you done?!"
 
 >>[!quote|author] [[Hazel Sobol]]
@@ -245,7 +245,7 @@ You have given me a scar I shall savor every day… charged with the emotions of
 A loud chime is heard as [[Red Spark|a great red-white light]], like a massive flare, emerges from the epicenter of the blast, shooting high, high up into the sky. It can be seen from nearly everywhere in Sacred:
 - [[Maline Tower|Ikabod's tower]], empty and dusty with an unknown face sweeping the halls and keeping house, barely noticing the sudden pillar of light blaring out the window until they pass an open window and drop to their knees in despair --
 - [[The Twist Ending]] bar in [[Ladybug]]: whose patrons all turn to a red glint on the horizon as the air grows cold --
-- Giants of both ice and fire in the castle in the clouds atop the [[Father Sakura]] in [[Cherryheart]] mutter hushed curses, in disbelief
+- [[Giant|Giants]] of both ice and fire in the castle in the clouds atop the [[Father Sakura]] in [[Cherryheart]] mutter hushed curses, in disbelief
 - The [[Claytowers]] in [[Midzone]], where [[Victory Starscouts|Starscouts]] pass around binoculars to get a handle on what they're seeing --
 - Stoic black and white checker-coat clerics watching a deep basin of gray water flicker with images in [[Destiny Cathedral]], turning away in suppressed fright --
 - The children of two disparate families in [[Wisfer]]'s [[Silverfields]], stop their playing at being heroes as a toy rolls across the ground and comes to a stop --
@@ -273,7 +273,7 @@ A loud chime is heard as [[Red Spark|a great red-white light]], like a massive f
 
 [The prince croaks out.]
 
->>[!quote|author] [[Linnaeus Dino]]
+>>[!quote|author] [[Lazuli Dino]]
 >*"Mom!! Dad!!….Everyone… You all, I'm so… so very sorry…"*
 
 >>[!quote|author] [[Hazel Sobol]]

@@ -20,5 +20,5 @@ In *[[⍟ Magical Mystery Tour]]*, [[Alexios Hawthorne]] and his pursuer, [[Vala
 In a way, it approached [[Arizhmiya]] in its desire for control, but does so without fear of denial. Due to the closeness of their portfolios, however, Lavastus has begun searching for warlocks like crazy, hoping to stem the tide of those unable to control the world in the wake of Arizhmiya's awakening.
 
 # Etymology
-![[Oa'Rovi Dictionary#Rav'Ashtos {RAVv-AŠTOSs}]]
+![[Dictionary - Oa'Rovi#Rav'Ashtos {RAVv-AŠTOSs}]]
 

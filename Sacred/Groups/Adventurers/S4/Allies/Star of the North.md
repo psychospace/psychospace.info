@@ -20,6 +20,6 @@ magic:
 
 ![[icon_star.png|300]]
 
-During her trip with [[Linnaeus Dino|the prince]], she became a trusted confidant and a good friend of his, as proven by her ability to brandish and wield [[Dinofang]] after he was stolen away by [[Great Nortian Empire|Nortia]]. She is currently apprenticing with [[Ridd of Chained-Earth|Ridd]] in hopes of unlocking the connection she holds to the Prince through his blade.
+During her trip with [[Lazuli Dino|the prince]], she became a trusted confidant and a good friend of his, as proven by her ability to brandish and wield [[Dinofang]] after he was stolen away by [[Great Nortian Empire|Nortia]]. She is currently apprenticing with [[Ridd of Chained-Earth|Ridd]] in hopes of unlocking the connection she holds to the Prince through his blade.
 
 Star is 20.

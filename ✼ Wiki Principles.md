@@ -2,6 +2,7 @@
 permalink: principles
 issues:
   - incomplete
+word-goal: "1000"
 ---
 
 This incomplete page contains information on how [[✼ Psychospace.info]] articles are styled and may be referenced.
@@ -40,7 +41,7 @@ Notable subjects include:
 4. Subjects that are fundamentally understood as parts of the universe (i.e. [[Magic]])
 5. Player characters in roleplays ( #meta/PLAYER )
 6. Subjects which are the non-trivial settings of stories (i.e. [[Drastic]])
-7. Subjects which are **reliably relevant** to stories (i.e. [[Linnaeus Dino]])
+7. Subjects which are **reliably relevant** to stories (i.e. [[Lazuli Dino]])
 
 "Reliable relevance" can be assessed for a subject by these criteria:
 - Appears in more than one story or session (i.e. [[Buttons and Snooze]])

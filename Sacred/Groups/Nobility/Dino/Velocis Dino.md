@@ -20,4 +20,4 @@ Daughter of [[Hadro Dino]] and [[Uta Raptra]], she married [[Tyranno Re Ursus]] 
 
 Had it not been for Queen Velocis, the remnant would not have entered its age of prosperity after the rise of [[Critical Hit]]. Thanks to their acclimation of power, they operated as trusted military and explored their newfound political power, advancing Sacred’s understanding of many things.
 
-Her son is [[Linnaeus Dino]], heir to the throne. She was once inheritor to [[Dinofang]], and as such her voice is of the many heard within.
+Her son is [[Lazuli Dino]], heir to the throne. She was once inheritor to [[Dinofang]], and as such her voice is of the many heard within.

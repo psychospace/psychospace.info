@@ -46,7 +46,7 @@ She has been an indispensable and consistent member of the adventuring group kno
 # History
 Once, [[Slinky]] got loose in the Whiskerwood as a result of Serratura's actions, leading to a significant bout of guilt. Also once, [[Open-Skies Free Bird]], a traveler from the village, returned with a book by [[Beverly Hamandegs]] which inspired Serra's longtime obsession with the [[Ashton Orpheus Albatros|Ace of Gold]].
 
-At the time of [[1250 PT]], she and Chiave were 20 years old. Having a strong sense of initiative, the two sought the quest from the prince [[Linnaeus Dino|Linnaeus]] in order to investigate the weird goings-on, as other [[Phantasm|phantasms]] into [[the Beastlands]] were failing for reasons unknown. She became a longtime member of the [[S4]] as a direct result, continually seeking the truth.
+At the time of [[1250 PT]], she and Chiave were 20 years old. Having a strong sense of initiative, the two sought the quest from the prince [[Lazuli Dino|Linnaeus]] in order to investigate the weird goings-on, as other [[Phantasm|phantasms]] into [[the Beastlands]] were failing for reasons unknown. She became a longtime member of the [[S4]] as a direct result, continually seeking the truth.
 ## Current Affairs
 During the [[Miraclesfield Experiment]], she was entrapped by [[Phantasma Goria]] in the [[Ghost storm]]. She was later bailed out by the [[Cat Lord]], sending her to [[Whitecrow]] where she met [[Lithop]]. After the S4 took back [[Yaarda Fort]], she linked back up with them, using the time to introspect.
 

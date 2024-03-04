@@ -1,1 +1,1 @@
-A [[Victory Starscouts|starscout]] cousin-once-removed to the prince [[Linnaeus Dino|Linnaeus]].
+A [[Victory Starscouts|starscout]] cousin-once-removed to the prince [[Lazuli Dino|Linnaeus]].

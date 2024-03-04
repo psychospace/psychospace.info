@@ -16,7 +16,7 @@ SPOILER:
 >## Илларион Парасом
 >>[!caption]  
 >>![[img_illarion.png]]
->>Illarion in the [[Nail of Nortia]] clocktower room. *[[✼ World Credits|(Credits)]]*
+>>Illarion in the [[Nail of Nortia]] clocktower room. *Art by [[✼ World Credits#^4926d3|forbiddentaako]].*
 
 **Illarion Parasom** was the disgraced [[Lord of Law]] of the [[Great Nortian Empire]] from [[1214 PT]] to [[1251 PT]]. A noble of [[House Parasom]], they masterminded the [[Nortian Conspiracy]], which usurped the government and caused the [[Dragonic War]].
 
@@ -45,7 +45,7 @@ Near to the end of the Dragonic War, Illarion lost most of the control he'd been
 
 By the time of the S4's final mission to Nortia, he had essentially no authority left, and [[Wren Doggabone|Wren]] had ordered Amanita and Octavia be grounded permanently in [[Yofora]] to ensure any negotiation with him was tilted in their favor.
 
-On [[Zero Day]], [[1251 PT]], Illarion ascended the [[Nail of Nortia]] for the last time to negotiate for Octavia's location, as she had apparently been kidnapped by Scarla (through [[XO]]). Despite being told what Scarla's true plans were, he resisted her, believing her plan of etching the [[sky-scrape]] to be far too dangerous. For his insubordination, as well as his failure in stopping the [[S4]]'s retrieval of [[Linnaeus Dino]], he was left for dead by Nemain: his eyes were cut out, and his arteries were left mostly severed. 
+On [[Zero Day]], [[1251 PT]], Illarion ascended the [[Nail of Nortia]] for the last time to negotiate for Octavia's location, as she had apparently been kidnapped by Scarla (through [[XO]]). Despite being told what Scarla's true plans were, he resisted her, believing her plan of etching the [[sky-scrape]] to be far too dangerous. For his insubordination, as well as his failure in stopping the [[S4]]'s retrieval of [[Lazuli Dino]], he was left for dead by Nemain: his eyes were cut out, and his arteries were left mostly severed. 
 
 He managed just long enough to feign death so he could commute a last desire to the S4 to stop Scarla, and a final, pained apology to both [[Serena Nortia|Serena]] and his daughters for his foolish endeavors. There, he was put to rest by [[toll the dead]], from [[Even Baxly]].
 

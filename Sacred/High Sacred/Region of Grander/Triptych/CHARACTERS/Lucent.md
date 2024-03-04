@@ -36,14 +36,14 @@ location:
 >| Aliases | Luke, Fiver |
 >| Pronouns | he-him |
 >| Ancestry | [[Visitant]] [[Human\|human]] [[Aasimar\|aasimar]] |
->| Conditions | Psychic link to [[Linnaeus Dino\|Linnaeus]] and to the other visitants, insomnia |
+>| Conditions | Psychic link to [[Lazuli Dino|Linnaeus]] and to the other visitants, insomnia |
 >| Occupation(s) | Detective, mercenary, adventurer with [[The Runts]] |
 >| Skills and Abilities | Immaculate courage, charismatic, well-trained in combat and deduction |
 >| Partner(s) | n/a |
 >| Likes | Swordfighting, trading stories, opportunities to learn |
 >| Dislikes | Cowardice (especially when it harms others) |
 
-**Lucent Amia** is a [[visitant]] of [[Linnaeus Dino|Linnaeus]], created prior to the [[Dragonic War]]. During the conflict, he assisted the [[S4]] in collecting [[Ikabod Caruso]], and continued to look into his origin and shared connection to his original. 
+**Lucent Amia** is a [[visitant]] of [[Lazuli Dino|Linnaeus]], created prior to the [[Dragonic War]]. During the conflict, he assisted the [[S4]] in collecting [[Ikabod Caruso]], and continued to look into his origin and shared connection to his original. 
 
 He has carved out a living as a private investigator, acting as a reliable ally to his fellow visitants and [[The Runts]]. He was originally made of Linnie's paladin oath to protect the crown and the future.
 # History

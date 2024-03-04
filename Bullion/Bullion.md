@@ -12,13 +12,11 @@ Its [[Flipside]] is known as [[Tarnation]].
 ## First Era
 The first [[Bullion#History|era]] of prehistoric [[Bullion]] took place from the [[Age of the Gods]] to around BPT 300,000. With the close of the [[Old world|last world]], Bullion takes shape as one of many [[Remnant|remnants]]. During this time, it is one of many places where water appears as rain from the sky, and eventually [[Aboleth]] are placed there as tadpoles.
 
-The rains pool here as [[Divinity|gods]] are born. Eventually, [[Bioh]] is said to take her first steps here, granting the infant remnant with potent seeds of life and bounty. [[Elemental energy]] gathers as earth, fire, water, and air hold a kind of equilibrium in the place.
+The rains pool here as [[Divinity|gods]] are born. Eventually, [[Bioh]] is said to take her first steps here, granting the infant remnant with potent seeds of life and bounty. [[Elemental energy]] gathers as [[earth]], [[fire]], [[water]], and [[air]] hold a kind of equilibrium in the place.
 
 There is evidence of [[First Magicians]] reaching Bullion in about 550,000 BPT, though evidently it was to harvest energy collected by the echoes. Shortly thereafter, geological and physical evidence of early [[Elemental creatures|elementals]] manifests, likely as the strongest echoes are changed by their hoarding.
 
 In around 500,000 BPT, [[The Gathering]] took place.
-
-%%In [/[1281 PT]], [/[Inocencio Tethys|Tethys]] was sent back to this era.%%
 ## Second Era 
 
 The second era of Bullion took place from 200,000 - 25,000 BPT.

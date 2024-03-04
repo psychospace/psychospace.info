@@ -1,3 +1,9 @@
+---
+issues:
+  - incomplete
+---
+![[⎋ Needs Expansion]]
+
 **Goblins** are a #sapient ancestry of short-lived, short-statured, yet powerfully emergent people who have little care for history, memory, and culture the same way other races do.
 
 For most of their existence, goblins were believed to be monstrous and incapable of conformity or respect of other ancestries' cultures. Their tragically short lives, reaching maturity around age 5 and few surviving past 20, caused goblins to "move fast", reveling in fun and personal eccentricities rather than in tradition or instinctual reservedness. They are believed to be a sister ancestry to [[Dwarf|dwarves]], or, as dwarves would put it, their "stupid cousins", mostly because goblins were a product of [[Ordo]]. 

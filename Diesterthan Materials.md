@@ -1,3 +1,11 @@
+---
+aliases:
+  - DMAT
+  - Diesterthan Materials GmbH.
+tags:
+  - group
+  - faction
+---
 ![[⎋ 2FPG]]
 **Diesterthan Materials GmbH** is a materials corporation founded by [[Devil|devils]] from the [[Scarlet Skies]]. The company name is often shortened to  **DMAT**, their [[Scarlet Holdings Market]] identifier. They are mainly known for supplying massive quantities of [[noemite]] around the planet for experimentation and production of [[Verlan|verlan]]. Through their colossal mining operation on [[Little Candid]], they have also been a leading developer in autonomous verlan systems and logistics. 
 # Founding

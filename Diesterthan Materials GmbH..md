@@ -1,0 +1,2 @@
+![[⎋ 2FPG]]
+**Diesterthan Materials GmbH**, also known as **DMAT** for short, is a materials corporation founded by [[Devil|devils]] from the [[Scarlet Skies]]. They are mainly known for their export of [[noemite]] 

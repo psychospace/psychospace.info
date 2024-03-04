@@ -1,4 +1,4 @@
-Much like the real-world, **fire** is a [natural process](https://en.wikipedia.org/wiki/Fire) which produces heat from the consumption of fuel. Within [[the Heavens]], fire is an [[elemental energy]], associated with warmth, vitality, transformation, and light.
+Much like the real-world, **fire** is a [natural process](https://en.wikipedia.org/wiki/Fire) which produces heat from the consumption of fuel. Within [[the Heavens]], fire is an [[elemental energy]], associated with warmth, vitality, transformation, and light. ^a9cdc3
 
 Magically, fire is a force of defined [[chaos]], forming one of the four fundamental axioms of nature, along with [[water]], [[air]], and [[earth]]. The [[Plane#Realm|realm]] of fire for [[the Planet]], where its most potent power lies, is known to be the [[Scarlet Skies]].
 

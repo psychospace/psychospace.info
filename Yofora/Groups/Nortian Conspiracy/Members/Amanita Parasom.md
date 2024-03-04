@@ -20,7 +20,7 @@ pronouns:
 She acted as a leader of the [[Heartknock]] along with their sibling, [[Octavia Parasom]]. 
 
 # History
-Amanita was born in [[1206 PT]]. When she was very young, she recalls Octavia "emerged" from her shadow. 
+Amanita was born in [[1206 PT]]. When she was very young, she recalls Octavia "[[Octavia Parasom#^ef2572|emerged]]" from her shadow.
 
 Amanita was extremely interested in the unseen world from an early age, possibly to uncover more about her sister. The sisters were childhood friends with [[Serena Nortia]], a fellow noble born around the same time: this friendship continued into adulthood. ^850ecb
 
@@ -50,3 +50,5 @@ The day the [[S4]] had arrived in [[New Orc City]], their actions at [[Orkrengra
 The lack of security protocols led to Linnaeus's [[dragonic whillo]] persona exerting its maximal [[Magic#Intent|aura]], which killed much of the staff in the building, threatened to tear it asunder, and desired to hunt down any remaining members of the Conspiracy, Amanita included. To that end, she was nearly turned to glass and pinned in a wall on the ninth floor, before being freed by, to her surprise, Serena, who blamed her for an incalculable number of sleights. ^791d05
 
 Over the course of an incredibly emotionally eventful 15 minutes, Amanita quickly realized the horrors she'd committed against Serena and her line, not to mention against the Kingdom's people for apparently no reason at all. After much debate following their final battle with [[Arahabaki]], Amanita was left alone back at [[Farborough Manor]] by the S4.
+
+![[Octavia Parasom#History#Ends]]

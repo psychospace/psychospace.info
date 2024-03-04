@@ -7,7 +7,7 @@ The **Astral Lighthouse** is a lighthouse-esque weapon in [[Drastic]]. It is a t
 
 Due to the immense arcane energy flowing through this device, it is held far off the ground via a masterfully-wrought tower of engraved mithral, within the bounds of [[Saurus Castle]]'s energy shield.
 
-The device contained at the top of the lighthouse acts as a powerful astral beacon, allowing for dramatically easier and more voluminous teleportation to and from the city for its most important individuals, both on the Material plane and other planes. Numerous additional matrices and devices are integrated into floating buildings around the tower prevent this from attracting the attention of extraplanar invaders, while also preventing the increase in supernatural activity that this would otherwise generate.
+The device contained at the top of the lighthouse acts as a powerful astral beacon, allowing for dramatically easier and more voluminous teleportation to and from the city for its most important individuals, on multiple [[Plane|planes]] of existence. Numerous additional matrices and devices are integrated into floating buildings around the tower prevent this from attracting the attention of extraplanar invaders, while also preventing the increase in supernatural activity that this would otherwise generate.
 
 The lighthouse is maintained by the researchers and mages of the [[Constellar School]], and is often synonymous with their work. Below the Lighthouse lies the Lost Maze, a garden which once was kept by the staff of Saurus Castle.
 

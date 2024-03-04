@@ -3,8 +3,12 @@ tags:
   - item
 aliases:
   - visitant dagger
+users:
+  - "[[Serratura Neeman]]"
 ---
 **Catclaw**, briefly known as the **visitant dagger**, is a [[Psionics|psychic]] [[Antique|artifact]] sword wielded by the [[S4]], forged by [[Lethal]].
+
+Following the events of [[⍟ Magical Mystery Tour]], it became [[Serratura Neeman]]'s core weapon.
 
 # History
 During the [[Dragonic War]], Lethal had become a proficient soulknife throughout his journey with the [[S4]], but the discovery of the other [[visitant|visitants]], and the growing belief that he had forged a familial bond with them, had granted him some pause on whether or not to join the party on their dangerous mission to [[Great Nortian Empire|Nortia]]. 

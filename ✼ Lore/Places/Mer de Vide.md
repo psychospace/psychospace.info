@@ -1,4 +1,4 @@
-The **Mer de Vide**, or the **Void Ocean**, is a massively important [[Skysea|skysea]] of the [[Wild Blue Yonder]]. 
+The **Mer de Vide**, or the **Void Ocean**, is a massively important [[Skysea|skysea]] of the [[Wild Blue Yonder]].
 
 # Sceography
 It is bordered: 

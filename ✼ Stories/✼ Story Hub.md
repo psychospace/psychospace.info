@@ -60,6 +60,7 @@ Stories in **mythology** are in-universe historical texts, often cited within th
 * [[◍ The World Born in Stone]] - Details the [[Age of the Gods|dawn of the new world]].
 * [[◍ Roots of the Remaking]] - Details the gods' relationship with [[Chaos]].
 * [[◍ Apocryphal Passage - Azure Sky]] - A passage from the [[Apocrypha of Winds]].
+* [[◍ Egonist's Account - Beyond the Antic]] - An account of a [[Void breaker|void breaker]]'s travel into the [[Chartless Sea]].
 
 # ⛒ Alternate Canons
 ![[⎋ Secondary Canon|no-link]]

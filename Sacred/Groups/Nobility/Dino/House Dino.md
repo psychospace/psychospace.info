@@ -7,6 +7,6 @@ residence: "[[Saurus Castle]]"
 >"*Repent the past, and set fire to the future*."
 
 
-**House Dino** has ruled the realms of the [[Kingdom of Sacred]] for many generations, since the fall of the reign of the Falknjir line. They originated with the Paraves line.
+**House Dino** is a noble house, the royal house of the [[Kingdom of Sacred]] for many generations, since the fall of the reign of the Falknjir line. They originated with the Paraves line.
 
-Their house words are often shortened to simply "*Repent and Set Fire*." Many grave markers throughout Sacred are marked *R+SF*.
+Their [[house words]] are often shortened to simply “*Repent and Set Fire*.” Many grave markers throughout Sacred are marked *R+SF* in honor of this.

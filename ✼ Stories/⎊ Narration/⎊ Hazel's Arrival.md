@@ -186,7 +186,7 @@ permalink: narration/hazel
 >>An unecessary loss, too. "At every step, he followed orders." I hope your parents put that on his grave.
 
 >>[!quote|author] Linnie
->>"Y-you… didn't… Ildy… [[Exponen]] guide me… oh, *gods*…”]
+>>"Y-you… didn't… Ildy… [[Exponen]] guide me… oh, *gods*…”
 
 [The prince is at a loss for words. He collapses to his knees, in despair. Naturally, being royal, he is gravely connected to the existence of Ildy. You see red lightning starting to emanate from his body, some kind of shuddering energy. Hazel stands back and gives a hearty, manic, insane laugh. Sheathing her sword. Guards begin to rush forward in panic but each are stopped by one of the cloaked figures, who in turn swoop down over the crowd, cut off a hand or foot, and then vanish back to atop the coliseum.]
 
@@ -275,6 +275,8 @@ A loud chime is heard as [[Red Spark|a great red-white light]], like a massive f
 
 >>[!quote|author] [[Lazuli Dino]]
 >*"Mom!! Dad!!….Everyone… You all, I'm so… so very sorry…"*
+
+^3eeacf
 
 >>[!quote|author] [[Hazel Sobol]]
 Sacred… welcome to this grandest of games…

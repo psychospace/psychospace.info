@@ -1,7 +1,6 @@
 ---
 permalink: history/adventurers/gng
 ---
-
 **_Gravity & Geneses: The Many Adventures of Modern Heroes “Critical Hit”, Retold by Termis Tungol_**, is a non-fiction book by [[Termis Tungol]] published in late [[1216 PT]] to critical acclaim, compiling many former volumes of the *[[Critical Legends]]* series.
 
 It is a firsthand, if flagrantly dramatized and made child-appropriate, account covering the adventures of [[Critical Hit]] from their exile from [[Drastic]] to their opening the [[Vault of Foretelling]].

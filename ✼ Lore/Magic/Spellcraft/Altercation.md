@@ -5,7 +5,7 @@ tags:
   - magic/new
 ---
 ![[⎋ 2FPG]]
-A significant enough [[Reality-Bending|reality-bend]] results in what is known as an "reality **altercation**" or a "**snapback**", in which some force of reality resolves a significant [[Context|conflict]] which has been put in place arbitrarily: a reaction to an alteration.
+A significant enough [[Reality-Bending|reality-bend]] results in what is known as an "reality **altercation**" or a "**snapback**", in which some force of [[Universe|reality]] resolves a significant [[Context|conflict]] which has been put in place arbitrarily: a reaction to an alteration.
 
 # Effects
 Altercations result in colossal, unpredictable, and unplanned errors, especially to the cause, even further beyond the bend that caused them. Repeated, consistent altercations create [[Haze]], a factor which preaches the caution one must take when tangling with [[New Magic|new-magic]].

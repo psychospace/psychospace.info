@@ -7,7 +7,7 @@ SPOILER:
 ![[⎋ 2FPG]]
 The **Fortress**, also called **the Barrow**, is a [[Plane#Realm|planar conduit]] acting as the foundation of [[the Planet]]'s planar substrata, and the source of _[[verlan]]_. It is the primary corridor between the real world and the [[elseworld]], anchored on the [[First City]].
 
-As a low-end derivation of [[Kibangan]], it is a plane of perfecting the concept of perfection. This is where [[Echo|psychic data]] is stored, with the [[Divine Equation]] often literally endlessly written on its [[Axiomite|axiomite]] citizenry and geography. 
+As a low-end derivation of [[Kibangan]], it is a plane of perfecting the concept of perfection. This is where [[Echo|psychic data]] is stored, with the [[Divine Equation]] often literally endlessly written on its [[Harmon|Harmoni]] citizenry and geography. 
 
 # History
 ## Origins

@@ -5,13 +5,13 @@ tags:
 ---
 The **avatar of death** is a divine concept, believed by many to explain the permanence of the institution of [[Death]]. An entity appointed as avatar will assist [[Exponen|Nexos]] in facilitating the judgement of the dead at [[Unwri]]. 
 
-The term refers to the [[Divinity|"gods"]] who oversee death as a [[domain]], appearing to undergo a sort of cycle, "retiring" and perishing when a great conflict has come to an end. After all, as their cults believe, there is no "god of death", only an avatar, as not even gods can escape entropy.
-
-The current avatar is [[Rea]].
+The term refers to the [[Divinity|"gods"]] who oversee death as a [[domain]], appearing to undergo a sort of cycle, "retiring" and perishing when a great conflict has come to an end. After all, as their cults believe, there is no "god of death", only an avatar, as not even gods can escape entropy. 
 
 Several entities have been the avatar of death of eras in the past:
+- The earliest known is **[[Vorgon'vor]]**,
 - [[Macha]]
 - [[Sinister]]
+- [[Rea]]
 
 # Candidacy
 Most recorded avatars were conjured up by energies of the universe to manifest this unjudging and somber custodian, but occasionally creatures have proven a worthy vessel. Whether a material being, elemental, or [[Celestial]] spirit, these creatures always adopted the emotionless, lifeless demeanor of all Avatars.

@@ -15,7 +15,6 @@ The elseworld resembles the planet in superficial ways, but on the brink of tota
 
 Much of society and mortality, as the denizens of the [[The Heavens|Heavens]] understand them, have effectively collapsed, with the [[Divinity|divines]] difficult to reach and punishment effectively eternal.
 
-
 As the reflection of the Planet, many places which existed at the time of the TPK remain, though in confused, complex, and often nonsensical shapes, all made harder to navigate via a persistent lack of [[star|starlight]] in the sky.  
 
 Were the planar stack maintained, it would be evident that the elseworld at one point were exactly like the Planet, containing else-forms of the [[Scarlet Skies]], [[Dark Sea]], [[The Above|Above]], [[The Below|Below]], [[Väräh]], and [[Umbraid]]. Due to the TPK, however, all of the individualized [[gravity]] of their [[Remnant|remnants]] have collapsed.
@@ -44,5 +43,5 @@ According to notes, [[Viers Callinan]] was able to identify and utilize a stable
 
 It was the connection of the elseworld to the real world that led [[Illarion Parasom]] to posit that both sides of the mirror would soon resemble each other.
 
-[^1]:  *Kayal* is an ancient [[Draconic]] phrase which means "archetypal", and by direct descendant an older form of the term [[aphorite|aphorite]]. This is supposedly a term these native descendants use as a protective turn of phrase, hoping that what lingering, dangerously fleeting form of [[Logic]] might spare them complete "deletion" from the universe if they speak into existence that they are essential pieces of it.
+[^1]:  *Kayal* is an ancient [[Draconic]] phrase which means "archetypal", and by direct descendant an older form of the term [[aphorite|aphorite]]. This is supposedly a term these native descendants use as a protective turn of phrase, hoping that what lingering, dangerously fleeting form of [[Logic]] might spare them complete "deletion" from the [[universe]] if they speak into existence that they are essential pieces of it.
 [^2]: For example, when a toddler [[Amanita Parasom]] glimpsed the elseworld through a dream of the dark from her [[quori|quori]] guide, her nascent shadow took on a protective spirit, and split, becoming [[Octavia Parasom]].

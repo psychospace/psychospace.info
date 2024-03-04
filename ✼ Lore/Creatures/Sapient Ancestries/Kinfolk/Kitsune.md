@@ -2,9 +2,6 @@
 tags:
   - anc/kitsune
   - sapient
-issues:
-  - incomplete
-  - stub
 ---
 **Kitsune** are a foxlike #sapient  ancestry of [[Kinfolk|kinfolk]]. Many revere [[Seiu]] as their creator, and originate from the [[Naciente]] nation of [[Seiu-Sabi]].
 

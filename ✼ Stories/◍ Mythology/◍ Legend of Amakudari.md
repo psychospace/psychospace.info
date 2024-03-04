@@ -22,7 +22,7 @@ permalink: story/amakudari
 
 *With ambition to this tune, the dragon mastered many arcane arts.<br>The amethyst wyrm knew that this was the only way its life could be.<br>The dragon continued to suffuse itself of astral power which drifted through the clouds,<br>And soon enough, came to draw on that unsurmountable power.*
 
-*When Amakudari had reached adulthood, it had achieved its ultimate potential:<br>With [[Reality-Bending|just a thought]], it could fly through the universe, time and space altogether, instantly.<br>It fathomed its [[Epitome|entire life]], from first conception… to its end, as a kind, benevolent ruler. <br>No matter where it wished, no matter when, its will would simply be done.*
+*When Amakudari had reached adulthood, it had achieved its ultimate potential:<br>With [[Reality-Bending|just a thought]], it could fly through the [[universe]], time and space altogether, instantly.<br>It fathomed its [[Epitome|entire life]], from first conception… to its end, as a kind, benevolent ruler. <br>No matter where it wished, no matter when, its will would simply be done.*
 
 *With this, the dragon witnessed marvelous worlds of unrecognized majesty.<br>Innumerable virgin realms beyond the [[Dark Sea]]. Things none can picture. Peoples of the stars.<br>The dragon adored this [[Gift of Stars|gift]], used it for centuries, and yet felt less than whole, alone.<br>In its lengthy absence from its homeworld, it longed more and more to share its glory with them.*
 

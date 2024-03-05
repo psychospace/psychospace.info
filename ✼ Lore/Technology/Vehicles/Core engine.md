@@ -2,10 +2,9 @@
 tag: item
 alias: quasidragon core, core engine, cores
 ---
+**Core engines**, or simply **cores**, are the [[Psychospace|psychospacially]]-interfacing projection engines that power modern [[Airship|airships]] and [[train|trains]]. In the modern day these are made of [[Quasidragon|quasidragons]], though originally they were produced with actual [[dragon]] souls. 
 
-**Core engines** or simply **cores** are the [[Psychospace|psychospacially]]-interfacing engines that power modern [[Airship|airships]] and [[train|trains]]. In the modern day these are made of [[Quasidragon|quasidragons]], though originally they were produced with actual [[Dragon]] souls. 
-
-Most airships use at cores to provide lift, stability, thrust force, and efficient steering. The core, when activated, extends broad wings outward, their color and function dependent on the "color" of the [[Soul]] used to craft it. Heavier ships usually require additional mechanisms for lift, or additional cores to provide forward momentum.
+Most airships use at cores to provide lift, stability, thrust force, and efficient steering. The core, when activated, extends broad wings outward, their color and function dependent on the "color" of the [[soul]] used to craft it. Heavier ships usually require additional mechanisms for lift, or additional cores to provide forward momentum.
 # History
 The creation of cores and the modern-day air travel began with [[Dawndust]], who discovered the process of creating cores using real dragons in [[BPT 50]], leading to their [[Scaled Purge]]. Their gnomish engineers eventually discovered a means of creating quasidragons using their [[Gray Waters]] without needing a sacrifice, leading to the rise of the airship around the [[1st century PT|turn of the epoch]].
 

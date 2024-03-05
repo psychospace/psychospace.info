@@ -6,7 +6,9 @@ aliases:
 onenote-created: 2020-03-14 14:53:34 -0400
 onenote-modified: 2020-03-14 15:21:41 -0400
 ---
-**Firearms** are weapons which propel projectiles using explosive force. They were supposedly first reverse-engineered from hypothetical works crafted by [[Nunes Daedal]], a progenitor to [[Viers Callinan]]. 
+**Firearms** or **guns** are weapons which propel projectiles using explosive force. A relatively recent development in [[the Heavens]], firearms are useful at range in all kinds of conditions. They are typically developed for unpredictable environments where killing or disabling your target swiftly is a must.
+
+They were first reverse-engineered from hypothetical works designed by [[Nunes Daedal]], a progenitor to [[Viers Callinan]]. 
 
 # Mounted firearms
 

@@ -43,4 +43,4 @@ Sliation can be used to create a solid shaped piece of noemite, as noemite in it
 
 [Lead](https://en.wikipedia.org/wiki/Lead) can be added as an additive with a mass of around 1.5%-1% of the alloy to prevent sliation. This marginally decreases the alloy's conductivity while dramatically increasing its lifetime, up to the order of decades.
 ## Sigmar's Paste
-**Sigmar's paste** is a noemite-[mercury](https://en.wikipedia.org/wiki/Mercury_(element)) [amalgam](https://en.wikipedia.org/wiki/Amalgam_(chemistry)) with a mass distribution of 85% to 15% respectively. It is primarily used as a plaster for filling psircuit traces for small-scale [[Verlan||verlan]] systems. 
+**Sigmar's paste** is a noemite-[mercury](https://en.wikipedia.org/wiki/Mercury_(element)) [amalgam](https://en.wikipedia.org/wiki/Amalgam_(chemistry)) with a mass distribution of 85% to 15% respectively. It is primarily used as a plaster for filling psircuit traces for small-scale [[Verlan|verlan]] systems. 

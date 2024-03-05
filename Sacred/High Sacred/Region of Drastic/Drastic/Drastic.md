@@ -8,11 +8,15 @@ onenote-modified: 2021-01-14 22:43:05 -0500
 ---
 **Drastic** is the capital city of the [[Kingdom of Sacred]], located in middle [[High Sacred]] along the [[Grand Watersea]]. Though scarred by a number of wars which have graced it, it remains as an impressive work and important city to this day. Many tall buildings mark its proud skyline. 
 
+Drastic and [[The Well]], its sister city, are inhabited by about 280,000 individuals, almost a third of High Sacred's population, making the region one of the most populous in all of the [[Mer de Vide]].
+
 Under the [[Carapa Republic]], the city was its capital, known as the Holy Port of Ace.
 
-Although also the center of a duchy, it no longer has a duke as of its most recent, [[Tyranno Re Ursus]], ascending to the station of king-consort. Drastic and [[The Well]], its sister city, are inhabited by about 280,000 individuals, almost a third of High Sacred's population, making the region one of the most populous in all of the [[Mer de Vide]].
+# Leadership
 
-Its eidolon used to be [[Ildy]], but after the [[Red Spark|Siege of Drastic]], was left without one for some time. 
+Although also the center of a duchy, it no longer has a duke as of its most recent, [[Tyranno Re Ursus]], ascending to the station of king-consort. 
+
+Drastic's eidolon is [[Rinzal]]. Previously, it was [[Ildy]], but he was claimed in the [[Red Spark|Siege of Drastic]].
 
 # Locations
 ## Walljay Quarter (SW)

@@ -49,7 +49,9 @@ Only two, [[Uforia]] and [[Arahabaki]], are known to exist, borne of the [[Black
 ![[◍ The World Born in Stone]]
 
 ## Zhill
-The original stone-hearted dragons, also known as the Zhill, did not start with life or with perspective. They acted many beasts do, seeking territory over the broken pieces that Anti saw, for what the God of Gods saw was their creation's work to inherit. When the nature of [[Kibangan]], influenced by the Ignition Point's roots in the "truths" of ancient civilization and the "ideals" of its functional originals, took shape, the world began to form "rules", and thus the dragons, the creatures that had given their own lives meaning, suddenly found psychospace another realm to conquer.
+The original stone-hearted dragons, also known as the **Zhill**, did not start with life or with perspective. They acted many beasts do, seeking territory over the broken pieces that Anti saw, for what the God of Gods saw was their creation's work to inherit. 
+
+When the nature of [[Kibangan]], influenced by the Ignition Point's roots in the "truths" of ancient civilization and the "ideals" of its functional originals, took shape, the world began to form "rules", and thus the dragons, the creatures that had given their own lives meaning, suddenly found psychospace another realm to conquer.
 
 This is how [[Psychospace]] came to be, and how dragons came to be alongside it.
 

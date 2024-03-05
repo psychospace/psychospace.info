@@ -2,6 +2,7 @@
 aliases:
   - Linnie
   - Linnaeus
+  - Lazuli
 tags:
   - character
 ancestry:

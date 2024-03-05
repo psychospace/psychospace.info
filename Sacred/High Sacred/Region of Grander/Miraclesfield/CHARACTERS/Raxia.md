@@ -5,4 +5,4 @@ onenote-modified: 2022-06-12 17:06:14 -0400
 
 ---
 
-[[Eidolon]] of [[Miraclesfield]], who represents progress.
+Raxia is the [[eidolon]] of [[Miraclesfield]], who represents progress.

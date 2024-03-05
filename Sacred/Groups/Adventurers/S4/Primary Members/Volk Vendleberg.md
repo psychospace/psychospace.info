@@ -15,6 +15,10 @@ factions:
 status: alive
 pronouns:
   - he-him
+issues:
+  - epilogue content
+  - rewrite
+  - expand
 ---
 ![[⎋ Roleplay]]
 ![[⎋ Needs Rewrite]]

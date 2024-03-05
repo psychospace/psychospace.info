@@ -1,5 +1,6 @@
 ---
 tag: being/divine
+word-goal: "550"
 ---
 Also called "The Burning Rainbow", **Mynos** is the goddess of entitlement, birth, widows, orphans, and peace in chaos. In the world, there are things which should not have lived. Mynos acts a kind mother to such creatures, when those creatures have no mothers to return to.
 

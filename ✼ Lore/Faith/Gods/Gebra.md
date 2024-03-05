@@ -1,5 +1,6 @@
 ---
 tag: being/divine
+word-goal: "550"
 ---
 **Gebra**, the Herald Truth, is the a [[divinity|godly]] son of [[Athemat]], guardian of [[Kobold|kobolds]], and divine overseeing mythos, fear, and communication. A patron god of stories, Gebra is primarily concerned with mythos and preparedness, ensuring that no step is taken without precaution.
 

@@ -1,6 +1,7 @@
 ---
 alias: Tegra
 tag: being/divine
+word-goal: "550"
 ---
 Also known as **Tegra**, or *The Cleansing Waterfall*, **Ordo** is an icy, blue [moon](https://en.wikipedia.org/wiki/Natural_satellite) orbiting [[The Planet]], widely held to be a [[Divinity|divine]] manifestation, associated with water, penitence, and faith. Every 32 [[Starfall|days]], she goes through phases of visibility cast onto the planet, in accordance with the mythology of [[Endymion]].
 

@@ -1,5 +1,7 @@
 ---
-tag: being/divine
+tags:
+  - being/divine
+word-goal: "550"
 ---
 **Calcula** is a [[Divinity|god]], son of [[Cientia]] with no known father, overseeing the [[domain]] of construction and defense. 
 

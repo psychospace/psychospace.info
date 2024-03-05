@@ -40,6 +40,7 @@ The following users have graciously dedicated their time to working on this wiki
 >- [[Diesterthan Materials|Diesterthan Materials GmbH.]]
 >- [[Ingelfurous Sediment]]
 >- [[Silver Coin Shell]]
+>- [[Model H-1]]
 
 ## Players
 As players in tabletop roleplaying, they are as much contributors to the world and how it ends up taking shape as any. The players are listed below along with the characters they control/controlled.

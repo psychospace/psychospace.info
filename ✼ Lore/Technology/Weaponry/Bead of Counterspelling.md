@@ -25,6 +25,6 @@ Certain groups, such as [[NIMROD]], oft equips its members with these on a neckl
 >>
 >>Necklaces of these beads generally contain 1d4+1 of these beads with 1 or 2 variations in level. Looted necklaces often contain 1d4-1 beads instead.
 >>
->>To detect magic, these items give off *abjuration* magic.
+>>To detect magic, these items give off *[[abjuration]]* magic.
 
 

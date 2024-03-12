@@ -19,4 +19,4 @@ This wand regains 2 charges daily at dawn. If you expend the wand's last charge,
 
 *[The Enemy Knows The System.]*
 
-To detect magic, this item gives off strong *conjuration* magic.
+To detect magic, this item gives off strong *[[conjuration]]* magic.

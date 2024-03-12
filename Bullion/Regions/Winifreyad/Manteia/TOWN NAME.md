@@ -1,0 +1,6 @@
+---
+location:
+  - Manteia
+tags:
+  - place
+---

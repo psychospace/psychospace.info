@@ -28,7 +28,7 @@ Noemite's most noteworthy properties arise from its interaction with [[Echo|echo
 
 # Alloys
 ## Emanite 
-**Emanite** is a [teflon](https://en.wikipedia.org/wiki/Polytetrafluoroethylene)-like polymer-alloy of noemite made with [zinc](https://en.wikipedia.org/wiki/Zinc) (10%-8%), [silicon](https://en.wikipedia.org/wiki/Silicon) (5%-3%), and other optional additives including, [bismuth](https://en.wikipedia.org/wiki/Bismuth), [copper](https://en.wikipedia.org/wiki/Copper), [silver](https://en.wikipedia.org/wiki/Silver), [gold](https://en.wikipedia.org/wiki/Gold), [platinum](https://en.wikipedia.org/wiki/Platinum), and [uranium](https://en.wikipedia.org/wiki/Uranium). 
+**Emanite** is a [teflon](https://en.wikipedia.org/wiki/Polytetrafluoroethylene)-like polymer-alloy of noemite made with [zinc](https://en.wikipedia.org/wiki/Zinc) (10%-8%), [silicon](https://en.wikipedia.org/wiki/Silicon) (5%-3%), and other optional additives including, [bismuth](https://en.wikipedia.org/wiki/Bismuth), [[copper]], [silver](https://en.wikipedia.org/wiki/Silver), [gold](https://en.wikipedia.org/wiki/Gold), [platinum](https://en.wikipedia.org/wiki/Platinum), and [uranium](https://en.wikipedia.org/wiki/Uranium). 
 
 The most commonly used mixture is **proper emanite**, containing zinc, silicon, and gold. It has a high [plastic deformation point](https://en.wikipedia.org/wiki/Plasticity_(physics)) and can sustain a lot of elastic deformation. This provides a juxtaposition of a soft, plastic like material that is also cold to the touch due to its good thermal conductivity. 
 ## Diestermite

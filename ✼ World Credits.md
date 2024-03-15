@@ -42,6 +42,13 @@ The following users have graciously dedicated their time to working on this wiki
 >- [[Silver Coin Shell]]
 >- [[Model H-1]]
 
+>[!|ttl-l no-i clean]- PancakeTowerXVI
+>- [[Nightshade]]
+>- [[Broken Arm]]
+
+>[!|ttl-l no-i clean]- ArcaneDreamer
+>- [[Invasion of Cats]]
+>- [[Serratura's Worldwide Cat-alogue]]
 ## Players
 As players in tabletop roleplaying, they are as much contributors to the world and how it ends up taking shape as any. The players are listed below along with the characters they control/controlled.
 

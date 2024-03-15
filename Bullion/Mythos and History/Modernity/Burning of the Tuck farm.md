@@ -2,7 +2,7 @@
 tags:
   - timeline/event
 publish: false
-description: On the Ides of Alssad, 1283 PT, both Aloysius and Mariella were killed, their kid daughter vanished, and the property was burnt to the ground by Nullius, leaving nothing behind.
+description: On the Ides of Alssad, 1283 PT, the Tuck family farm was burnt to the ground.
 ---
 
 The [[Tuck family farm]] **burned to the ground** on the night of the Ides of Alssad, [[1283 PT]], resulting in the deaths or vanishings of its owners -- [[Aloysius Tuck|Aloysius]], [[Mariella Tuck|Mariella]], and [[Pollyanna Tuck]] --  as well as [[Johanna Abascal]]. Prior to the burning, [[Pietro Whitaker]], a confidant of young Abascal, was also murdered.

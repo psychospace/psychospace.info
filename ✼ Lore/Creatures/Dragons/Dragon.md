@@ -4,7 +4,7 @@ tags:
 aliases:
   - dragons
 ---
-**Dragons** are reptilian [[Creature|creatures]] with immense [[Magic]] deeply tied to [[Psychospace]], and thus, to the roots of the world and to people. Being represented by the Grandfather Drake [[Athemat]], dragons are considered rulers over [[The Above]].
+**Dragons** are reptilian [[Creature|creatures]] with immense [[magic]] deeply tied to [[psychospace]], and thus, to the roots of the world and to people. Being represented by the Grandfather Drake [[Athemat]], dragons are considered rulers over [[The Above]].
 
 # Abilities
 Most true dragons possess some form of flight, and many are capable of magic, speech, personality, diplomacy, and [[reincarnation]]. They generally speak [[Draconic]].
@@ -53,5 +53,5 @@ The original stone-hearted dragons, also known as the **Zhill**, did not start w
 
 When the nature of [[Kibangan]], influenced by the Ignition Point's roots in the "truths" of ancient civilization and the "ideals" of its functional originals, took shape, the world began to form "rules", and thus the dragons, the creatures that had given their own lives meaning, suddenly found psychospace another realm to conquer.
 
-This is how [[Psychospace]] came to be, and how dragons came to be alongside it.
+This is how [[psychospace]] came to be, and how dragons came to be alongside it.
 

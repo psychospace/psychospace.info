@@ -114,7 +114,7 @@ Members of a count's staff
 
 Member of a noble house's staff
 
-Copper Dragoons of Sacred (Military enlisted ranks)
+[[Copper]] Dragoons of Sacred (Military enlisted ranks)
 
 Civilians
 

@@ -10,7 +10,7 @@ cssclasses:
 
 >“This is it. This is really it. Everything they've been saying for weeks and weeks and weeks. The entire world holding its breath. Point of no return. Terror beyond imagination. Problem to be solved. Our enemy."
  
-*[It reaches its hand behind its back and retrieves, a **gun**. A revolving [[firearm]] of unknown design. Eight bronzed chambers, glimmering with silver rounds.]*
+*[It reaches its hand behind its back and retrieves, a **gun**. A revolving [[firearm]] of [[RDM-8|unknown design]]. Eight bronzed chambers, glimmering with silver rounds.]*
  
  *[It points the gun at each of your frozen selves in turn. CLICK. CLICK. CLICK, CLICK, CLICK, CLICK, CLICK.]*
  

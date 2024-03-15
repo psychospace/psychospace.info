@@ -7,4 +7,4 @@ The aim of this spell is as its name suggests: to alter the [[Echo|memories]] of
 
 At its most potent, a spell can suppress all memory of a specific topic. This has been used time and again to protect national secrets, such as the [[Dragonic Curse]], from leaking out. There is almost nothing which can correct a memory altered in this way.
 
-This spell is considered legally-gray magic, as the ability to somewhat easily gaslight and alter cognition is dangerous when used irresponsibly. 
+This spell is considered [[Magic#Gray magic|gray]], as the ability to somewhat easily gaslight and alter cognition is dangerous when used irresponsibly. 

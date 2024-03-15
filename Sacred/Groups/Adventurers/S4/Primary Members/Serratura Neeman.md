@@ -39,6 +39,7 @@ permalink: mmt/S4/serra
 >| Likes | The [[Ashton Orpheus Albatros\|Ace of Gold]], cats, meeting new people, food |
 >| Dislikes | Fire, heights, displacer beasts, confrontation |
 
+![[⎋ Needs Rewrite]]
 **Serratura "Serra" Neeman** is a 20-year old [[Elf#Half-elf|half-elf]] rogue who specializes in insight and investigation. Hailing from the area of [[the Beastlands]] known as [[The Whiskerwood]], Serra is twins with [[Chiave Neeman]], both children of [[Roff Neeman|Roff]] and [[Lianne Neeman]]. 
 
 She has been an indispensable and consistent member of the adventuring group known as the [[S4]] since it was founded.

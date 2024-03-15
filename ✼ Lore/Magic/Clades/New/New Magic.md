@@ -24,6 +24,11 @@ Derived from indistinct entities or systemic alterations, such as [[The Signal|t
 A propensity for new magic can be born into people. Creations only possible with this less-controlled magic include [[Antique#False antiques|false antiques]] and advanced [[enchantment|enchantments]].
 
 Despite the name, many significantly older studies of magic less clear on form, such as [[witchcraft]], fall under the exact definitions created by new magic. 
+
+## Exnihilation
+One potential result of a [[Reality-Bending|reality-bend]], sometimes characterized as an [[altercation]], is the sudden manifestation of a dangerous object that defies [[logic]], known as **exnihilation**. This term was earned due to generating pure energy and artifice without proper intentions or [[tribute]]. ^a0f54b
+
+![[Broken Arm#^3516c6]]
 # History
 
 Although it had existed as a tangential belief in the arcane community for about a century prior, it wasn't until the end of the [[Dragonic War]] that the public would come to comprehend the depths to the changes in Magic occurring on untold scales. [[Omen|Omens]] of the change were born throughout the world, many without knowing it.

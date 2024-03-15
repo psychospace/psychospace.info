@@ -4,7 +4,7 @@ tags:
 aliases:
   - Yalagnu
 ---
->[!question|bg-c-blue ttl-c] If you were looking for the physical space pervaded by [[psychospace]], including the Planet, see [[the Heavens]].
+>[!question|bg-c-blue ttl-c] If you were looking for the physical space pervaded by [[psychospace]], including the Planet, see [[the Heavens]]. If you were looking for the "alternate" planet, see [[#Alternate worldline]].
 ---
 
 The **Planet** ([[Oa'Rovi]]: ***Yalagnu***^[Yal-Ashnu]), is the typical [[Shindani]] name of the physical [planet](https://en.wikipedia.org/wiki/Planet) which is home to the [[The Heavens|Heavens]], where life thrives and where [[psychospace]] is known to harbor an immense power. 
@@ -19,7 +19,7 @@ The Planet was architected from the [[Old world|old world]] by the [[Anti|god of
 # Alternate worldline
 >[!question|bg-c-blue ttl-c] For more information, see [[elseworld]].
 
-Naturally, as the anchor point of [[logic]], the Planet also exists as the "surface" of the [[elseworld]], where [[necrospace]] rules.
+Naturally, as the anchor point of [[logic]], a version of the Planet also exists as the "surface" of the [[elseworld]], where [[necrospace]] rules.
 
 # Composition
 

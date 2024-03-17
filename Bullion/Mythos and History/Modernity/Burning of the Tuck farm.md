@@ -1,7 +1,6 @@
 ---
 tags:
   - timeline/event
-publish: false
 description: On the Ides of Alssad, 1283 PT, the Tuck family farm was burnt to the ground.
 ---
 
@@ -30,5 +29,5 @@ Only one survivor is known: [[Sandalio Vela]], Johanna's father, as well as a wi
 
 Information relating to this mysterious incident has been continually sought by [[Sganyodaiyo]] agents.
 
-[^1]: [[✼ The Veteran]].  "It was the Ides of Alssad, two years ago..."
+[^1]: Per Sandalio's account. 
 [^2]: [[⊛ The First Rule]]. "I wake up the next day, unscathed."

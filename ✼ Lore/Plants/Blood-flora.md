@@ -9,5 +9,5 @@ Blood-flora express an atypical ability compared to other plant life to drink wa
 
 Blood-flora are best exemplified by [[Bloodberry|bloodberries]], their type species and a common garden escapee throughout the [[Mer de Vide]]. They typically bloom most vibrantly in mid-summer.
 
-True to their name, blood-flora have two disputed folk origins, both to do with blood. In the first origin, they are said to have first been created when a [[Divinity|god]]'s blood was spilled in Bullion, creating a fountain of youth around which these succulents eagerly drank it up. In the other origin, a [[harengon]] was mauled to death while stealing for his family, and its dying wish was to not let them see him in shame
+True to their name, blood-flora have two disputed folk origins, both to do with blood. In the first origin, they are said to have first been created when a [[Divinity|god]]'s blood was spilled in Bullion, creating a fountain of youth around which these succulents eagerly drank it up. In the other origin, a [[harengon]] was mauled to death while stealing for his family, and its dying wish was to not let his family see him acting out in such shame, and so beautiful flowers grew about the body.
 

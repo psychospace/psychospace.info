@@ -20,6 +20,7 @@ This page acts as a #hub for the pages in the **Stories** folder. If you're inte
 # ⊛ Prose
 Stories in **prose** are stories written about or from the perspective of characters.
 
+- *NEW!!* - **[[⊛ Sprout]]**
 * [[⊛ Change is In the Air]]
 * [[⊛ The First Rule]]
 

@@ -11,9 +11,7 @@ permalink: history/age-of-gods/gathering
 
 After the [[Age of the Gods|birth of a new pantheon]], [[Elemental energy]] gathered together as earth, fire, water, and air were redefined and reinvented by the new position of [[Chaos]] in this new ecosystem. Most [[Remnant|remnants]] were occupied by loose colonies of infantile [[Psychospace|psychospacial]] imprints of the last world known as [[Echo|echoes]], memories of old things which used to exist. 
 
-The most powerful colonies shared in and began to hoard the elemental forces, seeking definition for themselves, becoming [[elder elementals]]. Many of these elder elementals corroded and split into two paths: modern [[alpha elementals]], and [[Whill|whills]], who sought to exert command over the [[First Magicians]].
-
-The massive outbreak of these forces collectively permanently altered the equilibrium states in psychospace. 
+The most powerful colonies shared in and began to hoard the elemental forces, seeking definition for themselves, becoming [[Elemental creatures#Elder|elder elementals]], and a massive outbreak of these forces collectively permanently altered the equilibrium states in psychospace. 
 
 To try and prevent the new reality from succumbing to chaos's power [[War of Chaos|as its predecessor had]], the [[Divinity|gods]] etched a layer-structure into the [[The Heavens]], creating permanent buffer zones between the whills and preventing collaboration. Apparently, in the course of this, the [[Calamity of the Eyes]] occurred as well.
 

@@ -24,7 +24,7 @@ According to kayal sources, the only thing that has ensured long-term survival a
 
 ## Physicality
 
-The assumed physical form of nightshades are tremendously tall, ill-formed animalistic shapes constructed of pure shadow -- the medium which makes this shape up like a murky black dustcloud or [[weather|storm]] system. These shapes do not have a any known limit on their biology, other than their apparent mass: nightshades have been seen as tremendously tall six- or eight-limbed humanoid shapes, eighty-legged distorted dogs or crabs, fractal-like protoplasms, and others.
+The assumed physical form of nightshades are massive, ill-formed animalistic shapes constructed of pure shadow -- the medium which makes this shape up like a murky black dust cloud or [[weather|storm]] system. These shapes do not have a any known limit on their biology, other than their apparent mass: nightshades have been seen as tremendously tall six- or eight-limbed humanoid shapes, eighty-legged distorted dogs or crabs, fractal-like protoplasms, and others.
 
 Some posit this is just a projected avatar used as a tool or weapon, and that their true form is either undetectable or implacable. Regardless of what shape they take, it is widely believed that nightshades cannot be reasoned with in any capacity. 
 

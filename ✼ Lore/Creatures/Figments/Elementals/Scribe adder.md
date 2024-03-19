@@ -1,4 +1,4 @@
-**Alpoa-Derya wyrms**, called **scribe adders**, are serpentine titan [[Elemental creatures|elementals]] of the [[earth]]. Their hides are largely hunted for use in [[train|trains]], owing to their miraculous physical properties.
+**Alpoa-Derya wyrms**, called **scribe adders**, are serpentine [[Elemental creatures#Titan|titan elementals]] of the [[earth]]. Their hides are largely hunted for use in [[train|trains]], owing to their miraculous physical properties.
 
 Their name comes from the people of the [[Alpoa Plateau|Alpoa]] and [[Derya Plateau|Derya]] plateaus, geographic regions of [[Emirate of Qaulhain|Qaulhain]], where in ancient times the creatures once nested in the hundreds, as attested to by [[Holrfold]]. The dwarves of Holrfold believed the creatures to be limbs of [[Nárjǫrð]].
 

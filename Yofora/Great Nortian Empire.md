@@ -5,9 +5,9 @@ aliases:
 tags:
   - place/nortia
 ---
-The **Great Empire of Nortia** is a large empire and world power of the [[Mer de Vide]], with a rich culture and secretive nature. 
+The **Great Empire of Nortia**, typically shortened to simply **Nortia** is a large empire and world power of the [[Mer de Vide]], with a rich culture and secretive nature. 
 
-Under the [[House Nortia|imperial family]], it governs the remnants of [[Yofora]], where its capital city of [[New Orc City]] resides, and [[Umazia]]. The empire has been an impressive force for change throughout the eons, regularly producing powerful technology through their royal line's connection to the ethereal [[The Sheer|Sheer]]. 
+Under the [[Nortian imperial family]], it governs the remnants of [[Yofora]], where its capital city of [[New Orc City]] resides, and [[Umazia]]. The empire has been an impressive force for change throughout the eons, regularly producing powerful technology through their royal line's connection to the ethereal [[The Sheer|Sheer]]. 
 
 # Structure
 The empire is separated into **oblasts** which are individually governed by principal governors. Much of its land is considered the property of various noble families. 
@@ -22,7 +22,7 @@ In 7800 BPT, after a witness discovered and spread news of Uforia's influence, e
 
 As they approached, they were each met by [[Valerian|Valerian Nortia]], who protected it by drawing on [[Ekaitz]]'s energy.
 
-These five apostle-knights shared in immaculate reality-altering dreams as a result of Valerian's immense [[Monism|psychic power]], which was said to shatter their wills and bind them all. Each of the peoples of Yofora warred and toiled with one another, but thanks to Uforia and the first of the imperial line, they suddenly were given a common tongue: they felt what one another felt and began to believe that their own minds were not meant to be their own. In this realization, despair began to sow in their souls. 
+These five apostle-knights shared in immaculate reality-altering dreams as a result of Valerian's immense [[Monism|psychic power]], which was said to shatter their wills and bind them all. Each of the peoples of Yofora warred and toiled with one another, but thanks to Uforia and the first of the [[Nortian imperial family|imperial line]], they suddenly were given a common tongue: they felt what one another felt and began to believe that their own minds were not meant to be their own. In this realization, despair began to sow in their souls. 
 
 To ease what it knew was pain, Uforia granted each of the apostle-knights new names. These names were said to be themselves words of power, speaking the [[Divine Equation]] in a literal sense. Their tribes would bear their old names. 
 

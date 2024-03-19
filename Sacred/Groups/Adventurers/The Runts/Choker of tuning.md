@@ -12,7 +12,7 @@ The **choker of tuning** is an enchanted dark-blue leather choker is adorned wit
 >>
 >>When worn willingly, this item attunes to its wearer (not the other way around). This semi-permanently changes the alignment of a creature who wears this band to the item's creator's alignment. Only a *ceremony* spell can reverse this effect when the choker has been removed, and only if the creature consents.
 >>
->>While the bell attached to the choker can ring, the creature who wears this item can use their action to ring the bell and temporarily create a telepathic bond between themselves and the item's creator, for about 1 hour. This bond is semi-compulsory: each time a bond is created, the item's creator can cast *command* on the other creature as part of that bond.
+>>While the bell attached to the choker can ring, the creature who wears this item can use their action to ring the bell and temporarily create a [[Telepathy|telepathic]] bond between themselves and the item's creator, for about 1 hour. This bond is semi-compulsory: each time a bond is created, the item's creator can cast *command* on the other creature as part of that bond.
 >>
 >>The item's creator can also use their action to establish the bond, but can only complete the connection if the bell can ring, which it does upon successful connection. On an unsuccessful connection, a telepathic bond cannot be created by either party for 24 hours.
 >>

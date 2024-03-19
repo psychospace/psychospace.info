@@ -17,7 +17,7 @@ description: 𝘏𝘰𝘮𝘦𝘤𝘰𝘮𝘪𝘯𝘨 is the heirloom firearm of
 >| Initially created | [[1210 PT]] |
 
 
-***Homecoming*** is the name given to the heirloom [[Firearm]] of the [[Great Nortian Empire|Nortian]] imperial line, starting with [[Serena Nortia]]. Named by [[Uforia]] herself, it is a *rifle-axe* custom fit for the [[Successor (Nortia)|Successor]], and acts as her weapon of choice.
+***Homecoming*** is the name given to the heirloom [[Firearm]] of the [[Great Nortian Empire|Nortian]] [[Nortian imperial family|imperial line]], starting with [[Serena Nortia]]. Named by [[Uforia]] herself, it is a *rifle-axe* custom fit for the [[Successor (Nortia)|Successor]], and acts as her weapon of choice.
 
 *Homecoming* is a magic rifle-axe powered by compressed air. Its method of firing, using pumped air to propel projectiles, heavily limits its use by anyone who lacks the same [[Ekaitz|control over storm]].
 

@@ -2,7 +2,7 @@
 tag: plane
 description: The Sheer is a demiplane of collapsed-space.
 ---
-The **Sheer** ([[Oa'Rovi]]: *Rav'ithflas*, lit. "Portal of Tumult Fog"), also called **collapsed-space** or **dense-space**, is a [[Plane#Demiplane|demiplane]] projection of [[Kibangan]] as cast by the second-nearest star to [[The Planet|the planet]], [[Stronn]]. It is well known as a powerful aspect of nature commanded by the [[Great Nortian Empire|Nortian]] imperial line through [[Ekaitz]].
+The **Sheer** ([[Oa'Rovi]]: *Rav'ithflas*, lit. "Portal of Tumult Fog"), also called **collapsed-space** or **dense-space**, is a [[Plane#Demiplane|demiplane]] projection of [[Kibangan]] as cast by the second-nearest star to [[The Planet|the planet]], [[Stronn]]. It is well known as a powerful aspect of nature commanded by the [[Great Nortian Empire|Nortian]] [[Nortian imperial family|imperial line]] through [[Ekaitz]].
 
 It is partly a creation of [[Chartless Sea]]. [[Psychospace]], due to being a shadow cast by [[Cien]], exists as a more prevalent projection of Kibangan, and so its magic overlays this one. 
 

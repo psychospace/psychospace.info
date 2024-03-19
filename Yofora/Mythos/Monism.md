@@ -1,4 +1,4 @@
-"**Monism**", also called "revelation", is the bloodline [[magic]] ability carried by the [[Great Nortian Empire|Nortian]] imperial family. Someone capable of monism is known as a **monist**.
+"**Monism**", also called "revelation", is the bloodline [[magic]] ability carried by the [[Great Nortian Empire|Nortian]] [[Nortian imperial family|imperial family]]. Someone capable of monism is known as a **monist**. This ability manifests as a particularly extreme form of [[telepathy]].
 
 # Ability
 It is not well-defined, but it largely consists of assisting in the recovery and spiritual health of citizenry. 

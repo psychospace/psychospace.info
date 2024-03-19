@@ -24,7 +24,7 @@ The soul within it does think, although to say it was entirely cognizant would b
 >>
 >>The heart container has 40 hit points when it contains a soul and 10 hit points otherwise. It can restore hit points only by magical means, and can't gain temporary hit points. It spins in place lightly when it has a soul, and hovers 5 feet above the ground at all times.
 >>
->>The container has the same ability scores as the soul, but can't speak if it knows a language. It can communicate only through changing its own color (which it has difficulty doing) or through telepathy to those it has unbroken line of sight to within 40 feet of it. 
+>>The container has the same ability scores as the soul, but can't speak if it knows a language. It can communicate only through changing its own color (which it has difficulty doing) or through [[telepathy]] to those it has unbroken line of sight to within 40 feet of it. 
 >>
 >>A soul can be released from the container if it is dispelled at 6th-level, or if it is destroyed by being reduced to 0 hit points. A released soul can return if its body is within 40 feet of the container, and its body isn't destroyed beyond repair. Alternatively, if the creature who facilitated the transfer passes away, the soul they bound to the container is released with them.
 >>

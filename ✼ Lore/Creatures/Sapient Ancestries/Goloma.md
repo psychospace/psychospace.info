@@ -16,7 +16,7 @@ As is attested by non-golomas observing their perspective, their sense of vision
 
 ## Community
 
-Golomas refer to themselves as one of a few people who exist as "sensates". In the past, they used to have an ability similar to [[Succession (ability)|Succession]], by which they could share memories and thoughts with one another. Though this is not the exact same ability they have today, golomas connected by familial [[Soul bond|bonds]] can still almost certainly speak to one another through a minor emotional telepathy.[^1]
+Golomas refer to themselves as one of a few people who exist as "sensates". In the past, they used to have an ability similar to [[Succession (ability)|Succession]], by which they could share memories and thoughts with one another. Though this is not the exact same ability they have today, golomas connected by familial [[Soul bond|bonds]] can still almost certainly speak to one another through a minor emotional [[telepathy]].[^1]
 
 Biologically, a goloma community is a superorganism. Each clan is used to being limited to their environment, using natural resources (both found and created) to modify their genetic history and makeup, granting them artificial variety for future prospects, a task they culturally believe is part of their psychosocial development. This, through means other sapient races often scarcely understand, allows goloma colonies to be more or less self-sufficient, despite dwindling numbers of the various heritages.
 

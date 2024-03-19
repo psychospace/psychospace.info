@@ -30,7 +30,7 @@ The name "Trobairitz" comes from the old [[Sylvan]] word for "troubadour", or mo
 
 # History
 
-Trobi was once bound by a [[Choker of tuning]] to serve his master unflinchingly with his arrowproof skin. Cursed with deafmuteness from birth, they communicated directly only through contact telepathy and non-verbal language.
+Trobi was once bound by a [[Choker of tuning]] to serve his master unflinchingly with his arrowproof skin. Cursed with deafmuteness from birth, they communicated directly only through [[Telepathy#Contact|contact telepathy]] and non-verbal language.
 
 He was recruited by Ikabod with the promise that the researcher may try and heal his [[curse]], seemingly stemming from a hereditary disease, but Ikabod made little progress in the search for a cure, leading to Trobi's growing frustrations and eventual departure.
 

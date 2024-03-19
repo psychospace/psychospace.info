@@ -11,6 +11,6 @@ The **Miraclesfield Experiment**, also known as the **Incursion in Miraclesfield
 ## Preamble
 [[Heartknock]] had been sighted in the region.
 ## Attack
-While discussing the products of [[Nery Ravenna]]'s research reverse-engineering the [[Runic engine|runic engine]]'s internal mechanics, the forces at [[Yaarda Fort]] attempted to ambush the [[S4]], who had just been spotted in the region. Buster [[Hazel Sobol|Hazel]] was deployed to the region, equipped with a [[Psinomenon#Psintilla|psintillating field]], and a corrupted drake-type [[rotbot|rotbot]]. 
+While discussing the products of [[Nery Ravenna]]'s research reverse-engineering the [[Runic engine|runic engine]]'s internal mechanics, the forces at [[Yaarda Fort]] attempted to ambush the [[S4]], who had just been spotted in the region. [[Buster]] [[Hazel Sobol|Hazel]] was deployed to the region, equipped with a [[Psinomenon#Psintilla|psintillating field]], and a corrupted drake-type [[rotbot|rotbot]]. 
 
 Members of the Heartknock who had already infiltrated Nery's laboratory threatened to set off a [[The Sheer#Wildcat Destabilization|runic bomb]], but [[Serratura Neeman]] managed to reduce the blast by tossing a [[dragon tear]] into the room. The resultant [[Ghost storm]] forced a retreat from the remaining antagonistic forces aboard the [[Caged Bird]], but the brave actions of [[Raxia]] managed to down the craft in [[Victory Canyon]].

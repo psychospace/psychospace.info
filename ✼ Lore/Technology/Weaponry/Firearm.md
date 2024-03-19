@@ -23,6 +23,6 @@ Handheld firearms are still not yet in great numbers as of [[1250 PT]], although
 The most well known handheld firearm in current year is the **morgan crossbow**, which is a scoped crossbow capable of firing red-hot bolts far into the horizon line crafted by famed [[Pinwheel]] engineer **Morgana Laufie.** It is essentially a crossbow with explosive pieces. The most elite of the [[City & Castle]] Guards in the [[Kingdom of Sacred]] are equipped with a new form of firearm aptly called a **handdragon**, a sidearm they use in their off-hand, capable of firing round shot with such a spin that even hitting armor or shields won't stop it from skidding off and carving more damage into its targets.
 
 ## Rifle-axes
-Rifle-axes were early developments in the post-war period of Nortia, and its creation represented the pinnacle of their early exploration of the modern spellblade style. [[Homecoming]] is a premier example, with the [[Model H-1]] being designed after it.
+Rifle-axes were early developments in the post-[[War of the Masters|war]] period of Nortia, and its creation represented the pinnacle of their early exploration of their modern spellblade style. [[Homecoming]] is a premier example, with the [[Model H-1]] being designed after it.
 
 The axe-head is intended to be used while sieging forts or taking on heavy beasts, while at range its heft assists in stabilizing the barrel. It can also hold an electrical charge, able to channel through and fry somebody wearing armor from within.

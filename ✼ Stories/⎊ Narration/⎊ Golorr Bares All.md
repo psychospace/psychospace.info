@@ -265,7 +265,7 @@ And to this, five-hundred millennia back from today, so it was: two embers from 
 
 ^93d843
 
-[After a moment, nothing dramatic happens: there is no wound. Plesio chuckles, then laughs, then HOWLS with insane laughter... as though he expected more from a final attempt. He rips the crown away, winds the adamantine blade back in a familiar stance, and CHOPS Aso's head off. Light pours from the wound as the scene turns blinding.]
+[After a moment, nothing dramatic happens: there is no wound. Plesio chuckles, then laughs, then HOWLS with insane laughter... as though he expected more from a final attempt. He rips the crown away, winds the adamantine blade back in a [[House Dino#Revenger|familiar stance]], and CHOPS Aso's head off. Light pours from the wound as the scene turns blinding.] ^dbe070
 
 >This conflict was yet another spark to stoke Arahabaki's flame of ambition.
 

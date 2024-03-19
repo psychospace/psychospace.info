@@ -81,7 +81,7 @@ permalink: narration/hazel
 >Now…. to introductions, of course. You must know the players if you are to play, after all….
 
 ## Into the Abyss
->I am Buster [[Hazel Sobol]]… the *Champion Serena*. I am a knightess of the [[Great Nortian Empire|Empire of Nortia]], champion of [[Yofora]]'s moon and sun, blessed of [[Uforia]], captain of the [[Army of Euphony]], an [[undead]] masterwork of the [[NIMROD|Imperial Research Division]], trusted blade of the Empress, and the beloved of her daughter. Of these titles, I am most proud of the last…
+>I am [[Buster]] [[Hazel Sobol]]… the *Champion Serena*. I am a knightess of the [[Great Nortian Empire|Empire of Nortia]], champion of [[Yofora]]'s moon and sun, blessed of [[Uforia]], captain of the [[Army of Euphony]], an [[undead]] masterwork of the [[NIMROD|Imperial Research Division]], trusted blade of the Empress, and the beloved of her daughter. Of these titles, I am most proud of the last…
 >
 >She is my betrothed, yes… everything I do, I do for [[Serena Nortia|Serena]].
 
@@ -211,7 +211,7 @@ You have given me a scar I shall savor every day… charged with the emotions of
 
 [The two continue to engage their blades. The crowd cheers and jeers as the footing swings this way and that. But its like Buster hasn't even drawn breath since the fight started. Then, she's caught off-guard by a feint. Then, another one. She's slipping. Her focus is slipping.
 
-[Then, an opening. Her hand was left out of position. Linnie roars in anger, swings, strikes her head horizontally. It spins freely, and she yells in hedonistic pain and pleasure combined. Then, he pulls his stance through, slams his foot down, and stabs her through the middle of the skull. Dinofang arcs with red electricity and the green light dies down. She looks aghast as her jaw falls slack, pink blood oozing from both sides. He pulls her head from unholy fire as it resists, and collapses to the ground, sobbing as he stabs her all the way through the heart. Her body goes limp and collapses to its knees, then falls flat. Linnie pulls Dinofang out of her and he cradles the sword, crying from stress.]
+[Then, an opening. Her hand was left out of position. Linnie roars in anger, swings, strikes her head horizontally. It spins freely, and she yells in hedonistic pain and pleasure combined. Then, he pulls his stance through, slams his foot down, and stabs her through the middle of the skull. Dinofang arcs with red electricity and the green light dies down. She looks aghast as her jaw falls slack, pink blood oozing from both sides. He pulls her head from unholy fire as it resists, and collapses to the ground, sobbing as he stabs her all the way through the heart. Her body goes limp and collapses to its knees, then falls flat. Linnie pulls Dinofang out of her and he cradles the sword, crying from stress.] ^d6d23f
 
 [The flesh of the head fades away, revealing a pink skull. The sound of blood in your ears dies down, and… All seems calm. All that can be heard in the arena, its breath held, is Linnaeus sobbing.]
 
@@ -226,6 +226,8 @@ You have given me a scar I shall savor every day… charged with the emotions of
 >You must've missed the part where I said I couldn't die. WELL, fair mistake. But a fatal one for most.
 >
 >Well? I'm not disappointed. You fight like nothing matters, brat! Serena will love you. Proof that that [[Ikabod Caruso|crochety old mage]]'s papers were right on the money, as expected. You are an aberrant madman, barely a prince in your style. I like it, but my opinion is no matter. Your temper will certainly need refining, wouldn't you say? We can straighten you out, good enough.
+
+^d5d5bc
 
 [The prince's back is cracked again, Hazel's grip tightening. Red blood seeps through his mythril chain shirt, mixing uncomfortably with pink down Hazel's arm, as Lin is lifted with one arm to the sky.]
 

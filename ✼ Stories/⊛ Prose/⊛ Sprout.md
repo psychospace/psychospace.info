@@ -327,7 +327,7 @@ Its eye-sockets ran with overgrowth, vines dwindling in its skull, and its mouth
 
 It was recognition in a language which nothing in this battle understood. It was no language at all; these were the echoes that made up this un-creature, resonating as a temporary shared thought.
 
-Linnie held his own, held his breath. Tension, nervousness, built in his legs, but the manuever came together in his mind. With his arms still bound in blade-lock, sparks scattering across the leaves, he anchored a forward leg in the dirt, and the other became a swift kick to the underside of its opponent.
+Linnie held his own, held his breath. Tension, nervousness, built in his legs, but the manuever came together in his mind. With his arms still bound in blade-lock, sparks scattering across the leaves, he anchored a forward leg in the dirt, and the other became a swift kick to the underside of its opponent. ^9a8079
 
 The undead's balance tumbled apart, Linnaeus's arms flying forward. The rusted weapon of his opponent went flying back, going horizontal to the floor along with its carrier. The left shin-bone had snapped off, and the miasma of void energy around the opposing force seemed to lessen just that little bit.  As Linn's body followed through, he exhaled, shouting an unsteady *kiai*. His arms resumed feeling, and one went immediately towards his ally, whimpering nearby him.
 
@@ -361,7 +361,7 @@ A searing pain roared up the prince's body. His nerves were shot in a moment. Th
 
 The skull turned towards him almost pleadingly, as though it were a dog whose tail had been stepped on. It was angry, writhing, begging him to let go. The red blips which dwelled inside gazed quizzically at Linnie. <span class=horus>*NOT HE... GOOD BLOOD...*</span> it determined, apparently frustrated with this notion.
 
-Wincing something fierce, Linnaeus raised Dinofang and attacked towards the face. He no longer could visualize what the attack would look like or should be: his eyes were shut. He just wanted out, out of this pain. Kill the thing in front of him. *Kill*, his mind told him. *Stop it from hurting me.*
+Wincing something fierce, Linnaeus raised Dinofang and attacked towards the face. He no longer could visualize what the attack would look like or should be: his eyes were shut. He just wanted out, out of this pain. Kill the thing in front of him. *Kill*, his mind told him. *Stop it from hurting me.* ^814e65
 
 *SHINK.* The blade split bone. Linnaeus's arms were fixed in place, and the skeleton's hand buried in his leg scraped for traction. The whole room seemed to spin, the pain even deeper than it had been before. Linnie tried to yank back, pull his sword free, but... *oh gods*, it was getting harder and harder to stand.
 

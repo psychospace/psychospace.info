@@ -1,6 +1,12 @@
 ---
-alias: shotcaller, shotcallers, Shotcallers
-tag: magic/new/clade, title
+aliases:
+  - shotcaller
+  - shotcallers
+  - Shotcallers
+tags:
+  - magic/new/clade
+  - title
+  - has_glossary_entry
 ---
 ![[⎋ 2FPG]]
 A **shotcaller** is an informal [[Clade|clade]] of [[New Magic|new magic]], which, due to its simplicity and teachability, allows an everyman a defense against the greater threats of post-[[Zero Day]]. Many shotcallers are employed or used by the [[Fifth Institute]], as the ability is relatively easy to train or find propensity for.

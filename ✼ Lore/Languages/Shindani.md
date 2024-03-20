@@ -1,6 +1,7 @@
 ---
 tags:
   - language
+  - has_glossary_entry
 aliases:
   - Common
 ---

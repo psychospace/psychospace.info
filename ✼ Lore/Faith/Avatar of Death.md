@@ -2,6 +2,7 @@
 tags:
   - being/divine
   - domain/death
+  - has_glossary_entry
 ---
 The **avatar of death** is a divine concept, believed by many to explain the permanence of the institution of [[Death]]. An entity appointed as avatar will assist [[Exponen|Nexos]] in facilitating the judgement of the dead at [[Unwri]]. 
 

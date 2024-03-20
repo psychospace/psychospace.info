@@ -1,5 +1,7 @@
 ---
-tag: magic
+tags:
+  - magic
+  - has_glossary_entry
 ---
 Nearly all [[Spell|spells]] which follow the [[Magic|old definition]] have an "**arcane complexity**", codified into **levels** from zero (known as [[Cantrip|cantrips]]) to ten. This is determined by both the magnitude and difficulty of achieving the goals of the spell, in order to communicate the level of mastery over psychospace necessary to wield them. 
 

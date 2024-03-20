@@ -2,6 +2,7 @@
 description: A "broken arm" is a special class of weapon created rarely (out of nothing) by reality-bending.
 tags:
   - magic/new
+  - has_glossary_entry
 contributors:
   - Pancake
 ---

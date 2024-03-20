@@ -1,6 +1,7 @@
 ---
 tags:
   - plant
+  - has_glossary_entry
 ---
 
 Native to Northern [[Bullion]] and originally found in [[League of Joriele|Joriele]], **blood-flora**^[Hyphenation is subjective.] are members of a large family of hardy [succulent plants](https://en.wikipedia.org/wiki/Succulent_plant), some of which can channel [[magic]]. Their petals, leaves, and roots are typically bright red in coloration, and produce sticky, dark-red viscera when wounded, resembling the blood of many creatures.

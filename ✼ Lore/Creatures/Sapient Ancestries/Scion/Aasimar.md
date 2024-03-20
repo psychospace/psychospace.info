@@ -1,6 +1,7 @@
 ---
 tags:
   - sapient
+  - has_glossary_entry
 description: Aasimar are a celestially-blooded heritage of planar scions.
 ---
 **Aasimar** (*ays-ih-mer* or *ahs-ih-mar*) are a celestially-blooded #sapient heritage of planar [[Scion|scions]] who have connections to [[Divinity|gods]] aligned with good. The term does not define just one heritage. Instead, similar to [[Tiefling|tieflings]], aasimar may crop up in any bloodline where [[Angel|angels]] and their like have cavorted with mortals. 

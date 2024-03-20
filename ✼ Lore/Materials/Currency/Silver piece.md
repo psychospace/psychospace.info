@@ -4,6 +4,7 @@ aliases:
   - silver
 tags:
   - item/currency
+  - has_glossary_entry
 ---
 **Silver** is a valuable gray, reflective metal. A **silver piece** (*sp*), a coin minted from silver, is a widely recognized currency throughout [[the Heavens]]. Different civilizations mint different types of coin, though these are usually pinned to the value of silver as a material. One silver piece can be split into ten [[copper piece|copper pieces]], and ten silver pieces make up a [[Gold piece|gold piece]].
 

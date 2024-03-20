@@ -1,6 +1,9 @@
 ---
-tag: remnant/flipside
-alias: Abyssal
+tags:
+  - remnant/flipside
+  - has_glossary_entry
+aliases:
+  - Abyssal
 ---
 The **Abyss**, or **Enitor**, is the name for the various [[Flipside|flipsides]] of the [[Remnant|Hells]] of the [[Scarlet Skies]].
 

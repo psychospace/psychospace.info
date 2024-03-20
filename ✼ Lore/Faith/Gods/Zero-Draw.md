@@ -1,5 +1,8 @@
 ---
-alias: damn god fell off
+aliases:
+  - damn god fell off
+tags:
+  - has_glossary_entry
 ---
 The **Zero-Draw Rule** is a principle of nature. 
 

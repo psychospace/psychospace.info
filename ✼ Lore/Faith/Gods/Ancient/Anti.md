@@ -3,6 +3,7 @@ aliases:
   - The Ignition Point
 tags:
   - being/divine
+  - has_glossary_entry
 ---
 **Anti**, the **Ignition Point**, is the progenitor of the [[Divinity|pantheon]], the authorship of the [[Divine Equation]], the architect of [[The Planet]], and speaker of the [[Golden Voice]].
 

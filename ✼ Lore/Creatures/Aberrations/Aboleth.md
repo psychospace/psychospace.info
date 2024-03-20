@@ -1,7 +1,8 @@
 ---
-tags: []
+tags:
+  - has_glossary_entry
 ---
-**Aboleth**, also known as **alghollthus**, are primal aquatic creatures from [[Out There]]. 
+**Aboleth**, also known as **alghollthus**, are primal aquatic creatures, [[Aberration|aberrations]] from [[Out There]]. 
 
 # History
 They first influenced [[The Heavens|the Heavens]] during [[Old world|the Shatter]], before the [[Divinity|gods]] arose. At this time, they seized control over infantile mortal enterprise, seeking to dominate and become new gods over the dying world, creating pocket spaces they could control outside the realm. 

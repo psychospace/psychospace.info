@@ -1,6 +1,9 @@
 ---
 onenote-created: 2019-11-28 15:40:34 -0500
 onenote-modified: 2020-06-19 16:56:53 -0400
+tags:
+  - item
+  - has_glossary_entry
 ---
 A **bead of counterspelling** is a consumable bead of [[Hepatizon|hepatizon]], shaped like a triangular prism, which, when crushed, exudes a localized [[antimagic|antimagic]] effect, effectively [[Counterspell|counterspelling]] a spell of a specific strength.
 

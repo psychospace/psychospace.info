@@ -4,6 +4,7 @@ aliases:
   - The Mortal Puppeteer
 tags:
   - being/divine
+  - has_glossary_entry
 campaign: "[[⍟ Magical Mystery Tour]]"
 issues:
   - rewrite

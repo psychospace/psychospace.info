@@ -1,6 +1,7 @@
 ---
 tags:
   - plant
+  - has_glossary_entry
 aliases:
   - bloodberries
 ---

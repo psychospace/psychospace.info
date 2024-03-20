@@ -7,7 +7,7 @@ Upon [[the Planet]], such a [[Arcane complexity|complex]] and dangerous ability 
 # Commonalities
 Despite the rarity with which it appears, it is possible to determine several common points in mythos with which one can speculate.
 
-Such an ability is often entangled with extreme propensity for [[teleportation]], and one which holds power over one domain likely holds power over another.
+Such an ability is often entangled with extreme propensity for [[Portal|teleportation]], and one which holds power over one domain likely holds power over another.
 
 Due to [[logic]], three continuously referenced factors emerge, are considerations in events regarding time travel.
 - Self-reference: one can only manipulate events as far back as their own [[epitome]].

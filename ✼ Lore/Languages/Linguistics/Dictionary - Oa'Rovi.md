@@ -2,6 +2,8 @@
 cssclasses:
   - heading-center-lines
   - illusion
+tags:
+  - hubs
 ---
 
 ![[Oa'Rovi]].

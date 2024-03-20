@@ -1,6 +1,7 @@
 ---
 tags:
   - remnant
+  - has_glossary_entry
 aliases:
   - Archipelian
 ---

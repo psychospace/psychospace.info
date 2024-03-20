@@ -4,6 +4,7 @@ aliases:
   - Nortia
 tags:
   - place/nortia
+  - government
 ---
 The **Great Empire of Nortia**, typically shortened to simply **Nortia** is a large empire and world power of the [[Mer de Vide]], with a rich culture and secretive nature. 
 

@@ -1,5 +1,8 @@
 ---
-alias: Succession
+aliases:
+  - Succession
+tags:
+  - has_glossary_entry
 ---
 **Succession** is a bloodline [[Magic|magic]] ability, said to be a fragment of divine strength, allowing a person to send their memories, emotions, and [[soul]] to another, extending another's life upon the original's [[death]]. It is sometimes considered to be an extreme form of [[telepathy]].
 

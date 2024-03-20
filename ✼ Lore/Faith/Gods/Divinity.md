@@ -1,6 +1,10 @@
 ---
-alias: god, goddess, gods, divine
-tag: hubs
+aliases:
+  - god
+  - goddess
+  - gods
+  - divine
+tags: []
 ---
 A higher-being dwelling in the [[Welkin]] is known as a **divine**, or, more often, a "**god**" or "**goddess**". Such beings are widely considered [[immortal]] by any sensible reckoning, even though gods are known to occasionally die and be reborn. 
 

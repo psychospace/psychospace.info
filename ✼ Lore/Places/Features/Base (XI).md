@@ -3,6 +3,8 @@ aliases:
   - baseman
   - Baseman
 permalink: xi/base
+tags:
+  - has_glossary_entry
 ---
 >[!quote|author] First Baseman
 >This place is a story that used to belong to [[The Pitcher|them]]. But it's mine now. Take it from me, if you dare.

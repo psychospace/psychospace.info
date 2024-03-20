@@ -170,7 +170,8 @@ LIMIT 30
 **Elemental** - Borne of [[chaos]]'s influence on the [[The Planet|the Planet]]'s nature. Fundamental to nature and all [[Creature|creatures]], defining and shaping it.
 - **[[Elemental energy]]** - A type of [[chaos]] energy, also called **elemental chaos**. Divided between four primary axioms and two redefined axioms -- [[air]], [[water]] (and their combination [[wood]]), [[fire]], and [[earth]] (and [[metal]] from them). Layers of the [[The Planet#Planar stack|planar stack]] were divided between them by [[the Gathering]].  ^ad3756
 - **[[Elemental creatures]]** - A creature borne of the axioms of elemental energy. Sometimes also called simply **elemental** (as a noun).
-
+# F
+**[[Fylgja]]** - A guiding or guardian angel that ensures a person's soul will retreat to the gods upon death. Most people have one whether they know it or not.
 # G
 **Goliath** - Another term for [[#^43c59c|anlage]].
 
@@ -180,12 +181,19 @@ LIMIT 30
 3. blocked off multiple [[Mortal God Ritual|routes to ascension]]; 
 4. subducted the layers of [[Väräh]] and [[Umbraid]] into the [[First City]];
 5. and forged the [[Lynchpin device|lynchpins]] to ensure their desires were law.
+# K
+**[[Kibangan]]** - A 4D structure of raw magic whose 3D shadow makes up [[Psychospace]].
+
+**[[Kitsune]]** - Fox-like sapient people who can shape change on a spectrum of full-human to full-fox. Each individual's forms depends on their heritage. 
+# L
+**[[Lux]]** - Fluid physical manifestation of [[Vibe]]. Does not occur naturally and must be synthesized.
 # M
 **[[Manifold Seas|Manifold / Manifoldness]]** - "Constituted of the many". The state of the [[Out There]] and greater [[universe]] when it is refined and defined by the light of [[star|stars]] and influence of divines on a [[Plane#Pyrean|pyrean]] plane (such as [[Kibangan]]). Usually possesses definite [[logic]]. The opposite state of existence to [[Chartless Sea#Chartlessness|chartlessness]].
 - **[[Manifold Seas]]** - Star systems in this dichotomy.
 
 **[[Monism]]** - The ability of the [[Nortian imperial family]] given to them by [[Uforia]]. Characterized by immense [[Telepathy|telepathic]] prowess.
-
+# N
+**[[Noemite]]** - A metal known for its resonant properties. It is primarily used in [[Verlan|verlan]] systems.
 # P
 **Paladin** - A knight who uses benediction. *See [[#^e5f2b4|Benediction]].*
 
@@ -206,7 +214,9 @@ LIMIT 30
 
 **[[The Sheer|Sheer, The]]** - An alternate plane created by the shadow of [[kibangan]], cast by [[Stronn]]. Can create [[Portal|portals]]: the [[Nortian imperial family]] has a powerful ability to channel it.
 
-**[[Shindani]]** - The 
+**[[Shindani]]** - **Common**, the language. Also known as Laycant. 
+
+**[[Shotcaller]]** - A magic user positioned for tactics. Similar to a [spotter](https://en.wikipedia.org/wiki/Sniper#Sniper_teams). 
 
 ## Si
 **[[Siglarian]]** - A language manifested by [[automaton|automata]] which interfaces their digital thoughts with [[psychospace]].
@@ -217,15 +227,29 @@ LIMIT 30
 - **[[Silver piece]]** - A coin forged out of silver. Valued at ten [[copper piece|copper pieces]], or one-tenth of a [[gold piece]].
 - **Silver dragon** - A [[Dragon#Metallic|metallic dragon]] which assists in the protection of mortal enterprise.
 - **[[Silver cord]]** - An ethereal link which connects [[body]] to [[soul]]. In antiquity, it was said to be forged of silver chain.
+- **[[Silver Coin Shell]]** - A [canister round](https://en.wikipedia.org/wiki/Canister_shot) filled with silver coins as makeshift silvered weaponry.
 
 ## So
 **[[Soul]]** - A [[Gravity|composited]] ethereal mass of [[Echo|echoes]] and [[Vitality energy|vitality energy]] which possesses its own [[Viewpoint property|viewpoint]] and willpower; most every [[creature]] has one, granted to them by the process of [[reincarnation]]. Connected to the [[body]] through a [[silver cord]]: losing it means [[death]]. Incomplete without a [[fylgja]] and [[True name (concept)|true name]].
 - **[[Soul bond]]** - A bond, emotional or logical, formed by the soul to connect it to something else. Can be leveraged by [[magic]]. The most basic power of the soul, and the basis of [[psionics]].
 - **[[Soulstone]]** - A stone or crystal which contains and preserves a soul.
 
+## St
+[[Starfall]] - A day. 
+
 ## Su
 **[[Succession (ability)|Succession]]** - An ability generally associated with a special kind of [[fylgja]] used by [[kalashtar]], [[evangel|evangels]], and others. Allows a part of the [[soul]] to be passed on wholesale to a blood descendant, containing knowledge, memories, and all. Said to be a lingering element of [[immortal]] influence.
 
+# V
+**[[Vanguard-class]]** - A simple, small, and cheap [[Airship|airship]] that is used primarily by the army of [[Pinwheel]]. 
+
+**[[Väräh]]** - The second-lowest layer on the Planar Stack and the elemental plane of metal.
+
+**[[Verlan]]** - Analogous to electricity in the real world, it is an energy storing crystalline material that is used in Laytech. 
+# W
+A **[[Watch (unit)|Watch]]** is a unit of time equal to 1/8th of a day. 
+
+**[[Wild Blue Yonder]]** - The realm of mortal and non-elemental influence. Analogous to the Prime Material Plane or overworld in other settings.
 # ==[ Y ]==
 ## Ye
 **[[Year (unit)|Year]]** - A unit of time: in [[Pinwheel Tempo]], a period of 365 [[Starfall|starfalls]].

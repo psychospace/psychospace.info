@@ -2,6 +2,9 @@
 description: Noemite is a precious metal, predominantly sourced from Väräh, which possesses unique resonant qualities that allow it to hold verlanic energy.
 tags:
   - item/material
+  - has_glossary_entry
+contributors:
+  - CombustibleToast
 ---
 
 **Noemite**^[Pronounced [no-ehm-ight], or [nohm-ight], depending on accent] is a precious metal which possesses unique resonant qualities. 

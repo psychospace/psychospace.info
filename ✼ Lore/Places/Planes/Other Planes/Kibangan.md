@@ -2,6 +2,7 @@
 tags:
   - plane
   - magic
+  - has_glossary_entry
 aliases:
   - firmament
 ---

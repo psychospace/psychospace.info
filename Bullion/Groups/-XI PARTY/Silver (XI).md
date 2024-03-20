@@ -9,6 +9,8 @@ ancestry:
   - "[[Human]]"
 status: alive
 campaign: "[[⍟ Extra Innings]]"
+contributors:
+  - CombustibleToast
 ---
 **Silver** is a [[Human]] rogue. 
 

@@ -5,6 +5,8 @@ aliases:
   - Varah
 issues:
   - incomplete
+tags:
+  - has_glossary_entry
 ---
 ![[⎋ 2FPG]]
 

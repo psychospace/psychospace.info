@@ -1,7 +1,8 @@
 ---
-aliases: []
+aliases: 
 tags:
   - plane/layer
+  - has_glossary_entry
 ---
 The **Wild Blue Yonder** is the colloquial term for the [[Plane#realm|realm]] of influence of non-elemental mortals and [[Immortal|immortals]] on the [[The Planet]]. It is the largest layer of the planar stack and the primary subject matter of most of [[✼ Psychospace.info|this wiki]]. 
 

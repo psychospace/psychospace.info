@@ -5,6 +5,8 @@ aliases:
 tags:
   - group
   - faction
+contributors:
+  - CombustibleToast
 ---
 ![[⎋ 2FPG]]
 **Diesterthan Materials GmbH**^[(dee - es - tear - thun)] is a materials corporation founded by [[Devil|devils]] from the [[Scarlet Skies]]. They are mainly known for supplying massive quantities of [[noemite]] around the planet for experimentation and production of [[Verlan|verlan]]. The company name is often shortened to **DMAT**, their [[Scarlet Holdings Market]] identifier. 

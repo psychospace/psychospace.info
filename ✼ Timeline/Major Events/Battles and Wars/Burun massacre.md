@@ -1,7 +1,13 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 On [[1251 PT#3-4-1251|3-4-1251]] PT, a **massacre** occurred at a hidden [[Heartknock]] facility underneath [[Arklay Manor]] on the outskirts of the city of [[Burun]].
 
 The massacre was perpetrated by [[Amanita Parasom]], after her sister and shadow, [[Octavia Parasom]], was taken hostage by [[XO]], as potential leverage and to ground the twins. 
 
+# Event
 Amanita exploited their potent [[soul bond]] to [[portal|manifest]] behind the assassin, shooting it dead with her [[Illarion Parasom|late father]]'s [[firearm|handdragon]]. She proceeded to clear the room over the course of approximately 80 seconds. Amanita took two shots herself, one in the left arm and the other grazing her torso, from [[Zizz]] and [[Blister]] respectively. The first shot taken apparently prevented Octavia from being executed.
 
 In total, six of the then-decomposing [[Nortian Conspiracy]] were killed -- XO, and all remaining members of [[Special Task Force Undergarden|STFU]]. The twins themselves went missing shortly afterwards, exiling themselves to the [[First City]].

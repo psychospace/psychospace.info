@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 The **Antic Sea** or **Antic System** is the [planetary system](https://en.m.wikipedia.org/wiki/Planetary_system) ([[Manifold Seas|manifold sea]]) of the [[Star|star]] known as [[Cien]]. 
 
 The shadow of [[Kibangan]] is cast over the whole of the seven-planet system by the star, allowing it to support [[psychospace]], though due to a predominant lack of known life on other planets, the [[divinity]]'s only concern is [[The Planet|The Planet]].

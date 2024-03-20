@@ -10,6 +10,7 @@ tags:
   - being/entity
   - character/unknown
   - magic/new
+  - has_glossary_entry
 campaign: "[[⍟ Twin Fantasy]]"
 ---
 ![[⎋ 2FPG]]

@@ -3,6 +3,7 @@ aliases:
   - altercations
 tags:
   - magic/new
+  - has_glossary_entry
 ---
 ![[⎋ 2FPG]]
 A significant enough [[Reality-Bending|reality-bend]] results in what is known as an "reality **altercation**" or a "**snapback**", in which some force of [[Universe|reality]] resolves a significant [[Context|conflict]] which has been put in place arbitrarily: a reaction to an alteration.

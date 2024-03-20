@@ -1,5 +1,7 @@
 ---
-tag: being/divine
+tags:
+  - being/divine
+  - has_glossary_entry
 ---
 **Bioh**^[pronounced [BYOH], rhyming with "Kyo"], also known as the **Mother of Life**, is the [[divinity|goddess]] of nature, navigation, and evolution, a daughter of [[Cientia]] in the [[pantheon of Dawndust]]. 
 

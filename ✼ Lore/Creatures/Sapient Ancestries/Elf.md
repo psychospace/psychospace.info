@@ -5,6 +5,7 @@ tags:
 aliases:
   - elven
   - half-elf
+  - elves
 ---
 >[!question|ttl-c bg-c-blue]  This article is about the ancestry. For the Elvish language, see [[Mänyya]].
 

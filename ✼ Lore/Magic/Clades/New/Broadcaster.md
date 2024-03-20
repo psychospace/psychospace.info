@@ -3,6 +3,7 @@ aliases:
   - Broadcasters
 tags:
   - magic/new/clade
+  - has_glossary_entry
 campaign: "[[⍟ Twin Fantasy]]"
 ---
 ![[⎋ 2FPG]]

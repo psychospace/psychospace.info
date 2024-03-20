@@ -1,6 +1,7 @@
 ---
 tags:
   - magic
+  - has_glossary_entry
 ---
 The **silver cord**, sometimes called the **astral chain**, is a mechanic of [[Manifold Seas]] which binds denizens of the [[Plane#Realm|realms]], such as [[Creature|creatures]], to their [[Body|bodies]] of origin, if ever they stray from their level of existence. It can be said to connect body to [[soul]], representative of the self-[[Soul bond|bond]] which keeps all the pieces of a soul together. 
 

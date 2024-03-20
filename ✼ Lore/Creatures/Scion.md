@@ -1,6 +1,7 @@
 ---
 tags:
   - sapient
+  - has_glossary_entry
 ---
 A **scion** (*sy-onn*) is any [[Creature]] whose birth arises in the event of the tangling of mortal and [[immortal]] bloodlines, usually #sapient.
 

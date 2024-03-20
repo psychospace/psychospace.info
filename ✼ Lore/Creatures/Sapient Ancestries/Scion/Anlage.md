@@ -1,6 +1,8 @@
 ---
 aliases:
   - goliath
+tags:
+  - has_glossary_entry
 ---
 
 **Anlage** (ahn-lah-jee) or **goliaths** are a #sapient ancestry, [[giant|giants]] born of heaven and [[earth]], and native of [[Nasc]]’s micro-gravitational biomes. They are born from second-generation [[Elemental creatures|elemental]] [[Scion|scions]], one of many myriad results of the coupling of [[Whill|whills]] and humanoids.

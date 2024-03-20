@@ -1,6 +1,7 @@
 ---
 tags:
   - anc/immortal/angel
+  - has_glossary_entry
 aliases:
   - angelic
   - angels

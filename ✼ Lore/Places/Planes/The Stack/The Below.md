@@ -1,5 +1,7 @@
 ---
-tag: plane/layer
+tags:
+  - plane/layer
+  - has_glossary_entry
 ---
 **The Below** is the [[Shindani]] term given to the layer of [[The Heavens]] beyond the [[Scarlet Skies]], the one to which all [[Gravity]] magic is bound. Acting as the axiomatic [[Elemental energy|elemental]] [[Plane#Realm|plane]] of earth, it is the "true" surface of [[The Planet]], home to many odd things.
 

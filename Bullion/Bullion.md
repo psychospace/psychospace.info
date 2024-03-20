@@ -1,6 +1,10 @@
 ---
-tags: remnant faction/government/shib
-alias: Miracle City
+tags:
+  - remnant
+  - faction/government/shib
+  - has_glossary_entry
+aliases:
+  - Miracle City
 ---
 **Bullion** is a [[remnant]] in the southwestern [[Mer de Vide]], a neighbor to [[Archipel]]. The milieux of cultures, wildlife, and trade networks which pass through Bullion represent a predominant power in modern day, particularly through its ruling body, [[The Shibboleth]]. 
 

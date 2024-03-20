@@ -1,6 +1,8 @@
 ---
 aliases:
   - birds
+tags:
+  - has_glossary_entry
 ---
 
 **Birds** are a group of warm-blooded vertebrate [[Creature|creatures]], with almost all fielding the ability to fly through the [[Skysea|skyseas]]. They are mostly associated with the [[Elemental energy|elemental chaos]] of [[air]], but mostly nest on land.

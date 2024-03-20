@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - has_glossary_entry
 aliases:
   - aberrations
   - aberrant

@@ -1,6 +1,7 @@
 ---
 tags:
   - timeline/event
+  - has_glossary_entry
 permalink: history/bullion-war
 issues:
   - incomplete

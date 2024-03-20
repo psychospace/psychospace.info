@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 An **airship** or **airboat** is any vessel capable of flight and travel across the [[Skysea|sky-oceans]] of [[The Heavens]], powered by a [[Core engine|core engine]] and tenuously bonded to [[Gravity|gravity]]. Mostly constructed of wood and generally massive, airships are hardy and require a high degree of experience and resources to manage, construct, and pilot.
 
 Airships are housed, repaired, and deployed from locations known as **ports** or **docks**. A ship's crew is comprised of many roles, the most chief of which is **captain**, a person who pilots and takes responsibility for the ship's crew, cargo, and safety. 

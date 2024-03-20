@@ -1,6 +1,7 @@
 ---
 tags:
   - title
+  - has_glossary_entry
 aliases:
   - busters
 ---

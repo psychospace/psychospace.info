@@ -1,3 +1,9 @@
+---
+tags:
+  - has_glossary_entry
+---
+
+
 An **ambrotype** is a general term used throughout the [[The Heavens|Heavens]] for a photograph on glass, metal, or paper. 
 
 The term was first and is primarily used to describe photographs created by soaking a pane of glass in an alchemical solution prior to exposing it to light. The process of creation is an emerging and continually improving technology. An **ambrotypist** is a popular term for a photographer.

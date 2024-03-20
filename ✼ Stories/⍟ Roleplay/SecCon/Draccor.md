@@ -1,6 +1,8 @@
 ---
 tags:
   - second-contact/ship
+contributors:
+  - CombustibleToast
 ---
 ![[⎋ Secondary Canon]]
 

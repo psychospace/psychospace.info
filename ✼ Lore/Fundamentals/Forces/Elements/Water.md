@@ -1,6 +1,8 @@
 ---
 aliases:
   - watersea
+tags:
+  - has_glossary_entry
 ---
 
 Much like the real-world, **water** is a [substance](https://en.wikipedia.org/wiki/Water) which plays a vital role in all [[Creature|living things]], as well as turned to vapor in [[Cloudscape|clouds]]. Within [[the Heavens]], water is an [[elemental energy]], associated with peace, mystery, flow, and perpetuity.

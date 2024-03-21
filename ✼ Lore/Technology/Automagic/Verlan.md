@@ -3,6 +3,9 @@ aliases:
   - verlanic
   - verlan
   - shaw
+tags:
+  - energy
+  - has_glossary_entry
 ---
 ![[⎋ 2FPG]]
 **Verlan**^[[[Shindani|Common]]: *vurr-LEN*, from original [[Sylvan]]: *where-LAHN*] is a crystalline material (also called **dust**) sourced from within [[the Fortress]]. This crystal material behaves like an [[echo]] and holds a special form of energy, called **verlanic energy**, which can power [[automagic]] machines.

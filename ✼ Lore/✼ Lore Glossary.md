@@ -10,7 +10,7 @@ INCOMPLETE.
 
 TERMS TO BE ADDED TO GLOSSARY
 ```dataview
-TABLE rows.file.link
+TABLE rows.file.link as Link
 FROM -#has_glossary_entry and ("psychospace.info/✼ Lore" or "psychospace.info/✼ Timeline" or #government or #remnant or #noteworthy or #faith or #skysea) and -#hubs
 WHERE !contains(file.name, "PT")
 SORT file.name
@@ -447,6 +447,8 @@ GROUP BY substring(file.name, 0, 2) as Initials
 ## He
 **[[Heart container]]** - An object which can sequester a [[soul]] for examination and experimentation.
 
+**[[The Heavens|Heavens, The]]** - The realms of influence of [[psychospace]], constituting [[the Planet]] and [[Antic Sea|her neighbors]]: "the world", as far as the wiki covers.
+
 **[[Hepatizon]]** - A magic material said to be made out of solid gravity.
 
 **[[Hexicon]]** - The "lexicon" of a particular magical study.
@@ -483,6 +485,8 @@ GROUP BY substring(file.name, 0, 2) as Initials
 # ==[ M ]==
 
 ## Ma
+**[[The Maker|Maker, The]]** - Ancient creator being borne of the [[old world]]. Fused with [[The Unmaker|the Unmaker]], and became [[Anti]].
+
 **[[Manifold Seas|Manifold / Manifoldness]]** - "Constituted of the many". The state of the [[Out There]] and greater [[universe]] when it is refined and defined by the light of [[star|stars]]. Usually possesses definite [[logic]], defined by [[Divinity|gods]]. The opposite state of existence to [[Chartless Sea#Chartlessness|chartlessness]].
 - **[[Manifold Seas]]** - Star systems in this dichotomy.
 
@@ -563,6 +567,8 @@ GROUP BY substring(file.name, 0, 2) as Initials
 
 **[[The Sheer|Sheer, The]]** - An alternate [[plane]] created by the shadow of [[kibangan]], cast by [[Stronn]]. Can anchor [[Portal|portals]]. The [[Nortian imperial family]] can channel it, and it has been used in many [[Runic engine|technologies]].
 
+**[[The Shibboleth|Shibboleth, The]]** - Ruling body of [[Bullion]], comprised of all her recognized states.
+
 **[[Shindani]]** - The language "common" to many different races and places on [[the Planet]]. Originated in [[Dawndust]]. Also known as Laycant. 
 
 **[[Shotcaller]]** - A minor [[new magic]] user, positioned and trained for tactics. Similar to a [spotter](https://en.wikipedia.org/wiki/Sniper#Sniper_teams). 
@@ -592,11 +598,18 @@ GROUP BY substring(file.name, 0, 2) as Initials
 **Sun** - *See [[#^356d7d|Cien]].*
 
 **[[Ikabod's surrogate soul|Surrogate soul]]** - A [[spell]] invented by [[Ikabod Caruso]] which allows a fragmented [[soul]] to grow from a fragment of it (such as bone, fur, or a [[soulstone]]), enabling study of the original soul: effectively, genetic cloning. Creates a [[visitant]].
-# V
+# ==[ U ]==
+## Un
+**[[The Unmaker|Unmaker, The]]** - Ancient destroyer being which rose up against [[the Maker]] in the [[old world]]. Fused with the Maker to become [[Anti]].
+
+# ==[ V ]==
+## Va
 **[[Vanguard-class]]** - A simple, small, and cheap [[Airship|airship]] that is used primarily by the army of [[Pinwheel]]. 
 
+## Vä
 **[[Väräh]]** - Layer above [[the Below]] and below the [[Scarlet Skies]]. Newly-reemerged following [[Zero Day]]. Empowered by the [[chaos]] of metal, combined form of [[earth]] and [[fire]].
 
+## Ve
 **[[Verlan]]** - An energy-storing crystalline material that is used in leytech, a novel form of [[automagic]]. Also called *[[#^93518e|dust]]*. Analogous to electrical power.  ^d02170
 # ==[ W ]==
 ## Wa
@@ -611,11 +624,13 @@ GROUP BY substring(file.name, 0, 2) as Initials
 
 **[[Watch (unit)|Watch]]** - A unit of time equal to 1/8th of a [[starfall]]. 
 
+**[[Water]]** - The flow of $H _2 O$, the stuff of life itself; one of the [[Elemental energy|elements]] of [[chaos]], exemplified by the [[Dark Sea]].
+
 ## Wi
 
-**[[Protectorate of Winifreyad|Winifreyad]]** - A research protectorate in northwestern [[Bullion]], shared property of [[the Shibboleth]].
-
 **[[Wild Blue Yonder]]** - The realm of mortal, non-elemental influence on [[the Planet]].  Above the [[Scarlet Skies]] and below [[the Above]]. Analogous to the Prime Material Plane or overworld in other settings.
+
+**[[Protectorate of Winifreyad|Winifreyad]]** - A research protectorate in northwestern [[Bullion]], shared property of [[the Shibboleth]]. Known for their [[Fifth Institute]].
 # ==[ Y ]==
 ## Ye
 **[[Year (unit)|Year]]** - A unit of time: in [[Pinwheel Tempo]], a period of 365 [[Starfall|starfalls]].

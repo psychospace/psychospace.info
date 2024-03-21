@@ -4,9 +4,10 @@ aliases:
   - enchantress
 tags:
   - magic/type
+  - has_glossary_entry
 ---
 
-**Enchantment** is the [[Magic]] study of **enchanters** or **enchantresses**, and is one of the eight [[Classical Schools]] of magic, interlinked with [[Evocation|Evocation]]. Enchantment is the study of affecting the minds of others through influencing [[psychospace|psychospace]], especially with the [[Golden Voice]]'s control. 
+**Enchantment** is the [[magic]] study of **enchanters** or **enchantresses**, and is one of the eight [[Classical Schools]] of magic, interlinked with [[Evocation|evocation]]. Enchantment is the study of affecting the minds of others through influencing [[psychospace|psychospace]], especially with the [[Golden Voice]]'s control. 
 
 Unlike [[illusion|illusion]], the study of enchantment is persuasive in nature, not deceptive, manipulating perception, outlook, and desire. A [[True name (concept)|true name]] may be invoked through enchantment to trance a creature. 
 

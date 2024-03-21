@@ -1,5 +1,7 @@
 ---
-tag: plane/layer
+tags:
+  - plane/layer
+  - has_glossary_entry
 ---
 The **Dark Sea** is a [[Plane#Realm|realm]] of [[The Heavens|the Heavens]], a layer extending upwards from [[The Above|the Above]], beyond the reach of mortal life. It is the axiomatic plane of [[Elemental energy|elemental]] [[water]], and is where the twin moons of the Planet, [[Lex]] and [[Ordo]], call home.
 

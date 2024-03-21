@@ -1,6 +1,7 @@
 ---
 tags:
   - sapient
+  - has_glossary_entry
 onenote-created: 2022-02-27 13:02:09 -0500
 onenote-modified: 2022-08-28 21:45:52 -0400
 ---

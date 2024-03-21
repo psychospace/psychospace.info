@@ -1,5 +1,7 @@
 ---
-tag: magic
+tags:
+  - magic
+  - has_glossary_entry
 ---
 The **Divine Equation** is a theoretically-infinite, inconceivable equation that governs and oversees all rules of reality as it exists in [[The Heavens]], written in the [[Golden Voice]] of its authors, the [[divinity]]. All [[magic]] falls under its guidelines.
 

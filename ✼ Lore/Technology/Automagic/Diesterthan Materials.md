@@ -5,6 +5,7 @@ aliases:
 tags:
   - group
   - faction
+  - has_glossary_entry
 contributors:
   - CombustibleToast
 ---

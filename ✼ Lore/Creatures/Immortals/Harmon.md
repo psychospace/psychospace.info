@@ -2,6 +2,8 @@
 aliases:
   - Harmoni
   - axiomite
+tags:
+  - has_glossary_entry
 ---
 
 A **Harmon** (*HAR-moan*, pl. **Harmoni**), sometimes called an **axiomite**, is a [[monitor]] born from [[First City|Harmonia]], though more broadly serving [[the Fortress]] as a whole. 

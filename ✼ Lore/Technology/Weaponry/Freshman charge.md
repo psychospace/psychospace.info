@@ -1,6 +1,7 @@
 ---
 tags:
   - item
+  - has_glossary_entry
 ---
 
 A "**freshman charge**" or "**tephra charge**" is a well-packed pot of [[Rivenium|riven]] [tephra](https://en.wikipedia.org/wiki/Tephra), collected from the cave networks of [[Mount Celestia]]. It naturally is suffused with a frankly immense amount of [[Light (property)|Light]]: to the point that holding it alone feels comforting and [[Vitality energy|positive]]. 

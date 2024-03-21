@@ -3,6 +3,7 @@ tags:
   - being/divine
   - being/entity
   - energy
+  - has_glossary_entry
 article_status:
   - spellchecked 2-21
   - good

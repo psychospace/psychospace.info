@@ -1,6 +1,7 @@
 ---
 tags:
   - magic/spell
+  - has_glossary_entry
 aliases:
   - familiars
   - thrall

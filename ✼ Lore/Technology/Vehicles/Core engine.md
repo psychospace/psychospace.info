@@ -1,6 +1,11 @@
 ---
-tag: item
-alias: quasidragon core, core engine, cores
+tags:
+  - item
+  - has_glossary_entry
+aliases:
+  - quasidragon core
+  - core engine
+  - cores
 ---
 **Core engines**, or simply **cores**, are the [[Psychospace|psychospacially]]-interfacing projection engines that power modern [[Airship|airships]] and [[train|trains]]. In the modern day these are made of [[Quasidragon|quasidragons]], though originally they were produced with actual [[dragon]] souls. 
 

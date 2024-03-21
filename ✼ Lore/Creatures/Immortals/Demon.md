@@ -3,6 +3,7 @@ aliases:
   - demons
 tags:
   - anc/immortal/fiend/demon
+  - has_glossary_entry
 ---
 **Demons** are a family of [[Fiend|fiends]] who are predominantly chaotic evil. Most trace their origin to [[The Abyss|Abyssal]] layers, and most despise [[Devil|devils]] with an ever-burning passion. They are divinely represented by [[Pothesis]]. A group of demons is known as a **throng**.
 

@@ -2,6 +2,7 @@
 tags:
   - anc/first
   - sapient
+  - has_glossary_entry
 aliases:
   - First Ones
 ---

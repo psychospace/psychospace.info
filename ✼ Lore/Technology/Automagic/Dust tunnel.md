@@ -4,6 +4,8 @@ aliases:
   - leywire
   - locus station
   - milieu
+tags:
+  - has_glossary_entry
 ---
 ![[⎋ 2FPG]]
 A **dust tunnel**, sometimes called a **leywire**, is any infrastructure that is purpose-made to transfer [[Verlan|verlanic]] (dust) energy. They are named both for their purpose and for their appearance, as they seem to be tiny particulates of dust carried from cubic rock to cubic rock (mostly [[noemite]] chunks), causing a ringing sound throughout the countryside.

@@ -3,6 +3,8 @@ aliases:
   - imperial line
   - imperial family
   - House Nortia
+tags:
+  - has_glossary_entry
 ---
 The **Nortian imperial family** is a noble family of [[human]] [[aasimar]] which [[Empress of Nortia|rules by right]] over the [[Great Nortian Empire]], and has for its entire modern existence. Also termed **House Nortia**, the imperial lineage and its vassals help protect and govern the extents of her remnants using their abilities of [[monism]], and serve an important ecclesiastical role in the [[Temple of the Uforiad]].
 

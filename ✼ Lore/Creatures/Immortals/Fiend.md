@@ -1,6 +1,7 @@
 ---
 tags:
   - anc/immortal/fiend
+  - has_glossary_entry
 ---
 A **fiend** is, broadly, a term for a native inhabitant of the [[Scarlet Skies]]. Fiends are [[immortal]] figures associated with [[Void energy|negative energy]], [[fire]], and sin, who both war with and occasionally cooperate with the [[Divinity]]. In part due to their connection with the process, they act as watchers over the [[Petitioner|petitioned]] [[Soul|souls]], preventing them from escaping and punishing them for crimes committed during life.
 

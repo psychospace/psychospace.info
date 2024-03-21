@@ -1,5 +1,8 @@
 ---
-alias: cloud
+aliases:
+  - cloud
+tags:
+  - has_glossary_entry
 ---
 A **cloudscape** is any vast volume of [cloud](https://en.wikipedia.org/wiki/Cloud) in a [[Skysea|skysea]] in [[The Heavens]]. The [[Wild Blue Yonder]] is bordered above and below by full cloudscapes, which vary in intensity, thickness, visibility, and tumult. 
 

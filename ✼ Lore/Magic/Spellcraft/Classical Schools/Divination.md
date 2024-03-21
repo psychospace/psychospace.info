@@ -4,6 +4,7 @@ aliases:
   - diviners
 tags:
   - magic/type
+  - has_glossary_entry
 ---
 
 **Divination** is the [[Magic]] study of **diviners** or **prophets**, and is one of the eight [[Classical Schools]] of magic, interlinked with [[illusion|illusion]]. Divination is the study of unraveling hidden truths, discerning intent, fate, or the future through minor aberrations in [[Logic|Logic]]. 

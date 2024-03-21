@@ -1,6 +1,7 @@
 ---
 tags:
   - item/currency
+  - has_glossary_entry
 aliases:
   - cp
 ---

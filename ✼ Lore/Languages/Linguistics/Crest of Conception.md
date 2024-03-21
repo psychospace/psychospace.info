@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 >[!infobox|right txt-c]
 ># Crest of Conception
 >>[!caption] 

@@ -1,6 +1,7 @@
 ---
 tags:
   - faction
+  - has_glossary_entry
 description: The Nortian Conspiracy was a treasonous government group that subverted the Nortian empire in mid-1250 PT, leading to the Dragonic War.
 campaign: "[[⍟ Magical Mystery Tour]]"
 SPOILER:

@@ -2,6 +2,7 @@
 tags:
   - anc/figment
   - magic
+  - has_glossary_entry
 aliases:
   - figments
 ---

@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 A **filistec** (*fil-lih-stehk*) is a term for a [[Magic|magical]] energy weapon, usually a large, mounted gun on the deck of an [[Airship|airship]]. Filistecs first widely saw use during the last war of the [[Carapa Republic]].
 
 The name filistec means 'banner' in [[Old Duer]]. 

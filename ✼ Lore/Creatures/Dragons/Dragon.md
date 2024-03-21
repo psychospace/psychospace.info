@@ -1,6 +1,7 @@
 ---
 tags:
   - anc/dragon
+  - has_glossary_entry
 aliases:
   - dragons
 ---

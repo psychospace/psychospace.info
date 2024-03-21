@@ -1,6 +1,7 @@
 ---
 tags:
   - item
+  - has_glossary_entry
 aliases:
   - gun
 onenote-created: 2020-03-14 14:53:34 -0400

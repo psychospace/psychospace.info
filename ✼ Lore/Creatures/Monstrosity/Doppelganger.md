@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 A **doppelganger** or **doppel** is a shapechanger who freely assumes identities and has little will of their own. They are a usually misanthropic derivation, born of a failure by a [[changeling#Medial changeling|medial]] to properly emotionally develop.
 
 Their name is derived from an old [[Shindani]] word for "double-walker". In the past, all [[changeling|changelings]] were known by this name.

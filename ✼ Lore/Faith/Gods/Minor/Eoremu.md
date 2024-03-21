@@ -1,5 +1,7 @@
 ---
-tag: being/divine
+tags:
+  - being/divine
+  - has_glossary_entry
 ---
 **Eoremu** is the generally-vilified god of snakes and madness, who is often characterized with betrayal and poison for purely personal goals. It despises the [[Cat Lord]].
 

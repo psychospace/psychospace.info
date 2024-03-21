@@ -1,6 +1,7 @@
 ---
 tags:
   - plane
+  - has_glossary_entry
 ---
 The **Chartless Sea**^[Known less commonly as the **Maelstrom**, the **Origin Point**, **Borderworld**, or **Brink**.], is the [malformed realm](https://2e.aonprd.com/Planes.aspx?ID=19) and origin place of [[Chaos]], in its rawest energetic form. It acts as the origin point of chaoskin, most notably [[protean|proteans]].
 

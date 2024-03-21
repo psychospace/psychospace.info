@@ -1,5 +1,7 @@
 ---
-tag: magic
+tags:
+  - magic
+  - has_glossary_entry
 ---
 
 An **exorcism** is a rite of [[antimagic|antimagic]] which manifests as a practical, often faith-based means of [[Abjuration|abjuration]] for exterminating, expelling, or redirecting very powerful beings attached to [[Soul|souls]]. 

@@ -1,6 +1,8 @@
 ---
 onenote-created: 2019-12-30 13:51:49 -0500
 onenote-modified: 2022-08-28 15:41:35 -0400
+tags:
+  - has_glossary_entry
 ---
 >[!infobox|right wsmall]
 >>[!caption| center]

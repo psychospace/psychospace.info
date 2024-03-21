@@ -1,5 +1,7 @@
 ---
-tag: anc/undead/dullahan
+tags:
+  - anc/undead/dullahan
+  - has_glossary_entry
 ---
 **Dullahans** are those of a certain type of [[Undead]], physically distinguished by their lack of a neck. They are a form of revenant, eternally returning until its duty is done, but in this case its duty relates to more positive emotions, like love, affection, victory, patriotism, etc. They are the culmination of much of modern [[Necromancy]] and [[Transmutation]] magics.
 

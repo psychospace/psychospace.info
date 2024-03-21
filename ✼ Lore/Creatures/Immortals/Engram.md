@@ -1,6 +1,7 @@
 ---
 tags:
   - anc/immortal
+  - has_glossary_entry
 ---
 
 An **engram**, sometimes called an **inevitable**, is a [[Lynchpin device|lynchpin]]-like living [[Divinity|divine]] construct, of varying size, shape, and role, native to the [[First City]]. They are, as one world-traveler phrased it, the City's "weapons" in the perpetual effort to prevent a second [[War of Chaos]].

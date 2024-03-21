@@ -1,6 +1,7 @@
 ---
 tags:
   - being/divine
+  - has_glossary_entry
 aliases:
   - Nexos
   - The Fate Idol

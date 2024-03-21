@@ -1,6 +1,8 @@
 ---
 aliases:
   - portfolio
+tags:
+  - has_glossary_entry
 ---
 Instead of a [[Soul|soul]], [[Immortal|immortals]] possess a **domain** (sometimes called **duties**, **aspects**, or **portfolio**) which ensures they cannot truly ever [[Death|die]]. The domain is defined by a specific part of reality^[Specifically a tract of the [[Divine Equation]] (what mortals call [[Psychic code|psychic code]])] that the immortal then *must* wield and represent as a tool, as an immense [[Magic#intent|magical power]]. 
 

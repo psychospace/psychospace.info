@@ -4,6 +4,7 @@ aliases:
   - conjurers
 tags:
   - magic/type
+  - has_glossary_entry
 ---
 
 **Conjuration** is the [[magic]] study of **conjurers**, and is one of the eight [[Classical Schools]] of magic, interlinked with [[abjuration]]. Conjuration is the study of the forces of existence -- such as [[chaos]] -- the means by which these forces interlink with [[psychospace]], and ways they can be pulled forth miraculously to operate on your behalf. 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - sun
+tags:
+  - has_glossary_entry
 ---
 
 Also called **the star** or **the Sun**, **Cien** is the common name given to the closest [[Star|Star]] to [[The Planet|the Planet]], possessing immense power. Named for [[Cientia]], it is the light and god-form that projects a shadow of [[Kibangan]], [[Psychospace]], additionally providing light and the ability to support life to [[The Heavens]].

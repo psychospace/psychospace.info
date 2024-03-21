@@ -1,5 +1,7 @@
 ---
-tag: being/divine
+tags:
+  - being/divine
+  - has_glossary_entry
 ---
 **Cientia**, **Titan of Time**, is a motherly goddess whose [[domain]] involves time, light, and [[Giant|giants]], and of [[Cien]], whom she names. She is the matriarch of the [[pantheon of Dawndust]].
 

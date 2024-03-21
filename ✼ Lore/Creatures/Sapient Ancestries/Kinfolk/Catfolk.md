@@ -1,6 +1,7 @@
 ---
 tags:
   - sapient
+  - has_glossary_entry
 issues:
   - stub
   - incomplete

@@ -1,5 +1,8 @@
 ---
-alias: copperbeasts
+aliases:
+  - copperbeasts
+tags:
+  - has_glossary_entry
 ---
 **Copperbeasts**, also known as **clockwork beasts**, are the modern name for [[Ith'Paraan|Ith'Par]] constructs not unlike mechanical dinosaurs. In their time, they were referred to as Ith'Salo, Denizens of the Storm, assumedly because they were originally powered with storm [[Magic]]. 
 

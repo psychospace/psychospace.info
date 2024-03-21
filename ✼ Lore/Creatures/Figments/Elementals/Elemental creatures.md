@@ -1,6 +1,11 @@
 ---
-alias: elementals, elemental, elemental creatures
-tag: anc/figment/elemental
+aliases:
+  - elementals
+  - elemental
+  - elemental creatures
+tags:
+  - anc/figment/elemental
+  - has_glossary_entry
 ---
 Generated out of [[chaos]], **elemental [[Creature|creatures]]** (sometimes simply called "elementals") are powerful [[Figment|figments]] which collectively are the physical manifestations of the influence of [[elemental energy]] in the [[Antic Sea]]. 
 

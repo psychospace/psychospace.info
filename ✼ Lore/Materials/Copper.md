@@ -1,6 +1,7 @@
 ---
 tags:
   - item/material
+  - has_glossary_entry
 ---
 
 

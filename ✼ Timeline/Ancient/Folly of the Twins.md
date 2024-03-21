@@ -1,5 +1,7 @@
 ---
 permalink: history/age-of-gods/folly
+tags:
+  - has_glossary_entry
 ---
 
 The **Folly of the Twins** is an origin myth, taking place during the [[Age of the Gods]], important to both [[Dwarf|dwarvenkind]] and [[Goblin|goblinoids]].

@@ -1,6 +1,7 @@
 ---
 tags:
   - magic
+  - has_glossary_entry
 cover: '"00 - Meta/Images/img_lin_dragon.png"'
 description: Manifestation of the grudge of Arahabaki and Arizhmiya, the Dragonic Curse was a long-standing plague on the crown of the Kingdom of Sacred.
 ---

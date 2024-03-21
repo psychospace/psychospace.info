@@ -1,6 +1,7 @@
 ---
 tags:
   - plane
+  - has_glossary_entry
 SPOILER:
   - "[[⍟ Magical Mystery Tour]]"
 ---

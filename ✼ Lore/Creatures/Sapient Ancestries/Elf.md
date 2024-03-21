@@ -2,6 +2,7 @@
 tags:
   - anc/elf
   - sapient
+  - has_glossary_entry
 aliases:
   - elven
   - half-elf

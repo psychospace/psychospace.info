@@ -1,6 +1,9 @@
 ---
-alias: lifespan
-tag: magic/new
+aliases:
+  - lifespan
+tags:
+  - magic/new
+  - has_glossary_entry
 ---
 In discussions of [[magic]], an **epitome** of a thing is its "existence span", as if it were a linear string that could be lengthened, cut shorter, or moved along the [[worldline|worldline]]. An epitome generally has multiple similarities to the concept of a lifespan, but is a broader concept, encompassing effects which appear to be the results of [[time travel]].
 

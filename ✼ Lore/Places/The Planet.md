@@ -1,6 +1,7 @@
 ---
 tags:
   - place
+  - has_glossary_entry
 aliases:
   - Yalagnu
 ---

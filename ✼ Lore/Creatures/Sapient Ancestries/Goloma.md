@@ -2,6 +2,7 @@
 tags:
   - anc/goloma
   - sapient
+  - has_glossary_entry
 ---
 **Golomas** are members of a mostly subterranean, four-limbed, many-eyed #sapient people, beset by a genetic predisposition of fear and a powerful spiritual connection to one another. A group of golomas are known as an **audience**.
 

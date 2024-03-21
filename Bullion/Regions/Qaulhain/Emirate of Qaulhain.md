@@ -1,6 +1,13 @@
 ---
-alias: Qaulhain, Emirate, Emirati, Qauli
-tags: faction/government/eoq, place
+aliases:
+  - Qaulhain
+  - Emirate
+  - Emirati
+  - Qauli
+tags:
+  - place
+  - government
+  - has_glossary_entry
 ---
 The **Golden Emirate of Qaulhain** (*cowl-hen*) represents the core of commerce in [[Bullion]], to the southwest. Overseen by the Council, and especially the Golden Emir, currently [[Es'kys Uliiz]]. 
 

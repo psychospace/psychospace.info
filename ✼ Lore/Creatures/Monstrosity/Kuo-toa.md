@@ -1,3 +1,9 @@
+---
+tags:
+  - monster
+  - has_glossary_entry
+---
+
 **Kuo-toa** are piscine, [[Aberration|aberrant]] humanoid monsters of mostly middling stature, with a deceptively immaculate [[Magic|magic]] running through their veins. They are mostly found underground and in proximity to sources of water, apparently forced there by the [[Divinity|gods]].
 
 # History

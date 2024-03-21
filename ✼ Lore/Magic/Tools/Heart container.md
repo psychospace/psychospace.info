@@ -1,6 +1,8 @@
 ---
 onenote-created: 2020-01-10 22:41:55 -0500
 onenote-modified: 2020-11-27 17:05:44 -0500
+tags:
+  - has_glossary_entry
 ---
 A **heart container** withholds a [[Soul]] within a [[soulstone|soulstone]], maintaining it and allowing it to be physically meddled with. It was originally made by [[Dawndust]] clerics as part of an effort to duplicate souls. 
 

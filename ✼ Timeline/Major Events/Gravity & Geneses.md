@@ -1,5 +1,7 @@
 ---
 permalink: history/adventurers/gng
+tags:
+  - has_glossary_entry
 ---
 **_Gravity & Geneses: The Many Adventures of Modern Heroes “Critical Hit”, Retold by Termis Tungol_**, is a non-fiction book by [[Termis Tungol]] published in late [[1216 PT]] to critical acclaim, compiling many former volumes of the *[[Critical Legends]]* series.
 

@@ -1,13 +1,16 @@
 ---
 tags:
   - place/Sacred
-  - historical
+  - government/former
+  - has_glossary_entry
 aliases:
   - Carapaean
   - Dios Evangel
   - Carapa
 ---
-The **Carapa Republic** was a grandiose land, relatives of the inhabitants of [[Mount Celestia]], or as it was known in the time, Blank Castle ([[Celestial language|Celestial]]: Castel del'Intoso). They referred to [[Angel]]-kin as *Alle Presenza*, the Afore People, and were themselves controlled by tribes of [[Evangel|evangels]]. 
+The **Carapa Republic** was a government controlled by tribes of [[Evangel|evangels]] who ruled over [[High Sacred]]. 
+
+It was described in its time as grandiose land, relatives of the inhabitants of [[Mount Celestia]], or as it was known in the time, Blank Castle ([[Celestial language|Celestial]]: Castel del'Intoso). They referred to [[Angel]]-kin as *Alle Presenza*, the Afore People.
 
 They only strongly controlled [[High Sacred]], though ruins of theirs which exist in [[Low Sacred]] are attributed to [[Unitor|Unitors]]. The distinction between High and Low Sacred was named by them as Carapa and Low Carapa.
 

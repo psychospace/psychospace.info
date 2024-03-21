@@ -1,5 +1,7 @@
 ---
-tag: remnant
+tags:
+  - remnant
+  - has_glossary_entry
 ---
 *See also: [[Map of Sacred]].*
 

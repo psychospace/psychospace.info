@@ -3,6 +3,9 @@ aliases:
   - Apocrypha of Winds
 onenote-created: 2022-02-27 12:25:40 -0500
 onenote-modified: 2022-02-27 12:48:39 -0500
+tags:
+  - noteworthy
+  - has_glossary_entry
 ---
 The **Apocrypha of Winds** (*Apokrif Eolovyj*) are mysterious ancient [[Antique|artifacts]] of the [[old world]], which appeared to have predicted the shape of the world that followed.
 

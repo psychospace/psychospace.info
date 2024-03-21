@@ -11,7 +11,7 @@ INCOMPLETE.
 TERMS TO BE ADDED TO GLOSSARY
 ```dataview
 TABLE rows.file.link
-FROM -#has_glossary_entry and ("psychospace.info/✼ Lore" or "psychospace.info/✼ Timeline" or #remnant) and -#hubs
+FROM -#has_glossary_entry and ("psychospace.info/✼ Lore" or "psychospace.info/✼ Timeline" or #government or #remnant or #noteworthy or #faith or #skysea) and -#hubs
 WHERE !contains(file.name, "PT")
 SORT file.name
 GROUP BY substring(file.name, 0, 2) as Initials
@@ -77,6 +77,8 @@ GROUP BY substring(file.name, 0, 2) as Initials
 ## Ap
 **[[Apeirism]]** - A novel faith which is non-denominational, accepting all [[Divinity|divines]] equally.
 
+**[[Apocrypha of Winds]]** - A text in four volumes which is one of the most ancient, said to be compiled from [[old world]] data and predictive of the future.
+
 ## Ar
 **Arcane** - Referring to [[magic]].
 - **[[Arcane complexity]]** - The distinct complexity (or level) of a specific [[spell]]. Spells can be embellished, or "heightened", to fulfill a higher complexity than they typically require, but spells need to be reinvented to be reduced to a lower complexity.
@@ -127,7 +129,7 @@ GROUP BY substring(file.name, 0, 2) as Initials
 **[[Blood-flora]]** - A family of succulent plants native to [[Bullion]].
 - **[[Bloodberry]]** - A fruit produced by a specific blood-flora plant.
 
-**[[Blood War]]** - A war during the [[Age of the Gods]] fought between [[Demon|demons]] and [[Devil|devils]] over control of the [[Scarlet Skies]] and the proper rites of [[death]]: the war bled into the [[Wild Blue Yonder]] and was additionally participated in by [[Angel|angels]].
+**[[Blood War]]** - A war during the [[Age of the Gods]] fought between [[Demon|demons]] and [[Devil|devils]] over control of the [[Scarlet Skies]] and the proper rites of [[death]]: the war bled into the [[Wild Blue Yonder]] and was additionally participated in by [[Angel|angels]]. ^1c334d
 ## Bo
 **[[Body]]** - The material part of a [[creature]].
 
@@ -143,7 +145,7 @@ GROUP BY substring(file.name, 0, 2) as Initials
 
 ## Bu
 **[[Bullion]]** - A [[remnant]] in the [[Mer de Vide]] known for its importance in trade networks and varied wildlife. Its flipside is [[Tarnation]].
-- **[[Bullion Civil War]]** - An old civil war on Bullion which gave rise to the [[The Shibboleth|Shibboleth]].
+- **[[Bullion Civil War]]** - An old civil war on Bullion which gave rise to the [[The Shibboleth|Shibboleth]]. ^57249d
 
 **[[Burun massacre]]** - An event which marked the 'dissolution' of the [[Nortian Conspiracy]] in [[1251 PT]], when one member massacred half the organization.
 
@@ -158,7 +160,9 @@ GROUP BY substring(file.name, 0, 2) as Initials
 
 **[[Cantrip]]** - The simplest kind of [[spell]] possible.
 
-**[[Cat]]** - An animal possessed of four limbs, a tail, and paws. Traditionally associated with [[Witchcraft|witchcraft]].
+**[[Carapa Republic]]** - An ancient government ruled by [[evangel|evangels]], conquered by the [[Kingdom of Sacred]].
+
+**[[Cat]]** - An animal traditionally associated with [[Witchcraft|witchcraft]].
 - **[[Catfolk]]** - A [[kinfolk]] ancestry who resemble cats.
 - **[[Cat Lord]]** - The [[Divinity|divine]] associated with [[catfolk]], luck, cats, and chaotic potential. Rare to see outside of catfolk-lore.
 
@@ -178,7 +182,7 @@ GROUP BY substring(file.name, 0, 2) as Initials
 - **Axial chaos** - Chaos "defined" along an axiom. *See [[#^ad3756|elemental energy]].* ^4e0af9
 - **Medial chaos** - Chaos not defined by any particular axiom: the "true" chaos. ^d1f03b
 - **Elemental chaos** - *See [[#^ad3756|elemental energy]].*
-- **[[War of Chaos]]** - A war of the [[old world]], in which chaos's emergence destroyed it and [[Anti]], left behind, was forced to rebuild. 
+- **[[War of Chaos]]** - A war of the [[old world]], in which chaos's emergence destroyed it and [[Anti]], left behind, was forced to rebuild.  ^5af678
 
 **[[Chartless Sea#Chartlessness|Chartless / Chartlessness]]** - "Without map". The raw, vacuous, unrefined state of the [[Out There]] and greater [[universe]], without [[star|starry]] influence to define it: the opposite state to [[Manifold Seas|manifoldness]]. Typically thought to be lawless regions governed only by [[Outsider|Outsiders]].
 - **[[Chartless Sea]]** - Home [[plane]] of [[Chaos]], from which spills all we call reality. Its denizens are called [[protean|proteans]]. Located somewhere at the universe's heart, though its influence permeates all creation. Its discovery wrought the [[War of Chaos]] and destroyed the [[old world]]. 
@@ -199,6 +203,8 @@ GROUP BY substring(file.name, 0, 2) as Initials
 **[[Codec]]** - A powerful [[new magic]] ability which describes how someone (usually a [[Broadcaster]]) interprets [[the signal]] and translates it into influence on the world around them.
 
 **[[Collapse state]]** - Any scenario which brings about the end of a [[worldline]], causing the world (or at the very least [[logic]]) to "collapse". Seen as a threat posed by [[new magic]].
+
+**[[Colossal Ocean]]** - A [[skysea]] comprised of a myriad of smaller [[Remnant|remnants]]. Fought over in the [[War of the Masters]].
 
 **[[Compilation]]** - The process of transforming raw [[psychic code]] into a [[spell]] coming from your [[Viewpoint property|viewpoint]].
 
@@ -222,6 +228,8 @@ GROUP BY substring(file.name, 0, 2) as Initials
 **[[Creature]]** - Any biological organism capable of experiencing [[Universe|reality]]. Needs a [[soul]], [[body]], and [[Echo|shadow]] to be whole, but doesn't necessarily need all three.
 
 **[[Crest of Conception]]** - A [[rune]] which represents "creation" and "soul". Used as a symbol by the [[Heartknock]], and now [[Sky-scrape|scars the planet itself]] thanks to [[Zero Day]].
+
+**[[Critical Hit]]** - A legendary adventuring party from [[Kingdom of Sacred|Sacred]], the subject of many books and much fame, whose actions ended the [[War of the Masters]] and brought about the [[Age of Adventurers]].
 
 **[[Cruel spells|Cruel]]** - Describes spells which completely "dry up" [[psychospace]] for a time.
 
@@ -248,7 +256,7 @@ GROUP BY substring(file.name, 0, 2) as Initials
 **[[Devil]]** - An [[immortal]] [[fiend]] created by potent, inhumane desires. Aim to feed the sin of the living, granting them more mortal assets. Rulers over the [[Scarlet Skies]]. 
 
 ## Di
-**[[Diesterthan Materials]]** - A company which has become notable recently for its [[noemite]] mining operation
+**[[Diesterthan Materials]]** - A company which has become notable recently for its [[noemite]] mining operation.
 
 **[[Discrepant]]** - Term describing victims of temporal displacement: "impossible" existences.
 
@@ -275,7 +283,7 @@ GROUP BY substring(file.name, 0, 2) as Initials
 
 **[[Dragonic Curse]]** - A [[curse]] which long-plagued the rulers of the [[Kingdom of Sacred]]. Cured by the [[S4]] on [[Zero Day]], [[1251 PT]].
 - **[[Dragonic whillo]]** - A powerful [[dragon]]-like creature which distorted reality around it: the form assumed by those who succumbed to the curse.
-- **[[Dragonic War]]** - A war in [[1251 PT]] which began when [[Lazuli Dino|Linnie]]'s dragonic curse was revealed.
+- **[[Dragonic War]]** - A war in [[1251 PT]] between [[Kingdom of Sacred|Sacred]] and the [[Nortian Conspiracy]], which began when [[Lazuli Dino|Linnie]]'s dragonic curse was revealed. ^88f713
 
 ## Du
 **Duer** - The dwarvish term for [[Dwarf|dwarves]].
@@ -382,6 +390,7 @@ GROUP BY substring(file.name, 0, 2) as Initials
 **[[Fulcrum]]** - A particularly powerful [[new magic]] user, who might have the capability to [[Collapse state|end the world]].
 ## Fy
 **[[Fylgja]]** - A guiding or guardian angel that ensures a person's [[soul]] will retreat to the gods upon death. Most people have one whether they know it or not.
+
 # ==[ G ]==
 ## Ga
 
@@ -392,30 +401,94 @@ GROUP BY substring(file.name, 0, 2) as Initials
 4. subducted the layers of [[Väräh]] and [[Umbraid]] into the [[First City]];
 5. and forged the [[Lynchpin device|lynchpins]] to ensure their desires were law.
 
+## Ge
+**[[Gebra]]** - The [[Divinity|god]] of messengers and [[Kobold|kobolds]].
+
+**[[Genie]]** - An [[Elemental creatures|elemental]] [[whill]] who are exemplars of their element, forming societies on their home layer. Their royalty can grant [[wish|wishes]] to those they find favorable.
+
+## Gh
+**[[Ghost]]** - An [[undead]] which lacks their [[body]], lingering for personal, emotionally-charged reasons. *Alternatively:* another name for the [[soul]].
+
+**[[Ghost storm]]** - A gap or hole in [[psychospace]], which manifests in real-space as a dangerous purple [[Weather|storm]] that ensnares and damages souls and [[Portal|warps]] people around. Can be created by a [[Runic engine|runic engine]] failure.
+## Gi
+**[[Gift (witchcraft)|Gift]]** - In [[Witchcraft|witchcraft]], one's specific, personal link to a patron, which allows them the insight enough to bring about myriad possibilities.
+- **[[Gift of Stars]]** - A special Gift said to originate with [[Amakudari-no-Mikoto|Amakudari]], which visualizes possibility as an endless sea (or lake) of stars.
 ## Go
-**Gold**
-- [[Gold piece]]
-- [[Golden Voice]]
+**[[Goblin]]** - A small, short-lived sapient [[fey]] ancestry with an idiosyncratic, hierarchical culture.
+- **Goblinoid** - Three ancestries with shared features: goblins, hobgoblins, and bugbears.
+
+**Gold** - A yellowish, rare metal, seen as holy, resilient to many environmental challenges.
+- **[[Gold piece]]** - A coin made or plated with gold, the most typical coin for purchases. ^3f3770
+- **[[Golden Voice]]** - The authorship of the [[Divine Equation]] (the authorial voice of the [[divinity]]).
 
 **Goliath** - Another term for [[#^43c59c|anlage]].
 
+**[[Goloma]]** - A rare sapient ancestry of bug-like, masked, isolationist folk with [[Magic|magical]] powers and myriad eyes, who speak of the [[Calamity of the Eyes]].
+
+## Gp
+**GP** (or *gp*) - See *[[#^3f3770|gold piece]]*.
+
+## Gr
+**[[Gravity]]** - A fundamental force which attracts disparate entities, particles, and energies together.
+
+***[[Gravity & Geneses]]*** - A book which gave rise to [[Critical Hit]]'s popularity.
+
+**[[Gremishka]]** - Pests created by malformed magic.
+
+
 # ==[ H ]==
 ## Ha
+**[[Halfling]]** - A short-statured ancestry who are interminably curious and prone to adventure.
+
+**[[Harengon]]** - A [[kinfolk]] ancestry who resemble rabbits, said to come from [[Kibangan]].
+
 **Harmonia** - Another term for the *[[#^d7ad1f|First City]]*.
 - **[[Harmon]]** - An [[immortal]] [[monitor]] denizen of the First City, who protect the integrity of reality. ^6fe325
-# ==[ K ]==
+## He
+**[[Heart container]]** - An object which can sequester a [[soul]] for examination and experimentation.
 
+**[[Hepatizon]]** - A magic material said to be made out of solid gravity.
+
+**[[Hexicon]]** - The "lexicon" of a particular magical study.
+
+## Hi
+**[[High Sacred]]** - Temperate [[remnant]] in the [[Mer de Vide]], containing one of the largest [[Water|waterseas]] known, and a variety of intriguing ruins and biomes. Its flipside is [[Mount Celestia]].
+
+## Ho
+**[[Holrfold]]** - Ancient [[Dwarf|dwarven]] civilization which dwelled in the [[Kernwelt]] on [[Bullion]].
+
+**[[Hookshot]]** - A propelled weapon which allows one to grapple from place to place.
+
+**House** - A noble family.
+- **[[House words]]** - A tradition of anointing a noble house with a motto or battlecry.
+## Hu
+**[[Human]]** - A sapient ancestry of varied folk who live average lives but find ways to leave larger-than-life impacts on people.
+# ==[ K ]==
+## Ka
+**[[Kalashtar]]** - A rare but special ancestry who can inherit and pass down psychic power through [[Succession (ability)|Succession]].
 ## Ki
 **[[Kibangan]]** - A 4D structure of raw [[magic]] whose 3D shadows make up [[Psychospace]] and [[the Sheer]]. Supposedly harbors [[Welkin]], home of gods.
 
-**[[Kitsune]]** - Fox-like sapient [[kinfolk]] who can shapechange on a spectrum of full-human to full-fox. Each individual's forms depends on their heritage. 
+**[[Kinfolk]]** - Any sapient creature or ancestry which resembles a non-sapient creature: anthropomorphic creatures, said to be made by [[Elemental energy|elemental chaos]].
+
+**[[Kitsune]]** - Fox-like [[kinfolk]] ancestry, who can shapechange on a spectrum of full-human to full-fox. Each individual's forms depends on their heritage. 
+
+## Ko
+**[[Kobold]]** - A draconically-empowered sapient ancestry, known for being prone to misjudgement, cowardice, and adventuresome tendencies.
+
+## Ku
+**[[Kuo-toa]]** - Piscine [[Aberration|aberrations]] who possess a god-making insight.
 # ==[ L ]==
 **[[Lux]]** - Fluid physical manifestation of [[Vibe]]. Does not occur naturally and must be synthesized.
 # ==[ M ]==
-**[[Manifold Seas|Manifold / Manifoldness]]** - "Constituted of the many". The state of the [[Out There]] and greater [[universe]] when it is refined and defined by the light of [[star|stars]] and influence of divines on a [[Plane#Pyrean|pyrean]] plane (such as [[Kibangan]]). Usually possesses definite [[logic]]. The opposite state of existence to [[Chartless Sea#Chartlessness|chartlessness]].
+
+## Ma
+**[[Manifold Seas|Manifold / Manifoldness]]** - "Constituted of the many". The state of the [[Out There]] and greater [[universe]] when it is refined and defined by the light of [[star|stars]]. Usually possesses definite [[logic]], defined by [[Divinity|gods]]. The opposite state of existence to [[Chartless Sea#Chartlessness|chartlessness]].
 - **[[Manifold Seas]]** - Star systems in this dichotomy.
 
 **[[Changeling#Axial changeling|Mayling]]** - A [[changeling]] defined by [[#^4e0af9|axial chaos]], possessing a bountiful soul which allows them strength over [[magic]].
+
+## Me
 
 **[[Changeling#Medial changeling|Mercurial]]** - A [[changeling]] defined by [[#^d1f03b|medial chaos]], possessing a fluid, undefined form.
 
@@ -432,20 +505,52 @@ GROUP BY substring(file.name, 0, 2) as Initials
 ## Pa
 **Paladin** - A knight who uses benediction. *See [[#^e5f2b4|Benediction]].*
 
+**Party** - A group of hard-headed individuals working together and exploring outside of a government or faction, seeking adventure or specific goals. Originally a term for a group of [[Elf|elves]]. Brought to light and legality by the [[Age of Adventurers]].
+
 ## Pi
 **[[Pinwheel]]** - Tropical [[remnant]] surrounded by many islets, in the [[Mer de Vide]].
 - **[[Pinwheel Tempo]] / PT** - The calendar system typically used in the Heavens. Named for the rate of rotation of Pinwheel, making one full revolution per [[Year (unit)|year]].
 
+**[[The Pitcher|Pitcher, The]]** - Strange, child-like entity whose existence caused the [[Mass-Resurrection Incident]] and the [[Base (XI)|Bases]] to emerge. Relevant to [[⍟ Extra Innings]].
+
+## Pl
+
+**[[The Planet|Planet, The]]** - The home of the [[The Planet#Planar stack|planar stack]] within [[the Heavens]].
 ## Pr
 **[[Protean]]** - An [[immortal]] [[monitor]] born of [[chaos]]. Denizens and agents of the [[Chartless Sea]], the shapers of the [[universe]].
 
 ## Ps
+**[[Psinomenon]]** - A tide-like observation in energy flows in [[psychospace]].
+- **[[Psinomenon#Psintilla|Psintilla]]** - An item which creates an area-of-effect in the form of a psinomenon.
+
+**[[Psion]]** - A [[magic]] caster, whose power is unknown or undefined. Typically used to mean a [[new magic]] user. *(Not to be confused with [[#^72fb71|scion]].)*
+
 **[[Psionics]]** - The science and study of [[psychospace]].
 
-**[[Psychospace]]** - An alternate side to [[Universe|reality]], which is influenced by and influences the thoughts and energies of [[the Heavens]]. Powers all [[magic]]. Created by the three-dimensional [[#^b450b0|shadow]] of fourth-dimensional [[Kibangan]].
-# S
+**Psychic** - To do with psionics or psychospace.
+- **[[Psychic code]]** - Mortal comprehension of the [[Divine Equation]].
+
+**[[Psychobullet]]** - A superweapon invented by the [[Nortian Conspiracy]]: a bullet which carves through psychospace, designed to kill any [[figment]] and flout any [[Magic|magical]] defenses. Possibly strong enough to kill a [[Divinity|god]].
+
+**[[Psychopomp]]** - An [[immortal]] [[monitor]] charged with overseeing the bureaucratic elements of [[death]] and [[soul]]-retrieval.
+
+**[[Psychospace]]** - An alternate side to [[Universe|reality]], which is influenced by and influences the thoughts and energies of [[the Heavens]] (specifically). Powers all [[magic]]. Created by the three-dimensional [[#^b450b0|shadow]] of fourth-dimensional [[Kibangan]].
+
+# ==[ Q ]==
+## Qa
+**[[Emirate of Qaulhain|Qaulhain]]** - A modern emirate in the southwest of [[Bullion]], the centralized place of most commerce and power on the remnant. Ruled by the [[Golden Council]].
+
+## Qu
+**[[Quasidragon]]** - False dragon-soul-like constructs which act as [[Core engine|cores]].
+
+**[[Quori]]** - Powerful dream-bound entities that do battle with forces of evil through [[kalashtar]].
+
+# ==[ S ]==
+
+## Sa
+**[[Kingdom of Sacred|Sacred]]** - A modern kingdom ruling over [[High Sacred]] and [[Low Sacred]], a place where the [[Age of Adventurers]] arguably began. Ruled by [[Sacred's Power Structure|a complex power structure]] under [[House Dino]].
 ## Sc
-**[[Scion]]** - Any [[creature]] or sapient heritage created by the influence of [[immortal]] and mortal bloodlines.
+**[[Scion]]** - Any [[creature]] or sapient heritage created by the influence of [[immortal]] and mortal bloodlines. ^72fb71
 
 ## Sh
 **Shadow** - A projection created by light, into a dimension one lower than its source (from 3D to 2D, for example). Definition varies, see below.
@@ -486,14 +591,29 @@ GROUP BY substring(file.name, 0, 2) as Initials
 
 **Sun** - *See [[#^356d7d|Cien]].*
 
+**[[Ikabod's surrogate soul|Surrogate soul]]** - A [[spell]] invented by [[Ikabod Caruso]] which allows a fragmented [[soul]] to grow from a fragment of it (such as bone, fur, or a [[soulstone]]), enabling study of the original soul: effectively, genetic cloning. Creates a [[visitant]].
 # V
 **[[Vanguard-class]]** - A simple, small, and cheap [[Airship|airship]] that is used primarily by the army of [[Pinwheel]]. 
 
 **[[Väräh]]** - Layer above [[the Below]] and below the [[Scarlet Skies]]. Newly-reemerged following [[Zero Day]]. Empowered by the [[chaos]] of metal, combined form of [[earth]] and [[fire]].
 
 **[[Verlan]]** - An energy-storing crystalline material that is used in leytech, a novel form of [[automagic]]. Also called *[[#^93518e|dust]]*. Analogous to electrical power.  ^d02170
-# W
+# ==[ W ]==
+## Wa
+**War** - Typically conflict between governments.
+- ***[[#^5af678|War of Chaos]]***
+- ***[[#^1c334d|Blood War]]***
+- ***[[#^57249d|Bullion Civil War]]***
+- ***[[#^236d80|War of the Masters]]***
+- ***[[#^88f713|Dragonic War]]*** 
+
+**[[War of the Masters]]** - A war fought between [[Kingdom of Sacred|Sacred]] and [[Dawndust]], dragging in the entire [[Mer de Vide]], over research and protection of the [[Colossal Ocean]]. Lasted 50 years, ended in [[1216 PT]] by the actions of [[Critical Hit]]. ^236d80
+
 **[[Watch (unit)|Watch]]** - A unit of time equal to 1/8th of a [[starfall]]. 
+
+## Wi
+
+**[[Protectorate of Winifreyad|Winifreyad]]** - A research protectorate in northwestern [[Bullion]], shared property of [[the Shibboleth]].
 
 **[[Wild Blue Yonder]]** - The realm of mortal, non-elemental influence on [[the Planet]].  Above the [[Scarlet Skies]] and below [[the Above]]. Analogous to the Prime Material Plane or overworld in other settings.
 # ==[ Y ]==

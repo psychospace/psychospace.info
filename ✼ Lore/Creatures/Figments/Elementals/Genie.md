@@ -1,6 +1,9 @@
 ---
-alias: genies
-tag: anc/figment/elemental
+aliases:
+  - genies
+tags:
+  - anc/figment/elemental
+  - has_glossary_entry
 ---
 **Genies** are powerful [[Elemental creatures|elemental]] [[Whill|whills]] who are considered paragons of the [[Elemental energy|axiom]] they are drawn and bound to.
 

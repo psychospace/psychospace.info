@@ -10,7 +10,7 @@ There are eight bridges between [[High Sacred]] and [[Low Sacred]]. In the past 
 Of these eight bridges, five stand on the side of normal gravity, with three on the [[flipside]].
 
 1.  [[Sienn Byway]]
-2.  [[The Grim Chain]], 
+2.  [[Grim Chain]]
 3.  Fool's Path - Wooden Bridge
 4.  [[Link of Life]]
 5.  Quadryan Reservoir - Aquatic Bridge

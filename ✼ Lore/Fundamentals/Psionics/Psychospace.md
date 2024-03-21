@@ -1,6 +1,10 @@
 ---
-alias: psychospacial
-tag: plane, magic
+aliases:
+  - psychospacial
+tags:
+  - plane
+  - magic
+  - has_glossary_entry
 ---
 **Psychospace** (/saɪ̯.koʊ̯.speɪs/ <small><i>sy-KOH-spayse</i></small>) is a [[Plane#Sphere|plane]] of existence which parallels and exists alongside the [[Plane#Realm|physical world]], effecting and affected by thoughts and ideas of [[Soul|souls]]. Its existence defines [[The Heavens|the Heavens]].
 

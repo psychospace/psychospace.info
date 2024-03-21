@@ -2,10 +2,11 @@
 tags:
   - faction/government/jor
   - place
+  - government
 aliases:
   - Joriele
 ---
-The **League of Joriele** is a coalition of smaller or ex- nation-states in the northeast of [[Bullion]], along and nearby a striking mountain range called [[the Chirag]]. 
+The **League of Joriele** is a coalition of smaller or one-time nation-states in the northeast of [[Bullion]], along and nearby a striking mountain range called [[the Chirag]]. 
 
 The range separates many of the people by poorly or dangerously accessible routes, leading to burgeoning air-and-land nomadic trade unions. Together, this land has historically been known as the **Northern Passage** for this reason.
 

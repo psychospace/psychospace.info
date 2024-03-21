@@ -2,6 +2,8 @@
 aliases:
   - gravity
   - gravitational
+tags:
+  - has_glossary_entry
 ---
 
 **Gravity** is a [fundamental attractive force](https://en.wikipedia.org/wiki/Gravity) which affects anything that has mass, drawing them together. This process creates the force which, for example, has led to the formation of [[Star|stars]] [[Out There|Out There]]. 

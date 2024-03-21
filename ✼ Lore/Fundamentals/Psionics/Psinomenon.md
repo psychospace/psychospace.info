@@ -4,6 +4,8 @@ aliases:
   - psinomena
   - psintilla
   - psintillating field
+tags:
+  - has_glossary_entry
 ---
 A **psinomenon** (*sih-nomm-enn-on*, pl. **psinomena**), also called an **off-tide** or sometimes a **leyline**, is a tide-like [[Psionics|psionic]] observation in [[Off-wave|off-waves]], a pattern in how [[psychospace]] flows with more or less energy based on location, time, or presence. Its name is a portmanteau of "psionic" and "phenomena". Psinomena are to psychospace what [[weather]] is to [[The Heavens]].
 

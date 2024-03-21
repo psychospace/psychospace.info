@@ -7,6 +7,7 @@ aliases:
 tags:
   - magic/new/clade
   - title
+  - has_glossary_entry
 ---
 A **psion**^[SIGH-ahn] or **psychic** is well-established term for a caster whose abilities deviate from norms, or whose [[magic]] defies common delineations. It is also used in current day as a generic term for a [[New Magic|new magic]] caster. 
 

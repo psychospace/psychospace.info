@@ -1,6 +1,8 @@
 ---
 onenote-created: 2020-12-14 20:06:18 -0500
 onenote-modified: 2022-02-27 13:28:57 -0500
+tags:
+  - remnant
 ---
 **Pinwheel** is a [[Remnant]]. As a civilization primarily defined by its association with its [[Flipside]], [[Giia]], it is a nation operating under scholarly interests, as well as studious sorts. It is presently ruled over by the [[Ioyon Dynasty of Gears]].
 

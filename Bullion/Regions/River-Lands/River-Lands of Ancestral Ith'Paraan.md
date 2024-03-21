@@ -6,13 +6,17 @@ aliases:
 tags:
   - faction/government/aip
   - place
+  - government
 ---
-The **River-Lands of Ancestral Ith’Paraan** (abbreviated: **AIP**) is the modern state based in the vast area around [[Mount Sokron]] and along the [[Ithika River Valley]] of [[Bullion]], occupying the middle-east to north-middle of the remnant.
+The **River-Lands of Ancestral Ith’Paraan** (abbreviated: **AIP**) is the modern state based in the vast area around [[Mount Sokron]] and along the [[Ithika River Valley]] of [[Bullion]], occupying the middle-east to north-middle of the remnant. As the name implies, it lays claim to most of the ruins of [[Ith'Paraan]].
 
 Its existence in modern forms spans five millennia, making it one of the oldest countries in the world, and easily counted as a seat of power in [[Bullion]]. Tensions between its long-lived citizens and societies at other speeds have resulted in historically-observed disparity. 
 
-Its capital city is [[Eleyda]], and the current [[Luminaria]], ruler over the AIP, is **Ithuriel XII** (better known as [[Ithana Rysae|Suisei]]). The AIP was a founding body of [[the Shibboleth]]. ![[⎋ Real-World]]
- Its architectural style could be described as similar to Ottoman architecture.
+Its capital city is [[Eleyda]], and the current [[Luminaria]], ruler over the AIP, is **Ithuriel XII** (better known as [[Ithana Rysae|Suisei]]). The AIP was a founding body of [[the Shibboleth]].
+
+%%
+![[⎋ Real-World]]
+ Its architectural style could be described as similar to Ottoman architecture.%%
 
 # History
 The AIP was initially founded around BPT 4000 by conquistadors from [[Archipel]], led by the charismatic hero [[Ithuriel Rysae|Ithuriel the First]] who became the first luminaria.

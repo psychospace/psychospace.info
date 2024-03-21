@@ -1,6 +1,10 @@
 ---
-alias: gp, gold
-tag: item/currency
+aliases:
+  - gp
+  - gold
+tags:
+  - item/currency
+  - has_glossary_entry
 ---
 
 A **gold piece** is a widely recognized currency throughout [[The Heavens]]. Different civilizations mint different types of coin, though these are usually pinned to the value of gold as a material. One gold piece can be split into ten [[Silver piece|silver pieces]], and ten gold pieces make up a [[platinum piece|platinum piece]].

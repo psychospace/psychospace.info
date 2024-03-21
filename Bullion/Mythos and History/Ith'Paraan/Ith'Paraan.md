@@ -1,6 +1,9 @@
 ---
-alias: Ith'Par
-tag: place/aip
+aliases:
+  - Ith'Par
+tags:
+  - place/aip
+  - government/former
 ---
 
 **Ith'Paraan** (*ith-pahr-ahn*, *demonym: Ith'Par*) was an ancient diarchy, founded in the [[Bullion#Third Era|third era]] of [[Bullion]] by inhabitants of [[The Above]]. 

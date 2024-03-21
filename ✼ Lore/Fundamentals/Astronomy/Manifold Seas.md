@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 The **Manifold Seas**, sometimes also called **manifold space** and known to [[Chaos]] derisively as the **Structure**, are the interconnected [[Plane#Realm|realms]] of the [[universe]], created by the light of [[star|stars]], adrift in [[Out There|outer space]], and accreted by [[Gravity|gravity]]. The term is differentiated from the state of shapeless creation, the [[Chartless Sea]].
 
 The term is essentially synonymous with the "physical world".

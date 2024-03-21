@@ -1,3 +1,7 @@
+---
+tags:
+  - has_glossary_entry
+---
 
 The **Golden Voice**, also called the Words Entwined or known formally as *Inilynn*, is the "voice" or language of the authorship of the [[Divinity]], and thus the voice with which the [[Divine Equation]] was written. 
 

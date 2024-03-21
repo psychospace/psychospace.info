@@ -1,6 +1,8 @@
 ---
 issues:
   - incomplete
+tags:
+  - has_glossary_entry
 ---
 ![[⎋ Needs Expansion]]
 

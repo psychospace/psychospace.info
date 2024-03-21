@@ -1,3 +1,9 @@
+---
+tags:
+  - anc/immortal
+  - has_glossary_entry
+---
+
 A **psychopomp** is a [[monitor]] who aids [[Exponen]] in facilitating the judgement of the [[Death|dead]]. They are native to the [[Scarlet Skies]], especially [[Unwri]].
 
 Granted a divine insight by the after-effects of [[The Gathering]], psychopomps have earned their portentious name through an ability to cut through [[Psychospace]]'s existing buffers and deliver, protect, execute, and otherwise enforce fate. 

@@ -5,6 +5,7 @@ aliases:
 tags:
   - anc/kobold
   - sapient
+  - has_glossary_entry
 ---
 **Kobolds**, also known as **dragonborn**, are a hardy ancestry of #sapient peoples who venerate their ancient powers as related to [[Dragon|dragons]]. 
 

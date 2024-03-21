@@ -4,6 +4,7 @@ aliases:
   - eeper
 tags:
   - character
+  - noteworthy
 ancestry:
   - dragon, umbral
 status: alive

@@ -2,6 +2,9 @@
 onenote-created: 2020-12-14 19:57:44 -0500
 onenote-modified: 2022-02-27 13:30:34 -0500
 permalink: history/wotm
+tags:
+  - war
+  - has_glossary_entry
 ---
 
 The **War of the Masters** as it was called was fought over control over the [[Colossal Ocean]], a massive area containing many small, island-like remnants while surrounded by mostly sky and odd weather phenomenons, like whirlpools of air. The War was fought between the [[Kingdom of Sacred]], under King [[Hadro Dino]] known as the Goodfather, and the Divine Republic of [[Dawndust]], under Supreme Pontiff [[Eis Meticast Andar-in]].

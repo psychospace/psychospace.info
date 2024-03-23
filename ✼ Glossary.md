@@ -3,6 +3,8 @@ tags:
   - has_glossary_entry
 cssclasses:
   - notion
+  - readable
+permalink: glossary
 ---
 
 %%
@@ -18,6 +20,13 @@ GROUP BY substring(file.name, 0, 2) as Initials
 
 ```
 %%
+
+This is a **glossary** of terms which appear in the lore of [[the Heavens]].
+
+It is currently (as of 3-21-24) incomplete, but usable. Please search this page for short, readable descriptions.
+
+---
+
 # ==[  A  ]==
 
 ## Aa
@@ -465,6 +474,17 @@ GROUP BY substring(file.name, 0, 2) as Initials
 - **[[House words]]** - A tradition of anointing a noble house with a motto or battlecry.
 ## Hu
 **[[Human]]** - A sapient ancestry of varied folk who live average lives but find ways to leave larger-than-life impacts on people.
+
+## ==[ I ]==
+## Il
+**[[Illithid]]** - An [[Aberration|aberrant]] race of squid-faced experimenters, known for being antagonists.
+
+**[[Illusion]]** - One of the [[Classical Schools]] of [[magic]]. Deals in deceptive spells and manipulation of the tapestry of reality.
+
+## Im
+**[[Imagi]]** - So-claimed [[Divinity|god]] of [[illithid|illithids]].
+
+**[[Immortal]]** - 
 # ==[ K ]==
 ## Ka
 **[[Kalashtar]]** - A rare but special ancestry who can inherit and pass down psychic power through [[Succession (ability)|Succession]].

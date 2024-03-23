@@ -7,7 +7,7 @@ description: 𝘏𝘰𝘮𝘦𝘤𝘰𝘮𝘪𝘯𝘨 is the heirloom firearm of
 ># *Homecoming*
 >>[!caption|center]
 >>![[img_homecoming.png]]
->> Model by [[✼ World Credits#^30d1d3|CombustibleToast]].
+>> Model by [[✼ Credits#^30d1d3|CombustibleToast]].
 >## Inscription
 ># *Rav'Ithflas Paraan'i Qua'Por*
 >##### General Information

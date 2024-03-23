@@ -13,7 +13,7 @@ description: Zero Day was a major event. The close of the formal Dragonic War, t
 >### 3-3-1251 PT
 >>[!caption]
 >>![[img_zeroday.png]]
->><small>**Top:** the [[S4]] desperately prevent the [[TPK]]. <br>**Bottom:** the [[tailed stranger]] appears.<br>*Art by [[✼ World Credits#^21f7bd|cosmic-novas]].*</small>
+>><small>**Top:** the [[S4]] desperately prevent the [[TPK]]. <br>**Bottom:** the [[tailed stranger]] appears.<br>*Art by [[✼ Credits#^21f7bd|cosmic-novas]].*</small>
 
 **Zero Day** was a major event on the [[1251 PT#3-3-1251|Third to Nones of Terze]] in [[1251 PT]]. The close of the formal [[Dragonic War]], this 24-hour period saw the rescue of [[Lazuli Dino]], the death of the leadership of the [[Nortian Conspiracy]], the retrieval of [[Bianca Nortia]], and the assumption of [[Serena Nortia]] as [[Empress of Nortia]]. 
 

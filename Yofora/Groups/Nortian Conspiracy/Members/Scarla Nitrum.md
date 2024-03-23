@@ -11,7 +11,7 @@ aliases:
 >## Скарла Нитрум
 >>[!caption]  
 >>![[img_biancascarla.png]]
->>Scarla in the guise of [[Bianca Nortia]]. *Art by [[✼ World Credits#^4926d3|forbiddentaako]].*
+>>Scarla in the guise of [[Bianca Nortia]]. *Art by [[✼ Credits#^4926d3|forbiddentaako]].*
 
 **Scarla Nitrum Parasom**^[Скарла Нитрум] was a contessa of [[New Orc City]], the modern persona of the [[Tzitzimitl|tzitzimitl]] named **Nemain**. Incredibly cutthroat, she was behind the [[Nortian Conspiracy]], possessing the body of Empress [[Bianca Nortia]], and by all accounts the true power behind the [[Heartknock|Heartknock]] and the [[Dragonic War]].
 

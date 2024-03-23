@@ -19,7 +19,7 @@ contributors:
 >## Name in original script
 >%%>>[!caption] 
 >>IMAGE
->>[[✼ World Credits|(Credits)]]%%
+>>[[✼ Credits|(Credits)]]%%
 >#### <small>General Information</small>
 >| | |
 >| --- | --- |

@@ -25,7 +25,7 @@ description: Dr. R. S. Langford is an entity of unknown makeup, but supreme psio
 >[!infobox|wikipedia right]
 >>[!caption]
 >>![[doc.png]]
->>Depicted in a graffito, reading: "*You don't have nowhere to go.*" Art by [[✼ World Credits#^10a462|corrucyst]].
+>>Depicted in a graffito, reading: "*You don't have nowhere to go.*" Art by [[✼ Credits#^10a462|corrucyst]].
 
 Dr. **R. S. Langford**^[See [[#Etymology]].] is an entity of unknown makeup, but supreme psionic prowess, who distantly oversees and created [[Single-Brain Cell]]. Their ontology, mortality, or its true aim with forming the SBC is ultimately a mystery.  
 

@@ -8,7 +8,7 @@ description: Manifestation of the grudge of Arahabaki and Arizhmiya, the Dragoni
 >[!infobox|right wmed]
 >>[!caption| center]
 >>![[img_lin_dragon.png]]
->>Prince [[Lazuli Dino|Linnaeus]] as a dragonic whillo.<br> Art by [[✼ World Credits#^4926d3|forbiddentaako]].
+>>Prince [[Lazuli Dino|Linnaeus]] as a dragonic whillo.<br> Art by [[✼ Credits#^4926d3|forbiddentaako]].
 ^3c6376
 
 Manifestation of the grudge of [[Arahabaki]] and [[Arizhmiya]], the **Dragonic Curse** was a long-standing plague on the crown of the [[Kingdom of Sacred]]. It was cured in [[1251 PT]] on [[Zero Day]]. ^a18b0b

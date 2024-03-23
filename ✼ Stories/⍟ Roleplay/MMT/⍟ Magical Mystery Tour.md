@@ -10,7 +10,7 @@ aliases:
 ![[⎋ Real-World]]
 
 >[!caption | right] 
->![[img_mmt_poster.jpeg|wmedium]] Poster created by [[✼ World Credits|forbiddentaako]]
+>![[img_mmt_poster.jpeg|wmedium]] Poster created by [[✼ Credits|forbiddentaako]]
 
 ***Magical Mystery Tour***, also known as **MMT** or "**Campaign 1**", is a campaign in D&D5e which lasted from January 24th, 2020, until February 4th, 2024. It was Game Mastered by January November. 
 

@@ -7,7 +7,7 @@ tags:
 >[!infobox|right wsmall]
 >>[!caption| center]
 >>![[img_lin_dragon.png]]
->>Prince [[Lazuli Dino|Linnaeus]] as a dragonic whillo.<br> Art by [[✼ World Credits#^4926d3|forbiddentaako]].
+>>Prince [[Lazuli Dino|Linnaeus]] as a dragonic whillo.<br> Art by [[✼ Credits#^4926d3|forbiddentaako]].
 
 When the [[Dragonic Curse]] fully manifested, the one afflicted becomes a [[Creature|creature]] known as a **dragonic whillo**: a twisted, [[dragon]]-like creature of immense power. This being, too concerned with its own plots, cannot lead a nation and gains great power each time it surfaces. The only person to have ever survived transforming into it was the last to bear the curse, [[Lazuli Dino]].
 

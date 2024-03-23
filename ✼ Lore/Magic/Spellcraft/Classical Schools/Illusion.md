@@ -4,6 +4,7 @@ aliases:
   - illusionist
 tags:
   - magic/type
+  - has_glossary_entry
 ---
 
 **Illusion** is the [[magic]] study of **illusionists**, and is one of the eight [[Classical Schools]] of magic, interlinked with [[divination]]. Illusion is the study of deceptive magics which baffle the mind, drawing on the tapestry of [[psychospace]], and preventing certain information from being perceived, accessed, or obtained.

@@ -19,7 +19,7 @@ campaign: "[[⍟ Magical Mystery Tour]]"
 >>[!caption] 
 >>![[img_trobicerty.png]]
 >>Pictured left.
->>Art by [[✼ World Credits#^f432ac|tinykitten1708]].
+>>Art by [[✼ Credits#^f432ac|tinykitten1708]].
 
 A genderfluid poet, **Trobairitz** or **Trobi** is a [[Wizardry|wizard]] jackalwere who was once servant to [[Ikabod Caruso]] in [[Rainbow Ridge]] under the name Santo. 
 

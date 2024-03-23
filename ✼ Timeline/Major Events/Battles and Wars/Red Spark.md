@@ -23,7 +23,7 @@ When [[Ildy]] tried to stop her, declaring that he was protecting the prince fro
 
 >[!caption|right wsmall]
 >![[icon_lin.png]]
->Linnaeus after transforming. Art by [[✼ World Credits#^39db75|root_circuit]].
+>Linnaeus after transforming. Art by [[✼ Credits#^39db75|root_circuit]].
 
 Assaulted by a [[moonbeam]], Linnaeus began transforming into a [[dragonic whillo]], in an event where the red light of his energy could be seen from everywhere in the [[Kingdom of Sacred]], extending out into the sky. Queen [[Velocis Dino|Velocis]], attempting to rescue him, was punted through the wall of the arena as the attack begins. 
 

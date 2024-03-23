@@ -23,7 +23,7 @@ permalink: mmt/S4/serra
 ># Serratura Neeman
 >>>[!caption] 
 >>![[icon_serra.png]]
->>[[✼ World Credits|(Credits)]]
+>>[[✼ Credits|(Credits)]]
 >#### <small>General Information</small>
 >| | |
 >| --- | --- |

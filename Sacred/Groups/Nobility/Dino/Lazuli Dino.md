@@ -18,7 +18,7 @@ campaign: "[[⍟ Magical Mystery Tour]]"
 ># Lazuli Mi Invict Dino
 >>[!caption|center]
 >>![[img_lin_cured.png]]
->>Linnie's appearance post-[[Zero Day]].<br>Art by [[✼ World Credits#^21f7bd|cosmic-novas]].
+>>Linnie's appearance post-[[Zero Day]].<br>Art by [[✼ Credits#^21f7bd|cosmic-novas]].
 >#### <small>General Information</small>
 >| | |
 >| --- | --- |

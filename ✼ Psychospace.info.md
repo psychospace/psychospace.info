@@ -8,7 +8,7 @@ cssclasses:
 
 **Welcome to the official wiki of [[The Heavens|the Heavens]], a high-magic fantasypunk[^huh?] universe, created by [January November](https://bsky.app/profile/blog.psychospace.info).**
 
-This wiki maintains *over 223,000 words* and over 1,000 articles^[Count last updated 3-18-2024.], and is continuously maintained by its team of [[✼ World Credits|contributors]].
+This wiki maintains *over 223,000 words* and over 1,000 articles^[Count last updated 3-18-2024.], and is continuously maintained by its team of [[✼ Credits|contributors]].
 
 > Myth and mirth fuel the societies of the [[Wild Blue Yonder]] on floating sky-islands known as [[Remnant|remnants]], whose [[Flipside|flipsides]] hold secrets, other worlds, and treasure beyond compare. 
 > 
@@ -20,7 +20,7 @@ This wiki maintains *over 223,000 words* and over 1,000 articles^[Count last upd
 
 >[!caption|sban]
 ![[img_mmt_poster.jpeg|banner+tall p+ctcc]]
-[[img_mmt_poster.jpeg|Poster]] by *[[✼ World Credits#^4926d3|forbiddentaako]].*
+[[img_mmt_poster.jpeg|Poster]] by *[[✼ Credits#^4926d3|forbiddentaako]].*
 
 >[!info|clean no-title] 
 ># What is this world?

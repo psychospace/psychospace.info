@@ -3,6 +3,7 @@ aliases:
   - dead
 tags:
   - domain/death
+  - has_glossary_entry
 description: Death, much like the real-world process, is a process of entropy which afflicts all mortal beings.
 ---
 >[!quote | author] Charlie

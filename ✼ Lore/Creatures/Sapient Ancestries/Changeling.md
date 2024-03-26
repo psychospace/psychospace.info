@@ -1,6 +1,7 @@
 ---
 tags:
   - sapient
+  - has_glossary_entry
 ---
 **Changelings** are a diverse #sapient heritage of [[fey]] peoples who have a unique affinity for [[Vitality energy|positive energy]], resulting in an extreme affinity for [[magic]]. 
 

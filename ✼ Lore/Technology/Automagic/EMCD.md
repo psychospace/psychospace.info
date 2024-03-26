@@ -1,6 +1,11 @@
 ---
-alias: talkstone, MC, EMCD
-tag: item
+aliases:
+  - talkstone
+  - MC
+  - EMCD
+tags:
+  - item
+  - has_glossary_entry
 ---
 ![[⎋ 2FPG]]
 Colloquially called a _talkstone_ or MC, the **Electron Milieu Consensus Device** is a short-range radio-computing interface using [[Rivenium|riven]] alloys. It enables wireless vocal connection to a [[Dust tunnel#Milieu|locus station]], usually distributed to signaling officers. 

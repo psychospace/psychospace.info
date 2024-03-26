@@ -5,6 +5,7 @@ issues:
   - incomplete
 tags:
   - character
+priority: CONSIDER_DELETION
 ---
 
 [[Serratura Neeman]] and [[Chiave Neeman]]'s mother.

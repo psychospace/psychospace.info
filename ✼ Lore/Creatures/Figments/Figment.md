@@ -2,8 +2,11 @@
 tags:
   - anc/figment
   - magic
+  - has_glossary_entry
+aliases:
+  - figments
 ---
-Anything created by the interactions of [[Psychospace]] with the world of the living is called a **figment**, though the term usually refers to [[Creature|creatures]] created by this process.
+Anything created by the interactions of [[psychospace]] with the world of the living is called a **figment**, though the term usually refers to [[Creature|creatures]] created by this process.
 
 Figment creatures source their sense of self from their circumstance of creation, most of which are either natural laws or [[Magic|magic]]. Figments can be born of either [[Light (property)|Light or Darkness]].
 

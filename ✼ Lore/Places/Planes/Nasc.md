@@ -1,6 +1,7 @@
 ---
 tags:
   - remnant
+  - has_glossary_entry
 ---
 
 One of the only “[[artificial remnant projects]]” to survive to present day, the [[remnant]] of **Nasc** is a rare place of congregation and commerce between [[Whill|whill]] society and humanoid society, and a pinnacle of [[the Above]].

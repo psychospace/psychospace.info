@@ -7,6 +7,7 @@ aliases:
   - arcane
 tags:
   - magic
+  - has_glossary_entry
 ---
 **Magic**, also called *arcana*, borne of [[Psychospace]], is a broad term covering effects not naturally produced by physics or standard natural laws, requiring purpose, instructions, and duration. At its base level, the study of magic is the will to understand and control the [[Logic]] of the universe through respecting the [[Divine Equation]].
 
@@ -34,6 +35,8 @@ In general, cast magic is created in either miraculous or arcane forms, both sou
 * **Miraculous magic**, also called "divine" magic, is sourced from observing nature, or retelling stories, and believing or creating changes through veneration. In contrast to arcane casters, divine casters accept the world as it is and make changes through allowing the world's powers to flow through them. Miracles are generally reliant on [[Divinity|gods]], patrons, or divine portfolios, as prayer is capable of generating these abilities.
 - **Arcane magic**, also known as "textual" magic, is sourced from directly interpreting the Equation's results to discern how a process comes about, and more specifically how someone might do something new with it. In contrast to divine casters, arcane casters seek to change the world through their own knowledge, rather than through faith. When compared to miracles, arcane studies generally find themselves limited by study.
 
+The knowledge of cast magic is often collated into works known as [[hexicon|hexicons]]. 
+
 A spellcaster wishing to share their findings or create consumable copies of their research can decode certain spells back into user-agnostic forms, usually as [[Scroll|scrolls]]. Cast magic in specific forms is subject to the [[Viewpoint property]]. 
 
 [[Enchantment|Enchanters]] and [[Artifice|artificers]] use *cast magic* to manifest a latent or intent magic effect, allowing such creations to be much more persistent than the transitory effects of most spells, sometimes even allowing these effects to manifest cast magic themselves. This is how **magic items** are created. 
@@ -45,7 +48,34 @@ Certain creatures, often the byproduct of magic themselves, exude auras or abili
 
 This also extends to creatures which linger due to powerful intentions, such as [[Ghost|ghosts]].
 
-It is identified by its clear resilience to [[antimagic]], requiring special rites of abjuration, such as [[Exorcism]], to negotiate. No one rite is capable of interrupting all forms of intent magic.
+It is identified by its clear resilience to [[antimagic]], requiring special rites of [[abjuration]], such as [[Exorcism]], to negotiate. No one rite is capable of interrupting all forms of intent magic.
 
 # Clade
 A **clade** is an individual study or intriguing topic of magic.
+
+# Legality
+Due to magic's ubiquity and immense potential, the legality of certain kinds of magic is often questioned. Across most of the world, these have been given colors.
+
+The terms red, white, black, and gray magics are categorizations from legal [[hexicon|hexicons]].
+
+![[Hexicon#^bdd40c]]
+
+### White magic
+A **white magic** is magic that is legal to perform in almost all cases, where its use wouldn't break any other law.
+
+Examples include [[healing]] spells, and most formally-defined [[Cantrip|cantrips]].
+
+### Black magic
+**Black magic** is magic that is typically not legal to perform or teach, due to the danger to autonomy, person, or environment as a result of its unpredictable effects.
+
+Examples include [[wild magic]] or [[new magic]] in many jurisdictions.
+
+### Gray magic
+A **gray magic** is magic that is explicitly legal to be used, though typically not taught except by specialists, only used under official, permissive pretense.
+
+Examples include [[modify memory]].
+
+### Red magic
+**Red magic** is magic that is explicitly legal to be taught, but its use is disincentivized or only legal in self-defense.
+
+Examples include most attacking spells.

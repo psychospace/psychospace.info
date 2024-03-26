@@ -1,3 +1,7 @@
+---
+tags:
+  - has_glossary_entry
+---
 A **fylgja** (*fill-gee-ah*, plural *fylgjur*), **guide**, or **warden spirit**, is a piece of the [[soul]] which binds a [[creature]]'s fate to the [[Divinity|gods]], and itself is bonded to the [[Body|bodily]] fluids, such as blood. It governs a soul's creation, guiding their development in both life and death. It often takes the form of an animal, though it can also appear in other forms.
 
 It is generally created of [[chaos]] energy, and is in part the literal manifestation of the [[silver cord]]. *Fylgjur* are known to duplicate and serve many members of a family at once. [[Sorcery|Sorcerers]] have their bloodline modified through the *fylgja*.

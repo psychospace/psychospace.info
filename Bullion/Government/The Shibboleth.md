@@ -6,6 +6,7 @@ aliases:
 tags:
   - group
   - government
+  - has_glossary_entry
 ---
 The **Shibboleth of Bullion**, also called “the Shib” for short, is the intergovernmental ruling body of much of the remnant of [[Bullion]], who coordinate in matters of warfare and trade. Comprised of seven nation-states, this collective was founded in the wake of the [[Bullion Civil War]] in [[1055 PT]].
 

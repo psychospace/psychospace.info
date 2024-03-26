@@ -1,6 +1,6 @@
 ---
-alias: The Impendium
-tag: faith
+aliases: The Impendium
+tags: faith
 ---
 
 In the earliest years of the remnant known today as [[High Sacred]], before [[Pinwheel]] began to count time, many humans who came to the remnant by wing of ancient beast did not choose to live under the protection of the [[Evangel|evangels]] who came to rise in power in the remnant with their magic, believing more in the natural elements, their dragons and their steeds, as altogether a pantheon of reality. 

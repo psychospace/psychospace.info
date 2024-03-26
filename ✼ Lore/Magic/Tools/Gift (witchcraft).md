@@ -1,6 +1,8 @@
 ---
 aliases:
   - Gift
+tags:
+  - has_glossary_entry
 ---
 ![[⎋ 2FPG]]
 > [!quote | author]  *[[Dakota Hazelwick|Graven Witch]] of [[Mezcoatl]]*

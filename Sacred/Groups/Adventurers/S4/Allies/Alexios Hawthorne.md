@@ -15,6 +15,7 @@ factions:
 status: alive
 issues:
   - rewrite
+priority: LOW
 ---
 **Alexios Hawthorne**, also known by his title "Man of Many Faces", is a [[Elf#Wood elves|wood elf]] from the [[Gray Waters]]. He has a knack for deceit, some say he is an ultimate con artist with his ability to disguise himself and adopt several personas.
 

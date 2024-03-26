@@ -10,9 +10,11 @@ aliases:
 ---
 ![[⎋ 2FPG]]
 ![[⎋ Real-World]]
-***Twin Fantasy***, also known as **2F**, the "Bullion campaign", or "**Campaign 2**", is a prospective campaign, to-be-run in Pathfinder 2e. It has not yet begun *as of December 19, 2023.*
+***Twin Fantasy***, also known as **2F**, the "Bullion campaign", or "**Campaign 2**", is a prospective campaign, to-be-run in the Pathfinder 2e system. 
 
-It will be GM'd by January November and acts as the follow-up to [[⍟ Magical Mystery Tour]], though it also stands on its own.
+It has not yet begun.
+
+It will be GM'd by January November, and acts as the follow-up to [[⍟ Magical Mystery Tour]], though it also stands on its own.
 
 # Summary
 In-universe, *Twin Fantasy* furthers the timeline to [[1285 PT]] and takes place on [[Bullion]], a diverse remnant flush with mystery, progress, tradition, and opportunity. Enigmatic [[new Magic|new-magic]] has become the zeitgeist driving a whole generation of adventurers, criminals, and warriors alike to fear the unknown and seek strength where they can find it. Meanwhile, [[dust tunnel|leywire]] networks and [[train|trains]] stretch from coast to coast, connecting disparate folks to each other and to the future of technology.

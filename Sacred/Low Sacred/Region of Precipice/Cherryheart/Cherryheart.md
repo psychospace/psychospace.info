@@ -4,6 +4,7 @@ onenote-modified: 2020-09-05 17:38:26 -0400
 issues:
   - stub
   - incomplete
+priority: MEDIUM
 ---
 ![[⎋ Needs Expansion]]
 

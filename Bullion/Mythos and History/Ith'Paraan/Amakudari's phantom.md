@@ -4,8 +4,8 @@ aliases:
 tags:
   - character
 ancestry:
-  - dragon, astral
   - phantom
+  - "[[Dragon#Astral]]"
 pronouns:
   - it-its
 status: dead

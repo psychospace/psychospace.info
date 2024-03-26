@@ -1,6 +1,9 @@
 ---
-alias: fulcrums
-tag: magic/new/clade
+aliases:
+  - fulcrums
+tags:
+  - magic/new/clade
+  - has_glossary_entry
 ---
 ![[⎋ 2FPG]]
 A **fulcrum** describes a covert [[Magic#Clade|clade]]-like designation given to certain new magicians. It is best likened to a [[Psion|psion]] equivalent of a [[Lynchpin Device|lynchpin device]], acting as a significant noted contact point for [[Out There]] and other beings beyond the [[Divinity|divine]].

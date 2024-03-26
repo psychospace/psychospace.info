@@ -28,7 +28,7 @@ residence: "[[S4t]]"
 >## №4
 >>[!caption] 
 >>![[icon_lethal.png]]
->>[[✼ World Credits|(Credits)]]
+>>[[✼ Credits|(Credits)]]
 >#### <small>General Information</small>
 >| | |
 >| --- | --- |

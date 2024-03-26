@@ -1,6 +1,7 @@
 ---
 tags:
   - anc/figment
+  - has_glossary_entry
 ---
 
 An **origo**^[ohr-RIH-goe], sometimes called a **personal eidolon**, is an arcane term given for a [[figment|figment]] which can manifest^[physically, outside of[[psychospace]]] with the aid of an anchor, that serves as its mortal conduit. 

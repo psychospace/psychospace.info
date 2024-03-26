@@ -1,14 +1,16 @@
 ---
-tag: plane
+tags:
+  - plane
+  - has_glossary_entry
 description: The Sheer is a demiplane of collapsed-space.
 ---
-The **Sheer** ([[Oa'Rovi]]: *Rav'ithflas*, lit. "Portal of Tumult Fog"), also called **collapsed-space** or **dense-space**, is a [[Plane#Demiplane|demiplane]] projection of [[Kibangan]] as cast by the second-nearest star to [[The Planet|the planet]], [[Stronn]]. It is well known as a powerful aspect of nature commanded by the [[Great Nortian Empire|Nortian]] imperial line through [[Ekaitz]].
+The **Sheer** ([[Oa'Rovi]]: *Rav'ithflas*, lit. "Portal of Tumult Fog"), also called **collapsed-space** or **dense-space**, is a [[Plane#Demiplane|demiplane]] projection of [[Kibangan]] as cast by the second-nearest star to [[The Planet|the planet]], [[Stronn]]. It is well known as a powerful aspect of nature commanded by the [[Great Nortian Empire|Nortian]] [[Nortian imperial family|imperial line]] through [[Ekaitz]].
 
 It is partly a creation of [[Chartless Sea]]. [[Psychospace]], due to being a shadow cast by [[Cien]], exists as a more prevalent projection of Kibangan, and so its magic overlays this one. 
 
 The [[Runic engine|runic engine]] makes use of the Sheer, shortening distances through the skies.
 # Etymology
-The name "Sheer" came from its properties as a curtain of fog, as well as its thin, near-imperceptible presence. It is called "collapsed-space" because it is physically smaller than psychospace, and thus smaller than the Material universe. 
+The name "Sheer" came from its properties as a curtain of fog, as well as its thin, near-imperceptible presence. It is called "collapsed-space" because its size can be controlled by those who exert influence on it, and thus "collapses space" as a conduit between points in the [[universe]]. 
 
 ![[Dictionary - Oa'Rovi#Rav'Ithflas {RAVv-IθFLAŠ}]]
 # Properties 

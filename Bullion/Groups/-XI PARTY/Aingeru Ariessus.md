@@ -5,7 +5,7 @@ tags:
   - XI
 campaign: "[[⍟ Extra Innings]]"
 ancestry:
-  - elf, lodarin
+  - "[[Elf#Wood elves]]"
 status: alive
 pronouns:
   - he-him

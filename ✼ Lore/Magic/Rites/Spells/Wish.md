@@ -1,5 +1,7 @@
 ---
-tag: magic/spell
+tags:
+  - magic/spell
+  - has_glossary_entry
 ---
 ***Wish*** is a legendary [[Spell|spell]] and [[ritual|ritual]] of [[Evocation|Evocation]], commonly referred to as the [[Arcane complexity|most powerful]] spell a mortal can learn and cast. It is in many ways descriptive to call it the "ultimate" magic, as it acts as essentially ad-hoc access into the [[Divine Equation]], something for most that requires decades to learn. 
 

@@ -1,5 +1,5 @@
 ---
-tag: faction/government/win
+tags: faction/government/win
 ---
 > [!quote| author] Indrek Rebane, poet
 > If Winnie is an egg, young Karyos inside: <br> her mind dreams [[Fifth Institute|Manteia]]; Sinag is her alive.

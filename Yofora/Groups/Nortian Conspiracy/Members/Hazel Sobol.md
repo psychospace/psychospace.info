@@ -22,12 +22,12 @@ campaign: "[[⍟ Magical Mystery Tour]]"
 >| Aliases | Buster Hazel, Champion Serena, Knight of Curses |
 >| Ancestry | [[Human]] (mortal), [[Dullahan]] |
 >| Conditions | [[Undead\|Undeath]], permanent infatuation with [[Serena Nortia]], [[Plague of petals|plague of petals]], numerous curses |
->| Occupation | Rank II of the [[Nortian Conspiracy]], captain-buster of the [[Army of Euphony]], knightess |
+>| Occupation | Captain-[[buster]] of the [[Army of Euphony]], chosen champion of Nortia, ~~Rank II of the [[Nortian Conspiracy]]~~ |
 >| Partner | *n/a*, believes herself betrothed to Serena |
 >| Likes | Serena Nortia, the Nortian empress, following their orders, studying new weapons, relishing in violence |
 >| Dislikes | Being defeated, being tricked |
 
-Captain-Buster **Hazel Kurovna Sobol**, also known by her peculiar title *Champion Serena*, is the [[Great Nortian Empire|Nortian]] [[Bianca Nortia|empress]]' chosen knightess, a [[Dullahan]].
+Captain-[[Buster]] **Hazel Kurovna Sobol**, also known by her peculiar title *Champion Serena*, is the [[Great Nortian Empire|Nortian]] [[Bianca Nortia|empress]]' chosen knightess, a [[Dullahan]].
 
 A self-proclaimed hero of her people, she was second-in-command of the [[Nortian Conspiracy]] during the events of the [[Dragonic War]].  She was notable for having personally orchestrated the [[Red Spark|Siege of Drastic]], and was the mortal enemy of the [[S4]].
 # History 

@@ -7,6 +7,7 @@ status: alive
 issues:
   - incomplete
   - stub
+priority: CONSIDER_DELETION
 ---
 
 **Kailey Synchronia** is a noblewoman of [[House Synchronia]]. She was kidnapped during the [[Synchronia-Nautilus affair]].

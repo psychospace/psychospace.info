@@ -5,6 +5,7 @@ issues:
   - incomplete
   - stub
 campaign: "[[⍟ Extra Innings]]"
+priority: HIGH
 ---
 ![[⎋ Needs Expansion]]
 **Julia Gutierrez** is a [[Elf#Half-elf|half-elf]] [[wildwalker]] from [[Ziegfeld Station]], and an editor working for the [[Daily Grind]]. An [[Apeirism|apeirist]], she enjoys studying the wildlife of the [[Upper Kernwelt]]. Her face has the scars of a life of hard-labor, long days in the sun... and probably fighting.

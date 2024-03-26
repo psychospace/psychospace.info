@@ -1,6 +1,8 @@
 ---
 onenote-created: 2020-01-04 16:15:03 -0500
 onenote-modified: 2020-01-27 12:30:09 -0500
+tags:
+  - has_glossary_entry
 ---
 An unconventional weapon, the **hookshot** is a type of projectile weapon originated by the lassos and whips used by the [[Wildwalker]] tradition of [[Bullion]], essentially creating a launcher which can fire a grapple point. 
 

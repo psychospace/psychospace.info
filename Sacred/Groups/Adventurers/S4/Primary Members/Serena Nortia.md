@@ -25,6 +25,9 @@ factions:
   - "[[S4]]"
 enemies:
   - "[[Nortian Conspiracy]]"
+issues:
+  - epilogue content
+priority: MEDIUM
 ---
 >[!infobox | wikipedia right]+
 ># Serena Vostok Luszya Nortia
@@ -34,24 +37,24 @@ enemies:
 >| | | 
 >| --- | --- |
 >| Born | 8-15-[[1205 PT]] |
->| Occupations | [[Successor (Nortia)\|Successor]], counsel to the Empress, ally to the [[S4]] |
+>| Occupations | [[Empress of Nortia]], ally to the [[S4]] |
 >| Aliases | Nadezhda Naroda, Nadia |
 >| Ancestry | [[Human]] [[Aasimar\|aasimar]] |
 >| Abilities | [[Monism]], control over [[The Sheer]], imperial spellblade style |
 >| Conditions | [[Serena's prosthesis\|Amputated right leg]] |
 >| Titles | [[#Titles]] |
 
-*Lady* **Serena Vostok Luszya Nortia**, Princess and [[Successor (Nortia)|Successor]], is a brilliant [[Aasimar]] ranger who is the eldest of [[Bianca Nortia]]'s children, and an ally of the [[S4]] since their inception. 
+*Lady* **Serena Vostok Luszya Nortia**, [[Empress of Nortia]], is a brilliant [[Aasimar]] ranger who is the eldest of [[Bianca Nortia]]'s children, and an ally of the [[S4]] since their inception. As of [[1285 PT]], she is the present-day matriarch of the [[Nortian imperial family]].
 
 Champion of [[Homecoming]], she is also known as *Serena of [[Bright Eyes]]*. As sister to Princes [[Iosif Nortia|Iosif]] and [[Leonid Nortia|Leonid]], and to Princess [[Lidiya Nortia]], Serena inherited the ability of [[monism]]. Her father was Prince [[Konstantin Nortia]].
 
-Serena is married to [[Maria Simetryevna]], one of her mother's court attendants, and she also has a [[Curse|cursed]] tie to [[Hazel Sobol]]. 
+Serena is married to [[Maria Simetryevna]], one of her mother's court attendants, and she also has a [[Curse|cursed]] tie to [[Hazel Sobol]]. She has an adoptive son, named [[Yevi Nortia]].
 
 
 
 ![[⎋ Roleplay]]
 # History
-Serena was brought up in the spellblade [[Firearm]] style which was becoming typical of the imperial line. The weapon called *Homecoming* was made especially for her.
+Serena was brought up in the [[Nortian imperial family#Horizon Walker|horizon walker]] swordschool, particularly its novel interest in [[firearm|firearms]], becoming typical of the imperial line. The weapon called *[[Homecoming]]* was made especially for her.
 
 In [[1230 PT]], Serena became engaged to Maria.
 

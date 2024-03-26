@@ -1,8 +1,8 @@
 ---
 onenote-created: 2020-01-07 23:43:51 -0500
-
 onenote-modified: 2020-07-30 23:18:30 -0400
-
+tags:
+  - has_glossary_entry
 ---
 
 **Phantasma Goria** was a strange [[Psychopomp|psychopomp]]-like woman who appeared within the [[Ghost storm|purple storm]]. She was apparently some kind of manifestation of sin, and her existence was the work of several gods, primarily [[Exponen]]. 

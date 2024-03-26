@@ -4,6 +4,7 @@ tags:
   - place
 issues:
   - incomplete
+priority: FUTURE_PLANS
 ---
 The **Naciente Forest Preserves** (pronounced *[nah-shien-tay]*) is a large region of well-protected land inside [[League of Joriele|Joriele]] that has historically and presently been occupied by several distinct native villages (largely comprised of various [[Kinfolk|Kinfolk]]), individually **Naciente nations**. The [[Mänyya]] term means "nascent, untouched".
 

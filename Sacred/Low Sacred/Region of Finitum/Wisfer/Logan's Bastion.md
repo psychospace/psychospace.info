@@ -5,6 +5,7 @@ tags:
   - place/Sacred/Low/Finitum
 issues:
   - incomplete
+priority: HIGH
 ---
 In the Silverfields north of [[Wisfer]], there was once a mad lord whose castle now lies dead center between the bickering lords. The mad lord of old was an artificer human named [[Logan Caruso]], who was said to have built vaults so deep they open to the [[Scarlet Skies]] by reaching [[the Beastlands]]. 
 

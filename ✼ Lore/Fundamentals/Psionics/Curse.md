@@ -3,6 +3,8 @@ aliases:
   - cursing
   - cursed
   - curses
+tags:
+  - has_glossary_entry
 ---
 
 A **curse** is any affliction sourced from extremely potent [[magic]], superstition, or animosity, which results in distortions to the body, the mind, and the [[Time|future]]. 

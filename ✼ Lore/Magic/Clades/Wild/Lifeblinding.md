@@ -3,6 +3,7 @@ onenote-created: 2020-10-25 17:42:33 -0400
 onenote-modified: 2022-09-25 19:59:05 -0400
 tags:
   - magic/type
+  - has_glossary_entry
 aliases:
   - mark of lifeblind
 ---

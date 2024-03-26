@@ -1,6 +1,7 @@
 ---
 tags:
   - remnant
+  - has_glossary_entry
 onenote-created: 2020-12-14 19:55:50 -0500
 onenote-modified: 2020-12-14 20:04:54 -0500
 aliases:

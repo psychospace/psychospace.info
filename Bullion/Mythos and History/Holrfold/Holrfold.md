@@ -1,5 +1,8 @@
 ---
-tag: place/kw
+tags:
+  - place/kw
+  - government/former
+  - has_glossary_entry
 ---
 **Holrfold** was an ancient [[Dwarf|dwarvish]] civilization of [[Bullion]] which existed in the [[Kernwelt]]. Having their origins in tribes of nearby [[Archipel]], their architecture and cultural artifacts have continued to influence the world.
 

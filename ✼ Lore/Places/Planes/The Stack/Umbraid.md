@@ -4,6 +4,7 @@ issues:
 SPOILER:
   - "[[⍟ Magical Mystery Tour]]"
   - "[[Scarla Nitrum]]"
+priority: HIGH
 ---
 ![[⎋ Needs Expansion]]
 ![[⎋ 2FPG]]

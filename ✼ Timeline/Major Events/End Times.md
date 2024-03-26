@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 The **End Times** are a theoretical [[Time|future]]^[Potentially present, depending on some interpretations.] apocalyptic era of [[the Heavens]], which are referenced in several mythologies from across the skyseas.
 
 Though unknown what exactly would transpire, it would culminate in an inevitable [[collapse state]], the utter [[TPK|vanishing]] of [[psychospace]], and the likely death of all life, mortal or [[immortal]]. It is unknown the timescale of or moment that such an event might ever happen.

@@ -1,6 +1,7 @@
 ---
 tags:
   - timeline/era
+  - has_glossary_entry
 permalink: history/age-of-gods
 ---
 

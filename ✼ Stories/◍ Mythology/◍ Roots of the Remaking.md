@@ -3,6 +3,7 @@ cssclasses:
   - poem
 tags:
   - meta/story
+permalink: story/roots
 ---
 >[!quote|subt author] Kshhshksa, protean preacher _translated from [[Oa'Rovi]]_
 >"When Chaos consumed aught, there were but three fundamental forces that formed a shattered zeitgeist of the Not-Where that now but one [[The Maker|entity]] dwelled within.

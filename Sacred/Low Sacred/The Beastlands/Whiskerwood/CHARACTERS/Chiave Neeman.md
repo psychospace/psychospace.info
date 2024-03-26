@@ -16,6 +16,7 @@ ancestry:
 factions:
   - "[[S4]]"
 status: alive
+priority: HIGH
 ---
 ![[⎋ Needs Expansion]]
 **Chiave Neeman** is a [[Elf#Half-elf|half-elf]] druid. He started the journey with his [[Serratura Neeman|twin sister]] as part of the [[S4|Royal Escort Group]].

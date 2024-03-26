@@ -13,10 +13,10 @@ He is himself the subject of a popular series of autobiographical dime novels in
 
 According to him, Kraig's family originated in the [[Siella Valley]], where they have assisted in every war in history fought in the [[River-Lands of Ancestral Ith'Paraan|River-Lands]], including the most recent [[Bullion Civil War|civil war]]. 
 
-As Kraig tells it, this heritage spent protecting the homestead has inspired him to dramatize and enjoin the heroics of the [[Sganyodaiyo]] and [[Blue Cinder Militia|Blue Cinders]]. This was especially after hearing tell from Kraig's father, whose mother was one of the outriders who brought in the [[Witch-King]].
+As Kraig tells it, this heritage spent protecting the homestead has inspired him to dramatize and enjoin the heroics of the [[Sganyodaiyo]] and [[Blue Cinder Militia|Blue Cinders]]. This was especially after hearing tell from Kraig's grandmother, apparently one of the outriders who brought in the [[Witch-King]].
 # History
 
-Kraig was born in [[Arnecca]], and was a child at the time of [[Zero Day]]. Shortly after becoming an adult, in [[1254 PT]], he joined the Blue Cinders, and was compatriot to [[Cordyte]], the constable who originated the practice of [[Shotcaller|shotcalling]]. 
+Kraig was born in [[Arnecca]], and was a child at the time of [[Zero Day]]. Shortly after becoming an adult, in [[1254 PT]], he joined the Blue Cinders, and was compatriot to [[Cordyte Amak]], the constable who originated the practice of [[Shotcaller|shotcalling]]. 
 
 His first novel was published in [[1266 PT]], with a yearly output of three books from each year onward until around [[1280 PT]], when he announced he would be slowing his efforts to spend more time with his family, continuing to produce one to two books each year following.
 

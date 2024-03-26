@@ -1,5 +1,7 @@
 ---
-tag: magic/type 
+tags:
+  - magic/type
+  - has_glossary_entry
 ---
 **Blackflame**, materially, was a powerful emotional [[Magic|magic force]] created by pieces of the corpse of the [[Divinity|god]] [[Arizhmiya]]. Spiritually, it was divine flame birthed by [[Cientia]] and [[Athemat]]. It was the grudge borne of a pastless world seeking to forge new history, enabling such feats and generating interest in it by extant, malicious forces.
 

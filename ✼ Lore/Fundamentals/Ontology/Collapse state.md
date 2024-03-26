@@ -1,5 +1,7 @@
 ---
-tag: magic/new
+tags:
+  - magic/new
+  - has_glossary_entry
 ---
 ![[⎋ 2FPG]]
 >[!quote| author] Johanna Abascal, [[⊛ The First Rule]]

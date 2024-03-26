@@ -1,3 +1,7 @@
+---
+tags:
+  - has_glossary_entry
+---
 
 The *Vanguard*-class is a wooden [[airship]] often used by both high-profile passengers and low-ranking scouts in the [[Pinwheel|Pinwheeler]] Military. Vanguards, being one of the smallest non-medical vessels in recent activity in the Ioyon fleet, are extremely cheap to make and equally cheap to maintain, requiring only a slight amount of engineering or carpenting skill to keep skyworthy.
 

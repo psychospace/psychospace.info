@@ -1,7 +1,13 @@
 ---
-tag: being/divine
+tags:
+  - being/divine
+  - has_glossary_entry
 ---
 **Cientia**, **Titan of Time**, is a motherly goddess whose [[domain]] involves time, light, and [[Giant|giants]], and of [[Cien]], whom she names. She is the matriarch of the [[pantheon of Dawndust]].
+
+Her children include [[Bioh]], [[Calcula]], [[Arizhmiya|Lagacia]], and [[Exponen]].
+
+# Faith
 
 Clerics of Cientia are largely lauded on their use of time. Since worship of Cientia in specific rose to prominence during wars fought in other remnants, the best thing they can do is heal people in a remarkably short amount of time, a feat thought unrealistic by most standards. People sometimes called "war casters" are known to be similarly lauded when the roles of these clerics aren't necessarily support, but rather in the course of attack. 
 
@@ -9,4 +15,3 @@ The difference between most of civilization's worship of Cientia and [[giant]]-k
 
 Giantkin is far more afraid of her, to put it lightly. Time rarely claims giants before they die of some other means, so in this sense, she is more of a death god. 
 
-Her children include [[Bioh]], [[Calcula]], [[Arizhmiya|Lagacia]], and [[Exponen]].

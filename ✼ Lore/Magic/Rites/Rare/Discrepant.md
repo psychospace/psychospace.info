@@ -1,5 +1,7 @@
 ---
-tag: magic/new
+tags:
+  - magic/new
+  - has_glossary_entry
 ---
 In [[magic]], "**discrepant**" is a descriptor for effects and entities whose [[epitome]] is without linear cause-and-effect: in other words, subjects or victims of [[time travel]]. 
 

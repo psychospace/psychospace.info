@@ -1,10 +1,11 @@
 ---
 tags:
   - anc/dragon
+  - has_glossary_entry
 aliases:
   - dragons
 ---
-**Dragons** are reptilian [[Creature|creatures]] with immense [[Magic]] deeply tied to [[Psychospace]], and thus, to the roots of the world and to people. Being represented by the Grandfather Drake [[Athemat]], dragons are considered rulers over [[The Above]].
+**Dragons** are reptilian [[Creature|creatures]] with immense [[magic]] deeply tied to [[psychospace]], and thus, to the roots of the world and to people. Being represented by the Grandfather Drake [[Athemat]], dragons are considered rulers over [[The Above]].
 
 # Abilities
 Most true dragons possess some form of flight, and many are capable of magic, speech, personality, diplomacy, and [[reincarnation]]. They generally speak [[Draconic]].
@@ -38,7 +39,7 @@ Copper, gold, silver, brass, and bronze dragons are some of the most common meta
 ## Astral
 **Astral dragons**, sometimes called **gemstone dragons**, are a rare breed of dragon said to be born under the influence of the [[Dark Sea]]. Such influence oft drifts through the [[Cloudscape|clouds]] of the Above, and sometimes a dragon is possessed to understand and harness that power. Their births may be portended by events of great astrological importance, such as a shooting star or a rarely-witnessed comet. Astral dragons have prismatic scales and skin that refracts and alters light, and hovers faintly over the body.  
 
-Due to their rarity, astral dragons are subject to a great deal of speculation. The best known is the amethyst dragon [[Amakudari-no-Mikoto]], who captured a star when they were very young and went on to travel the universe with its Gift. Some [[Ith'Paraan|Ith'Par]] texts describe dragons constructed entirely of light that were encountered [[Out There]]. In modern interpretations of the [[Folly of the Twins]], [[Calcula]] and [[Bioh]] took the form of astral dragons.
+Due to their rarity, astral dragons are subject to a great deal of speculation. The best known is the amethyst dragon [[Amakudari-no-Mikoto]], who captured a star when they were very young and went on to travel the [[universe]] with its Gift. Some [[Ith'Paraan|Ith'Par]] texts describe dragons constructed entirely of light that were encountered [[Out There]]. In modern interpretations of the [[Folly of the Twins]], [[Calcula]] and [[Bioh]] took the form of astral dragons.
 
 ## Umbral
 **Umbral dragons** are legendary dragons born under mysterious, divine circumstances, identifiable by their scales being stained mostly black. An umbral dragon has their psionic capabilities and power magnified by a factor of possible thousands, able to create [[Rivenium]]. These births are never anticipated, and take a toll on the parent.
@@ -49,7 +50,9 @@ Only two, [[Uforia]] and [[Arahabaki]], are known to exist, borne of the [[Black
 ![[◍ The World Born in Stone]]
 
 ## Zhill
-The original stone-hearted dragons, also known as the Zhill, did not start with life or with perspective. They acted many beasts do, seeking territory over the broken pieces that Anti saw, for what the God of Gods saw was their creation's work to inherit. When the nature of [[Kibangan]], influenced by the Ignition Point's roots in the "truths" of ancient civilization and the "ideals" of its functional originals, took shape, the world began to form "rules", and thus the dragons, the creatures that had given their own lives meaning, suddenly found psychospace another realm to conquer.
+The original stone-hearted dragons, also known as the **Zhill**, did not start with life or with perspective. They acted many beasts do, seeking territory over the broken pieces that Anti saw, for what the God of Gods saw was their creation's work to inherit. 
 
-This is how [[Psychospace]] came to be, and how dragons came to be alongside it.
+When the nature of [[Kibangan]], influenced by the Ignition Point's roots in the "truths" of ancient civilization and the "ideals" of its functional originals, took shape, the world began to form "rules", and thus the dragons, the creatures that had given their own lives meaning, suddenly found psychospace another realm to conquer.
+
+This is how [[psychospace]] came to be, and how dragons came to be alongside it.
 

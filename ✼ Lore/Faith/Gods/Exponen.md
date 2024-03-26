@@ -1,9 +1,11 @@
 ---
 tags:
   - being/divine
+  - has_glossary_entry
 aliases:
   - Nexos
   - The Fate Idol
+word-goal: "550"
 ---
 Also called "The Fate Idol", **Exponen** is a [[Divinity|deity]] whose [[domain]] is [[Psychospace]], the future, and potentiality, representing all [[Figment|figments]], is the patron god especially of [[Eidolon|eidolons]]. 
 

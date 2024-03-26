@@ -7,6 +7,7 @@ aliases:
 tags:
   - anc/figment/elemental
   - magic
+  - has_glossary_entry
 ---
 An **echo**, "**shade**", or "**shadow**", is a general arcane term for memory or remains, specifically of a [[Soul|soul]] or aspect of the world, bound into a fixed shape only by agglomerated [[chaos]] itself. Echoes are tied to physical shadows, as well as concepts of resonance. 
 

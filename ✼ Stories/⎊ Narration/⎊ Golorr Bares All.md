@@ -61,7 +61,7 @@ We are Golorr, [[Aboleth]], beyond gods and men. We have seen four peoples rise 
 >
 >You are to be forewarned that this will likely take a great time…
 
-*[The eyes glow bright white, and the light appears to fill your ever instinct. You suddenly each feel yourselves immersed in the water at your ankles, plunged into an ethereally massive puddle... you emerge in a land of pinks and purples, this great snake-like entity floating before you, an elder force in the universe, shaping the landscape you witness. You realize... you are, or at least perceive, inside psychospace.]*
+*[The eyes glow bright white, and the light appears to fill your ever instinct. You suddenly each feel yourselves immersed in the water at your ankles, plunged into an ethereally massive puddle... you emerge in a land of pinks and purples, this great snake-like entity floating before you, an elder force in the [[universe]], shaping the landscape you witness. You realize... you are, or at least perceive, inside psychospace.]*
 
 *[The scene shifts as rapidly as it was created, and you find yourself standing in the middle of an ancient street on a great body of water at night: with winged people lining the sidewalks on either side of you. The city prior to [[Drastic]]: the Holy Port of Ace. Golorr begins its odyssey...]*
 
@@ -265,7 +265,7 @@ And to this, five-hundred millennia back from today, so it was: two embers from 
 
 ^93d843
 
-[After a moment, nothing dramatic happens: there is no wound. Plesio chuckles, then laughs, then HOWLS with insane laughter... as though he expected more from a final attempt. He rips the crown away, winds the adamantine blade back in a familiar stance, and CHOPS Aso's head off. Light pours from the wound as the scene turns blinding.]
+[After a moment, nothing dramatic happens: there is no wound. Plesio chuckles, then laughs, then HOWLS with insane laughter... as though he expected more from a final attempt. He rips the crown away, winds the adamantine blade back in a [[House Dino#Revenger|familiar stance]], and CHOPS Aso's head off. Light pours from the wound as the scene turns blinding.] ^dbe070
 
 >This conflict was yet another spark to stoke Arahabaki's flame of ambition.
 

@@ -6,6 +6,7 @@ tags:
 issues:
   - incomplete
   - retag
+priority: CONSIDER_DELETION
 ---
 
 A [[anlage]] woman who used to be the queen consort of [[Hadro Dino]], and is mother of [[Velocis Dino]].

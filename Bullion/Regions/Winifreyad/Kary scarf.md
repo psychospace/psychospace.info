@@ -1,5 +1,5 @@
 ---
-tag: item
+tags: item
 ---
 **Kary scarves**, or **Kary tapestries**, are a symbol and tradition of [[Bullion]]. Associated with the [[Institutes of Bullion]], and originating in [[Karyos]] during the [[Bullion Civil War]], the scarf is symbolically created by the accruing of knowledge and memories. It is a symbol especially of [[Fifth Institute]] high-achievers and [[Chirologist|chirologists]]. 
 

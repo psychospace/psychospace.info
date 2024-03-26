@@ -7,6 +7,7 @@ aliases:
 tags:
   - anc/dwarf
   - sapient
+  - has_glossary_entry
 ---
 **Dwarves**, known in their own language as the **t'inha duer**, are a hardy and widespread #sapient race of long-lived, short-heighted folk which have a stone-tough body composition and a general disposition for nature and community. A group of dwarves is known as a **court**. 
 

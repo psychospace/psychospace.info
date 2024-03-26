@@ -1,5 +1,5 @@
 ---
-tag: place/win, city
+tags: place/win, city
 ---
 **Mezcoatl**, the [[Bullion#Miracle City|Miracle City]] of the Whispering Thicket, is a major city which marks the border between [[Protectorate of Winifreyad|Winifreyad]] and the [[River-Lands of Ancestral Ith'Paraan|River-Lands]] in [[Bullion]].
 

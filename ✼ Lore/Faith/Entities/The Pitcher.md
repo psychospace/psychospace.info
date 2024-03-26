@@ -1,6 +1,7 @@
 ---
 tags:
   - being/entity
+  - has_glossary_entry
 description: The Pitcher is a strange entity which was responsible for reviving dozens of people in 1249 PT. Its history is a mystery.
 campaign: "[[⍟ Extra Innings]]"
 status: active

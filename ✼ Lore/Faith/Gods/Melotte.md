@@ -1,6 +1,8 @@
 ---
 tags:
   - being/divine
+  - has_glossary_entry
+word-goal: "550"
 ---
 
 **Melotte** are a conglomerate [[divinity|godform]] comprised of seven Zodiacs, also called the "Silent Seven", the "Pleiades", or the "Divine Constellation". 

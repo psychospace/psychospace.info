@@ -6,6 +6,7 @@ aliases:
   - warlock
 tags:
   - magic/clade
+  - has_glossary_entry
 permalink: witch
 ---
 > [!quote|author] [[Dakota Hazelwick|Graven Witch]] of [[Mezcoatl]]

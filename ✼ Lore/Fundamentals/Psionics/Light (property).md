@@ -1,6 +1,10 @@
 ---
-tag: magic
-alias: Light, Darkness
+tags:
+  - magic
+  - has_glossary_entry
+aliases:
+  - Light
+  - Darkness
 ---
 In magical terminology, "**Light**" is a [[Psychospace|psychospacial]] property which is best described as the "purity" of [[Vibe]], wherever it exists in an area. Its most basic manifestation exists as pure illumination, hence its name.
 
@@ -9,7 +13,7 @@ Positive emotions, like friendship, loyalty, or kindness, improve the light in t
 The [[domain|domain]] of Light is interrelated with [[time]], and the flow of one leads to the flow of another
 
 # Function
-When Vibe is converted into a Material form, such as [[Mana]], or is tapped on for [[Magic|magical]] power, these processes rely on its Light levels. 
+When Vibe is converted into a physical form, such as [[Mana]], or is tapped on for [[Magic|magical]] power, these processes rely on its Light levels. 
 
 Light is what gives most [[Figment|figments]], such as [[Eidolon|eidolons]], their strength, based on the purity of the surrounding area. Powerful Light can be channeled through [[Vitality energy]]. 
 

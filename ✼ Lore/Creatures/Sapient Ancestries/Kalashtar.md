@@ -3,9 +3,11 @@ tags:
   - anc/kalashtar
   - sapient
   - TODO
+  - has_glossary_entry
 issues:
   - incomplete
   - stub
+priority: "!!EXTREME"
 ---
 
 ![[⎋ Needs Expansion]]

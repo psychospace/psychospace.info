@@ -2,6 +2,7 @@
 cssclasses:
   - poem
   - writing
+permalink: story/azure-sky
 ---
 >[!quote | speaker bg-blue] From the [[Xvaka|Xvakan]] [[Apocrypha of Winds]]
 >[[Heartknock|Schools of madness]] listen,<br>

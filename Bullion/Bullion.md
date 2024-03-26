@@ -1,16 +1,20 @@
 ---
-tags: remnant faction/government/shib
-alias: Miracle City
+tags:
+  - remnant
+  - faction/government/shib
+  - has_glossary_entry
+aliases:
+  - Miracle City
 ---
-The [[Remnant|remnant]] known as **Bullion** is a predominant power in modern day, particularly through its ruling body, [[The Shibboleth]]. 
+**Bullion** is a [[remnant]] in the southwestern [[Mer de Vide]], a neighbor to [[Archipel]]. The milieux of cultures, wildlife, and trade networks which pass through Bullion represent a predominant power in modern day, particularly through its ruling body, [[The Shibboleth]]. 
 
-Owing to its history it has a unique affectation of the powers of nature.
+Ecologically, owing to its history, Bullion has a unique affectation of the powers of nature, which make its diverse biomes all the more magical. It earns its name from the term "bullion", a rough Sylvan translation of its words for "refinement" or "melting". This name was given to it by Archipelian settlers, who considered the place a melting pot or pure source of [[elemental energy]].
 
-Its [[Flipside]] is known as [[Tarnation]].
+Its [[flipside]] is known as [[Tarnation]], largely used by the people as a place of exile for irredeemable criminals. Due to a common desire for [[Reclamation (Bullion)|reclamation]], Tarnation is seen as a plane of animosity, and though its cultures are complex and interesting, they are sparse and mired in unknown powers: to most, it is seen as a kind of personalized [[Scarlet Skies|Scarlet Sky]].
 
 # History
 ## First Era
-The first [[Bullion#History|era]] of prehistoric [[Bullion]] took place from the [[Age of the Gods]] to around BPT 300,000. With the close of the [[Old world|last world]], Bullion takes shape as one of many [[Remnant|remnants]]. During this time, it is one of many places where water appears as rain from the sky, and eventually [[Aboleth]] are placed there as tadpoles.
+The first [[Bullion#History|era]] of prehistoric [[Bullion]] took place from the [[Age of the Gods]] to around BPT 300,000. With the close of the [[Old world|last world]], Bullion takes shape as one of many [[Remnant|remnants]]. During this time, it is one of many places where water appears as rain from the sky, and eventually [[aboleth]] may have been placed there as tadpoles.
 
 The rains pool here as [[Divinity|gods]] are born. Eventually, [[Bioh]] is said to take her first steps here, granting the infant remnant with potent seeds of life and bounty. [[Elemental energy]] gathers as [[earth]], [[fire]], [[water]], and [[air]] hold a kind of equilibrium in the place.
 
@@ -25,7 +29,7 @@ The chains placed on [[Elemental energy|elemental chaos]], and the godless animo
 
 During this era, the [[harengon]] society of [[Deepdell]] in the [[Siella Valley]] and the [[Dwarf|dwarvish]] society in [[Holrfold]] first manifest. 
 
-The partial remains of so-called "true chaos" cause the manifestation of [[elder elementals]], which force most life underground and underwater for a time. Around this epoch, a southwestern land bridge from Bullion to Archipel erodes from the influence of the elementals, and is destroyed.
+The partial remains of so-called "true chaos" cause the manifestation of [[Elemental creatures#Elder|elder elementals]], which force most life underground and underwater for a time. Around this epoch, a southwestern land bridge from Bullion to Archipel erodes from the influence of the elementals, and is destroyed.
 
 ## Third Era
 The third era of ancient Bullion began in about 20,000 BPT. Nomadic groups such as those of the [[Upper Kernwelt]] begin to form societies.

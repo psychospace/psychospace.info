@@ -5,6 +5,7 @@ aliases:
   - new magic
 tags:
   - magic/new
+  - has_glossary_entry
 campaign: "[[⍟ Twin Fantasy]]"
 description: New magic is the term given to a roughly-categorical systemic change to the functions of psychospace which fully began to assert themselves after Zero Day in 1251 PT.
 ---
@@ -24,6 +25,11 @@ Derived from indistinct entities or systemic alterations, such as [[The Signal|t
 A propensity for new magic can be born into people. Creations only possible with this less-controlled magic include [[Antique#False antiques|false antiques]] and advanced [[enchantment|enchantments]].
 
 Despite the name, many significantly older studies of magic less clear on form, such as [[witchcraft]], fall under the exact definitions created by new magic. 
+
+## Exnihilation
+One potential result of a [[Reality-Bending|reality-bend]], sometimes characterized as an [[altercation]], is the sudden manifestation of a dangerous object that defies [[logic]], known as **exnihilation**. This term was earned due to generating pure energy and artifice without proper intentions or [[tribute]]. ^a0f54b
+
+![[Broken Arm#^3516c6]]
 # History
 
 Although it had existed as a tangential belief in the arcane community for about a century prior, it wasn't until the end of the [[Dragonic War]] that the public would come to comprehend the depths to the changes in Magic occurring on untold scales. [[Omen|Omens]] of the change were born throughout the world, many without knowing it.
@@ -31,7 +37,7 @@ Although it had existed as a tangential belief in the arcane community for about
 Its origin appears to be undetermined, though many hypotheses exist, such as the [[sky-scrape]] or the [[End Times]].
 
 # Views
-[[Illarion Parasom]] held the belief that the change would bring reality to a breaking point. Some share this view.
+[[Illarion Parasom]] held the belief that the change would bring [[Universe|reality]] to a breaking point. Some share this view.
 
 As its proliferation can be said to threaten the world [[Fulcrum|on a global scale]] (and potentially has provably [[Collapse state|ended it]]), many governments have seen fit to limit its legal uses and sequester the science away, though births exhibiting the abilities of new magic continue to occur regardless of any efforts to contain it.
 

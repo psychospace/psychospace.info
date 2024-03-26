@@ -2,6 +2,7 @@
 aliases:
   - Linnie
   - Linnaeus
+  - Lazuli
 tags:
   - character
 ancestry:
@@ -17,7 +18,7 @@ campaign: "[[⍟ Magical Mystery Tour]]"
 ># Lazuli Mi Invict Dino
 >>[!caption|center]
 >>![[img_lin_cured.png]]
->>Linnie's appearance post-[[Zero Day]].<br>Art by [[✼ World Credits#^21f7bd|cosmic-novas]].
+>>Linnie's appearance post-[[Zero Day]].<br>Art by [[✼ Credits#^21f7bd|cosmic-novas]].
 >#### <small>General Information</small>
 >| | |
 >| --- | --- |
@@ -59,4 +60,4 @@ However, during [[Zero Day]], the spirit of Arahabaki which had awakened within 
 ## Post-Zero Day
 Following their rescue, the only company Linnie seemed to keep consistently was [[Star of the North]], an adventurer with whom had fostered a mutual interest.
 
-Three months after Zero Day, a deeply-changed and reflective Lazuli invited the remaining S4 over to a quiet part of the castle [[Linnie's words of thanks|for a pie and words of gratitude]], as well as speaking more freely about questioning their gender in general.
+Three months after Zero Day, a deeply-changed and reflective Lazuli calls the S4 [[⎊ Cherry Pie|for a pie and words of gratitude]], as well as speaking more freely about questioning their gender in general.

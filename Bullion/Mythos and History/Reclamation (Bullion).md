@@ -5,6 +5,8 @@ aliases:
   - reclamation
   - reclaim
   - reclaimed
+tags:
+  - noteworthy
 ---
 
 In the time of [[Ith'Paraan]] there existed the cultural concept of **reclamation**, a way of allowing criminals and lower-class individuals to accrue some renown through deeds committed in the name of greater goods. 

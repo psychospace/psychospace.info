@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 A **frog**, sometimes called a **toad**, is a small amphibian [[creature]] with four legs, found throughout the Heavens. Many varieties of frog exist, but they are broadly associated with magical [[Transmutation|transmutation]], sickness, [[Elemental energy|elemental water]], and the god [[Eoremu]].
 
 Like [[bird|birds]], there is a general deviation between frogs which nest in [[Cloudscape|cloud]] versus those which dwell on land and [[water]]. The adaptability of frogs is part of the reason it has been able to spread so far, to the point that frogs, though rarely, have been known to [[Weather|rain]] from the sky.

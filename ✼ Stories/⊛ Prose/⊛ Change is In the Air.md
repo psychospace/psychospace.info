@@ -18,7 +18,7 @@ tags:
 >
 >It was the day everyone, no matter their creed or caste, had their lives flashed before them, as the [[Dark Sea]] was torn open. The day when the layers of [[Väräh]] and [[Umbraid]], the planes of metal and wood, reemerged from their unknown hiding places, these mysterious elemental bulwarks against… you don't know what. You wish you didn't have to wonder what. 
 >
->It was the day the [[End Times]] began, if you believe some people. Some call it the Incursion of the Empire, the Unraveling, the Undawn, or the Second Gathering. 
+>It was the day the [[End Times]] began, if you believe some people. Some call it the Incursion of the Empire, the Unraveling, the Undawn, or the Second [[The Gathering|Gathering]]. 
 >
 >But for simplicity's sake, most just call it… [[Zero Day]]. 
 >

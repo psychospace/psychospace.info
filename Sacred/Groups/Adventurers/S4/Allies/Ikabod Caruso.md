@@ -2,8 +2,9 @@
 tags:
   - character
 ancestry:
-  - elf, hidarin
-  - human
+  - "[[Elf#High elves]]"
+  - "[[Human]]"
+  - "[[Elf#Half-elf]]"
 status: alive
 pronouns:
   - he-him
@@ -20,7 +21,7 @@ campaign: "[[⍟ Magical Mystery Tour]]"
 ># Ikabod Laila Caruso
 >>[!caption] 
 >>![[icon_ikabod.png|300]]
->>[[✼ World Credits|(Credits)]]
+>>[[✼ Credits|(Credits)]]
 >#### General Information
 >| | |
 >| --- | --- |

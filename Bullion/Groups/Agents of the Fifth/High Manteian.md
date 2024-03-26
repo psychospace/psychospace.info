@@ -1,5 +1,5 @@
 ---
-alias: Manteian, High Manteian
+aliases: Manteian, High Manteian
 tags: faction/t5i/alect, title
 ---
 The **High Manteians** are graduate enforcers of the [[Fifth Institute|Manteian Conservatory]], each of whom answer to an [[Alect Keeper]]. They are essentially authorities over [[Chirologist|chirologists]], though High Manteians prefer to go where their underclassmen cannot.

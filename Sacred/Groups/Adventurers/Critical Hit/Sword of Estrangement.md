@@ -3,6 +3,7 @@ onenote-created: 2020-11-13 15:11:34 -0500
 onenote-modified: 2020-12-29 22:30:03 -0500
 issues:
   - rewrite
+priority: CONSIDER_DELETION
 ---
 ![[⎋ Needs Rewrite]]
 [[Ridd of Chained-Earth|Ridd]]'s legendary weapon, a long, pale white *odachi* blade with little pale red and blue rocks encircling where the hilt is.

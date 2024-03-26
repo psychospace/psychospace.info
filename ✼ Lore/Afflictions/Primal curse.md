@@ -7,6 +7,7 @@ tags:
   - magic/curse
 issues:
   - stub
+priority: MEDIUM
 ---
 ![[⎋ Needs Expansion|no-link]]
 

@@ -1,6 +1,11 @@
-A **flipside** is the other side, physically, of a [[Remnant]].
+---
+tags:
+  - has_glossary_entry
+---
 
-By normal [[Gravity]], a denizen of one side cannot reach the other side. Certain places on each remnant act as “areas of crossing”, where one can travel to the “opposite side of the coin”: the opposite side of the remnant. These places of crossing, called [[Phantasm|phantasms]], are more prevalent in [[Psychospace]], but can often exist materially under the right conditions.
+A **flipside** is the other side, physically, of a [[remnant]].
+
+By normal [[gravity]], a denizen of one side cannot reach the other side. Certain places on each remnant act as “areas of crossing”, where one can travel to the “opposite side of the coin”: the opposite side of the remnant. These places of crossing, called [[Phantasm|phantasms]], are more prevalent in [[psychospace]], but can often exist materially under the right conditions.
 
 For example, the flipside of [[Bullion]] is [[Tarnation]].
 

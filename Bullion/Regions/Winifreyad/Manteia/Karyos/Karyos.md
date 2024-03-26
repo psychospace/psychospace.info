@@ -1,5 +1,5 @@
 ---
-tag: place
+tags: place
 ---
 **Karyos** is the capital city of [[Protectorate of Winifreyad|the Protectorate]], also called the [[Bullion#Miracle City|Miracle City]] of the Golden Mount. 
 

@@ -1,5 +1,8 @@
 ---
-alias: phantasms
+aliases:
+  - phantasms
+tags:
+  - has_glossary_entry
 ---
 A **phantasm** is a [[Confluence|conflux]] in [[psychospace]] which effects distorted [[gravity]], named because the point is believed to be a "threshold" by the people around that point. This forms either a one-way or two-way point to the [[Flipside|other side]] of a [[remnant]]. These are powerful, well-respected and tended sites, which, given great respect, have strength.
 

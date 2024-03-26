@@ -1,5 +1,7 @@
 ---
-tag: remnant
+tags:
+  - remnant
+  - has_glossary_entry
 ---
 **Yofora**^[Йофора] is a [[Remnant]] which today makes up part of the [[Great Nortian Empire]]. A geographically diverse remnant, it largely is comprised of tundra forests and high mountains. Deep within is [[Uforia]], which was how the remnant was named. 
 

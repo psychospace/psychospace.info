@@ -1,5 +1,7 @@
 ---
-tag: magic/spell
+tags:
+  - magic/spell
+  - has_glossary_entry
 ---
 ***Ikabod's surrogate soul***, named for [[Ikabod Caruso|its creator]], is a [[spell]] which was invented in [[1250 PT]].
 

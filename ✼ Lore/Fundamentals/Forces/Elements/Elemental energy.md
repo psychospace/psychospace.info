@@ -4,6 +4,7 @@ aliases:
   - elemental chaos
 tags:
   - energy
+  - has_glossary_entry
 ---
 **Elemental energy**, sometimes also called **elemental chaos** or *aether force*, is [[Chaos#Chaos energy|chaos energy]], tangible or [[Magic|magical]], that is attuned to and perpetuated by a natural affinity or "element".
 

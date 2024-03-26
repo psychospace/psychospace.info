@@ -1,7 +1,8 @@
 ---
 onenote-created: 2019-12-15 19:41:24 -0500
-
 onenote-modified: 2020-05-23 03:17:50 -0400
+tags:
+  - has_glossary_entry
 ---
 The **Mutagen of Absolute Self** is a most complex psychoactive substance, which causes the user to experience intense sensory hallucinations that put one's self face to face with a manifested [[Logic|Fate]], for the purposes of liberating the inner self from the body: to bring the most true peace to one's [[soul]]. 
 

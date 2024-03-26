@@ -1,6 +1,9 @@
 ---
 onenote-created: 2019-11-29 14:05:00 -0500
 onenote-modified: 2020-01-27 12:32:33 -0500
+tags:
+  - item
+  - has_glossary_entry
 ---
 >[!question|ttl-c bg-c-blue]  Not to be confused with a genuine [[star]].
 

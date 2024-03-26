@@ -10,6 +10,7 @@ tags:
   - being/entity
   - character/unknown
   - magic/new
+  - has_glossary_entry
 campaign: "[[⍟ Twin Fantasy]]"
 ---
 ![[⎋ 2FPG]]
@@ -29,7 +30,7 @@ In what are called "secondary" manifestations, it forms itself as a type of nons
 A certain number of individuals are preternaturally aware of the presence, gaining [[Codec|powers]] beyond imagination by transcoding it, and the term “[[Broadcaster]]” was invented to classify them.
 # Effects
 
-While living creatures process this information in terms they can understand, inanimate objects, including corpses, are altered and often awakened by its existence. This process is called **Signalization**.
+While living creatures process this information in terms they can understand, inanimate objects, including corpses, are altered and often awakened by its existence. This process is called **Signalization**. ^d5cf12
 
 When a leak of the Signal (a “*shimmer*”) is found, its formation possesses such things, turning them mobile and often hostile to life, attacking and coordinating with other Signalized objects. This can reanimate corpses, bring buildings to life, make whole towns uproot, or even mold a body from the earth itself in rare cases.
 
@@ -40,4 +41,4 @@ Detailed by [[Viers Callinan]], in [[616 PT]], when the [[elseworld]] [[616 E-PT
 
 The first modern discovery of the Signal occurred in [[1245 PT]] when [[Amanita Parasom|Amanita]] and [[Octavia Parasom]] completed the *[[Visage of the Fortress]]* ritual, hearing a strange whispering noise emerging on the final layer (which mimicked [[Väräh]]). Though they were able to evade it through using their [[Soul bond|soul bond]], it produced a globule of energy they called a "bubble", which refused to be dispelled and which turned any physical attacks on it back on them.
 
-Later, remnants of the signal were again detected
+%%Later, remnants of the signal were again detected%%

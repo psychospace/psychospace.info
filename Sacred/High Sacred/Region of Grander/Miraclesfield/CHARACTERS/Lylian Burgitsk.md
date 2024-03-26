@@ -1,7 +1,13 @@
 ---
 onenote-created: 2020-03-22 17:51:08 -0400
 onenote-modified: 2022-01-23 16:54:17 -0500
+issues:
+  - epilogue content
+  - rewrite
+priority: MEDIUM
 ---
+![[⎋ Needs Rewrite]]
+
 **Lylian Burgitsk** is a [[Human]] paladin; one of the daughters of [[House Burgitsk]]. She is of the same generation as the current royal officiant [[Mistral Taylor Burgitsk]], but a great deal younger. Despite her bravery, she is only about 23 years old, younger than her half-brother [[Volk Vendleberg|Volk]] by 2 years.
 
 She is a 10th-level crown paladin.

@@ -1,6 +1,11 @@
 ---
-alias: Elvish, Amanese, Manyya
-tag: language
+aliases:
+  - Elvish
+  - Amanese
+  - Manyya
+tags:
+  - language
+  - has_glossary_entry
 ---
 >[!question|ttl-c bg-c-blue]  Not to be confused with "elven", the adjective form of [[Elf|elf]].
 

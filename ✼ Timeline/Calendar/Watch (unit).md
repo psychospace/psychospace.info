@@ -1,6 +1,7 @@
 ---
 tags:
   - unit
+  - has_glossary_entry
 ---
 
 A **watch** is a unit of [[time]], eight of which make up a [[Starfall]].

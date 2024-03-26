@@ -1,1 +1,7 @@
+---
+tags:
+  - airship/class
+  - has_glossary_entry
+---
+
 The [[Umazia|Umazian]] ***Maneater-class*** is a relatively simplistic [[airship]], allowing it to be crewed with only 10 people, initially designed for cost-effective research. However, this simplicity reduces its overall battle durability and limits its use-cases. This means it is capable of continuously traveling, but needs to stop occasionally to restock given its limited cargo space.

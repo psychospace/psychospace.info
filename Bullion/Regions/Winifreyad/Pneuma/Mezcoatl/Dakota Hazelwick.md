@@ -7,8 +7,8 @@ magic:
   - "[[Witchcraft]]"
 status: alive
 ancestry:
-  - beastkin, therian
-  - elf, lodarin
+  - "[[Beastkin]]"
+  - "[[Elf#Wood elves]]"
 pronouns:
   - they-them
 ---

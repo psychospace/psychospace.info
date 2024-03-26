@@ -9,6 +9,7 @@ ancestry:
   - "[[Human]]"
 factions:
   - "[[S4]]"
+priority: "!!EXTREME"
 ---
 
 **Eldral "El" Levin** is a 25-year-old (as of [[1251 PT]]) [[Human]] cleric of [[Cientia]]. He was an original member of the [[S4]].

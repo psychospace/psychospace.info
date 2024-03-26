@@ -1,5 +1,5 @@
 ---
-tag: place/aip
+tags: place/aip
 ---
 **Anacoreta**, the [[Bullion#Miracle City|Miracle City]] of the Court of Hands, is a city in the [[River-Lands of Ancestral Ith'Paraan|River-Lands]], often called her "northern capital". 
 

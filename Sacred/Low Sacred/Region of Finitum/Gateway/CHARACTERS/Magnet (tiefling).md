@@ -5,8 +5,9 @@ onenote-created: 2020-07-28 22:28:35 -0400
 onenote-modified: 2020-08-31 19:21:14 -0400
 issues:
   - rewrite
+priority: CONSIDER_DELETION
 ---
-
+![[⎋ Needs Rewrite]]
 Purple [[Tiefling]] boy, 19, blank white eyes. Black hair, horns seem trimmed. Thin tail. Slightly muscular; in good shape. Wearing an orange and red robe.
 
 He planned to be a bard when he was younger, but ended up a low-ranking [[Victory Starscouts|starscout]] in [[Gateway]] for his strength. Upset with his job and feeling as if the Starscouts were dulling his wit and harming his emotional state, he was eventually abducted by [[Kingdle Fire]]. He was taken from Gateway about 2 months ago, and public records made by the V's report that he vanished within a cave. This is only partially true. 

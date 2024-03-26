@@ -1,5 +1,7 @@
 ---
-tag: remnant/flipside 
+tags:
+  - remnant/flipside
+  - has_glossary_entry
 ---
 **Mount Celestia** is the [[flipside]] of [[High Sacred]], a powerful realm suffused with the influence of many law-aligned [[Divinity|gods]].
 

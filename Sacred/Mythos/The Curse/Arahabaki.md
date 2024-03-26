@@ -5,7 +5,7 @@ aliases:
 tags:
   - character
 ancestry:
-  - dragon, umbral
+  - "[[Dragon#Umbral]]"
 status: unknown
 location:
   - "[[Stygian]]"

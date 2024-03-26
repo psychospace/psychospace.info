@@ -17,15 +17,15 @@ On the Third of [[Augenschein]], [[1250 PT]], the Summit of Sacred was to occur 
 ## Interruptions
 > For a recap of the events as they occurred in game, please refer to [[⎊ Hazel's Arrival]].
 
-Following a chariot race, [[Tyranno Re Ursus]]'s speech inside [[Einon Stadium]] was suddenly overshadowed by the *[[Charybda]]*, a colossal Nortian flagship, setting off alarms at the [[Astral Lighthouse]]. *Captain-Buster* [[Hazel Sobol]] was launched down and announced to the captive audience that their [[Lazuli Dino|prince]] is [[Dragonic Curse|cursed]] and is an accident waiting to happen: that she shall take him for herself and have the empire siege Drastic. Ten of the thirteen [[Nortian Conspiracy|conspirators]] were in attendance, not including the two leaders of [[Heartknock|Heartknock]] and the top controller.
+Following a chariot race, [[Tyranno Re Ursus]]'s speech inside [[Einon Stadium]] was suddenly overshadowed by the *[[Charybda]]*, a colossal Nortian flagship, setting off alarms at the [[Astral Lighthouse]]. *Captain-[[Buster]]* [[Hazel Sobol]] was launched down and announced to the captive audience that their [[Lazuli Dino|prince]] is [[Dragonic Curse|cursed]] and is an accident waiting to happen: that she shall take him for herself and have the empire siege Drastic. Ten of the thirteen [[Nortian Conspiracy|conspirators]] were in attendance, not including the two leaders of [[Heartknock|Heartknock]] and the top controller.
 
-When [[Ildy]] tried to stop her, declaring that he was protecting the prince from this fate, he was killed by a [[Psychobullet]] fired from the deck of the *Charybda*. 
+When [[Ildy]] tried to stop her, declaring that he was protecting the prince from this fate, he was killed by a [[psychobullet]] fired from the deck of the *Charybda*. 
 
 >[!caption|right wsmall]
 >![[icon_lin.png]]
->Linnaeus after transforming. Art by [[✼ World Credits#^39db75|root_circuit]].
+>Linnaeus after transforming. Art by [[✼ Credits#^39db75|root_circuit]].
 
-Assaulted by a [[Moonbeam]], Linnaeus began transforming into a [[Dragonic whillo]], in an event where the red light of his energy could be seen from everywhere in the [[Kingdom of Sacred]], extending out into the sky. Queen [[Velocis Dino|Velocis]], attempting to rescue him, was punted through the wall of the arena as the attack begins. 
+Assaulted by a [[moonbeam]], Linnaeus began transforming into a [[dragonic whillo]], in an event where the red light of his energy could be seen from everywhere in the [[Kingdom of Sacred]], extending out into the sky. Queen [[Velocis Dino|Velocis]], attempting to rescue him, was punted through the wall of the arena as the attack begins. 
 
 ## Survival
 

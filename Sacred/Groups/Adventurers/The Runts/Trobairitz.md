@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - character
 onenote-created: 2019-12-02 17:27:36 -0500
 onenote-modified: 2020-06-06 23:12:21 -0400
 ancestry:
@@ -13,13 +14,14 @@ pronouns:
 issues:
   - rewrite
 campaign: "[[⍟ Magical Mystery Tour]]"
+priority: HIGH
 ---
 >[!infobox | wikipedia right]+
 ># Trobairitz
 >>[!caption] 
 >>![[img_trobicerty.png]]
 >>Pictured left.
->>Art by [[✼ World Credits#^f432ac|tinykitten1708]].
+>>Art by [[✼ Credits#^f432ac|tinykitten1708]].
 
 A genderfluid poet, **Trobairitz** or **Trobi** is a [[Wizardry|wizard]] jackalwere who was once servant to [[Ikabod Caruso]] in [[Rainbow Ridge]] under the name Santo. 
 
@@ -30,7 +32,7 @@ The name "Trobairitz" comes from the old [[Sylvan]] word for "troubadour", or mo
 
 # History
 
-Trobi was once bound by a [[Choker of tuning]] to serve his master unflinchingly with his arrowproof skin. Cursed with deafmuteness from birth, they communicated directly only through contact telepathy and non-verbal language.
+Trobi was once bound by a [[Choker of tuning]] to serve his master unflinchingly with his arrowproof skin. Cursed with deafmuteness from birth, they communicated directly only through [[Telepathy#Contact|contact telepathy]] and non-verbal language.
 
 He was recruited by Ikabod with the promise that the researcher may try and heal his [[curse]], seemingly stemming from a hereditary disease, but Ikabod made little progress in the search for a cure, leading to Trobi's growing frustrations and eventual departure.
 

@@ -6,10 +6,13 @@ aliases:
   - scrolls
 ---
 
-A **scroll** is a [[Spell]] written down on special vellum in arcane ink, in nearly raw [[Psychic code]]. Upon use, it usually burns up as an additional [[Tribute]] cost. Scrolls are often large, and stored carefully in arcane libraries. 
+In [[magic]], a **scroll** is a [[spell]] written down on special vellum in arcane ink, in nearly raw [[psychic code]]. Logistically, it is a type of singular-use [[Infusion|enchanted item]]. Scrolls are invaluable to the study of [[magic]], often large and sprawling, and stored carefully in arcane libraries. 
+
+A scroll can generally be copied into a [[spellbook]], in a user-specific form, when discovered.
+
+# Function
 
 Scrolls often contain more information than just the spell itself, such as necessary groundwork to facilitate copying the spell down. Examples include miscellaneous minor equations, root spells, or research notes.
 
-A scroll allows you access to the knowledge needed to cast a spell, but you must still be able to fulfill every other requirement of that spell. Due to the instability of casting raw code, without fully burdening your mind with the memory of a spell, the scroll will be consumed by the active runes on the page.
+A scroll allows you access to the knowledge needed to cast a spell, but you must still be able to fulfill every other requirement of that spell: in other words, to be effective, a scroll's [[arcane complexity]] must not be beyond the caster's ability. Due to the instability of casting raw code, without burdening your mind with the [[echo|memory]] of a spell, the scroll will be [[Tribute|consumed]] by the active [[Rune|runes]] on the page, as a form of additional cost.
 
-A scroll can generally be copied into a [[spellbook]], in a user-specific form, when discovered.

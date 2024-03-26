@@ -5,10 +5,13 @@ aliases:
   - Varah
 issues:
   - incomplete
+tags:
+  - has_glossary_entry
+priority: FUTURE_PLANS
 ---
 ![[⎋ 2FPG]]
 
-The **Väräh**^[(*VAH-rah*)]^[This page is preferentially titled "Varah" on technical grounds.] is the axiomatic [[Elemental energy|elemental]] **plane of metal**, a cryptic layer of the planar stack, placed in between the [[Scarlet Skies]] and [[The Below]]: fire and earth, its two components. 
+The **Väräh**^[(*VAH-rah*)] is the axiomatic [[Elemental energy|elemental]] **plane of [[metal]]**, a cryptic layer of the planar stack, placed in between the [[Scarlet Skies]] and [[The Below]]: [[fire]] and [[earth]], its two components. 
 
 # Properties
 Like each of the other elemental planes, it has its own inhabitants, and its influence being returned to the realm has produced changes to reality. As a part of [[the Fortress]], it was a component of the [[First City]].

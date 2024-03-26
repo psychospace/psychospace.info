@@ -3,7 +3,7 @@ onenote-created: 2019-11-29 20:56:44 -0500
 onenote-modified: 2020-02-04 17:03:18 -0500
 ---
 
-**Hikawera** (*hee-kah-wear-ah*) is a nonbinary warrior [[triton]] from the outer islands of [[Pinwheel]], presently a [[Witchcraft|witch]] of an entity known as the World Machine. Their home island is known as [[Karma Rock]].
+**Hikawera** (*hee-kah-wear-ah*) is a nonbinary warrior [[Elf#Sea elves|triton]] from the outer islands of [[Pinwheel]], presently a [[Witchcraft|witch]] of an entity known as the World Machine. Their home island is known as [[Karma Rock]].
 
 They are the leader of [[The Runts]], an adventuring party allied with the [[S4]].
 

@@ -1,6 +1,6 @@
 ---
-alias: MICK, Manteian Conservatory, Conservatory of Karyos, Hen House
-tag: faction/t5i, faction/government/win, group
+aliases: MICK, Manteian Conservatory, Conservatory of Karyos, Hen House
+tags: faction/t5i, faction/government/win, group
 ---
 
 The **Manteian Institutional Conservatory of [[Karyos]]**, commonly known as “**the Fifth Institute**”, the Manteian Conservatory, or “*MICK*”, is both a place of learning (and development) and a place which concentrates the authority and collective knowledge of the remnant into a self-defense force. 

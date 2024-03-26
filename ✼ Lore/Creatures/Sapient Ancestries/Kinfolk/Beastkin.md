@@ -4,6 +4,7 @@ aliases:
   - therian
 tags:
   - sapient
+  - has_glossary_entry
 ---
 **Beastkin**, sometimes called **shifters** or **therians**, are a vast yet rare #sapient heritage of [[Kinfolk]] who possess ties to natural energy through their blood and through their [[Fylgja|fylgja]]. The term specifically refers to anybody who is gifted with an animal form, partial or total, which does not conflict with their non-kin humanoid side.
 

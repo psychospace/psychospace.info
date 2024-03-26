@@ -1,6 +1,7 @@
 ---
 tags:
   - magic/type
+  - has_glossary_entry
 aliases:
   - necromancer
 ---

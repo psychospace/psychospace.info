@@ -15,7 +15,7 @@ pronouns:
 **TRUE NAME**, specifically the **12th Polyp of 242, Vigilance**, is a [[Goloma]] psychic, and was a *polyp* of [[TRUE NAME (collective)|TRUE NAME]]. They were known especially for being revived by [[The Pitcher]].
 
 # History
-This body was born into the collective in [[1217 PT]], the twelfth *polyp* that year (hence its name). Gifted with touch telepathy and a natual scavenger, TRUE NAME was happy to again possess use of these abilities. The body met its end at the hands of a monster sometime around early [[1249 PT]].
+This body was born into the collective in [[1217 PT]], the twelfth *polyp* that year (hence its name). Gifted with [[Telepathy#Contact|touch telepathy]] and a natual scavenger, TRUE NAME was happy to again possess use of these abilities. The body met its end at the hands of a monster sometime around early [[1249 PT]].
 
 The body was later revived by the Pitcher during the [[Mass-Resurrection Incident]]. In this, this body was apparently disconnected from the subjectivity of TRUE NAME. This was unprecedented, and subsequently, 12-242 was branded an apostate by TRUE NAME, forcing them out into a world where they had very little connections, and a mind with far too much information for one head.
 

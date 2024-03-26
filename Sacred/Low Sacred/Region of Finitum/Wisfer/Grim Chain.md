@@ -1,0 +1,3 @@
+The **Grim Chain** is one of [[Eight Bridges of Sacred]].
+
+A seemingly abandoned project by ancient celestials. Built to allow their warriors to trek to a holy land foreseen in [[the Beastlands]], this was proven to be a trick, and the bridge, now an ancient stone reminder of their foolishness, was left alone. The proper entrance now sits inside of the [[Curse|cursed]] groves at the very edges of [[Mount Celestia]]'s splendor, and near to the dangers and defilements suffered by the Carapaeans in [[the Beastlands]]. It is overseen by a mysterious ghost, a [[Celestial]] essence that stayed behind to halt progress from the Beastlands to the holy world.

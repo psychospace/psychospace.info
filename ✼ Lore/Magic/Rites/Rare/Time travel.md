@@ -1,13 +1,13 @@
 Often mistaken for a severe manifestation of [[divination]], the ability to **travel through [[time]]** moves one's [[soul]] and [[body]] to an arbitrary point along the [[worldline]]. It is an incredibly rare and transgressive [[magic]] ability to demonstrate and control. 
 
-It is most often a unintentional event caused by [[Altercation|malformed magic]], a reality which indicates that time travel violates the tenets of the [[Divine Equation]]. It is widely considered to be impossible by any normal or safe means to access.
+It is most often a unintentional event caused by [[Altercation|malformed magic]], which indicates that time travel violates the tenets of the [[Divine Equation]]. Thusly, it is widely considered to be impossible by any normal or safe means to access.
 
 Upon [[the Planet]], such a [[Arcane complexity|complex]] and dangerous ability has been purported to be controlled less than twelve times in all known history prior to [[Zero Day]], and all cases have reasons to be conjecture, mere fairy tales, or exaggerations. A "victim" of time travel is known as a [[discrepant]]. 
 
 # Commonalities
 Despite the rarity with which it appears, it is possible to determine several common points in mythos with which one can speculate.
 
-Such an ability is often entangled with extreme propensity for [[teleportation]], and one which holds power over one domain likely holds power over another.
+Such an ability is often entangled with extreme propensity for [[Portal|teleportation]], and one which holds power over one domain likely holds power over another.
 
 Due to [[logic]], three continuously referenced factors emerge, are considerations in events regarding time travel.
 - Self-reference: one can only manipulate events as far back as their own [[epitome]].

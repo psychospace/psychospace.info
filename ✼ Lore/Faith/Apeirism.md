@@ -1,6 +1,7 @@
 ---
 tags:
   - faith
+  - has_glossary_entry
 ---
 
 **Apeirism** (*ah-peer-is-em*) is a religious belief that, put simply, the more gods that are worshipped, the better. This stems from an extrapolation of divine protection: ideally, if more gods are protecting the things and people around you, the more protected you are in a sort of divine safety net.

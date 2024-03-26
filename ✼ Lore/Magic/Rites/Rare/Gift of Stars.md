@@ -1,5 +1,8 @@
 ---
-tag: magic/witch, magic/new
+tags:
+  - magic/witch
+  - magic/new
+  - has_glossary_entry
 ---
 
 ![[⎋ Spoilers - XI]]

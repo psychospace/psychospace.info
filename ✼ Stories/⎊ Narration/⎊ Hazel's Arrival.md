@@ -81,7 +81,7 @@ permalink: narration/hazel
 >Now…. to introductions, of course. You must know the players if you are to play, after all….
 
 ## Into the Abyss
->I am Buster [[Hazel Sobol]]… the *Champion Serena*. I am a knightess of the [[Great Nortian Empire|Empire of Nortia]], champion of [[Yofora]]'s moon and sun, blessed of [[Uforia]], captain of the [[Army of Euphony]], an [[undead]] masterwork of the [[NIMROD|Imperial Research Division]], trusted blade of the Empress, and the beloved of her daughter. Of these titles, I am most proud of the last…
+>I am [[Buster]] [[Hazel Sobol]]… the *Champion Serena*. I am a knightess of the [[Great Nortian Empire|Empire of Nortia]], champion of [[Yofora]]'s moon and sun, blessed of [[Uforia]], captain of the [[Army of Euphony]], an [[undead]] masterwork of the [[NIMROD|Imperial Research Division]], trusted blade of the Empress, and the beloved of her daughter. Of these titles, I am most proud of the last…
 >
 >She is my betrothed, yes… everything I do, I do for [[Serena Nortia|Serena]].
 
@@ -186,7 +186,7 @@ permalink: narration/hazel
 >>An unecessary loss, too. "At every step, he followed orders." I hope your parents put that on his grave.
 
 >>[!quote|author] Linnie
->>"Y-you… didn't… Ildy… [[Exponen]] guide me… oh, *gods*…”]
+>>"Y-you… didn't… Ildy… [[Exponen]] guide me… oh, *gods*…”
 
 [The prince is at a loss for words. He collapses to his knees, in despair. Naturally, being royal, he is gravely connected to the existence of Ildy. You see red lightning starting to emanate from his body, some kind of shuddering energy. Hazel stands back and gives a hearty, manic, insane laugh. Sheathing her sword. Guards begin to rush forward in panic but each are stopped by one of the cloaked figures, who in turn swoop down over the crowd, cut off a hand or foot, and then vanish back to atop the coliseum.]
 
@@ -211,7 +211,7 @@ You have given me a scar I shall savor every day… charged with the emotions of
 
 [The two continue to engage their blades. The crowd cheers and jeers as the footing swings this way and that. But its like Buster hasn't even drawn breath since the fight started. Then, she's caught off-guard by a feint. Then, another one. She's slipping. Her focus is slipping.
 
-[Then, an opening. Her hand was left out of position. Linnie roars in anger, swings, strikes her head horizontally. It spins freely, and she yells in hedonistic pain and pleasure combined. Then, he pulls his stance through, slams his foot down, and stabs her through the middle of the skull. Dinofang arcs with red electricity and the green light dies down. She looks aghast as her jaw falls slack, pink blood oozing from both sides. He pulls her head from unholy fire as it resists, and collapses to the ground, sobbing as he stabs her all the way through the heart. Her body goes limp and collapses to its knees, then falls flat. Linnie pulls Dinofang out of her and he cradles the sword, crying from stress.]
+[Then, an opening. Her hand was left out of position. Linnie roars in anger, swings, strikes her head horizontally. It spins freely, and she yells in hedonistic pain and pleasure combined. Then, he pulls his stance through, slams his foot down, and stabs her through the middle of the skull. Dinofang arcs with red electricity and the green light dies down. She looks aghast as her jaw falls slack, pink blood oozing from both sides. He pulls her head from unholy fire as it resists, and collapses to the ground, sobbing as he stabs her all the way through the heart. Her body goes limp and collapses to its knees, then falls flat. Linnie pulls Dinofang out of her and he cradles the sword, crying from stress.] ^d6d23f
 
 [The flesh of the head fades away, revealing a pink skull. The sound of blood in your ears dies down, and… All seems calm. All that can be heard in the arena, its breath held, is Linnaeus sobbing.]
 
@@ -226,6 +226,8 @@ You have given me a scar I shall savor every day… charged with the emotions of
 >You must've missed the part where I said I couldn't die. WELL, fair mistake. But a fatal one for most.
 >
 >Well? I'm not disappointed. You fight like nothing matters, brat! Serena will love you. Proof that that [[Ikabod Caruso|crochety old mage]]'s papers were right on the money, as expected. You are an aberrant madman, barely a prince in your style. I like it, but my opinion is no matter. Your temper will certainly need refining, wouldn't you say? We can straighten you out, good enough.
+
+^d5d5bc
 
 [The prince's back is cracked again, Hazel's grip tightening. Red blood seeps through his mythril chain shirt, mixing uncomfortably with pink down Hazel's arm, as Lin is lifted with one arm to the sky.]
 
@@ -275,6 +277,8 @@ A loud chime is heard as [[Red Spark|a great red-white light]], like a massive f
 
 >>[!quote|author] [[Lazuli Dino]]
 >*"Mom!! Dad!!….Everyone… You all, I'm so… so very sorry…"*
+
+^3eeacf
 
 >>[!quote|author] [[Hazel Sobol]]
 Sacred… welcome to this grandest of games…

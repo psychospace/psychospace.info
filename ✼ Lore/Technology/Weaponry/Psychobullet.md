@@ -1,6 +1,9 @@
 ---
 onenote-created: 2019-12-01 20:32:35 -0500
 onenote-modified: 2020-06-22 22:53:06 -0400
+tags:
+  - has_glossary_entry
+  - item/weapon
 ---
 The **psychobullet** is a peculiar novel weapon for slaying [[Figment|figments]], effectively the "last word in [[antimagic]]". Put another way, its purpose is to collect [[Echo|psychic data]] when it kills a creature of mental creation. It was originally created by [[Great Nortian Empire|Nortia]] during their control by the [[Nortian Conspiracy]].
 

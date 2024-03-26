@@ -1,5 +1,5 @@
 ---
-tag: airship
+tags: airship
 ---
 ***Wings of Dawn*** is a prototype [[Airship]] which acted as the upgraded form of the *[[Red Diamond]]* and the *[[Sun Chaser]]*, making her maiden voyage as part of the [[S4]]'s final mission to [[Great Nortian Empire|Nortia]] near the end of the [[Dragonic War]], alongside the *[[Full Velocity]]*.
 

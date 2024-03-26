@@ -1,3 +1,9 @@
+---
+tags:
+  - timeline/era
+  - has_glossary_entry
+---
+
 The **Age of Adventurers** is the current[^1] cultural-informal epoch of the [[The Heavens|Heavens]]' greater [[✼ Timeline Hub|history]], specifically originating from the [[Mer de Vide]] in [[1216 PT]].
 
 It began after the advent of [[Critical Hit]], their [[Gravity & Geneses|journey to open]] the [[Vault of Foretelling]], and the subsequent repealing of the [[Ban of Ignoble Conduct]] in the [[Kingdom of Sacred]] and similar pieces of law throughout the [[remnant|remnants]]. The cultural movement began thanks in large part to the spread of the writings of [[Termis Tungol]] by the multinational [[Drumlin Publishing Company]].

@@ -1,13 +1,18 @@
 ---
 tags:
   - plane
+  - has_glossary_entry
 aliases:
   - demiplane
   - realm
   - planes
+  - dimension
+  - dimensions
 permalink: plane
 ---
-A **plane** is defined as a level of existence, envisioned as a state and (more usually) place of being. They act as parts of our world as the building blocks of reality, made distinct from the spaces and states around it by borders known as **thresholds**.
+A **plane** or **dimension** is an ontological level of existence, envisioned as simultaneously a state and place of being. The [[universe]] itself is comprised of multitudes of planes. Each plane is defined by the unique presence and energies which impact it.
+
+Planes act as the building blocks and basic states of reality, made distinct from the spaces and states around it by borders known as **thresholds**.
 
 Planes form the basis of the cosmology of the [[Manifold Seas|manifold universe]]. Spells often fail or struggle to operate if not on the same plane as the intended recipient.
 
@@ -16,14 +21,14 @@ A being is connected to its place of origin by a variety of mechanics: the most 
 # Castes
 There are multiple "castes" of planes, which divide the individual levels of existence. These are each nested within, or at least in relation to, each other.
 
-In general, the higher the plane, the more difficult it is to physically exist there, and the greater the influence one has.
+In general, the higher the plane, the more difficult it is to exist there in accordance with, and the greater the influence one has.
 ## Demiplane
 **Surrealms**, colloquially called **demiplanes**, are the lowest and most basic forms of existence. Sometimes, these "shapes" take the form of [[#realm|realm]]-like planes which have been individualized from within the realms, often physically-bound. These are usually many magnitudes smaller than any higher-derived plane, and the only way to exit them is back into a realm.
 
 For example, the [[Chahi Decade Reserve]] contained a demiplane.
 
 ## Realm
-**Realms**, more specifically the **Material Realms**, are planes whose various thresholds are physically reachable without the need for individual-bound [[Portal|portals]]. All realms form one unbound, continuous and coincident [[Manifold Seas|manifold]] existence, divided by the [[Chartless Sea]].
+**Realms**, more specifically the **Manifold Realms**, are planes whose various thresholds are physically reachable without the need for individual-bound [[Portal|portals]]. All realms form one unbound, continuous and coincident [[Manifold Seas|manifold]] existence, divided by the [[Chartless Sea]].
 
 They are named such for their literal physical coincidence with one another, forming a continuous existence. One can drop from a realm to a [[Plane#Demiplane|demiplane]].
 

@@ -1,5 +1,7 @@
 ---
-tag: being/divine
+tags:
+  - being/divine
+  - has_glossary_entry
 ---
 **Macha, Seven-Hearted Death** was an ancient [[Avatar of Death]] who was widely worshipped in the [[Colossal Ocean]].
 

@@ -5,8 +5,9 @@ issues:
   - retag
   - incomplete
   - stub
+priority: CONSIDER_DELETION
 ---
 
-A gunslinging woman from [[Bullion]] apprenticed by the [[Eyes Everywhere Detective Agency]]. She was aiming to get to the bottom of a conspiracy in [[Waxtown]] related to [[Heartknock]], but in the days before [[Red Spark]], she was kidnapped by a noble house along with the [[S4]].
+**Ruby Reno** was a gunslinging woman from [[Bullion]] apprenticed by the [[Eyes Everywhere Detective Agency]]. 
 
-
+She was aiming to get to the bottom of a conspiracy in [[Waxtown]] related to [[Heartknock]], but in the days before [[Red Spark]], she was kidnapped by a noble house along with the [[S4]].

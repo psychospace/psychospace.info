@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 **Counterspell** is an [[Antimagic|antimagic]] [[spell]] of variable [[arcane complexity]].
 
 With it, a number of pulses are sent through local [[Psychospace|psychospace]] to shut down non-specific [[psychic code]], as it is being [[Compilation|compiled]] by an enemy. The caster of the counterspell must be able to direct the pulses towards the enemy in question. 

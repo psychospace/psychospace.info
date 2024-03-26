@@ -3,6 +3,7 @@ aliases:
   - evoker
 tags:
   - magic/type
+  - has_glossary_entry
 ---
 **Evocation** is the [[Magic]] study of **evokers**, and is one of the eight [[Classical Schools]] of magic, interlinked with [[Enchantment|Enchantment]]. Evocation is the study of the  recitation and translation of the [[Golden Voice]]; in other words, it is the study of the way in which the [[Divine Equation]] was written to bring about and call on aspects of both natural and supernatural worlds arbitrarily, especially aspects of [[Elemental energy|elemental chaos]]. 
 

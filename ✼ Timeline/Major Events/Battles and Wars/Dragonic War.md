@@ -1,10 +1,14 @@
 ---
 tags:
   - timeline/event
+  - has_glossary_entry
 permalink: history/mmt
 campaign: "[[⍟ Magical Mystery Tour]]"
 issues:
   - expand
+  - listenback
+  - epilogue content
+priority: HIGH
 ---
 ![[⎋ Roleplay]]
 The **Dragonic War** was an important war between the [[Kingdom of Sacred]] and the forces of [[Great Nortian Empire|Nortia]] as controlled by the [[Nortian Conspiracy]]. It took place from the very end of [[1250 PT]] on to the early months of [[1251 PT]]. It precipitated, and was motivated by, the threat of [[Zero Day]].

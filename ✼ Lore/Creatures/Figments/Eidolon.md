@@ -1,5 +1,7 @@
 ---
-tag: anc/figment/eidolon
+tags:
+  - anc/figment/eidolon
+  - has_glossary_entry
 ---
 >[!question|ttl-c bg-c-blue]  For "personal eidolons",  see [[origo]].
 

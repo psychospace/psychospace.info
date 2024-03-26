@@ -1,5 +1,13 @@
 ---
-alias: day, days, night, nights, starfalls
+aliases:
+  - day
+  - days
+  - night
+  - nights
+  - starfalls
+tags:
+  - unit
+  - has_glossary_entry
 ---
 A **starfall**, or **day**, is a period of [[time]] which cycles when [[Cien]] descends below the horizon in a particular area of [[the Planet]]. This causes [[Lex|the]] [[Ordo|moons]] to rise in turn and unveil the [[Dark Sea]], leading to **night**, setting the stage for Cien to eventually rise again on the other side of the sky. 
 

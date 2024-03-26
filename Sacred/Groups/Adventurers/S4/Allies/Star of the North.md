@@ -14,6 +14,7 @@ factions:
   - "[[S4]]"
 magic:
   - "[[Benediction]]"
+priority: HIGH
 ---
 ![[⎋ Needs Rewrite]]
 **Star of the North**, or simply "Star", is a [[Catfolk|tabaxi]] paladin of [[Exponen]]. She hails from the tabaxi clan of [[Cule Cliffside]] in [[Archipel]].

@@ -12,7 +12,7 @@
 ># Sky-scrape
 >>[!caption] 
 >>![[img_zeroday_rune.png]]
->>The rune at full strength. Art by [[✼ World Credits#^21f7bd|cosmic_novas]].
+>>The rune at full strength. Art by [[✼ Credits#^21f7bd|cosmic_novas]].
 
 The **sky-scrape** is a [[Rune|rune]] over [[The Planet|the Planet]], resembling a crack or scratch upon the [[Dark Sea]] in the shape of the [[Crest of Conception]]. It was created during [[Zero Day]] in [[1251 PT]], and many believe its thrumming energy is what brought about [[New Magic|new magic]].
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 A **fish** is an aeronautic gill-bearing animal that lacks limbs with digits. Fish are axiomatically drawn to the [[Elemental energy|elemental chaos]] of [[air]] and [[water]]. 
 
 Generally, they are ectothermic, and dwell within the [[Cloudscape|cloudscapes]] of [[The Heavens]]. They are differentiated from [[bird|birds]], who nest on land; fish are abundant in and nest in clouds and other sources of water.

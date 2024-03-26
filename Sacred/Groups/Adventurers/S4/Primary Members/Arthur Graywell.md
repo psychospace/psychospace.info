@@ -22,7 +22,7 @@ permalink: mmt/S4/arthur
 ># Arthur Graywell
 >>[!caption] 
 >>![[icon_art.png]]
->>[[✼ World Credits|(Credits)]]
+>>[[✼ Credits|(Credits)]]
 >#### General Information
 >| | |
 >| --- | --- |

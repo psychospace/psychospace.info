@@ -1,6 +1,13 @@
 ---
-alias: Winifreyad, Winnie, Reyezuela
-tags: faction/government/win, place/win
+aliases:
+  - Winifreyad
+  - Winnie
+  - Reyezuela
+tags:
+  - faction/government/win
+  - place/win
+  - government
+  - has_glossary_entry
 ---
 The **Research Protectorate of Winifreyad** is a relatively wealthy-yet-small state overseen by the Keepers of the [[Fifth Institute]], and in-turn a de facto shared territory of [[The Shibboleth]].
 

@@ -1,5 +1,8 @@
 ---
-alias: purple storm
+aliases:
+  - purple storm
+tags:
+  - has_glossary_entry
 ---
 A **ghost storm**, also known as the **purple storm** or a **[[portal]] storm**, is an aberration in [[Logic]] which exists as a tangible semi-permanent hole in [[Psychospace]]. 
 

@@ -8,10 +8,13 @@ ancestry:
   - evangel
 factions:
   - "[[Carapa Republic]]"
-issues:
-  - incomplete
 campaign: "[[⍟ Magical Mystery Tour]]"
+priority: good
 ---
 
-**Urthr**and **Verthandi** are interrelated [[Evangel|evangels]] who were hidden away within the [[Vault of Foreknowledge]], ordained to form a renewed dynasty of [[Carapa Republic|Carapa]]. There was a third, **Skuld**, but they absconded from the continent before they could be hidden away. Urthr, Verthandi, and Skuld were sisters, each of whom were daughters of the last lord of Carapa, [[Aso ar'Carapa]]. 
+**Urthr** and **Verthandi** are interrelated [[Evangel|evangels]] who were hidden away within the [[Vault of Foreknowledge]], ordained by the [[Carapa Republic#Dios Evangel|Dios Evangel]] to form a renewed dynasty of [[Carapa Republic|Carapa]]. 
+
+There was a third, **Skuld**, but they absconded from the remnant before they could be hidden away. Later, they were known as [[Certain (evangel)|Certain]].
+
+Urthr, Verthandi, and Skuld were sisters, each of whom were daughters of the last lord of Carapa, [[Aso ar'Carapa]]. 
 

@@ -5,9 +5,9 @@ onenote-created: 2020-07-28 23:17:41 -0400
 onenote-modified: 2022-02-06 16:51:48 -0500
 ---
 
-**House Vendleberg** primarily of [[Beastkin|shifters]] and [[Human|humans]], has offered royal executioners to the [[Kingdom of Sacred]] for over 300 years, since the time of [[Stegos Dino]]. It is rumored (by perhaps fools) that their bloodline traces back to the Chosen of Bioh, [[Basil Falknjir|Basil Rhopalis Vatal Falknjir]]. They operate out of [[Castle Xilan]].
+**House Vendleberg** is a noble house of primarily of [[Beastkin|shifters]] and [[Human|humans]], who have served as royal executioners to the [[Kingdom of Sacred]] for over 300 years, since the time of [[Stegos Dino]]. It is rumored (by perhaps fools) that their bloodline traces back to the Chosen of Bioh, [[Basil Falknjir|Basil Rhopalis Vatal Falknjir]]. They operate out of [[Castle Xilan]], and make use of [[House Dino#Revenger|the Dino family's swordschool]].
 
-At some point, the house of Vendleberg entered a strong relationship with [[House Nowatzyk]] of the [[Great Nortian Empire]], due to a criminal who had fled to Sacred in order to escape justice. During the lengthy process of tracking this mastermind down, rumored to be the founder of the [[Spider's Web]], the mighty patriarch [[Puma Vendleberg]] (a best friend and executioner under Edmont and Dakouta) consorted with [[Šablozub Nowatzyk]], Outrider of Yofora and Chief among the Imperial Executor Squadrons (esteemed national monster hunters).
+At some point, the house of Vendleberg entered a strong relationship with [[House Nowatzyk]] of the [[Great Nortian Empire]], due to a criminal who had fled to Sacred in order to escape justice. During the lengthy process of tracking this mastermind down, rumored to be the founder of the [[Spider's Web]], the mighty patriarch [[Puma Vendleberg]] (a best friend and executioner under [[Edmont Dino|Edmont]] and [[Dakouta Dino|Dakouta]]) consorted with [[Šablozub Nowatzyk]], Outrider of Yofora and Chief among the Imperial Executor Squadrons (esteemed national monster hunters).
 
 This pairing led to the training and rising of the status of the two in [[940 PT]]. Yezh, their child, is known to be Volk's relative.
 

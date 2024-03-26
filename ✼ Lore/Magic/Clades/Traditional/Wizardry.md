@@ -3,10 +3,9 @@ aliases:
   - wizard
   - wizards
 permalink: wizard
-issues:
-  - incomplete
 tags:
   - magic/clade
+  - has_glossary_entry
 ---
 >[!quote| author] [[Ikabod Caruso]], esteemed bard-wizard
 >![[⎉ Ikabod Caruso to Balthazar#^86b4a9]]

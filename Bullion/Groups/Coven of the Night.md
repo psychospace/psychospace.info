@@ -16,8 +16,8 @@ While the academies of the world take a more measured approach to understanding 
  The coven is open to all creeds and all genders, but due to its embrace of femininity and a disdain for patriarchal institutions, it tends to attract mostly women and people of undetermined or unfixed gender, such as [[Changeling#Axial changeling|maylings]].
  
  The Coven have been at the forefront of many magical discoveries and rediscoveries throughout its history, though their efforts are rarely credited.
- 
->[!recite]- ![[⎋ NSFW]]
+ ![[⎋ NSFW#^31ef7f]]
+>[!recite|no-i]- REVEAL SECTION
 >
 >The coven is often denigrated as being a "sex cult", as one [[8th century PT|eighth century]] [[Wizardry|wizard]] put it, especially given it's name's [unintentional connotations](https://en.wiktionary.org/wiki/woman_of_the_night). However, the acts of love both sexual and non-sexual they're infamous for, including someone serving as a romantic partner's [[familiar]], are merely something which some members enjoy as a pastime and benefit of the job rather than being anywhere close to the group's *modus operandi*. 
 

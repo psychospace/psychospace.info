@@ -1,5 +1,7 @@
 ---
-tag: being/divine 
+tags:
+  - being/divine
+  - has_glossary_entry
 ---
 **The Unmaker** was an ancient prehistoric deity whose origins are a mystery.
 

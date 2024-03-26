@@ -1,8 +1,13 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 >[!infobox|right txt-c]
 ># Crest of Conception
 >>[!caption] 
 >>![[img_crest.png]]
->>[[✼ World Credits|(Credits)]]
+>>[[✼ Credits|(Credits)]]
 
 The **Crest of Conception** is the [[Shindani]] name for an [[Arckan]] [[rune]] which symbolizes "creation", "birth", "invention", "[[soul]]", and "conception". It resembles a unicursal heart, followed by a tail which ends in a circular shape. 
 

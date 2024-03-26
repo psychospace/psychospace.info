@@ -4,9 +4,11 @@ aliases:
   - The Mortal Puppeteer
 tags:
   - being/divine
+  - has_glossary_entry
 campaign: "[[⍟ Magical Mystery Tour]]"
 issues:
   - rewrite
+priority: HIGH
 ---
 ![[⎊ Golorr Bares All#^72fb73]]
 

@@ -1,5 +1,7 @@
 ---
-tag: being/divine 
+tags:
+  - being/divine
+  - has_glossary_entry
 ---
 The **Cat Lord**, occasionally known as **Bast**, is a fickle deity whose influence is rarely seen but often manifests.
 

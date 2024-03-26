@@ -4,7 +4,7 @@ tags:
 aliases:
   - spells
 ---
-A **spell** is a specific tract of [[Psychic code]] that results in [[Magic]] being cast. The term specifically describes [[Compilation|compiled]] sequences of code. A spell has an [[Arcane complexity|arcane complexity]], and usually has a form of [[Tribute|Tribute]].
+A **spell** is a specific tract of [[psychic code]] that results in [[magic]] being cast. The term specifically describes [[Compilation|compiled]] sequences of code. A spell has an [[Arcane complexity|arcane complexity]], and usually has a form of [[Tribute|Tribute]].
 
 These sequences, be they miraculous or arcane, are often internalized by casters, who prepare them each day to be used and must re-prepare if a change is desired. 
 

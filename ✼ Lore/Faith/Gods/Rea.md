@@ -1,5 +1,6 @@
 ---
-tag: being/divine
+tags: being/divine
+word-goal: "550"
 ---
 
 **Rea, the Skullmistress, Vanguard of the Departed** was the [[Avatar of Death]] as of the [[Dragonic War]]. Rea had no set gender.

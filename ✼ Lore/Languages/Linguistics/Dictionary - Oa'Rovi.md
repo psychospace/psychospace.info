@@ -2,6 +2,8 @@
 cssclasses:
   - heading-center-lines
   - illusion
+tags:
+  - hubs
 ---
 
 ![[Oa'Rovi]].
@@ -120,6 +122,7 @@ usually /e/
 ### Ath {Aθ}
 [[#A]] + [[#θ]] "progression of energy"
 1. (*poetically*) time
+2. [[Chartless Sea#Chartlessness|Chartlessness]], the raw stuff of the [[universe]]
 
 ### Ar {AR}
 [[#A]] + [[#R]] "progression of matter"
@@ -157,6 +160,13 @@ usually /e/
 [[#O]] + [[#U]] *"definition"*
 1. runic definite case
 > Use of *ou* implies that the meaning of the collective runes should be taken as meaningfully as possible. It is used in compounds when the writer means what they say, speaking without subtext.
+
+### On {ON}
+[[#O]] + [[#N]] "mythic life"
+
+1. hero
+2. figure (historic or mythical)
+3. shape of a soul (especially in [[protean]] lingo)
 
 ## U
 1. power
@@ -262,6 +272,14 @@ associative prefix (as in "name")
 4. a "series of connections"
 
 Modern scholars may Commonize "š" to "g" for academia's sake (as some languages lack /ʃ/)
+
+### Ša / Sha {ŠA}
+[[#Š]] + [[#A]] "series of connected movements"
+
+1. (*[[protean]] lingo*) structural, 
+    1. with form
+    2. temporally locked
+2. [[logic]]
 ## F
 1. “energy”
 2. bolt, jolt, flash
@@ -455,6 +473,11 @@ truncation of [[Infernal]] loanword "orz"
 	1. (*general*) physical fighting style
 2. comet, meteor (an attack from the [[Dark Sea]])
 	1. divine retribution
+### Šaon {ŠA/ON}
+[[#Ša / Sha {ŠA}]] + [[#On {ON}]] "structural figure"
+
+1. [[scion]]
+
 ### Por {PO/Rr}
 [[#Po {PO}]] + [[#R]] "name of matter"
 
@@ -570,3 +593,13 @@ Official name for [[Owohain]], the Black-Iron Holdfast, the "Free City".
 Neologism. Commonized demonym of [[Ith'Paraan]] (in their time, it was Ith'i "individual of the storm")
 ### Rag'Hain {ROGh?-HAIN}
 combines "hain" (city) with Dwarven "roggh" (fierce beast), usually Commonized as "ragbeast / ragebeast". A small nation of Bullion named by the city's founder in celebration of their victorious revolution.
+
+### Šaonathi {ŠaON/Aθ/I}
+>[!metadata| txt-c no-i] [[#Šaon {ŠA/ON}]] + [[#Ath {Aθ}]] + [[#I]] 
+>"[[scion]] people of (the structural) [[chaos]]"
+
+Originally meant people borne of chaotic influence, without specifying its origin. Said to be a term used by a valkyrie preacher recorded by the [[First Magicians]].
+
+Later, changes in linguistics led to {Aθ} being supplanted by [[#Ash /Ag {AŠ}]] and initiating {Š} being replaced with G, creating "*gaonashi*".
+
+*Gaonashi* eventually morphed and descended twice, into [[Mänyya]] as "[[genasi]]" and into [[Shindani]] as "[[ganzi]]". Eventually, these terms were clarified, into those borne of [[Elemental energy|elemental chaos]] and those borne of [[Chartless Sea|Chartless]] chaos, respectively.

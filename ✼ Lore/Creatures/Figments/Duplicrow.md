@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 A humanoid lifeform created by the [[Tower of Electron]], **duplicrows** are harpy-like creatures share more in common with kenku, allowing them to be mimic actions, instead of a kenku's words. They were named "duplicrows" by Old King [[Hadro Dino|Hadro]], who oversaw their initial creation, naming them after their black-purple feathers and hair.
 
 Born from eggs created by magic, hatching in only days, they have winged arms extending out into four fingered hands. The messiness of their creation often leaves them with several defects, unique to each (for example, missing eyes, fragile hair strands, bowed legs, missing hands, etc.)

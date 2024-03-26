@@ -3,6 +3,7 @@ onenote-created: 2020-02-15 13:50:39 -0500
 onenote-modified: 2020-09-02 21:13:33 -0400
 issues:
   - incomplete
+priority: LOW
 ---
 
 **Jens "Jenks" Lamar** is a trickster dark-skinned [[Human]] man of 28, who uses a wand that can turn into a dagger. A member of the [[Adinah Ilacqua|Windriders]]. Has an owlbear cublet familiar named Chouette. Shy around strangers. Making new friends, however, is an important event to him.

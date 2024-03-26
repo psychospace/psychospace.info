@@ -3,6 +3,7 @@ aliases:
   - Sacred
 tags:
   - government
+  - has_glossary_entry
 factions:
   - "[[Victory Starscouts]]"
   - "[[Sacred Royal Ultra]]"
@@ -11,7 +12,7 @@ factions:
 ---
 The **Kingdom of Sacred**, also known as the **Dino Royal Lands**, are the authority controlling the twinned [[Remnant|remnants]] of [[High Sacred]] and [[Low Sacred]]. It is ruled by a [[House Dino|monarchy]] and a council of dukes, and its capital city is in [[Drastic]]. Its symbol is a [[Star|five-pointed star]].
 
-The twin remnants of Sacred are reflected in its people, deliciously diverse yet decidedly unsure of one another. Since the two are bridged by [[The Eight Bridges]], three of which are on the flipside, not many people from High Sacred ever see what Low Sacred has to offer.
+The twin remnants of Sacred are reflected in its people, deliciously diverse yet decidedly unsure of one another. Since the two are bridged by only the [[Eight Bridges of Sacred]], three of which are on the flipside, not many people from High Sacred ever see what Low Sacred has to offer.
 
 The military of the Kingdom is known as the [[Sacred Dragoon Force]]. Its policing force is the [[Victory Starscouts]].
 

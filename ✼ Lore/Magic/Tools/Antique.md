@@ -1,8 +1,11 @@
 ---
-tag: magic/new
-alias: artifact
+tags:
+  - magic/new
+  - has_glossary_entry
+aliases:
+  - artifact
 ---
-In the context of [[Magic|magic]], an **antique** or **artifact** is a special type of magical item or [[creature]] that has had a prolonged [[Epitome|existence-span]] or has been particularly venerated when a severe moment in history arises, and has gained or accrued additional magical properties as a result. 
+In the context of [[Magic|magic]], an **antique** or **artifact** is a special type of [[Infusion|magical item]] or [[creature]] that has had a prolonged [[Epitome|existence-span]] or has been particularly venerated when a severe moment in history arises, and has gained or accrued additional magical properties as a result. 
 
 In [[Draconic]], the concept is called a **tsukumogami** (lit. "tool *kami*"), and is described as item which has acquired a spirit through veneration and preservation. Usually, this effect occurs over the course of about a century. The most powerful antiques are usually also [[Lynchpin Device|lynchpin devices]].
 

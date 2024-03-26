@@ -1,6 +1,7 @@
 ---
 tags:
   - magic
+  - has_glossary_entry
 aliases:
   - fate
   - chance
@@ -18,7 +19,8 @@ Logic concerning [[time travel]] is highly enforced by self-consistency, and all
 Logic is often called the base element of the [[Divine Equation]], and breaching it or invalidating prior steps in it can cause severe [[Curse|curses]] to come about. 
 
 # Guidance of logic
-Logic can be manipulated under certain conditions.
+
+Logic can be manipulated under certain conditions, or due to certain extenuating factors.
 
 Those who can consciously or unconsciously guide logic will find themselves with an inordinate amount of luck. Those who are aware of their binds to the grand motivator (and who can exploit it to their advantage) will consistently find themselves prepared for ongoing events and the tendency of the world, though logic does not necessarily impact the future. 
 

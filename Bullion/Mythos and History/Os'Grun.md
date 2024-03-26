@@ -1,6 +1,11 @@
 ---
-alias: the Wandering Fist, Os'grun
-tag: timeline/event
+aliases:
+  - the Wandering Fist
+  - Os'grun
+tags:
+  - timeline/event
+  - noteworthy
+  - has_glossary_entry
 ---
 The **Os'Grun** was a meteorite which caused an epochal impact event on [[Bullion]] in [[BPT 12147]]. It was said to be the [[Divinity|divine]]'s answer to [[Amakudari-no-Mikoto|Amakudari]]'s actions.
 

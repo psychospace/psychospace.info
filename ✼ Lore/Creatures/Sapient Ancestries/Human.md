@@ -2,6 +2,7 @@
 tags:
   - anc/human
   - sapient
+  - has_glossary_entry
 aliases:
   - humans
 ---

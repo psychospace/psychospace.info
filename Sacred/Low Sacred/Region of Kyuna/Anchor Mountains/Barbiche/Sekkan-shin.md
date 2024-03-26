@@ -12,6 +12,7 @@ ancestry:
 status: alive
 pronouns:
   - he-him
+priority: "!!EXTREME"
 ---
 **Sekkan-shin** (雪冠神) is a mighty ancient silver [[dragon|dragon]] who lives atop [[Snowcrown Mountain]], which is named for him. His blood has been passed down over and over by the Champion of [[Barbiche]].
 

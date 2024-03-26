@@ -1,5 +1,5 @@
 ---
-tag: place/aip, city
+tags: place/aip, city
 ---
 **Arnecca** is a major city at the foot of [[Mount Sokron]], and the historical founding capitol of the [[River-Lands of Ancestral Ith'Paraan|River-Lands]]. As one of the territory's largest cities, it has come to be viewed as one of the most vibrant and opportunity-rich places on the remnant, next to its sister-city [[Eleyda]].
 

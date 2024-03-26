@@ -1,8 +1,9 @@
 ---
 tags:
   - remnant
+  - has_glossary_entry
 ---
-*See also: [[Map of Sacred]].*
+>[!question|bg-c-blue ttl-c] *See also: [[Map of Sacred]].*
 
 **Low Sacred** is a [[Remnant]], technically one half of a single remnant shattered by the [[Breaking of Sacred]]. Its [[Flipside]] is [[the Beastlands]]. Its counterpart is [[High Sacred]].
 

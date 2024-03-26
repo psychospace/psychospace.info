@@ -1,5 +1,5 @@
 ---
-tag: character
+tags: character
 ---
 The **Witch-King**, real name **Roman Mira**, was a high-profile [[Elf|elven]] criminal [[Witchcraft|warlock]] in [[Bullion]], a major kingpin. 
 

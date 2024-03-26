@@ -1,5 +1,5 @@
 ---
-tag: character/dead, caster/witch
+tags: character/dead, caster/witch
 ---
 Maedil Rysae was a powerful [[Enchantment|enchantress]] who was once wife to [[Ithuriel Rysae|Ithuriel]]. Her works are now worshipped as national treasures, and she has become revered as a [[Divinity|divine]] motherly icon, the [[Witchcraft|Witch]] of the Cosmos: and her brother [[Aedil Rysae|Aedil]], the Witch of the Skies. 
 

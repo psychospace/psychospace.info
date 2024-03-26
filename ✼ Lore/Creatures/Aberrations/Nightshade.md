@@ -3,6 +3,7 @@ contributors:
   - Pancake
 tags:
   - aberration
+  - has_glossary_entry
 aliases:
   - nightshades
   - darvakka

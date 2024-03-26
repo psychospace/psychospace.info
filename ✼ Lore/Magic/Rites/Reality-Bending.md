@@ -1,6 +1,6 @@
 ---
-alias: Reality-bender, reality-bender, reality-bending, reality-bends, reality-benders, Reality-benders, Reality-bends
-tag: magic/new, magic/type
+aliases: Reality-bender, reality-bender, reality-bending, reality-bends, reality-benders, Reality-benders, Reality-bends
+tags: magic/new, magic/type
 ---
 ![[⎋ 2FPG]]
 **Reality-bending**, or **reality-alteration,** is a generic term for an arbitrary, low-dependence change made to [[Universe|reality]]'s present [[context|context]]: often in a localized, immediate-effect manner, but sometimes in a [[Curse|curse]]-like, impermanent manner. The term is used prominently in the context of “[[New Magic]]”.

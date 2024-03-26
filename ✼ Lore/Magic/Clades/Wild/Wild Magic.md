@@ -1,5 +1,7 @@
 ---
-tag: magic/new
+tags:
+  - magic/new
+  - has_glossary_entry
 ---
 
 **Wild magic** defies physical explanation much more erratically than standard magic. When [[Magic]] overcharges or is abused, or the interaction between source and [[Spell|spell]] is so close that one must draw on the other, that magic is said to go "wild", paying intense [[Tribute|tributes]] for the trouble.  

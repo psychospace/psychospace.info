@@ -1,5 +1,7 @@
 ---
-tag: magic/spell 
+tags:
+  - magic/spell
+  - has_glossary_entry
 ---
 ***Moonbeam*** is a [[spell]] of low-level [[Arcane complexity|complexity]]. 
 

@@ -1,5 +1,5 @@
 ---
-tag: airship
+tags: airship
 ---
 The ***Caged Bird*** was the “[[Airship]]” used by the [[Heartknock]]. It was, in essence, a small, floating laboratory inside a bionically-adjusted and magically-distorted [[kraken]]. It was partly destroyed following the [[Miraclesfield Experiment]], when [[Raxia]] tore it apart. 
 

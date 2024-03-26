@@ -1,6 +1,8 @@
 ---
 aliases:
   - monitors
+tags:
+  - has_glossary_entry
 ---
 
 A **monitor** is a broad term which refers to [[Immortal|immortals]] that field a more neutral gamut of responsibilities than [[Celestial|celestials]] or [[fiend|fiends]].

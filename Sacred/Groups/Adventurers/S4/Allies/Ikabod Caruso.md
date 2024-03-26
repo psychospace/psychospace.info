@@ -2,8 +2,9 @@
 tags:
   - character
 ancestry:
-  - elf, hidarin
-  - human
+  - "[[Elf#High elves]]"
+  - "[[Human]]"
+  - "[[Elf#Half-elf]]"
 status: alive
 pronouns:
   - he-him

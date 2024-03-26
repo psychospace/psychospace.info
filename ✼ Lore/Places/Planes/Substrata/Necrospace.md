@@ -1,5 +1,8 @@
 ---
-tag: plane
+tags:
+  - plane
+  - has_glossary_entry
+priority: MEDIUM
 ---
 
 **Necrospace** is the [[elseworld]] equivalent to [[Psychospace|psychospace]]: rather, what's left of it after the [[TPK]] which produced the mirror-world's current state of affairs. 

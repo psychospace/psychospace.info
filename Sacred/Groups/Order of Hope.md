@@ -3,6 +3,8 @@ tags:
   - faction
 issues:
   - expand
+  - epilogue content
+priority: "!!EXTREME"
 ---
 ![[⎋ Needs Expansion]]
 The **Order of Hope**^[Orden Nadezhdy (Орден Надежды)] is an intergovernmental organization and treaty, based in [[Dom Otdykha|Dom Novogo Mira]], founded to set [laws of war](https://en.wikipedia.org/wiki/Law_of_war), share in the ideals and technologies of peace, enforce and sentence international crime, and share in diplomatic support. 

@@ -1,5 +1,5 @@
 ---
-tag: being/divine
+tags: being/divine
 ---
 **Seiu**^[晴雨], ***the Living Will***^[生きる願い, sometimes "the Living Wish" 生ける願い, probably due to regional differences in dialect.], is the creator being and deity of [[Kitsune]] who is patron to agriculture and crafting. 
 

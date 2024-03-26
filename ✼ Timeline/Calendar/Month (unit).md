@@ -1,6 +1,7 @@
 ---
 tags:
   - unit
+  - has_glossary_entry
 ---
 
 In [[Pinwheel Tempo]], a **month** or a **moon** is a period of thirty [[Starfall|starfalls]]. These are generally aligned with the cycles of the [[Lex|twin]] [[Ordo|moons]]. Each [[Year (unit)|year]] is comprised of twelve months, followed by [[Augenschein]].

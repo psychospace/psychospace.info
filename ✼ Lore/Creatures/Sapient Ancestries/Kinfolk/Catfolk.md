@@ -5,6 +5,7 @@ tags:
 issues:
   - stub
   - incomplete
+priority: "!!EXTREME"
 ---
 ![[⎋ Needs Expansion]]
 **Catfolk**, also called **tabaxi**, are a furry #sapient [[Kinfolk|kin]] who tend towards free expression and clan structure.

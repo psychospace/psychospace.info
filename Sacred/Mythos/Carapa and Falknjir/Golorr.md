@@ -4,7 +4,7 @@ aliases:
 tags:
   - character
 ancestry:
-  - aboleth
+  - "[[Aboleth]]"
 status: alive
 campaign: "[[⍟ Magical Mystery Tour]]"
 ---

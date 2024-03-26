@@ -6,6 +6,8 @@ onenote-modified: 2021-01-31 20:02:48 -0500
 campaign: "[[⍟ Magical Mystery Tour]]"
 issues:
   - incomplete
+  - epilogue content
+priority: HIGH
 ---
 ![[⎋ Needs Expansion| clean]]
 **Elain Valaransia** was a sorcereress wood [[Elf]] allied with the [[Nortian Conspiracy|Conspiracy]], and member of [[Special Task Force Undergarden|STFU]]. 

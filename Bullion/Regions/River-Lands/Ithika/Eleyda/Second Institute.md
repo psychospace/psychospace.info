@@ -1,6 +1,6 @@
 ---
-alias: Second Institute
-tag: place/aip
+aliases: Second Institute
+tags: place/aip
 ---
 The **Ponderosa-Sommers University of the Ithika Valley**, shortened affectionately to "*PoSo*", also known as the **Second Institute of [[Bullion]]**, is an [[Eleyda|Eleydan]] educational institution funded by the [[Luminaria]]. It is an important, historical university in the history of the [[River-Lands of Ancestral Ith'Paraan|River-Lands]], coming into being around the [[3rd century PT]]. 
 

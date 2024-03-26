@@ -1,4 +1,6 @@
 ---
+tags:
+  - has_glossary_entry
 ---
 ![[⎋ 2FPG]]
 An **omen**, **omen child**, or **omen prodigy** is a class of usually sapient [[Creature|creatures]] born in the years surrounding [[Zero Day]]. An omen is set aside from its peers by its impeccable (and often inconvenient) genetic [[Magic|magic]], powers, or traits, far and away above other examples of their kind. 

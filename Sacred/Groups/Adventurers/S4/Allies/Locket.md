@@ -5,6 +5,8 @@ tags:
   - anc/figment/visitant
 issues:
   - incomplete
+  - epilogue content
+priority: HIGH
 ---
 **Locket** is a [[Visitant]] of [[Lazuli Dino]], created by [[Ikabod Caruso]].
 

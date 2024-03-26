@@ -4,6 +4,7 @@ onenote-modified: 2020-02-28 19:44:43 -0500
 issues:
   - stub
   - incomplete
+priority: CONSIDER_DELETION
 ---
 ![[⎋ Needs Expansion]]
 Clan leader of [[Clan Whiskerwood]].

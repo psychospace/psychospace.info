@@ -1,6 +1,7 @@
 ---
 tags:
   - timeline
+  - has_glossary_entry
 permalink: history/pre
 ---
 The **old world** refers to a prehistoric world which existed prior to the pervasiveness of [[Psychospace]], before the existence of [[Remnant|remnants]], and before the rise of the [[Divinity|gods]]. The **new world** is the epoch which followed, beginning sometime around the year BPT 1,000,000.

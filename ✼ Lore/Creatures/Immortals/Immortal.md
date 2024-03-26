@@ -1,6 +1,8 @@
 ---
 aliases:
   - immortals
+tags:
+  - has_glossary_entry
 ---
 
 An **immortal** [[Creature|creature]] is one which is exempt from the permanence of [[Death|death]], as opposed to mortal creatures. Immortals have [[Domain|domains]] which bind them to specific aspects of nature, instead of to a [[Soul|soul]].

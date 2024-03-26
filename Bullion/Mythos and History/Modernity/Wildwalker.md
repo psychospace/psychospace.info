@@ -1,6 +1,6 @@
 ---
-tag: title
-alias: huaso, huasa, gaucho
+tags: title
+aliases: huaso, huasa, gaucho
 ---
 The **wildwalker** is a traditional mercenary archetype, originating in [[Bullion]] but spread out to the world at large. Also known as the *gaucho/a*, *huaso/a*, or "cowboy/girl", wildwalkers are associated with both heroes and villains, but are most well known for their skill with a horse, a bow, and a blade, as well as a remarkable panache and an unassailable style. 
 

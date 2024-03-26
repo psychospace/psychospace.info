@@ -1,6 +1,7 @@
 ---
 tags:
   - magic
+  - has_glossary_entry
 ---
 
 >[!quote | author] The [[Dakota Hazelwick|Graven Witch]]

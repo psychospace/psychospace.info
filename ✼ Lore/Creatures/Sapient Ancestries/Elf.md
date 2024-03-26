@@ -58,6 +58,7 @@ Humans accept half-elves with some precaution, the same way a person would treat
 Half-elves usually inherit something of the abilities or traits, such as their intersexuality, of their elven half, although the degree to which it manifests varies from person to person.
 
 ## Half-elf sub-ancestries
+![[⎋ Needs Rewrite]]
 Each elven subrace inherits unique traits, and a half-elf manifests some of these traits based on the origin of their elven blood.
 
 -   High elves have third eyes or extra fingers and have enhanced “eagle vision”, some have insane flexibility

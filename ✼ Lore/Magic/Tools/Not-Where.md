@@ -3,8 +3,8 @@ aliases:
   - not-wheres
 tags:
   - magic/witch
-issues:
-  - incomplete
+  - has_glossary_entry
+priority: good
 ---
 ![[⎋ 2FPG]]
 A **not-where** is a colloquial [[Witchcraft|witching]] term for a substantially large [[The Fortress|Barrow]] pocket, a [[Plane#Demiplane|demiplane]] shaped for a particular purpose. 

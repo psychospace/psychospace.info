@@ -1,6 +1,9 @@
 ---
-alias: Eriva
-tag: being/divine
+aliases:
+  - Eriva
+tags:
+  - being/divine
+  - has_glossary_entry
 word-goal: "550"
 ---
 

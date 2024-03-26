@@ -3,7 +3,7 @@ tags:
   - character
 campaign: "[[⍟ Magical Mystery Tour]]"
 ancestry:
-  - kalashtar
+  - "[[Kalashtar]]"
 status: dead
 pronouns:
   - he-him

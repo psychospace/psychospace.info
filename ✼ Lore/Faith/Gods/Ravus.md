@@ -1,5 +1,5 @@
 ---
-tag: being/divine
+tags: being/divine
 word-goal: "550"
 ---
 **Ravus**, also known as the **night mother** or the **Midnight Scouring**, is the mother [[Divinity|deity]] of [[Elf#Drow|drow]] and custodian of the night, and in particular the overseer of the [[Dark Sea]], an important protective barrier for the pantheon. It also apparently oversees the [[Elseworld|elseworld]].

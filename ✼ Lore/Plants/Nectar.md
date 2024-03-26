@@ -1,5 +1,7 @@
 ---
-tag: item
+tags:
+  - item
+  - has_glossary_entry
 ---
 **Nectar** is the street-name for a drug made from the petals of a [[mawflower]], a carnivorous plant, which is used for alchemical or therapeutic purposes. 
 

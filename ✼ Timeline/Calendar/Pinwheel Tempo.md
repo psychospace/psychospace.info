@@ -1,5 +1,8 @@
 ---
-tag: timeline, meta
+tags:
+  - timeline
+  - meta
+  - has_glossary_entry
 ---
 **Pinwheel Tempo**, or **PT**, is the calendar standard in [[The Heavens]], invented in [[Pinwheel]]. Most people follow its calendar to determine [[Time|temporal]] alignment. It began in [[0 PT]].
 

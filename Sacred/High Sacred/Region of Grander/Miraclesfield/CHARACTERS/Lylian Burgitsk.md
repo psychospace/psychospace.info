@@ -3,6 +3,8 @@ onenote-created: 2020-03-22 17:51:08 -0400
 onenote-modified: 2022-01-23 16:54:17 -0500
 issues:
   - epilogue content
+  - rewrite
+priority: MEDIUM
 ---
 ![[⎋ Needs Rewrite]]
 

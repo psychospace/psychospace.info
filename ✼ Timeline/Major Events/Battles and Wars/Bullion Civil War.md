@@ -5,6 +5,7 @@ tags:
 permalink: history/bullion-war
 issues:
   - incomplete
+priority: "!!EXTREME"
 ---
 ![[⎋ Needs Expansion]]
 In [[1038 PT]], [[Emirate of Qaulhain|Qaulhain]] and the [[River-Lands of Ancestral Ith'Paraan|River-Lands]] went to war.

@@ -7,6 +7,7 @@ issues:
   - incomplete
 tags:
   - has_glossary_entry
+priority: FUTURE_PLANS
 ---
 ![[⎋ 2FPG]]
 

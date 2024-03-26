@@ -5,6 +5,7 @@ onenote-created: 2020-07-28 22:28:35 -0400
 onenote-modified: 2020-08-31 19:21:14 -0400
 issues:
   - rewrite
+priority: CONSIDER_DELETION
 ---
 ![[⎋ Needs Rewrite]]
 Purple [[Tiefling]] boy, 19, blank white eyes. Black hair, horns seem trimmed. Thin tail. Slightly muscular; in good shape. Wearing an orange and red robe.

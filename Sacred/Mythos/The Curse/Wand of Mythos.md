@@ -3,6 +3,7 @@ onenote-created: 2020-03-14 15:53:28 -0400
 onenote-modified: 2022-10-06 15:43:56 -0400
 issues:
   - rewrite
+priority: HIGH
 ---
 ![[⎋ Needs Rewrite]]
 *Wand, very rare, requires attunement by a spellcaster*

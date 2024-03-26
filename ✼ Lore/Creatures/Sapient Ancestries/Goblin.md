@@ -3,6 +3,7 @@ issues:
   - incomplete
 tags:
   - has_glossary_entry
+priority: HIGH
 ---
 ![[⎋ Needs Expansion]]
 

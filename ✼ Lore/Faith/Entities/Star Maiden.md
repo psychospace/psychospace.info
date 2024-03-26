@@ -3,6 +3,7 @@ tags:
   - being/entity
   - being/divine
   - anc/immortal
+  - has_glossary_entry
 campaign: "[[⍟ Twin Fantasy]]"
 contributors:
   - January November

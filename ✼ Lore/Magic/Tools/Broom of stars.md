@@ -5,6 +5,7 @@ issues:
   - incomplete
 tags:
   - has_glossary_entry
+priority: MEDIUM
 ---
 The **broom of stars** is a magical staff invented by [[Werwin Krara]], intended to assist the custodians of the [[Sacred Royal Ultra]]. The intended use of this item is as a disposal tool for magical errors, scattering mistakes to ash.
 

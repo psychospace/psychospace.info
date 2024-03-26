@@ -1,5 +1,5 @@
 ---
-alias: taxes
+aliases: taxes
 ---
 A **tribute**, also called a "tribute cost", is a general term in [[Magic]] which refers to components of [[Spell|spells]] or [[alchemy|potions]] beyond the caster's body or intentions. These must be provided and usually consumed in order to generate a magic effect. 
 

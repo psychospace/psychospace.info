@@ -1,5 +1,5 @@
 ---
-alias: TRUE NAME
+aliases: TRUE NAME
 ---
 **TRUE NAME** is a [[Goloma]] collective mind who lives upon [[Mt. Egiazko]] in the [[Upper Kernwelt]]. 
 # History

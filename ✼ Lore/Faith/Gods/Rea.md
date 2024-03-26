@@ -1,5 +1,5 @@
 ---
-tag: being/divine
+tags: being/divine
 word-goal: "550"
 ---
 

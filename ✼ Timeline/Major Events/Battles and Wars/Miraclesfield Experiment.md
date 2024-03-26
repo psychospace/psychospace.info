@@ -3,6 +3,10 @@ campaign: "[[⍟ Magical Mystery Tour]]"
 permalink: history/mmt/experiment
 issues:
   - incomplete
+  - listenback
+priority: MEDIUM
+tags:
+  - has_glossary_entry
 ---
 %%Issues: need to relisten to the session where this happened%%
 The **Miraclesfield Experiment**, also known as the **Incursion in Miraclesfield**, was a major battle of the [[Dragonic War]] which took place in the city of [[Miraclesfield]] in the [[Kingdom of Sacred]].

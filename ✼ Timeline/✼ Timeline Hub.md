@@ -6,9 +6,7 @@ description: This page acts as a hub for the chronology of the Heavens.
 permalink: history
 cssclasses:
   - list-bullet-color
-article_status:
-  - spellchecked 2-21
-  - good
+priority: good
 ---
 This page acts as a hub for the (in-universe) chronology of [[The Heavens]] and the universe which surrounds it.
 

@@ -27,6 +27,7 @@ enemies:
   - "[[Nortian Conspiracy]]"
 issues:
   - epilogue content
+priority: MEDIUM
 ---
 >[!infobox | wikipedia right]+
 ># Serena Vostok Luszya Nortia

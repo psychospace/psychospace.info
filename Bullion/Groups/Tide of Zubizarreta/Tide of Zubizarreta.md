@@ -1,5 +1,5 @@
 ---
-tag: faction/toz
+tags: faction/toz
 ---
 ![[⎋ 2FPG]]
 A strange criminal faction known only as "**Tide of the Old Bridge**", or the **Tide of Zubizarreta**^[[[Shindani]]: *zoo-BEE-ZAH-reh-tah*] has cropped up in the past three years. 

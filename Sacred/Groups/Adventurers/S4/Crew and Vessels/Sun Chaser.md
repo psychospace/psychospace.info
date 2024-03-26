@@ -1,5 +1,5 @@
 ---
-tag: airship
+tags: airship
 ---
 The ***Sun Chaser*** was an old bluesteel *[[Maneater-class]]* [[airship]] which was captained by [[Chadley Korol]] and his father before him. 
 

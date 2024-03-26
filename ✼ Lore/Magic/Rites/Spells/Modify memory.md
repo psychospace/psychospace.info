@@ -1,5 +1,7 @@
 ---
-tag: magic/spell
+tags:
+  - magic/spell
+  - has_glossary_entry
 ---
 ***Modify memory*** is a [[spell]] of moderate [[arcane complexity|complexity]].
 

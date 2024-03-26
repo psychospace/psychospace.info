@@ -3,8 +3,10 @@ tags:
   - anc/figment/visitant
 issues:
   - retag
+  - epilogue content
 onenote-created: 2020-07-17 16:55:18 -0400
 onenote-modified: 2020-07-17 16:55:38 -0400
+priority: HIGH
 ---
 **Pendant** is a [[Visitant]] of [[Lazuli Dino]], created by [[Ikabod Caruso]].
 

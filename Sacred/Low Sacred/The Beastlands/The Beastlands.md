@@ -1,5 +1,5 @@
 ---
-alias: Beastlands
+aliases: Beastlands
 ---
 **The Beastlands** are the [[Flipside]] of [[Low Sacred]].
 

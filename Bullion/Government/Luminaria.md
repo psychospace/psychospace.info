@@ -1,5 +1,5 @@
 ---
-tag: title, faction/government/aip
+tags: title, faction/government/aip
 ---
 The Lord of the [[River-Lands of Ancestral Ith'Paraan|River-Lands]] is granted the title of **Luminaria**. Almost all of them are formally renamed in honor of [[Ithuriel Rysae|Ithuriel]] upon ascension to the title, and the heir-apparent is allowed to make use of the "Ith" prefix.
 

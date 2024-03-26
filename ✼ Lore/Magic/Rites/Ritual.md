@@ -1,5 +1,5 @@
 ---
-alias: rituals
+aliases: rituals
 ---
 
 **Rituals** are rites of dedication, often religious, undertaken to produce a specific type of outcome. In [[magic]], rituals are a form of highly-[[Arcane complexity|complex]] [[spell]], which consumes a great deal more [[Tribute]], [[Time|Time]], and sometimes talent than others. 

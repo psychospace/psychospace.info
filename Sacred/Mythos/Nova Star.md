@@ -1,9 +1,7 @@
 ---
-tag: item
+tags: item
 onenote-created: 2020-07-28 18:17:35 -0400
-
 onenote-modified: 2020-11-27 16:55:43 -0500
-
 ---
 
 The **Nova Star** is a non-magic badge made of hardwood. 

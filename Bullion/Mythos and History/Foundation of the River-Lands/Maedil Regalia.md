@@ -1,5 +1,5 @@
 ---
-tag: item
+tags: item
 ---
 Part of the [[Luminaria]] ceremonial garb, the **Maedil Regalia** is a cape which can turn into wings of steel feathers. 
 

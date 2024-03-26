@@ -4,9 +4,7 @@ tags:
   - being/entity
   - energy
   - has_glossary_entry
-article_status:
-  - spellchecked 2-21
-  - good
+priority: good
 ---
 **Chaos**^[Notably capitalized when referring to the being.], occasionally known as **the Remembered World**, is a primordial entity, taking the form of a source of energy and endless probability. Chaos is a fundamental piece of the [[logic]] of the [[universe]], originating from the [[Chartless Sea]].
 

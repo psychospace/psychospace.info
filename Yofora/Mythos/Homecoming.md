@@ -1,7 +1,7 @@
 ---
-tag: item
-alias: big gun
-description: 𝘏𝘰𝘮𝘦𝘤𝘰𝘮𝘪𝘯𝘨 is the heirloom firearm of the Nortian imperial line, first wielded by Lady Serena.
+tags: item
+aliases: big gun
+description: "𝘏𝘰𝘮𝘦𝘤𝘰𝘮𝘪𝘯𝘨 is the heirloom firearm of the Nortian imperial line, first wielded by Lady Serena."
 ---
 >[!infobox|wikipedia right ws-med]+
 ># *Homecoming*

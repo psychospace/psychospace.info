@@ -1,6 +1,10 @@
 ---
-tag: magic
-alias: Light, Darkness
+tags:
+  - magic
+  - has_glossary_entry
+aliases:
+  - Light
+  - Darkness
 ---
 In magical terminology, "**Light**" is a [[Psychospace|psychospacial]] property which is best described as the "purity" of [[Vibe]], wherever it exists in an area. Its most basic manifestation exists as pure illumination, hence its name.
 

@@ -1,9 +1,7 @@
 ---
-tag: item/sentient 
+tags: item/sentient
 onenote-created: 2020-03-17 16:46:03 -0400
-
 onenote-modified: 2020-11-27 16:51:35 -0500
-
 ---
 The **Wings of the End** (Крылья Конца) was a companion greatsword to Queen [[Velocis Dino|Velocis]]. It was a sentient greatsword pulled from an island in the [[Colossal Ocean]] along with many [[Wraithsword|wraithswords]] of its kind retrieved during the [[War of the Masters]]. 
 

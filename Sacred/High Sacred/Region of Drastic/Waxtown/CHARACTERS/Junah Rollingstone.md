@@ -3,6 +3,8 @@ onenote-created: 2020-02-09 19:26:56 -0500
 onenote-modified: 2022-02-06 16:52:47 -0500
 issues:
   - incomplete
+  - rewrite
+priority: MEDIUM
 ---
 ![[⎋ Needs Expansion]]
 

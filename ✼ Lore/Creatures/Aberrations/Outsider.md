@@ -3,6 +3,9 @@ aliases:
   - Old Ones
   - Outsiders
   - Old One
+tags:
+  - aberration
+  - has_glossary_entry
 ---
 
 An **Outsider** or **Old One**^[Also sometimes called a **Great One** or **Great Old One**.] is an eldritch influence of the infinity of the [[Out There]]. Told of in [[Ith'Paraan|Ith'Par]] literature, Outsiders are widely held to govern the void regions between [[Manifold Seas|manifold seas]], and are usually not to be trusted.

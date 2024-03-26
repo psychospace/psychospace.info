@@ -1,5 +1,5 @@
 ---
-tag: being/divine
+tags: being/divine
 ---
 **Renthe** is the god of mechanics and physics, child of [[Athemat]] with no known mother. Born to Athemat at the same time [[Calcula]] was born to [[Cientia]], spiritually linking the two. Effectively, Renthe is the "law of nature" and all that bind it.
 

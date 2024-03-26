@@ -5,8 +5,10 @@ aliases:
   - lynchpins
 tags:
   - item
+  - has_glossary_entry
 issues:
   - lynchpin terminology change
+priority: FUTURE_PLANS
 ---
 ![[⎋ 2FPG]]
 A term originally coined by Dr. [[Mujtaba Shahin]], a “**lynchpin device**” is an archetypal and anomalous object, phenomenon, or person who exhibits highly strange and ethereal properties, most of which do not follow expected bounds of the [[Divine Equation]].

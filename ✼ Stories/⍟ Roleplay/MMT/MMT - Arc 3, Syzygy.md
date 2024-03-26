@@ -5,6 +5,7 @@ issues:
 tags:
   - roleplay
 permalink: mmt/arc/3
+priority: HIGH
 ---
 
 ![[⎋ Needs Expansion]]

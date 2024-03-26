@@ -5,6 +5,7 @@ aliases:
   - new magic
 tags:
   - magic/new
+  - has_glossary_entry
 campaign: "[[⍟ Twin Fantasy]]"
 description: New magic is the term given to a roughly-categorical systemic change to the functions of psychospace which fully began to assert themselves after Zero Day in 1251 PT.
 ---

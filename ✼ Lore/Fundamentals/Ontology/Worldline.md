@@ -1,6 +1,8 @@
 ---
 aliases:
   - worldlines
+tags:
+  - has_glossary_entry
 ---
 ![[⎋ 2FPG]]
 In [[Thaumaturgy|thaumaturgical]] studies, a "**worldline**" is the [[Epitome|epitome]] of the very [[The Heavens|Heavens]] themselves. A worldline describes the change of the world through [[time]] *and* space, rather than concerning the timeline of a singular piece of it. 

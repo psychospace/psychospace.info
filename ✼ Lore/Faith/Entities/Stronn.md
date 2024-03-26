@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 **Stronn**, also known as **Straž**^[страж], is a [[star]] in the [[Out There]]. It is the nearest-known star to [[Cien]], and like our star, [[Kibangan]]'s influence occludes it, casting a "shadow" known as [[the Sheer]]. It can be seen from [[the Planet]] at [[Starfall|night]], typically observed as a tiny, bright-blue star. 
 
 Its influence creates the **Dobran-Clyfid [[Manifold Seas|Sea]]**, which may harbor life, though the Heavens lacks the technology to properly observe this star system. 

@@ -7,6 +7,7 @@ aliases:
   - arcane
 tags:
   - magic
+  - has_glossary_entry
 ---
 **Magic**, also called *arcana*, borne of [[Psychospace]], is a broad term covering effects not naturally produced by physics or standard natural laws, requiring purpose, instructions, and duration. At its base level, the study of magic is the will to understand and control the [[Logic]] of the universe through respecting the [[Divine Equation]].
 

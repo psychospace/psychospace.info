@@ -6,14 +6,15 @@ tags:
 permalink: mmt/S4/frances
 campaign: "[[⍟ Magical Mystery Tour]]"
 ancestry:
-  - tiefling
-  - human
+  - "[[Tiefling]]"
+  - "[[Human]]"
 pronouns:
   - she-her
 status: alive
 issues:
   - incomplete
   - rewrite
+priority: "!!EXTREME"
 ---
 ![[⎋ Needs Rewrite]]
 **Frances Jayne** is a [[Tiefling]] actress and bard, who joined the [[S4]] after their return from [[Dom Otdykha]]. She was recruited by [[Hieron Dredge]] to teach the S4 how to lie to protect themselves, specifically the [[Visitant]] [[Lethal]].

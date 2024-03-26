@@ -1,5 +1,5 @@
 ---
-tag: place/aip
+tags: place/aip
 ---
 **Eleyda** is the capital and largest city of the [[River-Lands of Ancestral Ith'Paraan|River-Lands]], also called the "[[Bullion#Miracle City|Miracle City]] of the Brilliant Prism".
 

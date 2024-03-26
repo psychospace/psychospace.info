@@ -1,5 +1,5 @@
 ---
-tag: being/divine
+tags: being/divine
 word-goal: "550"
 ---
 Also called "The Shimmering Justicar", **Prus** is [[Divinity|goddess]] of empowerment, order, and righteousness, as well as presiding over the metallic dragons and being a patron saint of any kings, queens, or rulers of lands.

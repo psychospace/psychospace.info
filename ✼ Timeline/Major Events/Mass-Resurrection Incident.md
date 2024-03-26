@@ -1,6 +1,7 @@
 ---
 tags:
   - timeline/event
+  - has_glossary_entry
 campaign: "[[⍟ Extra Innings]]"
 permalink: history/xi
 ---

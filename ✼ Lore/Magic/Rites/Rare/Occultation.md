@@ -1,6 +1,7 @@
 ---
 tags:
   - magic
+  - has_glossary_entry
 ---
 **Occultation** is an immense mysterious [[Magic|magic]] power sourced of the [[elseworld]], created only when a [[Divinity|god]]'s emotions and grudges linger and metastasize into a [[curse]]. It is said to have first come into existence when [[Arizhmiya]] [[Breaking of Sacred|betrayed the gods]].
 

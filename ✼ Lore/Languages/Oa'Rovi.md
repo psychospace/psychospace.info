@@ -1,6 +1,13 @@
 ---
-alias: Primordial, Auran, Terran, Aquan, Ignan
-tag: language
+aliases:
+  - Primordial
+  - Auran
+  - Terran
+  - Aquan
+  - Ignan
+tags:
+  - language
+  - has_glossary_entry
 ---
 >[!question|ttl-c bg-c-blue] For in-depth details on the language, see [[Dictionary - Oa'Rovi]].
 

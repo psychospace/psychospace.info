@@ -1,5 +1,5 @@
 ---
-tag: remnant/flipside 
+tags: remnant/flipside
 ---
 The [[The Abyss|Abyssal]] layer and [[Flipside]] of [[Yofora]], **Tantalus**, is called the “highest layer” of Enitor. 
 

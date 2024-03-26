@@ -2,6 +2,7 @@
 tags:
   - being/entity
   - character
+  - has_glossary_entry
 status: active
 ---
 **Lavastus** is an [[archfey]] whose domain is that of fortune, creation, and redemption. It is most often attested to by [[Witchcraft|warlocks]]. It has also gone by the names "**Boss**", "**The Stranger**", "**The Author**", or "**The Lost Hunter**". 

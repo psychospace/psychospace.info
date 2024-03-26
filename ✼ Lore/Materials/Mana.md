@@ -1,5 +1,7 @@
 ---
-tag: magic
+tags:
+  - magic
+  - has_glossary_entry
 ---
 >[!question|ttl-c bg-c-blue] Not to be confused with [[Mana (plane)|its namesake]], a plane of existence.
 ---

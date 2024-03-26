@@ -1,6 +1,9 @@
 ---
-alias: Sarcoph
-tag: item
+aliases:
+  - Sarcoph
+tags:
+  - item
+  - has_glossary_entry
 ---
 Pioneered by fringe thanatologists, **Witnesses** or **Sarcophs** are hulking metallic armors, revived forms of ancient [[Wild Magic]] machines which were the manned weapons characteristic of [[Ith'Paraan]]. These use [[rivenium|riven]] [[copper]] wires to coax [[Ghost|ghosts]] into controlling the frame.
  

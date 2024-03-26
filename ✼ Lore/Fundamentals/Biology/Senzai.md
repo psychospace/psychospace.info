@@ -1,5 +1,5 @@
 ---
-alias: I am looking respectfully
+aliases: I am looking respectfully
 ---
 All [[Soul|souls]] have a level of [[psionics|psionic]] perception known as **Senzai**, an ancient word in [[Draconic]] which means “quotient” or “invisible sight”. This allows a character to see things just on the other side of the real, acting as a form of passive arcane understanding that grants sight into [[psychospace]], due to ones knowledge of how it operates.
 

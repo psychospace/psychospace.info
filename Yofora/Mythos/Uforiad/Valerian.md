@@ -1,5 +1,5 @@
 ---
-tag: being/entity, character/dead, p/he-him 
+tags: being/entity, character/dead, p/he-him
 ---
 **Valerian**, later called **Valerian Nortia** and mythologically known as **Valerian Uforia**, was a demigod who was the first [[Great Nortian Empire|Nortian]] emperor (in legend). He was the first material creation of [[Uforia]], and is thus sometimes given the epithet “Eldestborn”. 
 

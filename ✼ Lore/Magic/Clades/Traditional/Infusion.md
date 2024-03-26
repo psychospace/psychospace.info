@@ -3,6 +3,9 @@ aliases:
   - enchanted item
   - magic item
   - magical item
+tags:
+  - magic/type
+  - has_glossary_entry
 ---
 
 In [[magic]], **infusion** is the study of creating **[[Magic|magical]] items**, objects which possess supernatural properties. In scholarly studies, it is a sub-study of the [[Classical Schools|Classical School]] of [[enchantment]], though it is practiced throughout the world within many contexts.

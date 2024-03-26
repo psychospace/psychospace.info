@@ -4,6 +4,7 @@ onenote-modified: 2020-07-23 16:01:16 -0400
 issues:
   - stub
   - incomplete
+priority: CONSIDER_DELETION
 ---
 ![[⎋ Needs Expansion]]
 **Cirus** is the [[Eidolon]] of [[Triptych]].

@@ -8,6 +8,7 @@ tags:
 campaign: "[[⍟ Magical Mystery Tour]]"
 issues:
   - rewrite
+priority: HIGH
 ---
 ![[⎊ Golorr Bares All#^72fb73]]
 

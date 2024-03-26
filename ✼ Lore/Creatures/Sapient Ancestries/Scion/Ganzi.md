@@ -1,6 +1,10 @@
 ---
 tags:
   - sapient/scion
+  - has_glossary_entry
+description: A scion heritage sourcing power from the chaos of the Chartless Sea.
+aliases:
+  - ganzis
 ---
 
 A **ganzi** is a broad designation for a [[creature]] with [[scion|scion]] heritage sourced from the [[Chartless Sea]]. Defined by individuality and independence, like [[Genasi|genasi]] they are born enriched by primordial [[chaos]] in its rawest form.

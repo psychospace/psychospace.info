@@ -3,6 +3,8 @@ aliases:
   - portals
   - warp
   - teleportation
+tags:
+  - has_glossary_entry
 ---
 
 In [[magic|arcane]] terms, a **portal** is a form of artificially-created threshold between [[Plane|planes]], or between two separate locales on the same plane.  Using a portal, one can effect the ability of **teleportation**, transporting themselves without traversing any (or as much) physical space in between.  ^d4d606

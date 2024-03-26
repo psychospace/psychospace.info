@@ -1,8 +1,6 @@
 ---
 onenote-created: 2020-01-06 20:41:33 -0500
 onenote-modified: 2020-01-24 16:08:24 -0500
-issues:
-  - retag
 ---
 The **Otell Sanctum** was a locale inside the [[Rainbow Caverns]] outside [[Rainbow Ridge]]. Ruled by a number of monstrous, misanthropic dark-[[Dwarf|dwarves]], the occupants lorded over machines and ruins of the [[Old world]]. Their base, enshrined in glass and steel, was marked by a sign which read "OTEL L".
 

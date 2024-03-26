@@ -1,6 +1,7 @@
 ---
 tags:
   - faith
+  - has_glossary_entry
 ---
 The **pantheon of Dawndust** is the most widely known group of [[Divinity|divine]] beings in [[The Heavens]] as a whole.
 

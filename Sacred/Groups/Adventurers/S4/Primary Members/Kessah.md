@@ -12,6 +12,7 @@ factions:
 status: alive
 ancestry:
   - "[[Satyr]]"
+priority: HIGH
 ---
 ![[⎋ Needs Rewrite]]
 **Kessah** is a [[satyr]] [[Sorcery|sorcerer]] from [[Barbiche]], the latest in a long line of Champions of [[Sekkan-shin]]. She is a member of the [[S4]] who joined after witnessing [[Red Spark]].

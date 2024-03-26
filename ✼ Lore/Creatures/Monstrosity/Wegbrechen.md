@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 **Wegbrechen**, also well-known as **breakaway** or **waybroken**, are a sort of [[Changeling]] monstrosity. In the process of revolutionizing a changeling into a [[Doppelganger]], waybroken arise when one significantly resists the experience, but developed the same misanthropy, in effect creating a nested self-identity and "double actualizing".
 
 This unlocks a vile transformation where a breakaway can overpower near anybody by breaking the rules of their own body. In short, they become living time bombs, waiting for people to let their guard down, act without thinking, and display to the breakaway that they do not deserve to live. After meeting a breakaway, a person is seldom able to tell the tale of the body that split apart and ate them with dozens of teeth.

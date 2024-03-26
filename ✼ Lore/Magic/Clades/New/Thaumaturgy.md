@@ -5,10 +5,10 @@ aliases:
   - thaumaturgical
 tags:
   - magic/clade
-issues: incomplete
+issues:
+  - incomplete
 permalink: thaum
-SPOILER:
-  - 1-2
+priority: HIGH
 ---
 ![[⎋ 2FPG]]
 ![[⎋ Needs Expansion]]

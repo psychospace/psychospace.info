@@ -8,4 +8,4 @@ priority: MEDIUM
 ---
 ![[⎋ Needs Expansion]]
 
-The city of **Cherryheart** sits at roughly the center of the [[Giant Forest]]. A magnificent city of stones carved with the bare hands of [[giant|giants]], Cherryheart withholds a powerful forest entity known as the [[Father Sakura]]. Its eidolon is [[Nist]].
+The city of **Cherryheart** sits at roughly the center of the [[Giant Forest]]. A magnificent city of stones carved with the bare hands of [[giant|giants]], Cherryheart withholds a powerful forest entity known as the [[Father Sakura]].

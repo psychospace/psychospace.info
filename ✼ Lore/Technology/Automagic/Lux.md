@@ -2,7 +2,6 @@
 tags:
   - energy
   - has_glossary_entry
-  - has_glossary_entry
 ---
 
 **Lux** is a transversal arcane fluid which can give power to many types of machines, created using [[Vibe]]. Its utility, summarized, begins and ends with its ability to affect [[Psychospace|psychospace]] while being outside its origin, allowing it to fuel [[automagic]]. 

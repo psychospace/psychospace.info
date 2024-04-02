@@ -1,3 +1,8 @@
+---
+tags:
+  - character
+---
+
 ![[⎋ 2FPG]]
 "**The Best**" is the known alias of a core member of the [[Single-Brain Cell]]. Also known as "Fast-Talker", he is believed to be an enforcer and [[Broadcaster]] of the central collective. His true identity is unknown to the general public.
 

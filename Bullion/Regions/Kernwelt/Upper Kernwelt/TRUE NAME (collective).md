@@ -1,7 +1,12 @@
 ---
-aliases: TRUE NAME
+aliases:
+  - TRUE NAME
+tags:
+  - character
+ancestry:
+  - "[[Goloma]]"
 ---
-**TRUE NAME** is a [[Goloma]] collective mind who lives upon [[Mt. Egiazko]] in the [[Upper Kernwelt]]. 
+**TRUE NAME** is a [[goloma]] collective mind who lives upon [[Mt. Egiazko]] in the [[Upper Kernwelt]]. 
 # History
 >>[!quote | author mark right] *TRUE NAME*
 >>"I KNEW THAT I WAS WHAT I WAS, I KNEW THAT I COULD BE. I FORGAVE MYSELF, AND I THANKED MYSELF. MY PIETIES HAD PAID OFF. I KNEW THAT THE I LOOKING AT ME WAS ME,  AND THAT THE I STARING BACK WAS ALSO ME. ALL WAS ME. ALL WAS A PART OF ME. <br>MY EYES HAD OPENED, MY SKULLS HAD OPENED, ALL STARING INWARDS, AT ME. I HAD KNOWN OUR INSIDES. I WAS THE ONE, THE ME THAT IS ONE. THE WORLD THAT IS ONE. AND I KNEW THAT THIS WAS WHAT IT MEANT TO PROTECT MYSELF. <br>THIS WAS THE MEANING BEHIND MY INSIGHTS. [[Calamity of the Eyes|WHAT THE MONSTERS WANTED TO TEAR FROM ME.]] I KNEW THEN THE GREATNESS OF MY EXISTENCES."

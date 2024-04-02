@@ -1,6 +1,7 @@
 ---
 tags:
   - has_glossary_entry
+  - hubs
 cssclasses:
   - notion
   - readable

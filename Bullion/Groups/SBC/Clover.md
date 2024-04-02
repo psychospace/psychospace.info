@@ -1,3 +1,9 @@
+---
+tags:
+  - character
+---
+
+
 ![[⎋ 2FPG]]"**Clover**" is the known alias of the leader of the [[Single-Brain Cell]]. Also known as "Sunny Day" or "Fox", they are a founding member and [[Broadcaster]], apparently the adopted child of [[R. S. Langford]]. Their true identity is unknown to the general public.
 
 According to authorities, Clover is the "director" of the SBC's activities, having orchestrated their plans, guided their members, and escaped or facilitated escape from multiple Shibboleth holding-centers without any trace. 

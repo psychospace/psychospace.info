@@ -4,9 +4,6 @@ contributors:
 tags:
   - item/weapon
   - has_glossary_entry
-tags:
-  - item/weapon
-  - has_glossary_entry
 ---
 The **Model H-1** is a [[Firearm|firearm]] platform developed by [[Great Nortian Empire|Nortia]] based on [[Homecoming]]. After [[Serena Nortia]] fielded the weapon with great success, [[NIMROD]] began developing the new Model H line of marksman rifles. The Model H-1 is the first and currently only weapon in the line. While not standard issue, it is a common gun seen throughout the [[Army of Euphony]] given to those who have proven proficiency in long range accurate shooting.
 

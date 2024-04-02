@@ -1,4 +1,3 @@
----priority: LOW
 ---
 tags:
   - character
@@ -12,6 +11,6 @@ issues:
   - incomplete
 factions:
   - "[[Phalanx]]"
-priority: LOW
+priority: CONSIDER_DELETION
 ---
 **Amicita Ghostwood** is a [[duskwalker]], a reincarnation of a [[Elf#Drow|drow]], who is a blood-huntress and a part of [[Phalanx]]'s cadre. She makes much of the business connections for the group, and is proprietor of their tower. She connects the group with sellers. [[Marius Ghostwood]]'s cousin.

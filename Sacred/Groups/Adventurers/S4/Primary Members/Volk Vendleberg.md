@@ -20,9 +20,8 @@ issues:
   - rewrite
   - expand
 priority: HIGH
-priority: HIGH
 ---
-/![[⎋ R/oleplay]]
+![[⎋ Roleplay]]
 ![[⎋ Needs Rewrite]]
 
 **Volk [[House Vendleberg|Vendleberg]]** is a 23-year old wildhunt [[Beastkin|shifter]], meaning he has an accord with an animal spirit, in this case the wolf, whose blood and soul intermingles with his, passed down by a lycanthrope in his lineage. At a distance, he could be mistaken for a human, but up close would reveal a lot more teeth and hair than the average man. He's of average height (5'6") and weight (175 lbs.) but has defined muscles.

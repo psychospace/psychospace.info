@@ -1,4 +1,3 @@
----priority: MEDIUM
 ---
 onenote-created: 2020-07-28 23:20:20 -0400
 onenote-modified: 2020-07-28 23:21:17 -0400

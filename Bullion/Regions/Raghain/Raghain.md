@@ -1,5 +1,7 @@
 ---
-tags: faction/government/rag, place
+tags:
+  - place
+  - government
 ---
 **Raghain** (*"rag-hen"*), the [[Bullion#Miracle City|Miracle City]] of the World Twice-Dead, is a breakaway state to the south of [[Bullion]] which has more or less made peace with the [[River-Lands of Ancestral Ith'Paraan|River-Lands]] as long as they're allowed to govern themselves.
 

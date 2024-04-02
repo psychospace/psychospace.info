@@ -2,6 +2,7 @@
 tags:
   - place
   - government
+  - has_glossary_entry
 aliases:
   - Owoi
 issues:

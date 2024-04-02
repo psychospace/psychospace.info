@@ -19,9 +19,7 @@ GROUP BY substring(file.name, 0, 2) as Initials
 ```
 %%
 
-This is a **glossary** of terms which appear in the lore of [[the Heavens]].
-
-Please search this page for short, readable descriptions.
+This is a **glossary** of terms which appear in the lore of [[the Heavens]]. Please search this page for short, readable descriptions of each of the terms that appear. The list of terms with glossary entries are tagged with #has_glossary_entry.
 
 ---
 
@@ -710,11 +708,13 @@ Please search this page for short, readable descriptions.
 **[[Out There]]** - Colloquialism for "outer space". Vacuum of matter where [[star|stars]] dwell. There are two states of Out There: [[#^fd5504|manifoldness]] and [[#^11047e|chartlessness]].
 - **[[Outsider]]** - A typical name for a powerful [[Aberration|aberrant]] denizen of chartless space. ^7ccd96
 
+## Ow
+**[[Owohain]]** - Breakaway state in the north of [[Bullion]], also known as the "Free City". 
 # ==[ P ]==
 ## Pa
 **Paladin** - A knight who uses benediction. *See [[#^e5f2b4|Benediction]].*
 
-**Pantheon** - A view of the[[Divinity|divinity]], typically worshipped as a group with shared mythology.
+**Pantheon** - A view of the [[Divinity|divinity]], typically worshipped as a group with shared mythology.
 - **[[Pantheon of Dawndust]]** - The pantheon of [[Dawndust]], the most common in [[the Heavens]].
 
 **Party** - A group of hard-headed individuals working together and exploring outside of a government or faction, seeking adventure or specific goals. Originally a term for a group of [[Elf|elves]]. Brought to light and legality by the [[Age of Adventurers]].
@@ -944,6 +944,8 @@ Please search this page for short, readable descriptions.
 
 # ==[ T ]==
 ## Ta
+**[[Tantalus]]** - [[Flipside]] of [[Yofora]] and rare [[Wild Blue Yonder|WBY]]-bound layer of [[the Abyss]].
+
 **[[Taphrine]]** - Highly-contagious disease which spread rapidly across the [[Mer de Vide]] in the era of [[new magic]], which supposedly propogated it. Causes deep pits and chemical-burn-like injuries as it progresses.
 
 **[[Tarnation]]** - [[Flipside]] of [[Bullion]], a place of strange hostile life. "[[Wildwalker|Cowboy]] hell". Exile there is seen as a death-sentence. ^4e1f85

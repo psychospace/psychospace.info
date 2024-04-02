@@ -70,7 +70,7 @@ This page acts as a hub for the (in-universe) chronology of [[The Heavens]] and 
 	* Most remnants have their most ancient societies at the start of this epoch.
 	* [[Amakudari-no-Mikoto]] is born, able to transcend its lifespan and the universe with mere thought. Delivered a [[Amakudari's phantom|Promise]] that it would abandon either the planet or its ability, it returned to the planet and founded [[Ith'Paraan]], a civilization which constructed [[Void Breaker|void breakers]].[^loa]
 	* [[BPT 12147]] — The [[Os'Grun]] meteor hits [[Bullion]], rending and destroying most magically-dependent technology that existed at the time.
-6. [[BPT ]] to present — **Pinwheel Epoch**. The remnant of [[Pinwheel]] begins counting time.
+6. [[0 PT]] to present — **Pinwheel Epoch**. The remnant of [[Pinwheel]] begins counting time.
 	* [[1st century PT]] — The discovery of the [[Quasidragon|quasidragon]] leads to the rise of [[Airship|airships]].
 	* [[8th century PT]] — The [[Carapa Republic]] falls, and they lay the [[Dragonic Curse]] on the [[Kingdom of Sacred]] which followed.[^golorr]
 	* [[11th century PT]] — An arms race begins with the advent of the [[firearm|firearm]].

@@ -5,6 +5,7 @@ aliases:
   - necrotic
 tags:
   - energy
+  - has_glossary_entry
 ---
 **Void energy**, also called **negative energy** or **necrotic energy**, is a type of [[Magic|magical]] energy which can channel the power of entropy and [[Death]]. It is associated with [[Psychospace|psychospacial]] [[Light (property)#Darkness|Darkness]], which it powerfully channels.
 

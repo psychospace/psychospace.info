@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 **Vibe** is a [[Chaos|chaotic]] ethereal fluid which is the "[[air]]" of [[psychospace]]. Vibe absorbs willpower and intent from nearby [[Plane#realm|physical space]], and then takes on the properties of that willpower, changing itself, a property called [[Light (property)|Light]].
 
 A measurable "ripple" in Vibe produces an [[off-wave]], the patterns of which can form [[Psinomenon|psinomenons]] and [[confluence|confluences]]. Vibe, like air, can support life if breathed.

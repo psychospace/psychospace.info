@@ -4,6 +4,9 @@ aliases:
 tags:
   - has_glossary_entry
 ---
+tags:
+  - has_glossary_entry
+---
 
 Naturally created by the intersection and [[Confluence|conflux]] of all manner of [[Elemental energy|elemental energies]], **weather** is the state of a [[skysea]], describing for the most degree the state of its [[Cloudscape|clouds]] and temperature. Within [[the Heavens]], weather phenomenon occur regularly thanks to the influence of [[The Planet#Planar stack|her various layers]], all of which has a tremendous effect on [[psychospace]], causing and being caused by [[Psinomenon|psinomena]].
 

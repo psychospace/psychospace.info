@@ -1,3 +1,9 @@
+---
+tags:
+  - magic
+  - has_glossary_entry
+---
+
 >[!question|ttl-c bg-c-blue] Not to be confused with [[reincarnation]] or [[necromancy]].
 
 **Resurrection** is a study of [[magic]] which involves the negation or reversal of [[death]]. This restores one's [[epitome]], lengthening it.

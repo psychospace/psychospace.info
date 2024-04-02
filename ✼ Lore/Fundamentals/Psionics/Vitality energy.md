@@ -1,6 +1,7 @@
 ---
 tags:
   - energy
+  - has_glossary_entry
 aliases:
   - positive energy
   - positive

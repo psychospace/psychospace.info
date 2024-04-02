@@ -3,6 +3,7 @@ aliases:
   - Eight-Count
 tags:
   - item/weapon
+  - has_glossary_entry
 ---
 >[!quote|mark] Ad in the [[Tonapoulis Gazette]]
 >If seven's luck fails you today, count on eight to clear the way!

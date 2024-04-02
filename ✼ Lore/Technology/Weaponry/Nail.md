@@ -2,6 +2,7 @@
 tags:
   - item/weapon
   - has_glossary_entry
+  - has_glossary_entry
 aliases:
   - shaped charge
 ---

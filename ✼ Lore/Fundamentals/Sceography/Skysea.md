@@ -1,5 +1,8 @@
 ---
-aliases: ocean
+aliases:
+  - ocean
+tags:
+  - has_glossary_entry
 ---
 A **skysea**, also sometimes called a **sky ocean**, is a significant volume of thinned air in [[The Heavens]]. Skyseas separate the [[Remnant|remnants]] of the world by vast distances, and [[Airship|airships]] are typically constructed to traverse them. Skyseas hold patterns of [[Cloudscape|clouds]], producing [[Weather]].
 

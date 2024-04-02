@@ -1,6 +1,8 @@
 ---
 aliases:
   - reality
+tags:
+  - has_glossary_entry
 ---
 
 >[!question|bg-c-blue ttl-c] This is the astronomical and ontological concept. You might be looking for "[[The Heavens]]" or "[[The Planet]]", the significant pieces of the universe described on this wiki.

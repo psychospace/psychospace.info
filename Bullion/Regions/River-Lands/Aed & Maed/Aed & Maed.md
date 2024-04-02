@@ -1,3 +1,10 @@
+---
+tags:
+  - place
+  - noteworthy
+  - has_glossary_entry
+---
+
 The **Aed & Maed** is a geographic region of [[Bullion]], most of which is occupied by the [[River-Lands of Ancestral Ith'Paraan|River-Lands]]. It constitutes the north-middle of the remnant, where the [[Luminaria]] seats their power in the highlands, flanked on all sides by grassy plains where farms and small townships reign.
 
 This geography was once home to the ancient society of [[Ith'Paraan]], and the modern state lays claim to most of its ruins.

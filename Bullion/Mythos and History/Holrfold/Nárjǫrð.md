@@ -1,9 +1,14 @@
----
+---anc/
+  -
 tags:
   - being/entity
   - anc/figment/elemental/elder
   - character
 issues:
+  - expand
+priority: MEDIUM
+---
+
   - expand
 priority: MEDIUM
 ---

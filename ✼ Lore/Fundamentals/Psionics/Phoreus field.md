@@ -3,6 +3,11 @@ tags:
   - has_glossary_entry
 ---
 
+---
+tags:
+  - has_glossary_entry
+---
+
 In [[psionics]] and [[magic]], a **phoreus field** or simply a **phoreus** is a model of the influences of multiple [[Psinomenon|psinomena]]. Analysis results in a [vector field](https://en.wikipedia.org/wiki/Vector_field) which maps local real-space to [[psychospace]], and describes expected outcomes of fundamental forces like [[logic]], [[chaos]], and [[gravity]]. 
 
 Its name comes from its nature as a "carrier field", describing the rough flow of [[Vibe]] as it interacts with external forces. A phoreus field usually appears in the context of the range or shape of [[Spell|spells]], or the directed-nature of a particular [[confluence]]. 

@@ -1,5 +1,7 @@
 ---
-tags: remnant/hell
+tags:
+  - remnant/hell
+  - has_glossary_entry
 ---
 **Unwri** (*ahn-ree*), also called the **Nexial Cathedral**, is a [[Remnant|Hell]] which acts as the court of the [[Death|dead]] and home of [[Psychopomp|psychopomps]]. Beneath the cosmic spire which marks its center, many listless souls congregate as the bureaucracy of managing the underworld sometimes takes eons to sort out. Only a soul with a *[[Fylgja|fylgja]]* can reach such a place.
 

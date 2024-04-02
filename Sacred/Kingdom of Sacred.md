@@ -1,6 +1,10 @@
 ---
 aliases:
   - Sacred
+  - Sacredite
+  - Sacreder
+  - Sacredites
+  - Sacreders
 tags:
   - government
   - has_glossary_entry
@@ -9,16 +13,21 @@ factions:
   - "[[Sacred Royal Ultra]]"
   - "[[Sacred Dragoon Force]]"
   - "[[City & Castle]]"
+issues:
+  - epilogue content
+priority: "!!EXTREME"
 ---
 The **Kingdom of Sacred**, also known as the **Dino Royal Lands**, are the authority controlling the twinned [[Remnant|remnants]] of [[High Sacred]] and [[Low Sacred]]. It is ruled by a [[House Dino|monarchy]] and a council of dukes, and its capital city is in [[Drastic]]. Its symbol is a [[Star|five-pointed star]].
 
 The twin remnants of Sacred are reflected in its people, deliciously diverse yet decidedly unsure of one another. Since the two are bridged by only the [[Eight Bridges of Sacred]], three of which are on the flipside, not many people from High Sacred ever see what Low Sacred has to offer.
 
+The demonym is "*Sacreder*" or "*Sacredite*".****
+
+# Traditions
 The military of the Kingdom is known as the [[Sacred Dragoon Force]]. Its policing force is the [[Victory Starscouts]].
 
 The Kingdom of Sacred names [[Year (unit)|years]] of great import, and years in-between as having been "Year Beyond" initially or "Year Two After X" or so on, using named years as a baseline for unnamed years. If it's easier, some people (mostly in Low Sacred) utilize terms such as "Year Before" or "Year Two Prior To X" when constructing frames of reference to long lengths of time between striking events.
 
-The demonym is "*Sacreder*" or "*Sacredite*".
 # History
 The previous inhabitants of this region were the [[Carapa Republic]].
 

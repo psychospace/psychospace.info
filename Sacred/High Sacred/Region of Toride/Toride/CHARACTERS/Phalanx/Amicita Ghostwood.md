@@ -1,3 +1,4 @@
+---priority: LOW
 ---
 tags:
   - character

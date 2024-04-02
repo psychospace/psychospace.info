@@ -5,6 +5,7 @@ aliases:
   - syncretist
 tags:
   - magic/new
+  - has_glossary_entry
 ---
 ![[⎋ 2FPG]]
 **[Syncretism](https://en.wikipedia.org/wiki/Syncretism)** is the practice of combining two discrete elements of culture or schools of thought, and merging them, analyzing the notion that they are related. 

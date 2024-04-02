@@ -5,6 +5,7 @@ aliases:
   - lycanthropy
 tags:
   - magic/curse
+  - has_glossary_entry
 issues:
   - stub
 priority: MEDIUM

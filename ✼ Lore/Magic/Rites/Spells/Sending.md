@@ -1,5 +1,7 @@
 ---
-tags: magic/spell
+tags:
+  - magic/spell
+  - has_glossary_entry
 ---
 ***Sending*** is a [[Spell]] of middling [[Arcane complexity|complexity]].
 

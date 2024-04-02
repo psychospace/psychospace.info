@@ -5,6 +5,7 @@ aliases:
   - thaumaturgical
 tags:
   - magic/clade
+  - has_glossary_entry
 issues:
   - incomplete
 permalink: thaum

@@ -1,7 +1,8 @@
 ---
-tags:
-  - faction/t5i
+tags: 
 campaign: "[[⍟ Extra Innings]]"
+factions:
+  - "[[Fifth Institute]]"
 ---
 ![[⎋ Needs Expansion]]
 **Valerie Stout** is a student of the [[Fifth Institute]] who was a friendly contact to [[TRUE NAME (collective)|TRUE NAME]] for a time. Hailing from [[Protectorate of Winifreyad|Winifreyad]], she is a relatively well-off researcher, specializing in the field of archaeoarcanology, the origins of magic.

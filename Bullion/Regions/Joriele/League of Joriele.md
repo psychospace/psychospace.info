@@ -1,6 +1,5 @@
 ---
 tags:
-  - faction/government/jor
   - place
   - government
   - has_glossary_entry

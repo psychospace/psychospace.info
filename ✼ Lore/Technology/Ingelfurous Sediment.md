@@ -6,6 +6,11 @@ tags:
   - has_glossary_entry
 aliases:
   - ingel
+tags:
+  - item/material
+  - has_glossary_entry
+aliases:
+  - ingel
 ---
 **Ingelfurous Sediment**^[(ihn - jel - for - ous)], shortened to "ingel", is a construction material invented by [[Diesterthan Materials|Diesterthan Materials GmbH.]] used mainly in the [[Scarlet Skies]]. 
 

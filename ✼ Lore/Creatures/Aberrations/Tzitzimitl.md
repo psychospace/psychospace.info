@@ -1,6 +1,7 @@
 ---
 tags:
   - being/entity
+  - has_glossary_entry
 ---
 ![[Sky-scrape#^8c0d87]]
 

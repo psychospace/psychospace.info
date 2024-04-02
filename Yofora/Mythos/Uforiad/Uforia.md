@@ -5,6 +5,7 @@ aliases:
 tags:
   - character
   - noteworthy
+  - has_glossary_entry
 ancestry:
   - dragon, umbral
 status: alive

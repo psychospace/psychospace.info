@@ -1,5 +1,7 @@
 ---
-tags: vehicle/train
+tags:
+  - vehicle/train
+  - has_glossary_entry
 ---
 A **train** is a rapid-transportation vehicle for land-use, usually powered by a [[core engine]], which is driven by tracks that guide its movement. Its massive inertial velocity allows it to carry either vast amounts of cargo or large groups of people efficiently, depending on the purpose the train is built for.
 

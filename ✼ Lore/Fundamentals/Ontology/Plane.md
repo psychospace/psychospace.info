@@ -2,6 +2,7 @@
 tags:
   - plane
   - has_glossary_entry
+  - has_glossary_entry
 aliases:
   - demiplane
   - realm

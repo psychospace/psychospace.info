@@ -1,6 +1,8 @@
 ---
 aliases:
   - vorpal
+tags:
+  - has_glossary_entry
 ---
 
 **Vorpal** is a quality of either a material or enchantment, which, when forged into a weapon, is described as powerful enough to decapitate nearly any [[creature]].

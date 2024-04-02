@@ -1,6 +1,7 @@
 ---
 tags:
   - TODO
+  - has_glossary_entry
 ---
 
 **Slimes** and variant creatures, collectively "oozes", are strange beings which lack a solid, fixed shape, and whose [[body|body]] constitutions often contain all or nearly all of their vital essence. 

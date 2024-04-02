@@ -8,23 +8,19 @@ permalink: glossary
 ---
 
 %%
-INCOMPLETE.
-
 TERMS TO BE ADDED TO GLOSSARY
 ```dataview
 TABLE rows.file.link as Link
-FROM -#has_glossary_entry and -#hubs and ("psychospace.info/✼ Lore" or "psychospace.info/✼ Timeline" or #government or #remnant or #noteworthy or #faith or #skysea)
+FROM -#has_glossary_entry and ("psychospace.info/✼ Lore" or "psychospace.info/✼ Timeline" or #government or #remnant or #noteworthy or #title or #faith or #skysea) and -#hubs
 WHERE !contains(file.name, "PT")
-
 SORT file.name
 GROUP BY substring(file.name, 0, 2) as Initials
-
 ```
 %%
 
 This is a **glossary** of terms which appear in the lore of [[the Heavens]].
 
-It is currently (as of 3-21-24) incomplete, but usable. Please search this page for short, readable descriptions.
+Please search this page for short, readable descriptions.
 
 ---
 
@@ -43,6 +39,7 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 **[[The Abyss|Abyss, The]]** - Huge plane comprised collectively out of the flipsides of the [[Scarlet Skies]], home of [[Demon|demons]].
 
 ## Ae
+**[[Aed & Maed]]** - Region of middle [[Bullion]], consisting of the [[Aedil Plains]] and [[Maedil Plains]]. Named for [[Aedil Rysae|Aedil]] and [[Maedil Rysae]], witches who aided [[Ithuriel Rysae|Ithuriel]]. 
 
 **Aeronautic** - Capable of flight through a [[skysea]]. ^fe0932
 
@@ -63,6 +60,11 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 - **Steelclad airships** - With toughened armor, capable of traveling beyond or into the [[Dustwall]].
 - **Supraekeic airships** - Capable of traveling regularly between the layers of the stack.
 ## Al
+**Alectryomancy** - Form of [[divination]] which analyzes the movements of birds as they eat.
+- **Alect** - Associated with high-ranking staff of the [[Fifth Institute]].
+    - **[[Alect Keeper]]** - Professor who acts as a handler and counterpart to a [[High Manteian|High Manteians]]. All of them are widely respected for their scientific findings. Their insight and conference guides the Institute as a whole.
+    - **[[Alect Commissioner]]** - Commissioner of the school.
+
 **[[Altercation]]** - A type of consequence for ill-advised [[magic]] (especially [[Reality-Bending|reality-bending]]) in which the [[Divine Equation]] must perform an "immune response", with unpredictable results.
 
 **[[Althin]]** - A strange and powerful [[Outsider]] whose influence is mostly unknown.
@@ -148,8 +150,7 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 ## Br
 **[[Breaking of Sacred]]** - The bisection of Sacred into [[High Sacred]] and [[Low Sacred]] by [[Arizhmiya]]: the last recorded violent eruption by [[Mount Celestia]].
 
-**[[Broadcaster]]** - A [[psion]] who can perceive and utilize the [[The Signal|Signal]] naturally. Typically extremely powerful.
-- **[[Sophist]]** - A Broadcaster able to share their ability with another.
+**[[Broadcaster]]** - A [[psion]] who can perceive and utilize the [[The Signal|Signal]] naturally. Typically extremely powerful. ^07e7b0
 
 **[[Broken Arm]] (BA)** - An item created rarely by [[new magic]] which has useful anomalous properties: typically a weapon or tool.
 
@@ -201,6 +202,9 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 **[[Chartless Sea#Chartlessness|Chartless / Chartlessness]]** - "Without map". The raw, vacuous, unrefined state of the [[Out There]] and greater [[universe]], without [[star|starry]] influence to define it: the opposite state to [[Manifold Seas|manifoldness]]. Typically thought to be lawless regions governed only by [[Outsider|Outsiders]]. ^11047e
 - **[[Chartless Sea]]** - Home [[plane]] of [[Chaos]], from which spills all we call reality. Its denizens are called [[protean|proteans]]. Located somewhere at the universe's heart, though its influence permeates all creation. Its discovery wrought the [[War of Chaos]] and destroyed the [[old world]]. 
 
+**Chirology** - Form of [[divination]] which involves the study of the hand's geometry.
+- **[[Chirologist]]** - *Typically,* a student-outrider of the [[Fifth Institute]], who is on a (often self-guided) study abroad.
+
 **[[Chronolite]]** - A [[mana]]-[[orichalcum]] alloy which can be frozen in time under certain conditions: used in ancient weapons.
 
 ## Ci
@@ -237,6 +241,9 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 **[[Core engine]] / Core** - Projects massive lightborne wings, and enchants the object it's attached to, in exchange for fuel. The most-important part of modern heavy-vehicles, like [[airship|airships]] and [[train|trains]].
 
 **[[Counterspell]]** - A commonplace [[antimagic]] [[spell]] which negates an enemy's [[Magic#Cast|cast magic]]. 
+
+**Coven** - A group of *[[#^5ac513|witches]].*
+- **[[Coven of the Night]]** - Largest known coven in the whole of [[the Heavens]], based in [[Bullion]].
 
 ## Cr
 **[[Creature]]** - Any biological organism capable of experiencing [[Universe|reality]]. Needs a [[soul]], [[body]], and [[Echo|shadow]] to be whole, but doesn't necessarily need all three.
@@ -290,7 +297,7 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 - **[[Dragon#Metallic|Metallic dragons]]** - Dragons which typically uphold law.
 - **[[Dragon#Chromatic|Chromatic dragons]]** - Dragons which typically uphold chaos.
 - **[[Dragon#Astral|Astral dragons]]** - Rare dragons borne under influence of [[Out There|outer space]].
-- **[[Dragon#Umbral|Umbral dragons]]** - Extremely-rare dragons borne under divine influence, such as through the [[blackflame]].
+- **[[Dragon#Umbral|Umbral dragons]]** - Extremely-rare dragons borne under divine influence, such as through the [[blackflame]]. ^8f9af1
 - **Draconic** - Relating to dragons. 
     - **[[Draconic|Dora ihitō]]** - Typically called "Draconic": The language of dragons.
     - **Dragonic** - Antiquated form of this term: typically now referring to the *[[#^1230d7|curse]]*.
@@ -337,6 +344,9 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 ## Em
 **[[EMCD]]** - A portable audio device which allows shared communications on a [[Dust tunnel#Milieu|milieu]]. Analogous to a handheld radio.
 
+**Emperor / Empress** - Ruler over an empire.
+- **[[Empress of Nortia]]** - Ruler over the [[Great Nortian Empire]].
+
 ## En
 **[[Enchantment]]** - One of the [[Classical Schools]] of [[magic]]. Deals with persuasive magic, as well as [[infusion]]. Often considered legally-gray.
 
@@ -348,10 +358,10 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 **[[Eoremu]]** - The [[Divinity|divine]] of snakes and madness.
 
 ## Ep
-**[[Epitome]]** - A magical term for describing something's natural existence (its "lifespan").
+**[[Epitome]]** - A magical term for describing something's natural existence (its "lifespan"). ^a12557
 
 ## Et
-**Ethereal** - Not readily evident in the [[Plane#Realm|realms]]: beyond the "real".
+**Ethereal** - Not readily evident in the [[Plane#Realm|realms]]: beyond the "real". ^3b5713
 
 ## Ev
 
@@ -371,7 +381,7 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 ## Fe
 **[[Fey]]** - A type of creature or magic emergent from [[Kibangan]] and/or the elements of nature.
 ## Fi
-**[[Fiend]]** - An [[immortal]] which oversees the [[Scarlet Skies]].
+**[[Fiend]]** - An [[immortal]] which oversees the [[Scarlet Skies]]. ^9de65d
 
 **[[Figment]]** - A type of creature which came about as a result of [[psychospace]]'s influence on the real world around it.
 
@@ -420,12 +430,14 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 ## Ge
 **[[Gebra]]** - The [[Divinity|god]] of messengers and [[Kobold|kobolds]].
 
+**Gehena** - Another term for *[[#^4e1f85|Tarnation]]*.
+
 **[[Genie]]** - An [[Elemental creatures|elemental]] [[whill]] who are exemplars of their element, forming societies on their home layer. Their royalty can grant [[wish|wishes]] to those they find favorable.
 
 ## Gh
 **[[Ghost]]** - An [[undead]] which lacks their [[body]], lingering for personal, emotionally-charged reasons. *Alternatively:* another name for the [[soul]].
 
-**[[Ghost storm]]** - A gap or hole in [[psychospace]], which manifests in real-space as a dangerous purple [[Weather|storm]] that ensnares and damages souls and [[Portal|warps]] people around. Can be created by a [[Runic engine|runic engine]] failure.
+**[[Ghost storm]]** - A gap or hole in [[psychospace]], which manifests in real-space as a dangerous purple [[Weather|storm]] that ensnares and damages souls and [[Portal|warps]] people around. Can be created by a [[Runic engine|runic engine]] failure. ^69d618
 ## Gi
 **[[Gift (witchcraft)|Gift]]** - In [[Witchcraft|witchcraft]], one's specific, personal link to a patron, which allows them the insight enough to bring about myriad possibilities.
 - **[[Gift of Stars]]** - A special Gift said to originate with [[Amakudari-no-Mikoto|Amakudari]], which visualizes possibility as an endless sea (or lake) of [[star|stars]].
@@ -472,6 +484,8 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 **[[Hexicon]]** - The "lexicon" of a particular magical study.
 
 ## Hi
+**[[High Manteian]]** - A special [[chirologist]] role assumed by graduate "enforcers" of the [[Fifth Institute]]. Investigates and maintains important facilities, and commands a great deal of respect from underclassmen. Akin to superpowered [research fellows](https://en.m.wikipedia.org/wiki/Research_fellow). There are typically five at a time, and each has a handler in the [[Alect Keeper|Alect Keepers]].
+
 **[[High Sacred]]** - Temperate [[remnant]] in the [[Mer de Vide]], containing one of the largest [[Water|waterseas]] known, and a variety of intriguing ruins and biomes. Its flipside is [[Mount Celestia]].
 
 ## Ho
@@ -486,7 +500,7 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 ## Hu
 **[[Human]]** - A sapient ancestry of varied folk who live average lives but find ways to leave larger-than-life impacts on people.
 
-## ==[ I ]==
+# ==[ I ]==
 ## Il
 **[[Illithid]]** - An [[Aberration|aberrant]] race of squid-faced experimenters, known for being antagonists.
 
@@ -505,13 +519,17 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 ## Io
 **[[Ioyon Dynasty of Gears]]** - The present-day authority over [[Pinwheel]], formed following the [[Siege of Ioyosoco]].
 
-## It
-**Ith** - An [[Oa'Rovi]] digraph which means "storm" or "tumult".
+## Iθ
+**Iθ / Ith** - An [[Oa'Rovi]] digraph which means "storm" or "tumult".
 - **Rav'ithflas** - "Portal of tumult fog". An antiquated term for *[[#^919065|the Sheer]]*.
 - **[[Ith'Paraan]]** - The "Kingdom of Storm", an ancient society of [[Bullion]], founded by [[Amakudari-no-Mikoto|a dragon]] to share its [[Gift of Stars]] and aspire to the infinite beyond, aboard [[Void breaker|void breakers]]. Brought to an end by that dragon's hubris, and the [[Os'Grun]] impact.
     - **[[Ith'Alnna]]** - The "Exultation of the Storm", a project of Ith'Paraan to settle on another world.
     - **Ith'Salo** - The "Denizens of Storm". Historically-accurate term for *[[#^7eeec0|copperbeasts]]*.
 # ==[ J ]==
+
+## Ja
+**Jack** - Slang term for *[[#^9de65d|fiends]]*.
+- **Jackland** - Another term for *[[#^4e1f85|Tarnation]]*.
 ## Jo
 **[[League of Joriele|Joriele]]** - A league of microstates in the northeast of [[Bullion]], named for a sylph king of the region.
 # ==[ K ]==
@@ -532,6 +550,8 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 # ==[ L ]==
 
 ## La
+**[[Sanza Rayo#Codec Lamella|Lamella]]** - *Typically,* a light-like [[magic]] energy that can act as an armor or weapon against [[reality-bending]]; the [[Codec]] of Saint [[Sanza Rayo]], produced constantly from his body, and seen incorporated by [[chirologist]] tools.
+
 **[[Lavastus]]** - An [[archfey]] entity said to assist those at their wits' end.
 
 ## Le
@@ -547,9 +567,15 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 ## Lo
 **[[Logic]]** - A fundamental force which is in place of traditional "fate". Creates a system of rules relating cause to effect, directing [[chaos]] to make specific decisions. Logic supports [[Universe|reality]], and varies (generally) based on [[Manifold Seas|manifold]] locale. To guide logic is to be the center of luck's focus, and to flout logic is to [[Reality-Bending|bend reality]]. 
 
+**[[Lord of Law]]** - High-ranking noble position in the [[Great Nortian Empire|Nortian]] government, acting as go-between of the [[Conductors of Court]] and the [[Nortian imperial family]].
+
+**[[Lord President]]** - Leader of the [[The Shibboleth|Shibboleth]]'s deliberations in [[Bullion]]. Elected for a decade.
+
 **[[Low Sacred]]** - Temperate [[remnant]] in the [[Mer de Vide]], south of [[High Sacred]]. Possesses varied climates, once ruled over by [[Unitor|unitors]], now by the [[Kingdom of Sacred]].
 ## Lu
 **Luck** - Typically a social conceit that continued success or failure is assured on faith alone. *In arcane terms*, a quirk of [[logic]] in which it continues to favor something: creating trends (typically diametric; either good or bad) in events.
+
+**[[Luminaria]]** **/ Luminary** - Ruler over the [[River-Lands of Ancestral Ith'Paraan|River-Lands]] from within the Rysae family.
 
 **[[Lux]]** - Fluid physical manifestation of [[Vibe]]. Does not occur naturally and must be synthesized.
 
@@ -573,6 +599,7 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 **Mana** - *Varies.*
 - *[[Mana|Mana (material)]]* - Solid or fluid form of [[Vibe]] occurring as gemstones or iridescent liquid. ^2d035f
 - *[[Mana (plane)|Mana (plane)]]* - [[Plane]] of pure [[Vitality energy|vitality]], where [[Soul|souls]] are [[Reincarnation|reincarnated]]. Said to be at the heart of every [[star]]. ^9bfea0
+- **[[Throne of Mana]]** - Rulership over the [[River-Lands of Ancestral Ith'Paraan|River-Lands]], the power vested in the [[Luminaria]].
 
 **[[Maneater-class]]** - [[Umazia|Umazian]] class of small research [[airship]].
 
@@ -590,7 +617,7 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 ## Me
 **[[Melotte]]** - A conglomerate [[Divinity|divine]] associated with orphans and the stars.
 
-**Memory** - *[[#^b6a827|Echoes]]* which recall a specific thing.
+**Memory** - *[[#^b6a827|Echoes]]* which recall a specific thing. ^4107c4
 
 **[[Mer de Vide]]** - A [[skysea]] which has become incredibly important as a result of being the hotspot of the [[Age of Adventurers]].
 
@@ -604,7 +631,7 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 
 **[[Modify memory]]** - An advanced [[spell]] which alters the target's memory. Seen as largely [[Magic#Gray magic|gray magic]].
 
-**Moon** - A significant natural celestial object which is orbitally locked to another, affecting the tides. [[The Planet]] has two: [[Lex]] and [[Ordo]].
+**Moon** - A significant natural celestial object which is orbitally locked to another, affecting the tides. [[The Planet]] has two: [[Lex]] and [[Ordo]]. ^8b9f17
 
 **[[Moonbeam]]** - A [[spell]] which calls down a [[Confluence|conflux]] of [[Vitality energy|vitality]] and [[void energy]], revealing shapechangers' true form. Said to be comprised of the judgement of moons.
 
@@ -649,7 +676,6 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 **[[Great Nortian Empire|Nortia]]** - Empire in the [[Mer de Vide]], ruling over [[Yofora]] and [[Umazia]].
 - **[[Nortian (language)|Nortian]]** - The official language of Nortia.
 - **[[Nortian imperial family]]** - Ruling family of the empire, possessing powerful ties to [[Uforia]].
-- **[[Nortian Conspiracy]]** - Puppet-government who betrayed the imperial line and attacked [[Kingdom of Sacred|Sacred]]. Defeated in the [[Dragonic War]].
 
 **[[Not-Where]]** - A [[Witchcraft|witchcraft]] term for a [[Plane#Demiplane|demiplane]] carved out of [[the Fortress]].
 # ==[ O ]==
@@ -715,10 +741,12 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 
 **[[Plane]]** - A disconnected level and state of existence, typically beyond [[Universe|reality]].
 
-**[[The Planet|Planet, The]]** - The home of the [[The Planet#Planar stack|planar stack]] within [[the Heavens]].
+**[[The Planet|Planet, The]]** - The home of the [[The Planet#Planar stack|planar stack]] within [[the Heavens]]. ^c4ee34
 
 ## Po
-**[[Portal]]** - A typically-[[magic]] conduit which allows matter to move from one place to another, without traversing the space (or as much space) between.
+**[[Portal]]** - A typically-[[magic]] conduit which allows matter to move from one place to another, without traversing the space (or as much space) between. ^7bf48f
+
+**Positive energy** - Another term for *[[#^869f1b|vitality energy]]*.
 
 **[[Pothesis]]** - [[Divinity|God]] of [[Demon|demons]], blood, sin, conflict, and [[the Abyss]].
 
@@ -729,7 +757,7 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 
 **[[Protean]]** - An [[immortal]] [[monitor]] born of [[chaos]]. Denizens and agents of the [[Chartless Sea]], the shapers of the [[universe]].
 
-**[[Prus]]** - #TODO
+**[[Prus]]** - [[Divinity|God]] of divine order and chivalry in the [[Pantheon of Dawndust]].
 
 ## Ps
 **[[Psinomenon]]** - A tide-like observation in energy flows in [[psychospace]].
@@ -748,6 +776,10 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 
 **[[Psychospace]]** - An alternate side to [[Universe|reality]], which is influenced by and influences the thoughts and energies of [[the Heavens]] (specifically). Powers all [[magic]]. Created by the three-dimensional [[#^b450b0|shadow]] of fourth-dimensional [[Kibangan]].
 
+## Pu
+**[[Puretza]]** - Bladeborne entity created from a foreign *[[#^8b9f17|moon]]*.
+
+**Purple storm** - See *[[#^69d618|ghost storm]]*.
 # ==[ Q ]==
 ## Qa
 **[[Emirate of Qaulhain|Qaulhain]]** - A modern emirate in the southwest of [[Bullion]], the centralized place of most commerce and power on the remnant. Ruled by the [[Golden Council]].
@@ -756,13 +788,72 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 **[[Quasidragon]]** - False dragon-soul-like constructs which act as [[Core engine|cores]].
 
 **[[Quori]]** - Powerful dream-bound entities that do battle with forces of evil through [[kalashtar]].
+# ==[ R ]==
+## Ra
+**[Rainbow](https://en.m.wikipedia.org/wiki/Rainbow)** - Phenomenon of [[weather]] caused by refracting light producing a continuous spectrum of light in the sky. Widely mythologized.
+- **Fogbow** - A technique of the [[Nortian imperial family#Horizon Walker|Horizon Walker]] style (created by [[Serena Nortia]]), which creates joined [[Portal|portals]] that one can attack or aim through. Resembles a [rainbow as created by fog](https://en.m.wikipedia.org/wiki/Fog_bow).
+- **[[Rainbow of transport]]** - Spell which transports a target from one end of a rainbow to another.
 
+**[[Ravus]]** - [[Divinity|Divine]] associated with the night, darkness, and [[Elf#Drow|drow]].
+
+## Rd
+**RDM** - Acronym for [[Ardium Dynamic Machines]].
+- **[[RDM-8]]** - Semiautomatic revolving [[firearm]], also known as the Eight-Count.
+
+## Re
+**[[Rea]]** - The [[Avatar of Death]] circa the [[Dragonic War]]. Also known as Skullmistress.
+
+**Reality** - The experience and form of the [[universe]] as perceived by [[Creature|creatures]]; not *[[#^3b5713|ethereal]]*. ^e33bbd
+- **[[Reality-Bending|Reality-bending]]** **/ Reality-alteration** - General [[new magic]] rite in which a low-dependence occult change is made to reality. Typically highly emotionally-driven and "uncontrolled", liable to create [[Altercation|altercations]]. Not as limited as [[magic]]; magic is a form of controlled reality-bending. 
+
+**[[Reclamation (Bullion)|Reclamation]] / Reclaimer** - Cultural touchstone of [[Bullion]] to do with undergoing dangerous work in order to pay back debts to society.
+
+**[[Red Spark]]** - Event which kicked off the [[Dragonic War]], signalled by the breaching of the [[dragonic curse]] and a bright red "spark" which could be seen from everywhere in the [[Kingdom of Sacred]].
+
+**[[Reincarnation]]** - When one's [[soul]] is washed afresh in [[Mana (plane)|Mana]], rendering it new again: natural stage of existence for a soul, and intrigue of magic. Under special circumstances, has continuity of *[[#^4107c4|memory]]*, allowing recollection of their past life(s).
+
+**[[Remnant]]** - Floating landmass o'er [[the Planet]]. Has two sides: its [[flipside]] can be reached through points known as [[Phantasm|phantasms]].
+
+**[[Renthe]]** - [[Divinity|God]] of mechanics and physics in the [[Pantheon of Dawndust]].
+
+**[[Resurrection]]** - When one's [[death]] is denied and reversed, extending their *[[#^a12557|lifespan]]*. An intrigue of [[magic]], typically preferable to [[necromancy]].
+
+## Ri
+**[[Ritual]]** - Rite of dedication. Typically refers to lengthy forms of spellcasting which produce wondrous effects.
+
+**[[Rivenium]] / Riven** - Material said to be the physical manifestation of dreams.
+
+**[[River-Lands of Ancestral Ith'Paraan|River-Lands]]** - Lordship in [[Bullion]], founding member of the [[The Shibboleth|Shibboleth]] which lays claim to most ruins of [[Ith'Paraan]]. Capital city is [[Eleyda]]. Ruled by the [[Luminaria]] and the [[Throne of Mana]]; policed by the [[Blue Cinder Militia]] and *[[sganyodaiyo]]*.
+## Ro
+**[[Roced]]** - [[Divinity|God]] of [[Devil|devils]] and of [[death]] in general in the [[Pantheon of Dawndust]].
+## Ru
+**[[Rune]]** - Letter in certain alphabets which possese uneven [[Magic|magical]] power.
+- **[[Runic engine]]** - Apparatus for short-range [[airship]]-scale [[Portal|teleportation]] through [[the Sheer]], invented by [[Great Nortian Empire|Nortian]] engineers.
 # ==[ S ]==
-
 ## Sa
 **[[Kingdom of Sacred|Sacred]]** - A modern kingdom ruling over [[High Sacred]] and [[Low Sacred]], a place where the [[Age of Adventurers]] arguably began. Ruled by [[Sacred's Power Structure|a complex power structure]] under [[House Dino]].
 ## Sc
+**[[Scarlet Skies]]** - The realm of [[fire]] and [[Fiend|fiends]], home of most of the [[Death|dead]], upon [[the Planet]]. Below the [[Wild Blue Yonder]] and above the [[Väräh]]. Remnants there are known as Hells.
+
+**[[Scarryback]]** - Massive beetles who act as beasts of burden in certain regions.
+
+**Sceography** - Study of the [[Skysea|skyseas]].
+
 **[[Scion]]** - Any [[creature]] or sapient heritage created by the influence of [[immortal]] and mortal bloodlines. ^72fb71
+
+**[[Scribe adder]]** - [[Elemental creatures#Titan|Titan elementals]] of [[earth]], massive worms whose devour and galvanize the remnants, creating [[Phantasm|phantasmal]] space around them to rest. Their armor is widely sought for industrial purposes.
+- **[[Scribe moth]]** - Larval stage of a scribe adder. Massive bug-like creatures with supernaturally-high [[senzai]], granting them natural talent for [[divination]], which they endlessly inscribe upon rock and plant.
+
+**[[Scroll]]** - A [[spell]] written down for replication and reuse on expendable vellum.
+
+## Se
+**[[Seiu]]** - Creator [[Divinity|divine]] of [[kitsune]], deity of agriculture and artifice.
+
+**[[Sending]]** - Spell which conveys a [[Telepathy|telepathic]] message across great distances.
+
+**Senko** - Servitors of [[Seiu]] in the form of foxes.
+
+**[[Senzai]]** - [[Psionics|Psionic]] perception; the ability to see into [[psychospace]].
 
 ## Sh
 **Shadow** - A projection created by light, into a dimension one lower than its source (from 3D to 2D, for example). Definition varies, see below.
@@ -774,6 +865,8 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
     - or to a creature's "other self" in the [[elseworld|shadow world]]. ^9f8bf9
 
 **[[The Sheer|Sheer, The]]** - An alternate [[plane]] created by the shadow of [[kibangan]], cast by [[Stronn]]. Can anchor [[Portal|portals]]. The [[Nortian imperial family]] can channel it, and it has been used in many [[Runic engine|technologies]]. ^919065
+
+**Shell site** - Another term for the hospital-like facilities run by the [[#^feaf48|Uforiad temple]].
 
 **[[The Shibboleth|Shibboleth, The]]** - Ruling body of [[Bullion]], comprised of all her recognized states.
 
@@ -792,11 +885,39 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 - **[[Silver cord]]** - An ethereal link which connects [[body]] to [[soul]]. In antiquity, it was said to be forged of silver chain.
 - **[[Silver Coin Shell]]** - A [canister round](https://en.wikipedia.org/wiki/Canister_shot) filled with silver coins as makeshift silvered weaponry.
 
+**[[Sinister]]** - Previous [[Avatar of Death]].
+
+**[[Sirrhad]]** - State-coalition of southern [[Bullion]], founding member of the [[The Shibboleth|Shibboleth]]. United by commerce and free expression, largely characterized as a [[Dwarf|dwarvish]] state. Ruled by the [[Archmaester|Archmaestership]] and the [[Full Spectrum Hammer]]. Capital is [[Aschalas]].
+
+
+## Sk
+**Sky / Sea / [[Skysea]]** - Thinned volume of air upon [[the Planet]], oceans which separate [[Remnant|remnants]] from one another. Sometimes characterized as the stuff of the Planet.
+- **[[Sky-scrape]]** - Etched [[rune]] which threatened to [[TPK|devour the world]] during [[Zero Day]]; now remains as but a scar upon the [[Dark Sea]] in the form of the [[Crest of Conception]]. Faintly reflective, displaying the [[elseworld]]. Believed by some to be the source of [[new magic]].
+
+## Sl
+**Sleep** - Natural process of mortal [[Creature|creatures]] which is necessary for proper rest. Connects to [[dream|dreams]].
+
+**[[Sleepy Yore]]** - Faith of native [[Kingdom of Sacred|Sacredites]] based in naturalistic understandings. Believe that [[Divinity|divines]] are split amongst their [[domain|domains]].
+
+**[[Slime]]** - Type of monstrosity which have fluid bodies created out of a sense of "lacking", devouring aspects from the environment which they do not naturally possess. Include [[mimic|mimics]], [[Oblex|oblexes]], [[Dream-eater|dream-eaters]], black-puddings, [[wegbrechen]], and others.
+
 ## So
+**[[Songbird]]** - Generic term for [[Psion|psions]] in the employ of the [[Fifth Institute]]. Associated with cultural conceits of [[Reclamation (Bullion)|reclamation]] and chivalry.
+
+**[[Sophist]]** - A *[[#^07e7b0|Broadcaster]]* able to share their ability (like their [[Codec]]) with others.
+
+**[[Sorcery]]** - Study of [[magic]] to do with the tapping and nurturing of "sources" of power. 
+
 **[[Soul]]** - A [[Gravity|composited]] ethereal mass of [[Echo|echoes]] and [[Vitality energy|vitality energy]] which possesses its own [[Viewpoint property|viewpoint]] and willpower; most every [[creature]] has one, granted to them by the process of [[reincarnation]]. Connected to the [[body]] through a [[silver cord]]: losing it means [[death]]. Incomplete without a [[fylgja]] and [[True name (concept)|true name]].
 - **[[Soul bond]]** - A bond, emotional or logical, formed by the soul to connect it to something else. Can be leveraged by [[magic]]. The most basic power of the soul, and the basis of [[psionics]].
 - **[[Soulstone]]** - A stone or crystal which contains and preserves a soul.
 
+
+## Sp
+**[[Sparking smoke]]** - Mythic [[magic]] power possessed by the [[Witch-King]] of [[Bullion]]. Comprised of smoke which eradicated the body, brought about [[ghoul|ghouls]], and rusted weapons.
+
+**[[Spell]]** - Tract of [[psychic code]] which produces a specific [[magic#Cast|cast-magic]] effect.
+- **Spellcraft** -Study of the creation of spells.
 ## St
 **[[Star]]** - Impressively powerful entities of the [[Out There]] who create [[Manifold Seas]]. Their lights speckle the [[Dark Sea]].
 - **[[Starfall]]** - A day, which begins when [[Cien]] falls beneath the horizon. 
@@ -806,19 +927,80 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 **[[Stronn]]** - A [[star]] which is second-close to [[the Planet]], after our own [[Cien|sun]]. Creates [[the Sheer]].
 
 ## Su
-**[[Succession (ability)|Succession]]** - An ability generally associated with a special kind of [[fylgja]] used by [[kalashtar]], [[evangel|evangels]], and others. Allows a part of the [[soul]] to be passed on wholesale to a blood descendant, containing knowledge, memories, and all. Said to be a lingering element of [[immortal]] influence.
+**[[Succession (ability)|Succession]]** - Ability generally associated with a special kind of [[fylgja]] used by [[kalashtar]], [[evangel|evangels]], and others. Allows a part of the [[soul]] to be passed on wholesale to a blood descendant, containing knowledge, memories, and all. Said to be a lingering element of [[immortal]] influence.
 
 **Sun** - *See [[#^356d7d|Cien]].*
 
 **[[Superbia-class]]** - [[Archipel|Archipelian]] class of cargo [[airship]].
 
-**[[Ikabod's surrogate soul|Surrogate soul]]** - A [[spell]] invented by [[Ikabod Caruso]] which allows a fragmented [[soul]] to grow from a fragment of it (such as bone, fur, or a [[soulstone]]), enabling study of the original soul: effectively, genetic cloning. Creates a [[visitant]].
+**[[Ikabod's surrogate soul|Surrogate soul]]** - A [[spell]] invented by [[Ikabod Caruso]] which allows a fragmented [[soul]] to grow from a fragment of it (such as bone, fur, or a [[soulstone]]), enabling study of the original soul: effectively, genetic cloning. Creates a [[visitant]]. ^e409ab
 
 ## Sw
 **[[Swordschool]]** - Study of a particular fighting style, particularly related to a faction.
+
+## Sy
+**[[Syncretism]] / Syncretist** - Study which equivocates current experience to historical, mythological, possibly difficult-to-attest experience. Popular intrigue in the era of [[new magic]].
+
+# ==[ T ]==
+## Ta
+**[[Taphrine]]** - Highly-contagious disease which spread rapidly across the [[Mer de Vide]] in the era of [[new magic]], which supposedly propogated it. Causes deep pits and chemical-burn-like injuries as it progresses.
+
+**[[Tarnation]]** - [[Flipside]] of [[Bullion]], a place of strange hostile life. "[[Wildwalker|Cowboy]] hell". Exile there is seen as a death-sentence. ^4e1f85
+## Te
+**[[Telepathy]]** - Varied ability to send thoughts from one place to another using [[psychospace]].
+
+**Teleportation** - Varied ability utilizing *[[#^7bf48f|portals]]* to traverse space.
+
+**[[Temple of the Uforiad]]** - [[Great Nortian Empire|Nortian]] cultural faith, associated with their protector [[Uforia]] and all of its myriad aspects and manifestations. ^feaf48
+
+## Th
+**[[Thaumaturgy]]** - Study of [[magic]], a [[new magic]] clade associated with esoterica.
+
+## Ti
+**[[Tiefling]] / Tief** - A [[scion]] ancestry borne of [[fiend|fiendish]] influence. The most common type of scion, but highly varied.
+
+**[[Time]]** - Fundamental force which creates the concepts of history and progression.
+- **[[Time travel]]** - Highly-rare ability to traverse time (and typically space) along one's [[epitome]].
+
+## Tp
+**[[TPK]]** - "Total [[psychospace]] kill". A [[collapse state]] scenario in which psychospace is eradicated, causing [[logic]] to become unbound and [[magic]] to stop working. Happened to the [[elseworld]].
+
+## Tr
+**[[Train]]** - Heavy locomotive vehicle used for transporting cargo or passengers across rails. Industrially used for mining and precious materials where applicable. Typically powered with a [[Core engine|core engine]].
+
+**[[Transmutation]]** - One of the [[Classical Schools]] of [[magic]], to do with change and alteration.
+
+**[[Tribute]]** - The cost of particular [[magic]], and the general necessity for magic to have some kind of cost.
+
+**[[True name (concept)|True name]]** - Aspect of the [[soul]] which gives it a unique identifier that is traditionally unknown. Comprehending your own is a process of self-understanding, and comprehending another grants you extreme power over that person.
+
+## Tz
+**[[Tzitzimitl]]** - Powerful [[Aberration|aberrant]] beings who are supposedly guides for new worlds such that [[Outsider|Outside]] influence can take root. Extinct on [[the Planet]] following [[Zero Day]]. 
 # ==[ U ]==
+## Uf
+**[[Uforia]]** - Powerful [[Dragon#Umbral|umbral dragon]] who protects and oversees [[Great Nortian Empire|Nortia]], originator of her [[Nortian imperial family|imperial line]].
+- **[[Temple of the Uforiad|Uforiad]]** - Faith centered on her and her manifestations.
+
+## Um
+**[[Umazia]]** - Tropical [[remnant]] northwest of [[Yofora]], ruled over by the [[Great Nortian Empire]]. Following [[Zero Day]] was given self-governance and conditions were greatly improved.
+
+**[[Umbraid]]** - The realm of [[wood]] upon [[the Planet]]. Above [[the Above]] and below the [[Dark Sea]]. Newly-reemerged following [[Zero Day]].
+
+**Umbral** - Related to *[[#^8f9af1|umbral dragons]]*.
+
 ## Un
+**[[Undead]]** - Creatures created (traditionally with [[necromancy]]) using the body and soul of [[Death|dead]] creatures.
+
+**[[Universe]]** - Generic term for all of space and time, translated into *[[#^e33bbd|reality]]* by perception.
+
+**[[Unknown Era]]** - Epoch of history following the [[old world]] in which [[Anti]] architected the fundamentals of [[the Planet]] and the [[Antic Sea]]. 
+
 **[[The Unmaker|Unmaker, The]]** - Ancient destroyer being which rose up against [[the Maker]] in the [[old world]]. Fused with the Maker to become [[Anti]].
+
+**[[Unwri]]** - Specific [[remnant|Hell]] which is the location of the court of the [[Death|dead]] and the divine bridge to [[Welkin]].
+
+## Uz
+**[[Uzia calora]]** - Mythical affliction which led to shapechangers and [[kitsune]].
 
 # ==[ V ]==
 ## Va
@@ -829,6 +1011,23 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 
 ## Ve
 **[[Verlan]]** - An energy-storing crystalline material that is used in leytech, a novel form of [[automagic]]. Also called *[[#^93518e|dust]]*. Analogous to electrical power.  ^d02170
+
+## Vi
+**[[Vibe]]** - The stuff of [[psychospace]], a type of fluid affected and affecting the thoughts of those who come into contact with it.
+
+**[[Viewpoint property]]** - Trait of [[magic]] which connects it to [[time]] and to perspective: that spells might need to be reinvented if something epochal occurs.
+
+**[[Vis]]** - Solution of plant matter used for [[automagic]].
+
+**[[Visitant]]** - Creatures borne of a fragmentary *[[#^e409ab|surrogate soul]]* grown to discover truths about the original soul. Allows for the revival of long-dead creatures. Discovered and first created by [[Ikabod Caruso]].
+
+**[[Vitality energy]]** - Energy of pure life, channeled from [[Mana (plane)|Mana]] and the light of [[Star|stars]]. ^869f1b
+## Vo
+**[[Void energy]]** - Energy of pure [[death]], channeled from [[Kibangan]] and the tenebrous [[Out There]].
+
+**[[Vorgon'vor]]** - The first [[Avatar of Death]], also called "He Who Is Wise to All Ends".
+
+**[[Vorpal]]** - Type of [[enchantment]] which allows a weapon to behead and destroy any foe.
 # ==[ W ]==
 ## Wa
 **War** - Typically conflict between governments.
@@ -853,18 +1052,21 @@ It is currently (as of 3-21-24) incomplete, but usable. Please search this page 
 
 **[[Welkin]]** - Dwelling-place of the [[Divinity|gods]] within many mythologies. Said to be somewhere deep within [[Kibangan]].
 ## Wh
-**[[Whill]]** - #TODO 
+**[[Whill]]** - [[Elemental creatures|Elemental]] which possesses some manner of sapience.
 
 ## Wi
-**[[Wild Blue Yonder]]** - The realm of mortal, non-elemental influence on [[the Planet]].  Above the [[Scarlet Skies]] and below [[the Above]]. Analogous to the Prime Material Plane or overworld in other settings.
-
-**[[Wild Magic]]** - Magic that directly endangers the caster, potentially uncontrolled. Considered ill-advised.
+**Wild** - Term which describes the purest experience of mortal enterprise: nature in its undisturbed, *[[#^d1f03b|medial]]* form.
+- **[[Wild Blue Yonder]]** - The realm of mortal, non-elemental influence on [[the Planet]].  Above the [[Scarlet Skies]] and below [[the Above]]. Analogous to the Prime Material Plane or overworld in other settings.
+- **[[Wild Magic]]** - [[Magic]] that directly endangers the caster, potentially uncontrolled. Considered ill-advised.
+- **[[Wildwalker]]** - Mercenary tradition of [[Bullion]]. Analogous to cowboys and similar mythologies.
 
 **[[Protectorate of Winifreyad|Winifreyad]]** - A research protectorate in northwestern [[Bullion]], shared property of [[the Shibboleth]]. Known for their [[Fifth Institute]].
 
 **[[Wish]]** - A legendary [[spell]] which can achieve nearly anything: the most powerful spell a mortal can acquire.
 
 **[[Witchcraft]]** - Study of [[magic]] which views one's self and the world around them as a web of influences that one may tug at and influence using adjacent possibilities, sanctified as a [[Gift (witchcraft)|Gift]]. Traditionally the source of (and cure for) terrible [[Curse|curses]]. ^5ac513
+- **[[Witch of the Plains]]** - Mythic lineage of witches in middle [[Bullion]], who protect the [[Aed & Maed]].
+- **[[Dakota Hazelwick|Witch, Graven]]** - Mythic witch of the modern day, ally of the [[Coven of the Night]].
 
 **[[Witness]]** - Ancient technology which allowed sacrifices ([[ghost|ghosts]]) to possess armors, creating mecha.
 

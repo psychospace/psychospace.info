@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 A **visitant** is an artificial [[figment]] crafted with only a fragment of a [[soul]], given the ability to think and to live by carving out the collective consciousness through direct injections of [[Vibe]]. 
 
 Though they likely existed in various forms beforehand, the first visitants to go by that name were created in [[1250 PT]] by [[Ikabod Caruso]], using his [[Ikabod's surrogate soul|eponymous spell]]. The most well known visitants are those created of [[Lazuli Dino]], including [[Lyrica]], [[Lithop]], [[Lacuna]], [[Lethal]], [[Lucent]], [[Locket]], and [[Pendant]].

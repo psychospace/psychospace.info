@@ -1,3 +1,9 @@
+---
+tags:
+  - being/entity
+  - has_glossary_entry
+---
+
 **Puretza** is the hexblade patron of [[Ridd of Chained-Earth]].
 
 A mouthless katana-wielder, Puretza was a nameless "moon-entity" assumedly from [[Kibangan]]. She is originally from a far off planet within the [[Dark Sea]], but was stranded to [[The Heavens]] when her home planet, or moon, was destroyed beyond repair by her master, [[Althin]], in an act of retribution. Puretza was left without a mouth and was doomed to remain within psychospace, influencing people to take up the blades she forged from the comets, made from her moon, that fell to this planet.

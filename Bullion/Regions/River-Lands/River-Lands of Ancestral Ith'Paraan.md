@@ -7,6 +7,7 @@ tags:
   - faction/government/aip
   - place
   - government
+  - has_glossary_entry
 ---
 The **River-Lands of Ancestral Ith’Paraan** (abbreviated: **AIP**) is the modern state based in the vast area around [[Mount Sokron]] and along the [[Ithika River Valley]] of [[Bullion]], occupying the middle-east to north-middle of the remnant. As the name implies, it lays claim to most of the ruins of [[Ith'Paraan]].
 

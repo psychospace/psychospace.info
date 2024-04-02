@@ -1,5 +1,7 @@
 ---
-tags: plane/layer
+tags:
+  - plane/layer
+  - has_glossary_entry
 ---
 The **Scarlet Skies** are a layer of [[The Heavens]] which act as the land of the [[Death|dead]] and the [[Fiend|fiends]] who control them, situated below the [[Wild Blue Yonder]]. They are also the axiomatic plane of [[Elemental energy|elemental]] fire. Occupied by their own [[Remnant|remnants]] called **Hells**, the [[Flipside|flipsides]] of these remnants comprise [[The Abyss]].
 

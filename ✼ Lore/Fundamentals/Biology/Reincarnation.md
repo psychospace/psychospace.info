@@ -2,6 +2,8 @@
 aliases:
   - reincarnate
   - rebirth
+tags:
+  - has_glossary_entry
 ---
 >[!question|ttl-c bg-c-blue] Not to be confused with [[resurrection]] or [[necromancy]].
 

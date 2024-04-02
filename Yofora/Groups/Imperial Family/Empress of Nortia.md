@@ -1,6 +1,7 @@
 ---
 tags:
   - title
+  - has_glossary_entry
 ---
 
 The **Empress of Nortia** (or **Emperor of Nortia**) is the title of the ruler over the [[Great Nortian Empire]], assumed as the matriarch of the [[Nortian imperial family]]. If reappointed in times of emergency (as it was following [[Zero Day]]), her acting authority is known as **Empress / Emperor Regnant**. She traditionally has a counsel in the one immediately behind her in succession, known as [[Successor (Nortia)|Successor]].

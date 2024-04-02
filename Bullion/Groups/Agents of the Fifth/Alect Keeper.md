@@ -1,6 +1,9 @@
 ---
 cssclasses:
   - tables-center
+tags:
+  - title
+  - has_glossary_entry
 ---
 
 Also called "the Hands that Feed", the **Alect Keepers** are a position of high importance within the [[Fifth Institute|Manteian Conservatory]] which acts as counterparts to the [[High Manteian|High Manteians]]. 

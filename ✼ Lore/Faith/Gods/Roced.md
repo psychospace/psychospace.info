@@ -1,5 +1,7 @@
 ---
-tags: being/divine
+tags:
+  - being/divine
+  - has_glossary_entry
 ---
 **Roced** is the god of [[Devil|devils]], of excess and [[Necromancy]]. Also called the "Arbiter of the Afterworld" or the "Blood Arbiter", it is said that his visage is sported by the [[Psychopomp|gatekeepers]] of the [[Scarlet Skies]] and that wherever he is depicted, he will be there also. It is for this reason that he is the god least often depicted.
 

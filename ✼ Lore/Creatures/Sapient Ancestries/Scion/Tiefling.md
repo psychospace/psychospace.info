@@ -2,16 +2,17 @@
 tags:
   - anc/tief
   - sapient
+  - has_glossary_entry
 ---
 **Tieflings** (*teef*-*ling*) or sometimes simply **tiefs**, are a [[fiend]]-blooded #sapient heritage, known for their starkly different appearances in the families they appear in.  Tieflings are born as a part of a family who once crossed blood with [[Demon|demons]] or [[Devil|devils]], and like [[aasimar]], the term *tief* does not define one specific type of people. 
-# Properties
-Resemblances to their parents and the ancestry their family draws from are not mistakable, though they are made more distinct by their supernatural appearance, including strangely colorful skin, horns, and tails being common traits. Forked tongues, small wings, and cloven hooves for feet (or for just a single foot) are less common traits that show off the variety that exists in their origins.
+
+Resemblances to their parents and the ancestry their family draws from are not mistakable, though they are made more distinct by their supernatural appearance, including strangely colorful skin, horns, and tails being common traits. Forked tongues, small wings, and cloven hooves for feet (or for just a single foot) are less common traits that indicate the variety of their individual origins.
 
 # Etymology
 The name "tiefling" is a portmanteau of "tief", an [[Old Duer]] word meaning "scarlet" (specifically in relation to blood), and the suffix "-ling".
 
 # Culture
-They are the most common type of [[scion]] in the Heavens, purely due to the nature of fiends and their desire to exert influence on the mortal realm.
+Tiefs are the most common type of [[scion]] in the Heavens, purely due to the nature of fiends and their desire to exert influence on the mortal realm.
 
 Tieflings are treated wildly differently across the remnants, since the influence of the [[Scarlet Skies]] is often felt very differently. In most lands, tieflings are a worrisome sight for many, due to a long-standing belief that fiend blood is inescapably evil — in places such as [[Dawndust]], the birth of one is seen as a cause for exile altogether. This is a mistaken appeal, though: many families and communities realize this, and try to work past it in those who do not. 
 

@@ -1,3 +1,4 @@
+---priority: HIGH
 ---
 tags:
   - character
@@ -6,6 +7,8 @@ issues:
   - expand
 priority: HIGH
 ---
+
+
 
 
 Second-lieutenant-[[buster]] **Cymosa Kamarov**, known to her troops as **buster Cymosa**, is an important figure in the post-[[Zero Day]] resolution of the [[Dragonic War]], regarded as a war hero. 

@@ -1,6 +1,9 @@
 ---
-tags: faith
-aliases: Uforiad
+tags:
+  - faith
+  - has_glossary_entry
+aliases:
+  - Uforiad
 ---
 
 The **Uforian faith**, known more prominently as the **temple of the Uforiad**, is a worship which is a mainstay of [[Great Nortian Empire|Nortian]] culture. 

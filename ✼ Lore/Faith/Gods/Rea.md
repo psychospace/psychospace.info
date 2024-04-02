@@ -1,5 +1,7 @@
 ---
-tags: being/divine
+tags:
+  - being/divine
+  - has_glossary_entry
 word-goal: "550"
 ---
 

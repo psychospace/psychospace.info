@@ -1,6 +1,7 @@
 ---
 tags:
   - timeline/event
+  - has_glossary_entry
 aliases:
   - Siege of Drastic
 permalink: history/mmt/siege

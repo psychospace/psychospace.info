@@ -1,6 +1,7 @@
 ---
 tags:
   - magic
+  - has_glossary_entry
 ---
 
 The **true name** of a creature is an exclusively-unique special word or phrase, spoken into being with the [[Golden Voice]], which is inscribed upon a [[soul]] at birth. Because even [[Figment|figments]] have true names, it is likely that all beings which can perceive the world have one. 

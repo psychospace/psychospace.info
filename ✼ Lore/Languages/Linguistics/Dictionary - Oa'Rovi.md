@@ -8,17 +8,27 @@ tags:
 
 ![[Oa'Rovi]].
 # Lexicography
-* Sounds have associated meanings. As such, depending on why a subject is referred to, or more generally the dialect being spoken in, a subject or verb might be represented by a number of similar phrasings.
-* Root sounds joined at a letter can contract together when written (HA + AI = HAI). This is mostly a stylistic decision, and was common with names, but can imply certain consistencies.
-* Paired roots form word-parts; word-parts are formed by combining root sounds
+Sounds have associated meanings. As such, depending on why a subject is referred to, or more generally the dialect being spoken in, a subject or verb might be represented by a number of similar phrasings.
+
+Oa'Rovi is generally comprised of two-rune digraphs. Digraphs are themselves words, and can be combined to form more complex words. Whenever a rune does not form a digraph as part of a word, it takes a separate form, called its "explicit" form.
+
+Words are compounded to form phrases, joined by a punctuation mark (ex. Oa'Rovi combines the words [[#Oa {OA}]] and [[#Ro {RO}]] + [[#Vi {VI}]]). This mark typically moves to indicate the highest order of specificity (ex. dialects of Oa'rovi are written by \[DIALECT]'oarovi, since the dialect itself would be more specific than the language.)
+
+You can modify a noun with compounds between digraphs and words (an English comparison would be the prefix "un-"). Junctions with modifiers were typically given a special punctuation mark to indicate their status (ex. [[#Va-Qua'Por {VA-CUAH-PORr}]]).
+
+## Preferences
+Two digraphs can contract together when joined at a letter ({HA/AI} can be written HAI). This is and was mostly a stylistic decision, and was common with names, but can imply certain consistencies.
+
 * There is not strong vocabulary for math, as those who spoke Primordial as part of their culture did not have a modern concept of certain “core” aspects of mathematics, such as zero and operations.
 * Verbs are conjugated first by number and then either by an associated element or by temporality (depending on animacy of the action).
 * Animacy of nouns is usually indicated by elementally-typical phrasing.
-* Traditionally, syllables broken by consonants (when comprising compounds) are attached by apostrophes, however hyphens are occasionally used for modifier phrases (such as va or zu)
-* Second-order compounds or higher often move the apostrophe of most specificity to the highest-order prefix. For example, the dialects of Oa'rovi are identified by \[blank]'oarovi.
-* Common transliterations of runic words or phrases are written between curly brackets, i.e. {NOVA}.
-* Whenever a letter does not form a compound on its own, it takes a separate form called a "explicit" form. In Common transliteration, this is indicated by a double letter, one being lowercase. 
-	* For example, the "v" in "Rav" is explicit, so it is indicated as {RAVv}.
+* Second-order compounds or higher often move the apostrophe of most specificity to the highest-order prefix. 
+
+## English Transliteration
+* [[Shindani]] transliterations of runic words or phrases are written between curly brackets, i.e. {NOVA}
+* The punctuation mark used in Oa'Rovi for word conjunction is written in English / [[Shindani]] as an apostrophe 
+* In Common transliteration, explicit-form is indicated by a double letter, one being lowercase. 
+	* For example, the "v" in "[[#Rav {RA/Vv}]|Rav]]" is explicit, so it is indicated as {RAVv}.
 	* The exception is L, which is notated **=L** when it appears to terminate a compound and **L=** when it appears to precede a compound (but not when it appears in a phrase).
 
 # Sentence structure
@@ -33,18 +43,18 @@ tags:
 
 Auran - **Aθ'oarovi** - A breathy, relaxed language that has been described as a slow exhaling of air.
 
-Terran - **Ranja'oarovi** - A rumbling language with deep tones that reverberate through the listener.
+Terran - **Ruθa'oarovi** - A rumbling language with deep tones that reverberate through the listener.
 
 Aquan - **Daš'oarovi** - A flowing language full of subtleties of meaning.
 
 Ignan - **Ura'oarovi** - A language full of sharp clicks and hisses.
 
 # Alphabet
-| glyphics ordered by isosephic value <br>*(low to high)*</br> |  non-glyphics used for Commonization |
-| :---: | :---: |
-| **I A O U P D J S Š F θ H C V R N L** | **E G K Y T Th Q W Z** |
+| glyphics ordered by isosephic value <br>*(low to high)*</br> | non-glyphics used for Commonization |
+| :----------------------------------------------------------: | :---------------------------------: |
+|            **I A O U P D J S Š F θ H C V R N L**             |       **E G K Y T Th Q W Z**        |
 
-# *Roots* and *Paired Roots*
+# *Roots* and *Digraphs*
 ## I
 usually /e/
 1. “singular”
@@ -119,7 +129,7 @@ usually /e/
 2. archaeology or ancient people, especially dating back to the [[Old world]]
 > Descended to the [[Shindani]] term for elves.
 
-### Ath {Aθ}
+### Ath {AΘ}
 [[#A]] + [[#θ]] "progression of energy"
 1. (*poetically*) time
 2. [[Chartless Sea#Chartlessness|Chartlessness]], the raw stuff of the [[universe]]

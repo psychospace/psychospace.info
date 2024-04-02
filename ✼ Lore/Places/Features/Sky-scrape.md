@@ -1,6 +1,8 @@
 ---
-
+tags:
+  - has_glossary_entry
 ---
+
 
 ![[⎋ 2FPG]]
 >[!quote | author] [[Scarla Nitrum|Nemain]]

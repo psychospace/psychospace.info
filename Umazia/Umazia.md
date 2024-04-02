@@ -2,6 +2,7 @@
 tags:
   - remnant
   - place/Umazia
+  - has_glossary_entry
 aliases:
   - Umazian
 issues:

@@ -1,6 +1,8 @@
 ---
 aliases:
   - whills
+tags:
+  - has_glossary_entry
 ---
 A **whill** is a term for any powerful [[Elemental creatures|elemental]] which possesses a form of sapience. Most can trace their origins to [[The Gathering]].
 

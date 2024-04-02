@@ -1,6 +1,10 @@
 ---
-aliases: Gehenna, Jackland
-tags: remnant/flipside
+aliases:
+  - Gehenna
+  - Jackland
+tags:
+  - remnant/flipside
+  - has_glossary_entry
 ---
 The [[Flipside]] of the [[Remnant]] of [[Bullion]], called **Tarnation**, **Jackland**, or **Blackjack**, and known outside of [[Shindani]] as **Gehena**, is an alien plane full of animosity and lawlessness. All attempts to settle it have failed due to its equally alien native species. Exile to Jackland is seen as a death sentence.
 

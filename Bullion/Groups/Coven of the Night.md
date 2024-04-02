@@ -1,6 +1,7 @@
 ---
 tags:
   - faction
+  - has_glossary_entry
 ---
 
 The **Coven of the Night** is the largest known [[Witchcraft|witch]] coven in [[the Heavens]], with members across most [[Remnant|remnants]] and even in many alternate [[Plane|planes]]. In the [[Mer de Vide]], their modern activities are primarily found in [[Bullion]], where they were founded some six millennia ago.

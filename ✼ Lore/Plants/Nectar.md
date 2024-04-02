@@ -11,4 +11,7 @@ The effects of nectar are largely hallucinogenic and numbing. The sensation, whi
 
 Upsetting or stressing someone under the effects of nectar is dangerous: on top of the dulled sense of pain, the positive mental effects may turn into a deep unsettling dread.
 
+tags:
+  - item
+  - has
 Though legally-scrutinized, it remains “legal in practice” in places such as [[Bullion]], especially for members of the [[Sganyodaiyo]] or other [[Wildwalker|gaucho]]. It originates from elven practice, and was originally used by their tacticians to recoup a bit of their grace while under pressure.

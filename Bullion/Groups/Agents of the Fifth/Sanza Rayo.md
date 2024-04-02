@@ -1,6 +1,8 @@
 ---
 aliases:
   - Rayo
+pronouns:
+  - he-him
 ---
 ![[⎋ 2FPG]]
 Saint **Sanza Ewald Rayo** is a [[Emirate of Qaulhain|Qauli]] [[Alect Keeper]] of the [[Fifth Institute]], specifically the Keeper of [[Eudico Fenske]]. Known as the "Saint of Light", Sanza Rayo is a [[Broadcaster]], and probably the most famous one known to be allied with the [[The Shibboleth|Shibboleth]].

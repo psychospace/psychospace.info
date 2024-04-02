@@ -2,6 +2,7 @@
 tags:
   - magic
   - item
+  - has_glossary_entry
 aliases:
   - scrolls
 ---

@@ -4,6 +4,7 @@ aliases:
   - brim
 tags:
   - title
+  - has_glossary_entry
 campaign: "[[⍟ Twin Fantasy]]"
 factions:
   - "[[Fifth Institute]]"

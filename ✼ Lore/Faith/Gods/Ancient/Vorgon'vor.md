@@ -1,6 +1,7 @@
 ---
 tags:
   - being/entity
+  - has_glossary_entry
 ---
 
 **Vorgon'vor**, **Third Death**, is an indeterminate being who is believed to be the very first [[Avatar of Death]]. Their name is sometimes interpreted as **the Most-Careful** or **He Who Is Wise to All Ends**. 

@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 **Taphrine**^[taff-rinn], also known as **taphrine plague**, is a highly-infectious disease of the skin, eyes, and lungs. It gets its name from its most common symptom in the form of chemical-burn-like lesions and blisters, which leave scars resembling "graves" or "pits" in the skin. 
 
 Taphrine is deadly to many of those who catch it. Around 1 in 6 with the disease do not survive. Treatment consists of skin-applied chemics, the prevention of further infection or inflammation, as well as bed rest. 

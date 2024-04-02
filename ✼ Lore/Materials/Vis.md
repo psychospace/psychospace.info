@@ -2,6 +2,8 @@
 issues:
   - rewrite
 priority: MEDIUM
+tags:
+  - has_glossary_entry
 ---
 ![[⎋ Needs Rewrite]]
 **Vis** is a fluid made of concentrated mashed fruit or plants boiled in a water solution with salt by low level spells such as *produce flame*. Based on well-founded beliefs that nature and life is the basis of [[magic]]'s essence, it acts as a base from which many arcane equations take shape, primarily those concerned with moving power from one place or form to another.

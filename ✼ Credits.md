@@ -30,7 +30,7 @@ She is the Gamemaster behind [[⍟ Magical Mystery Tour]], [[⍟ Extra Innings]]
  Though I can't assure every contributor is compensated, contributions are credited accordingly below.
 
 ## Authors
-The following users have graciously dedicated their time to working on this wiki. Some have authored pages entirely and contributed them, while others have offered edits which improve the experience. I appreciate the work of all volunteers.
+The following users have graciously dedicated their time to working on this wiki. Some have authored pages entirely and contributed them, while others have offered edits which improve the experience. I greatly appreciate the work of all volunteers.
 
 >[!|ttl-l no-i clean]- CombustibleToast
 >- [[Silver (XI)]]

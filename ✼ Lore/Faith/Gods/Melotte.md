@@ -2,6 +2,7 @@
 tags:
   - being/divine
   - has_glossary_entry
+  - has_glossary_entry
 word-goal: "550"
 ---
 

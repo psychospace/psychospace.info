@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 ![[⎋ 2FPG]]
 A **total psychospace kill**, or **TPK** for short, is a potential [[Collapse state|collapse]] scenario for the [[The Heavens|Heavens]] in which [[Psychospace|psychospace]] vanishes. 
 

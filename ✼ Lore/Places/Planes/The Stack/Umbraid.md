@@ -5,6 +5,8 @@ SPOILER:
   - "[[⍟ Magical Mystery Tour]]"
   - "[[Scarla Nitrum]]"
 priority: HIGH
+tags:
+  - has_glossary_entry
 ---
 ![[⎋ Needs Expansion]]
 ![[⎋ 2FPG]]

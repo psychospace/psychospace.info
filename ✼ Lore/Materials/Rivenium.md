@@ -1,3 +1,9 @@
+---
+tags:
+  - item/material
+  - has_glossary_entry
+---
+
 **Rivenium** is a magical material, said to be the physical form of dreams, particularly when in excess crafted by certain powerful dreamers, initially the [[Divinity|gods]] themselves. If it is impure, it may turn instead into [[Hepatizon]].
 
 Although rivenium no longer exists in abundance, dreamers capable of creating rivenium today still include a number of entities, especially creatures that are masters or rulers of huge realms, such as [[Uforia]].

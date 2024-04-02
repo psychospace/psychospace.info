@@ -1,3 +1,8 @@
+---
+tags:
+  - has_glossary_entry
+---
+
 Often mistaken for a severe manifestation of [[divination]], the ability to **travel through [[time]]** moves one's [[soul]] and [[body]] to an arbitrary point along the [[worldline]]. It is an incredibly rare and transgressive [[magic]] ability to demonstrate and control. 
 
 It is most often a unintentional event caused by [[Altercation|malformed magic]], which indicates that time travel violates the tenets of the [[Divine Equation]]. Thusly, it is widely considered to be impossible by any normal or safe means to access.

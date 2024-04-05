@@ -6,7 +6,7 @@ aliases:
   - Gathering
 permalink: history/age-of-gods/gathering
 ---
-**The Gathering** was a major epoch of [[✼ Timeline Hub|history]] spanning the 25,000 years between BPT 525,000 and BPT 500,000 which resulted in the creation of the "planar stack", a defining trait of the modern [[The Heavens|Heavens]]'s cosmology.
+**The Gathering** was a major epoch of [[✼ Timeline|history]] spanning the 25,000 years between BPT 525,000 and BPT 500,000 which resulted in the creation of the "planar stack", a defining trait of the modern [[The Heavens|Heavens]]'s cosmology.
 
 # History
 

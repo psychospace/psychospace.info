@@ -9,4 +9,5 @@ Some creatures which dwell in the Above include [[leviathan|leviathans]].
 
 Existing at the fringes of [[The Planet]]'s atmosphere, the Above is best described as a tumultuous and contemplative plane.
 
-![[⎋ Navbox - The Planet#^f7a037| no-link]]
+##### Navigation
+![[✼ Index#^f7a037| no-link]]

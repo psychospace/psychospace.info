@@ -13,5 +13,5 @@ Within the Heavens, [[magic]] and [[Logic]] are known to function as described. 
 
 Under modern definitions, the Heavens are known to comprise at least the planets of the [[Antic Sea]]. It is unknown if the Heavens may comprise any other planets beyond the Antic Sea, though some [[Ith'Paraan|Ith'Par]] texts suggest so. 
 
-
-![[⎋ Navbox - The Planet#^f7a037| no-link]]
+##### Navigation
+![[✼ Index#^f7a037| no-link]]

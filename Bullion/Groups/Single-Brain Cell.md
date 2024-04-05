@@ -15,7 +15,7 @@ description: The Single-Brain Cell (SBC) is a group of troublemakers and artific
 >[!quote | author] <small>*first attributable contact with SBC, in a handwritten message to authorities, written [[1281 PT]]*</small>
 >When I was a kid, I promised the old man that I would never get used to the sight of blood.<br>
 
-An occult circle of like-minded troublemakers and artificers, centered on [[Broadcaster|Broadcasters]] of various talent, jokingly self-identified as the ***Single-Brain Cell***, or “*One-Brace*” for short, referred to as "*the project*", has emerged as a group of note in [[Bullion]] in the last four years (as of [[1285 PT]]). They are widely viewed as a coordinated group of [eco-terrorists](https://en.wikipedia.org/wiki/Eco-terrorism).
+An occult circle of like-minded troublemakers and artificers, centered on [[Broadcaster|Broadcasters]] of various talent, jokingly self-identified as the ***Single-Brain Cell***, or “*One-Brace*” for short, referred to as "*the project*", has emerged as a group of note in [[Bullion]] since [[1281 PT]]. They are widely viewed as a coordinated group of [eco-terrorists](https://en.wikipedia.org/wiki/Eco-terrorism).
 
 Known to be bonded telepathically and through several items, the SBC was originally believed to be part of alchemical trafficking, but is now known for creating many dead-ends in the [[The Shibboleth|Shibb]]-wide hunt for the [[Lynchpin Device|lynchpin devices]], through complex pranks, [[Reality-Bending|reality-twitching]] enchantments, [[Antique#False antiques|false antiques]], and catastrophic schemes. 
 
@@ -25,7 +25,7 @@ Known to be bonded telepathically and through several items, the SBC was origina
 
 One-Brace seem to be a group of powerful, if mentally dubious, but otherwise normal teenagers and young-adults from throughout [[Bullion]]. Based on the variety of actions they've taken responsibility for, their actions are persistently in protest for the Shibboleth's actions regarding [[new magic]].
 
-Some of the actions they have been blamed for include firebombing the [[Sinag National Library]], embarrassing [[Ithibela Rysae|Suimari]] on her 112th birthday, disrupting [[Third Institute]] professors with an enchantment forcing them to sing their lectures, and other audacious acts of vandalism and crime. 
+Some of the actions they have been blamed for include firebombing the [[Sinag National Library]], embarrassing [[Ithibela Rysae|Suimari]] on her 112th birthday, disrupting [[Third Institute]] professors by forcing them to [[1281 PT#^7f8276|sing their lectures]], and other audacious acts of vandalism and crime. 
 
 According to [[Numberless Children|Nulk]] literature, the SBC's methods and actions speak to a desire to protect the lynchpins, and other talented [[Psion|psions]] like themselves, from those who seek to abuse and confine them, as well as a sense of camaraderie and fun using their gifts collaboratively. 
 

@@ -15,4 +15,4 @@ The most powerful and potent phantasms can cover entire cities in their crossing
 
 [[The Well]] in [[High Sacred]] is one such place.
 
-![[⎋ Navbox - The Planet#^f7a037| no-link]]
+![[✼ Index#^f7a037| no-link]]

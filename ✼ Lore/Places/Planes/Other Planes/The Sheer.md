@@ -12,7 +12,7 @@ The [[Runic engine|runic engine]] makes use of the Sheer, shortening distances t
 # Etymology
 The name "Sheer" came from its properties as a curtain of fog, as well as its thin, near-imperceptible presence. It is called "collapsed-space" because its size can be controlled by those who exert influence on it, and thus "collapses space" as a conduit between points in the [[universe]]. 
 
-![[Dictionary - Oa'Rovi#Rav'Ithflas {RAVv-IθFLAŠ}]]
+![[✼ Dictionary - Oa'Rovi#Rav'Ithflas {RAVv-IθFLAŠ}]]
 # Properties 
 It manifests in a number of ways, but is usually used as a secure, shortened [[portal|conduit]] between several holy places of import, when normal teleportation may either be too dangerous or not dangerous enough. As such, the Sheer exhibits physical properties akin to the [[Wild Blue Yonder]].
 
@@ -24,4 +24,5 @@ Its form and structure is primarily defined by powerful entities and the power t
 ## Wildcat destabilization
 When a truly destructive Sheer portal destabilization occurs, termed a *wildcat destabilization* after the uncontrolled aggression of the process, a [[Ghost storm|ghost storm]] is created instead of a Sheer conduit, as [[Vibe]] is pulled from [[Psychospace]] through the Sheer. [[Heartknock]] created ghost storms through this process, leveraging half-finished runic engines for the task.
 
-![[⎋ Navbox - The Planet#^f7a037| no-link]]
+##### Navigation
+![[✼ Index#^f7a037|no-link]]

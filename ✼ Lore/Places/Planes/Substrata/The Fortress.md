@@ -2,8 +2,6 @@
 tags:
   - plane
   - has_glossary_entry
-SPOILER:
-  - "[[⍟ Magical Mystery Tour]]"
 ---
 ![[⎋ 2FPG]]
 The **Fortress**, also called **the Barrow**, is a [[Plane#Realm|planar conduit]] acting as the foundation of [[the Planet]]'s planar substrata, and the source of _[[verlan]]_. It is the primary corridor between the real world and the [[elseworld]], anchored on the [[First City]].

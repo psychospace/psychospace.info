@@ -16,4 +16,4 @@ This plane is the origin of [[Fey|fey]], and has a physical form beyond its natu
 
 It is rumored that [[Welkin]] where the [[Divinity|gods]] dwell is somewhere within. At the very least, it is accepted that the gods came from [[Chartless Sea]], which may have birthed Kibangan.
 
-![[⎋ Navbox - The Planet#^f7a037| no-link]]
+![[✼ Index#^f7a037| no-link]]

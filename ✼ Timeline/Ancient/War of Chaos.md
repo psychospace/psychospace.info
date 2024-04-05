@@ -4,7 +4,7 @@ tags:
   - has_glossary_entry
 ---
 
-The **War of Chaos**, also called the **Shatter**, was a prehistoric [[✼ Timeline Hub|epoch]] which precipitated the close of the [[Old world|Old world]]. It was followed by the [[Unknown Era]].
+The **War of Chaos**, also called the **Shatter**, was a prehistoric [[✼ Timeline|epoch]] which precipitated the close of the [[Old world|Old world]]. It was followed by the [[Unknown Era]].
 
 # History
 In a blind-spot in the utopian society of [[The Planet]], an ancient power arose, [[Chaos|what they called magic]], and smashed everything they knew to bits. Apocalypse quickly became a very real possibility. This chaos operated outside anybody's grasp, slowly devouring the world.

@@ -16,4 +16,4 @@ Examples include [[Evangel|evangels]], [[aasimar]], [[Tiefling|tieflings]], and 
 # Etymology
 The term "scion" is from [[Oa'Rovi]].
 
-![[Dictionary - Oa'Rovi#Šaon {ŠA/ON}]]
+![[✼ Dictionary - Oa'Rovi#Šaon {ŠA/ON}]]

@@ -30,4 +30,4 @@ Psychospace borders so closely on the Heavens, through its all-encompassing natu
 
 
 ##### Navigation
-![[⎋ Navbox - The Planet#^f7a037| no-link]]
+![[✼ Index#^f7a037| no-link]]

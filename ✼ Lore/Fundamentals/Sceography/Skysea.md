@@ -15,4 +15,5 @@ Many skyseas have been named:
 
 In antiquity, the [[Out There]] was called “the skysea without end”.
 
-![[⎋ Navbox - The Planet#^f7a037| no-link]]
+##### Navigation
+![[✼ Index#^f7a037| no-link]]

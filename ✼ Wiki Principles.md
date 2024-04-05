@@ -4,6 +4,9 @@ issues:
   - incomplete
 word-goal: "1000"
 priority: HIGH
+tags:
+  - meta
+  - hub
 ---
 
 This incomplete page contains information on how [[✼ Psychospace.info]] articles are styled and may be referenced.

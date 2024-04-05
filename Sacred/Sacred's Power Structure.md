@@ -1,5 +1,6 @@
 ---
-tags: hubs
+tags:
+  - hub
 ---
 As of [[1251 PT]]:
 

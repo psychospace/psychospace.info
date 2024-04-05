@@ -1,25 +1,24 @@
 ---
 tags:
   - has_glossary_entry
-  - hubs
+  - hub
 cssclasses:
   - notion
   - readable
 permalink: glossary
 ---
-
 %%
 TERMS TO BE ADDED TO GLOSSARY
 ```dataview
 TABLE rows.file.link as Link
-FROM -#has_glossary_entry and ("psychospace.info/✼ Lore" or "psychospace.info/✼ Timeline" or #government or #remnant or #noteworthy or #title or #faith or #skysea) and -#hubs
+FROM -#has_glossary_entry and ("psychospace.info/✼ Lore" or "psychospace.info/✼ Timeline" or #government or #remnant or #noteworthy or #title or #faith or #skysea) and -#hub
 WHERE !contains(file.name, "PT")
 SORT file.name
 GROUP BY substring(file.name, 0, 2) as Initials
 ```
 %%
 
-This is a **glossary** of terms which appear in the lore of [[the Heavens]]. Please search this page for short, readable descriptions of each of the terms that appear. The list of terms with glossary entries are tagged with #has_glossary_entry.
+This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear in the lore of [[the Heavens]]. Please search this page for short, readable descriptions of each of the terms that appear. The list of terms with glossary entries are tagged with #has_glossary_entry.
 
 ---
 

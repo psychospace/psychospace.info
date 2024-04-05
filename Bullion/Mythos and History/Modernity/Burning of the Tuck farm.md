@@ -4,9 +4,9 @@ tags:
 description: On the Ides of Alssad, 1283 PT, the Tuck family farm was burnt to the ground.
 ---
 
-The [[Tuck family farm]] **burned to the ground** on the night of the Ides of Alssad, [[1283 PT]], resulting in the deaths or vanishings of its owners -- [[Aloysius Tuck|Aloysius]], [[Mariella Tuck|Mariella]], and [[Pollyanna Tuck]] --  as well as [[Johanna Abascal]]. Prior to the burning, [[Pietro Whitaker]], a confidant of young Abascal, was also murdered.
+The [[Tuck family farm]] **burned to the ground** on the night of the Ides of Alssad, [[1283 PT]], resulting in the deaths or vanishings of its owners -- [[Aloysius Tuck|Aloysius]], [[Mariella Tuck|Mariella]], and [[Pollyanna Tuck]] --  as well as [[Johanna Abascal]]. Prior to the burning, [[Pietro Whitaker]], a confidant of young Abascal, was also murdered. ^6ab06e
 
-The individual known as the [[Thousand Rider]] is believed to be at fault, though reasoning for the attack remain publicly unknown, and evidence is scarce. The Rider, as a result, has grown to become infamous throughout [[the Shibboleth]].
+The individual known as the [[Thousand Rider]] is believed to be at fault, though reasoning for the attack remain publicly unknown, and evidence is scarce. The Rider, as a result, has grown to become infamous throughout [[the Shibboleth]]. ^1319bb
 
 # Event
 ![[⎋ Uncommon#^1bfe2a]]

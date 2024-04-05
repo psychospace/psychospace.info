@@ -4,8 +4,6 @@ tags:
   - magic/new
   - has_glossary_entry
 ---
-
-![[⎋ Spoilers - XI]]
 ![[Ciro Enfys#^ebc38d]]
 
 The “**Gift of Stars**" is an occult mystery (a [[Gift (witchcraft)|Gift]]) which brings the observer close to a reckoning of infinite potentiality. It specifically refers to one associated with [[Amakudari-no-Mikoto]] and its manifestations, who traveled the stars and across [[Time travel|their lifespans]] at will.  

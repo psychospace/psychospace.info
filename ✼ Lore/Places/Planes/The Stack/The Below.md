@@ -7,4 +7,5 @@ tags:
 
 A myth says that what the Below is today was originally a construction by a [[First Magicians|First Magician]] known as [[Trayan]], who constructed it as a *magnum opus* called the [[Tower Machine]], an artificial super-[[Remnant]] which could harvest and utilize the energy of the core of the planet.
 
-![[⎋ Navbox - The Planet#^f7a037| no-link]]
+##### Navigation
+![[✼ Index#^f7a037| no-link]]

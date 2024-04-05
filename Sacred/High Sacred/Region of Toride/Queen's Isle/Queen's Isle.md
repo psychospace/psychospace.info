@@ -1,6 +1,8 @@
 ---
 onenote-created: 2020-07-26 17:14:24 -0400
 onenote-modified: 2020-09-04 15:45:32 -0400
+issues:
+  - rewrite
 ---
 
 An island has, for as long as recorded history, settled in the outlying [[Skysea]] of northwest [[High Sacred]]. In ancient times it was known as *Isola dei Santuari*, the Isle of Shrines, as it was used as a holy site of pilgrimage for the high priests of the [[Carapa Republic]], who were capable of flight. They believed it was a holy place because only they and the angels they worshipped were worthy enough to have the honor of walking there. It was said to be "the god's watchpoint", since the center of the island was marked by a tall, thin mountain known today as the **Horn of Sacred**, which looked to them like a sort of peeking tower above the horizon.

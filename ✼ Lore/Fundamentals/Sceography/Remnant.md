@@ -15,4 +15,4 @@ In addition, remnants can slip dimensions from [[Out There]] and “arrive” on
 
 Through [[Phantasm|phantasms]] or through [[Magic]], one can reach the [[Flipside|other side]] of these floating pieces, traversing the planes.
 
-![[⎋ Navbox - The Planet#^f7a037| no-link]]
+![[✼ Index#^f7a037| no-link]]

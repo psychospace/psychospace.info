@@ -7,4 +7,4 @@ tags: character/dead, anc/owlin
 Ithuriel was aided in this task by twin mages [[Aedil Rysae|Aedil]] and [[Maedil Rysae]], the latter of whom was his consort.
 
 # Etymology
-![[Dictionary - Oa'Rovi#Ith'Uriel {Iθ-URIAL}]]
+![[✼ Dictionary - Oa'Rovi#Ith'Uriel {Iθ-URIAL}]]

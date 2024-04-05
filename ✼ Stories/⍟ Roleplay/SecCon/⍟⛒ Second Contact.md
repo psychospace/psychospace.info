@@ -15,7 +15,7 @@ aliases:
 It began on January 8, 2024.
 
 # Summary
-It covers an [[✼ Story Hub#AUs|alternate universe]] in which the [[Antic Sea]], as it was in [[1250 PT]], suddenly appeared in the [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) some fifteen-thousand years in the future from current day. The existence and nature of [[psychospace]], let alone [[Human|humans]] indistinct from expectation, runs afoul of their commonly understood science.
+It covers an [[✼ Stories#AUs|alternate universe]] in which the [[Antic Sea]], as it was in [[1250 PT]], suddenly appeared in the [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) some fifteen-thousand years in the future from current day. The existence and nature of [[psychospace]], let alone [[Human|humans]] indistinct from expectation, runs afoul of their commonly understood science.
 
 The appearance of the Sea, termed DSA-40975, was quickly investigated as an anomaly by *Lancer*'s Union, the governing body of much of the local Milky Way, befuddled by [[magic]], apparent [[Human|humans]] and human-variants, and the medieval level of tech they saw on the ground on [[the Planet|DSA-40975-3]]. 
 

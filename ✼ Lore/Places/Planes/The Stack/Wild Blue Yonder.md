@@ -10,4 +10,6 @@ Amid blue [[Skysea|sky oceans]] that undergo processes and patterns of [[Weather
 
 The Yonder also encompasses each "plane" on the [[Flipside]] of each remnant.
 
-![[⎋ Navbox - The Planet#^f7a037| no-link]]
+
+##### Navigation
+![[✼ Index#^f7a037|no-link]]

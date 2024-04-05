@@ -13,10 +13,10 @@ FROM -outgoing([[#]]) and "psychospace.info/✼ Stories"
 SORT file.name
 ```
 
-[[✼ Story Hub|🝰 Stories]] 🢖 🙪⋆🜲⋆🝩⋆🜞⋆🜍⋆🝮
+[[✼ Stories|🝰 Stories]] 🢖 🙪⋆🜲⋆🝩⋆🜞⋆🜍⋆🝮
 %%
 
-This page acts as a #hub for the pages in the **Stories** folder. If you're interested in non-wiki reading material, please regularly check this page for new stories and the like.
+This page acts as a [[✼ Index|hub]] for the pages in the **Stories** folder, which are mostly comprised of non-article texts. If you're interested in non-wiki reading material, please regularly check this page for new stories and the like.
 # ⊛ Prose
 Stories in **prose** are stories written about or from the perspective of characters.
 

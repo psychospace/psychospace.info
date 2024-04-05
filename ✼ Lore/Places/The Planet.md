@@ -8,7 +8,7 @@ aliases:
 >[!question|bg-c-blue ttl-c] If you were looking for the physical space pervaded by [[psychospace]], including the Planet, see [[the Heavens]]. If you were looking for the "alternate" planet, see [[#Alternate worldline]].
 ---
 
-The **Planet** ([[Oa'Rovi]]: ***Yalagnu***^[Yal-Ashnu]), is the typical [[Shindani]] name of the physical [planet](https://en.wikipedia.org/wiki/Planet) which is home to the [[The Heavens|Heavens]], where life thrives and where [[psychospace]] is known to harbor an immense power. 
+The **Planet** ([[Oa'Rovi]]: ***<span class="explain" title="{YA=L/AS/NU}">Yalagnu</span>***), is the typical [[Shindani]] name of the physical [planet](https://en.wikipedia.org/wiki/Planet) which is home to the [[The Heavens|Heavens]], where life thrives and where [[psychospace]] is known to harbor an immense power. 
 
 The third-nearest planet to the [[star]] [[Cien]] in the [[Antic Sea]], Yalagnu is a diverse rocky world with peculiar [[gravity]], and two moons, [[Lex]] and [[Ordo]]. 
 
@@ -37,7 +37,7 @@ These realms are, from highest to lowest:
 - The [[Scarlet Skies]]
 - The [[Väräh]]
 - and [[The Below]].
-
-![[⎋ Navbox - The Planet#^f7a037| no-link]]
+##### Navigation
+![[✼ Index#^f7a037]]
 
 [^1]: See [[◍ The World Born in Stone]].

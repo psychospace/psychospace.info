@@ -21,6 +21,7 @@ campaign: "[[⍟ Magical Mystery Tour]]"
 location:
   - "[[Drastic]]"
 residence: "[[S4t]]"
+as_of: "[[1251 PT]]"
 ---
 
 >[!infobox | wikipedia right]+

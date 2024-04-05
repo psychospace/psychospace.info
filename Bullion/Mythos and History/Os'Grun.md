@@ -12,4 +12,4 @@ The **Os'Grun** was a meteorite which caused an epochal impact event on [[Bullio
 The  brought [[Ith'Paraan]] to an end, among other cataclysmic events.
 
 # Etymology
-![[Dictionary - Oa'Rovi#Os'Grun {OZ?-ŠURUN}| illusion]]
+![[✼ Dictionary - Oa'Rovi#Os'Grun {OZ?-ŠURUN}| illusion]]

@@ -16,7 +16,7 @@ It is a realm of shadows, and a realm associated with water and divinity. Many s
 It is a matter of debate on the part of the Heavens's inhabitants whether the term of "the Dark Sea" should refer to just one nearby region, one "sea", or the vast infinity of the night sky.
 
 
-![[⎋ Navbox - The Planet#^f7a037| no-link]]
+![[✼ Index#^f7a037| no-link]]
 
 %%The Dark Sea is (perhaps obviously) the largest plane of existence by size: its true size, in fact, is incalculable. As such, it is naturally subject to a variety of mysteries about its true nature, how far the gods reach (if the stories are to be believed) stretches into it, and how one might go about sailing the stars. Of course, no one alive holds the secrets to developing the means of soaring to that height, and what is known is that the plane is devoid of air, and so, little headway has been made in that regard.
 

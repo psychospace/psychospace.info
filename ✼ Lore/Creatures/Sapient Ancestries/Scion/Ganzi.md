@@ -37,4 +37,4 @@ Some also believe to have been born a ganzi as a direct result of heritage attri
 # Etymology
 The term "ganzi" is from [[Oa'Rovi]].
 
-![[Dictionary - Oa'Rovi#Šaonathi {ŠaON/Aθ/I}]]
+![[✼ Dictionary - Oa'Rovi#Šaonathi {ŠaON/Aθ/I}]]

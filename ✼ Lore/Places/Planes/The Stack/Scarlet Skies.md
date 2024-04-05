@@ -9,4 +9,4 @@ Nine layers of clouds and winds progress further and further into hot, hot sunse
 
 A hell known as [[Unwri]] is notable for being the place where souls are sorted into their individual afterlives.
 
-![[⎋ Navbox - The Planet#^f7a037| no-link]]
+![[✼ Index#^f7a037| no-link]]

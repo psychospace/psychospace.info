@@ -5,6 +5,7 @@ tags:
   - has_glossary_entry
 ---
 ![[⎋ 2FPG]]
+![[⎋ Uncommon#^275f81]]
 > [!quote | author]  *[[Dakota Hazelwick|Graven Witch]] of [[Mezcoatl]]*
 > "All creatures are born believing themselves contiguous bodies, total things, with limited reach and a predilection for misguidance. Your Gift asks of you, '*Is this, the sum of you, all that you are? Are you this flesh, this will, this soul, and naught else?*' Accepting its grace, a witch is granted the sight to answer, '*No. I am **more**.*' 
 > 

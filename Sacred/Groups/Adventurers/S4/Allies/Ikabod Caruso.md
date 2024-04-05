@@ -21,7 +21,7 @@ campaign: "[[⍟ Magical Mystery Tour]]"
 ># Ikabod Laila Caruso
 >>[!caption] 
 >>![[icon_ikabod.png|300]]
->>[[✼ Credits|(Credits)]]
+>>Art by *[[✼ Credits#^39db75|root_circuit]]*.
 >#### General Information
 >| | |
 >| --- | --- |

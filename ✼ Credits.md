@@ -5,6 +5,7 @@ cssclasses:
   - list-bullet-color
 tags:
   - meta
+  - hub
 ---
 ![[⎋ Real-World]]
 >[!aside | right]-
@@ -13,11 +14,13 @@ tags:
 
 [[✼ Psychospace.info]] is the product of many people's efforts. Their names are enshrined here.  
 
-If you wish to financially support the development of this world, ==please consider donating to [Ko-fi](https://ko-fi.com/psychospace)==. 
----
+If you wish to financially support the development of this world: 
+- ==please consider donating to the curator's [Ko-fi](https://ko-fi.com/psychospace)==. 
+- please consider donating or commissioning the individual contributors.
+
 Everything helps immensely, towards commissioning art, keeping the lights on, and keeping my body breathing. Thank you for your consideration.
 
-*This page was last updated on January 29th, 2023.*
+*This page was last updated on 4-4-24.*
 
 
 # Author & Curator
@@ -30,7 +33,7 @@ She is the Gamemaster behind [[⍟ Magical Mystery Tour]], [[⍟ Extra Innings]]
  Though I can't assure every contributor is compensated, contributions are credited accordingly below.
 
 ## Authors
-The following users have graciously dedicated their time to working on this wiki. Some have authored pages entirely and contributed them, while others have offered edits which improve the experience. I greatly appreciate the work of all volunteers.
+The following users have graciously dedicated their time to working on this wiki. Some have authored pages entirely and contributed them, while others have offered edits which improve the experience. I greatly appreciate and welcome the work of all volunteers.
 
 >[!|ttl-l no-i clean]- CombustibleToast
 >- [[Silver (XI)]]
@@ -94,7 +97,7 @@ Had I never had each of those experiences, I would not be the writer I am today.
 
 * [tinykitten1708](https://twitter.com/tiny_1708)  ^f432ac
 	* [[Trobairitz]] and [[Certain (evangel)|Certain]] ([[img_trobicerty.png|!]])
-* [root_circuit](https://www.tumblr.com/rootcircuit) ^39db75
+* [root_circuit](https://www.tumblr.com/rootcircuit)[^1] ^39db75
 	* [[Hazel Sobol|Hazel Sobol]] ([[icon_buster.png|!]])
 	* [[Serena Nortia]] ([[icon_serena.png|!]])
 	* [[Chiave Neeman]] ([[icon_chiave.png|!]])
@@ -150,3 +153,4 @@ Content adjacent to [[⍟⛒ Second Contact]] is not an official Lancer product;
 
 
 [^a]: Indicates a character which originally appeared as a guest.
+[^1]: ==Curator's Note== : `root_circuit` has switched aliases a few times, and in the process I have lost track of the ability to accurately credit them. If you can get me into contact with someone who went by that alias once with proof of their identity, please contact me at `jan@psychospace.info`. Thanks!

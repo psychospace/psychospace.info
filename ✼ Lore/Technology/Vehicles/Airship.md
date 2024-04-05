@@ -34,7 +34,7 @@ Such craft are typically described as being capable of **infrayonder** (below th
 ![[Void breaker#^e07d0f|no-title]]
 # History
 ## Pre-shipflight
-It is believed that [[First Magicians]] originally tamed or allied themselves with [[Dragon|dragons]] for the task of flight. For almost all [[✼ Timeline Hub|history]], various creatures of [[The Above]] were worked for the task of personal flight.
+It is believed that [[First Magicians]] originally tamed or allied themselves with [[Dragon|dragons]] for the task of flight. For almost all [[✼ Timeline|history]], various creatures of [[The Above]] were worked for the task of personal flight.
 
 The first airship, a vessel specifically created to ferry passengers across the skyseas, was probably constructed in the period around 15,000 to 10,000 years ago, though several civilizations had tamed dragons and traveled the skies in limited capacities beforehand.
 

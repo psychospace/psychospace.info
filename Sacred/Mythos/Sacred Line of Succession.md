@@ -1,8 +1,8 @@
 ---
 tags:
-  - hubs
   - timeline
   - meta
+  - hub
 ---
 | Name                          | Gender | Race                  | Year Born | Year Died | Age | Epithet(s)                            | Start Year | Start Age | End Year | End Age | Reign (yrs) | Cause of Reign's End                                     |
 | :-----------------------------: | :------: | :---------------------: | --------- | --------- | --- | ------------------------------------- | ---------- | --------- | -------- | ------- | ------------ | ------------------------------------------ |

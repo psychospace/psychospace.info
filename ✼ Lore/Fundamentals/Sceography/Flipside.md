@@ -11,4 +11,4 @@ For example, the flipside of [[Bullion]] is [[Tarnation]].
 
 The alternate planes of existence reached in this manner are technically places on the [[Wild Blue Yonder]]. Not all "planes" are a single remnant's counterpart; as another point, not all remnants have distinct planes attached to them.
 
-![[⎋ Navbox - The Planet#^f7a037| no-link]]
+![[✼ Index#^f7a037| no-link]]

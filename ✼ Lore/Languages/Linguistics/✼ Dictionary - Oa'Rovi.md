@@ -3,7 +3,7 @@ cssclasses:
   - heading-center-lines
   - illusion
 tags:
-  - hubs
+  - hub
 ---
 
 ![[Oa'Rovi]].

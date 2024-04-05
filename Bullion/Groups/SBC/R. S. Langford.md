@@ -14,10 +14,8 @@ factions:
   - "[[Single-Brain Cell]]"
 pronouns:
   - any
-SPOILER:
-  - "[[Single-Brain Cell]]"
-  - "[[⍟ Twin Fantasy]]"
 description: Dr. R. S. Langford is an entity of unknown makeup, but supreme psionic prowess, who distantly oversees and created Single-Brain Cell.
+cover: '"00 - Meta/Images/corrucyst/doc.png"'
 ---
 >[!quote|author] *Apparent piece of advice given to [[the Pitcher]]*
 >"The only way out of a jam is straight through."
@@ -27,9 +25,9 @@ description: Dr. R. S. Langford is an entity of unknown makeup, but supreme psio
 >>![[doc.png]]
 >>Depicted in a graffito, reading: "*You don't have nowhere to go.*" Art by [[✼ Credits#^10a462|corrucyst]].
 
-Dr. **R. S. Langford**^[See [[#Etymology]].] is an entity of unknown makeup, but supreme psionic prowess, who distantly oversees and created [[Single-Brain Cell]]. Their ontology, mortality, or its true aim with forming the SBC is ultimately a mystery.  
+Dr. **R. S. Langford**^[See [[#Etymology]].] is an entity of unknown makeup, but supreme psionic prowess, who distantly oversees and created [[Single-Brain Cell]]. 
 
-Despite having created this group, an interview with "[[The Best]]" determined that though it oversees the Cell, they continue to work for nobody but themselves.
+<span class="glitch" data-text1="His" data-text2="Her">Their</span> ontology, mortality, or its true aim with forming the SBC is ultimately a mystery. Despite having created this group, an interview with "[[The Best]]" determined that though it oversees the Cell, the Cell continues to work for nobody but themselves.
 
 In a public address in late [[1284 PT]], [[Sanza Rayo]] has instructed [[the Shibboleth]] that coming forward with any concrete knowledge of this entity would be rewarded: such a bounty has yet to be soundly claimed.
 # Ontology
@@ -74,7 +72,9 @@ Clover terms their leader's ability (if not a Codec) "***Anekrízotos***” (mea
 
 
 # Etymology
-Dr. Langford's subordinates and claimed "family" call them, interchangeably, “**the old man**,” “**the old woman**,” "**the doctor**", or “**Doc**”. Though many members of SBC have occasionally seen interrogation, when interrogated about any apparent inaccuracy regarding Langford's alias, it appears to be impossible to "directly" describe, with even Clover referring to it interchangeably as "father" or "mother" or "guardian". 
+Dr. Langford's subordinates and claimed "family" call them, interchangeably, Dr. Langford's subordinates and claimed "family" call them, interchangeably, "**the old <span class="glitch" data-text1="woman&#34;" data-text2="man&#34;&#8199;">fellow"</span>**, "**the doctor**", or “**Doc**”. 
+
+Though many members of SBC have occasionally seen interrogation, when interrogated about any apparent inaccuracy regarding Langford's alias, it appears to be impossible to "directly" describe.  Even Clover refers to it interchangeably as "*<span class="glitch" data-text1="father" data-text2="mother">guardian</span>*". 
 
 Nobody of the Cell has claimed the ability to determine the true meaning behind the initialism "R. S.". The assumed full alias for Langford is **Reyes Sinclair Langford**, but this was a self-admitted "joke" made by [[Rise-and-Shine]].
 

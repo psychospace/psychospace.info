@@ -23,6 +23,13 @@ Most kobolds, however, are ultimately (and rather famously) weak of temperament,
 
 In the past 100 years (as of [[⍟ Magical Mystery Tour]]), in accordance with the [[Age of Adventurers]], kobolds in the Wild Blue have been gradually emerging from their holdouts to strive to much more dangerous things and treasures, as well as expressing yet more complex desires and philosophies. Cultural shifts in the treatments of many ancestries have benefitted kobolds as well,  though their genuine deep-seated trust of dragons makes them more than culpable to poor judgements in leadership, aim, or outlook.
 
+## Look-seemer
+Kobolds, known to be prone to poor decision making, are as often finicky when it comes to gender. Trans-ness to a kobold, sometimes called "look-seemers" in kobold parlance, is usually characterized as [genderfluidity](https://en.wikipedia.org/wiki/Gender_fluidity) by outside points of view. This is observed based on how frequently a kobold will almost randomly decide what makes them comfortable on a specific day (or specific hour, if the kobold is particularly anxious).
+
+This does lead to renegade kobold kabals occasionally delving into towns and homes *purely and entirely* to steal clothes and assemble a "Kloset" for their look-seemer kabalmates, and due to the lack of danger such "raids" usually pose, communities which find themselves regularly the subject of these attacks often humor the kobolds who pull them off.
+
+In almost every case where the kobold is in more of a stable position with its gender, that's because the kobold is highly confident in the society that has emerged around its Taker, no matter how misguided that confidence really is. In other words, a perceived stable society helps stabilize a kobold's mental state and thus the form they're happy to assume, which some see as humorously analogous to the ability of some dragons, able and willing to pick the form they assume.
+
 
 # Mythos
 Mythology follows that kobolds were born somehow of the [[soulstone|soulstones]] that fell to the [[Wild Blue Yonder]] and [[Scarlet Skies]] from Gebra's reborn body. Kobold origin myths diverge from this point, some believing that they were born from these stones as eggs and thus possess sparks of divinity, others believing that it was the [[First Magicians|First Ones]]' attempts to recreate dragons using these stones that generated their bodies, as though they were speakers of the gods. Some further elaborate that perhaps these stones were melted down or gradually eroded into the earth, steeping the power that made them into the core of the remnants. 

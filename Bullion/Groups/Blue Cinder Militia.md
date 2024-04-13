@@ -6,7 +6,7 @@ tags:
 > [!quote | author]  Blue Cinder mantra
 > We fight an unfightable foe to tame an untameable wild. To protect all peoples, no matter how small; to enforce and celebrate the will of [[The Shibboleth]], and to vanquish all evil from these lands, for the good of all gods.
 
-The **Militia of the Blue Cinder Crest**, most often just called the **Blue Cinders** and often simplified to just "*the militia*", is the unofficial civilian paramilitary, acting as a general law-enforcing organ of [[The Shibboleth]]. 
+The **Militia of the Blue Cinder Crest**, most often just called the **Blue Cinders** and often simplified to just "*the militia*", is the unofficial civilian paramilitary, acting as a general law-enforcing organ, of [[The Shibboleth]]. 
 
 The Militia is an observer-member of the Shibboleth, whose charter ensures their continued cooperation with any other law-enforcing bodies.
 

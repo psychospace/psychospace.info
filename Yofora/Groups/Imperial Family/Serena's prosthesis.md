@@ -9,4 +9,4 @@ It was made necessary when Serena used [[Monism|monism]] to rescue the shattered
 
 The load-bearing sections of the prosthetic are made of steel for structural integrity while the joints are made with brass for reduced friction. It was made to accommodate her working knee, though it can be locked in place if needed.
 
-During the [[Zero Day|final battle]] with the [[Nortian Conspiracy]], Serena's prosthetic saved her life, when it was devoured in her body's stead by spreading [[tzitzimitl]] god flesh.
+During the [[Zero Day|final battle]] with the [[Nortian Conspiracy]], Serena's prosthetic saved her life, when it was devoured in her body's stead by the spread of [[tzitzimitl]] god-flesh.

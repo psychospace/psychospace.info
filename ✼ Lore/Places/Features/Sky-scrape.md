@@ -1,6 +1,7 @@
 ---
 tags:
   - has_glossary_entry
+description: The sky-scrape is a rune over the Planet, in the shape of the Crest of Conception.
 ---
 
 

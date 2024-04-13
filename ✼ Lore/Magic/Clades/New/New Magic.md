@@ -39,6 +39,6 @@ Its origin appears to be undetermined, though many hypotheses exist, such as the
 # Views
 [[Illarion Parasom]] held the belief that the change would bring [[Universe|reality]] to a breaking point. Some share this view.
 
-As its proliferation can be said to threaten the world [[Fulcrum|on a global scale]] (and potentially has provably [[Collapse state|ended it]]), many governments have seen fit to limit its legal uses and sequester the science away, though births exhibiting the abilities of new magic continue to occur regardless of any efforts to contain it.
+Fear of new magic is known as **neophobia**. As its proliferation can be said to threaten the world [[Fulcrum|on a global scale]] (and potentially has provably [[Collapse state|ended it]]), many governments have seen fit to limit its legal uses and sequester the science away, though births exhibiting the abilities of new magic continue to occur regardless of any efforts to contain it.
 
 The [[Coven of the Night]] and the [[Numberless Children]] are two prolific groups which have offered their support to new magicians.

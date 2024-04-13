@@ -12,19 +12,34 @@ Sounds have associated meanings. As such, depending on why a subject is referred
 
 Oa'Rovi is generally comprised of two-rune digraphs. Digraphs are themselves words, and can be combined to form more complex words. Whenever a rune does not form a digraph as part of a word, it takes a separate form, called its "explicit" form.
 
-Words are compounded to form phrases, joined by a punctuation mark (ex. Oa'Rovi combines the words [[#Oa {OA}]] and [[#Ro {RO}]] + [[#Vi {VI}]]). This mark typically moves to indicate the highest order of specificity (ex. dialects of Oa'rovi are written by \[DIALECT]'oarovi, since the dialect itself would be more specific than the language.)
+Words are compounded to form phrases, joined by a punctuation mark (ex. Oa'Rovi combines the words [[#Oa {OA}]] and [[#Ro {RO}]] + [[#Vi {VI}]]). This mark typically moves to indicate the highest order of specificity (ex. dialects of Oa'rovi are written by \[DIALECT]'oarovi, since the dialect itself would be more specific than the language.) 
 
 You can modify a noun with compounds between digraphs and words (an English comparison would be the prefix "un-"). Junctions with modifiers were typically given a special punctuation mark to indicate their status (ex. [[#Va-Qua'Por {VA-CUAH-PORr}]]).
+
+ Verbs are conjugated first by number and then either by an associated element or by temporality (depending on animacy of the action).
+## Glyph alphabet
+The glyphs of Oa'Rovi
+
+| glyphics ordered by isosephic value <br>*(low to high)*</br> | non-glyphics used for Commonization |
+| :----------------------------------------------------------: | :---------------------------------: |
+|            **I A O U P D J S Š F θ H C V R N L**             |       **E G K Y T Th Q W Z**        |
+|                                                              |                                     |
+
+## Numerology
+There is not strong vocabulary for math, as those who spoke Primordial as part of their culture did not have a modern concept of certain “core” aspects of mathematics, such as zero and operations.
+
+## Animacy
+
+All living things, things animated by magic, and spells are treated as animate when they are referred to. In general, animacy is associated with magic, due to the nature of [[Soul bond|bonds]].
+
+Animacy of nouns is usually indicated by elementally-typical phrasing. For example, a water-dwelling creature would be described using water runes like [[#Š]].
 
 ## Preferences
 Two digraphs can contract together when joined at a letter ({HA/AI} can be written HAI). This is and was mostly a stylistic decision, and was common with names, but can imply certain consistencies.
 
-* There is not strong vocabulary for math, as those who spoke Primordial as part of their culture did not have a modern concept of certain “core” aspects of mathematics, such as zero and operations.
-* Verbs are conjugated first by number and then either by an associated element or by temporality (depending on animacy of the action).
-* Animacy of nouns is usually indicated by elementally-typical phrasing.
-* Second-order compounds or higher often move the apostrophe of most specificity to the highest-order prefix. 
+Second-order compounds or higher often move the apostrophe of most specificity to the highest-order prefix.
 
-## English Transliteration
+# Transliteration
 * [[Shindani]] transliterations of runic words or phrases are written between curly brackets, i.e. {NOVA}
 * The punctuation mark used in Oa'Rovi for word conjunction is written in English / [[Shindani]] as an apostrophe 
 * In Common transliteration, explicit-form is indicated by a double letter, one being lowercase. 
@@ -35,11 +50,11 @@ Two digraphs can contract together when joined at a letter ({HA/AI} can be writt
 * Generally SVO, but easy to find casual or incidental exceptions such as VO or SSO.
 * Adjectives, adverbs, and prepositional phrases are treated as equals: while the latter two follow patterns it generally falls on the listener to gather context about the statement
 * When spoken for dramatic effect, unclear subjects are treated as inanimate references until they are more easily identified. 
-* All living things, things animated by magic, and spells are treated as animate when they are referred to; 
-	* In general, animacy is associated with magic
 * A carried over quirk from the original Dwarven transcribers: if someone is using the “purpose” of a device, conjugate that noun as if it were a verb (English equivalents would be “leash” and “to leash” or “phone” and “to phone”).
 * Questions are terminated by the nature of your inquest (in English a comparison would be saying "The place of your origin where?" to ask "Where were you born?"), as though it were an adjective
 * In place of question marks, a semicolon like mark is used, followed by ending punctuation. The mark is also used akin to a semicolon and is pronounced “ñ” when it appears to conclude a statement.
+
+# Dialectology
 
 Auran - **Aθ'oarovi** - A breathy, relaxed language that has been described as a slow exhaling of air.
 
@@ -49,10 +64,8 @@ Aquan - **Daš'oarovi** - A flowing language full of subtleties of meaning.
 
 Ignan - **Ura'oarovi** - A language full of sharp clicks and hisses.
 
-# Alphabet
-| glyphics ordered by isosephic value <br>*(low to high)*</br> | non-glyphics used for Commonization |
-| :----------------------------------------------------------: | :---------------------------------: |
-|            **I A O U P D J S Š F θ H C V R N L**             |       **E G K Y T Th Q W Z**        |
+
+
 
 # *Roots* and *Digraphs*
 ## I
@@ -247,7 +260,9 @@ associative prefix (as in "name")
 2. contingency
 
 ## J
-"stone”, defense, everlasting
+1. "stone”
+2. defense
+3. everlasting
 ## S
 1. "connection", association
 2. family
@@ -276,10 +291,9 @@ associative prefix (as in "name")
 
 ## Š
 /ʃ/
-1. "water"
-2. history
-3. survival
-4. a "series of connections"
+1. "water", flow
+2. history, survival
+3. a "series of connections"
 
 Modern scholars may Commonize "š" to "g" for academia's sake (as some languages lack /ʃ/)
 

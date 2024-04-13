@@ -138,7 +138,11 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 ## Bl
 **[[Blackflame]]** - A magic force created by the god [[Arizhmiya]], possessed of a powerful grudge. The planetbound blackflame was destroyed during [[Zero Day]].
 
-**[[Blood-flora]]** - A family of succulent plants native to [[Bullion]].
+**[[Firearm#Blastgun|Blastgun]]** - A [[firearm]] which uses a shaped explosion to puncture armor.
+
+**Blood** - A vital fluid to which the *[[#^772432|fylgja]]* is bound.
+
+**[[Blood-flora]]** - A family of succulent plants native to [[Bullion]], known for their juice's resemblance to blood.
 - **[[Bloodberry]]** - A fruit produced by a specific blood-flora plant.
 
 **[[Blood War]]** - A war during the [[Age of the Gods]] fought between [[Demon|demons]] and [[Devil|devils]] over control of the [[Scarlet Skies]] and the proper rites of [[death]]: the war bled into the [[Wild Blue Yonder]] and was additionally participated in by [[Angel|angels]]. ^1c334d
@@ -411,7 +415,7 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 
 **[[Fulcrum]]** - A particularly powerful [[new magic]] user, who might have the capability to [[Collapse state|end the world]].
 ## Fy
-**[[Fylgja]]** - A guiding or guardian angel that ensures a person's [[soul]] will retreat to the gods upon death. Most people have one whether they know it or not.
+**[[Fylgja]]** - A guiding or guardian angel that ensures a person's [[soul]] will retreat to the gods upon death. Most people have one whether they know it or not. ^772432
 
 # ==[ G ]==
 ## Ga
@@ -649,7 +653,7 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 **[[Mynos]]** - [[Divinity|Goddess]] of birth, entitlement, orphans, and the downtrod, in the [[Pantheon of Dawndust]]. Seen as manifesting as a five-headed [[dragon]].
 # ==[ N ]==
 ## Na
-**[[Nail]]** - A blastrifle [[firearm]] cartridge which molds metal before firing it out.
+**[[Nail]]** - A [[Firearm#Blastgun|blastgun]] cartridge which molds metal before firing it out.
 
 **[[Nasc]]** - An [[The Above|Abovian]] artificial [[remnant]] which has unusual ties to [[gravity]]. Home to the [[anlage]].
 

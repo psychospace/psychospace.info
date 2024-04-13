@@ -5,7 +5,7 @@ tags:
   - has_glossary_entry
   - item/weapon
 ---
-The **psychobullet** is a peculiar novel weapon for slaying [[Figment|figments]], effectively the "last word in [[antimagic]]". Put another way, its purpose is to collect [[Echo|psychic data]] when it kills a creature of mental creation. It was originally created by [[Great Nortian Empire|Nortia]] during their control by the [[Nortian Conspiracy]].
+The **psychobullet**, sometimes called the **god-killing bullet**, is a peculiar novel cartridge used by [[firearm|firearms]] for slaying [[Figment|figments]], effectively the "last word in [[antimagic]]". Its purpose is to collect [[Echo|psychic data]] when it kills a creature of mental creation. It was originally created by [[Great Nortian Empire|Nortia]] during their control by the [[Nortian Conspiracy]], used to kick off the [[Dragonic War]] and in part to [[Zero Day|bring it to an end]].
 
 This bullet, crafted out of thousand-night [[Hepatizon]], is an ineffable force which stands against psychospace's very existence, forged of lastward metal. It is incredibly difficult to make. An attack using a psychobullet will pierce any manner of defenses which rely on psychospace, and will instantly destroy many figments.
 

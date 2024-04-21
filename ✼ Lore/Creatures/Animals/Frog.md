@@ -14,6 +14,6 @@ Frogs are associated widely with magic. They make for a common form of [[Familia
 
 As companions of casters like [[Witchcraft|witches]], frogs become associated with a variety of superstitions. One of the most infamous [[Curse|curses]] attributed in the Heavens was one which corrupted a careless trade-prince of [[Archipel]] into a frog.
 
-The legs of edible frogs are both a delicacy in certain parts of the world, and a commonly-known reagent used in [[alchemy]].
+The legs of edible frogs are both a delicacy in certain parts of the world, and a commonly-known reagent used in [[Alchemy|alchemy]].
 
 

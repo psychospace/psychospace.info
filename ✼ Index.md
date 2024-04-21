@@ -12,7 +12,7 @@ FROM #hubs or #hub
 ```
 %%
 
-This page acts as an [index](https://en.m.wikipedia.org/wiki/Index_(publishing))  on a variety of topics to do with this website and [[the Heavens]]. **Hubs** are collected here, which allow easier access to general topics on the world and its makeup.
+This incomplete page acts as an [index](https://en.m.wikipedia.org/wiki/Index_(publishing))  on a variety of topics to do with this website and [[the Heavens]]. **Hubs** are collected here, which allow easier access to general topics on the world and its makeup.
 
 # Guide
 

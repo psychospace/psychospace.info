@@ -18,12 +18,12 @@ You can modify a noun with compounds between digraphs and words (an English comp
 
  Verbs are conjugated first by number and then either by an associated element or by temporality (depending on animacy of the action).
 ## Glyph alphabet
-The glyphs of Oa'Rovi
+The glyphs of Oa'Rovi have an [isosephic](https://en.wikipedia.org/wiki/Isopsephy) value. High values are seen as closer to raw chaos.
 
 | glyphics ordered by isosephic value <br>*(low to high)*</br> | non-glyphics used for Commonization |
 | :----------------------------------------------------------: | :---------------------------------: |
 |            **I A O U P D J S Š F θ H C V R N L**             |       **E G K Y T Th Q W Z**        |
-|                                                              |                                     |
+
 
 ## Numerology
 There is not strong vocabulary for math, as those who spoke Primordial as part of their culture did not have a modern concept of certain “core” aspects of mathematics, such as zero and operations.
@@ -67,23 +67,30 @@ Ignan - **Ura'oarovi** - A language full of sharp clicks and hisses.
 
 
 
+# Dictionary
+
 # *Roots* and *Digraphs*
 ## I
-usually /e/
-1. “singular”
-2. noted
-3. assembled
-4. complete
+>[!metadata| txt-l ttl-c no-i subt] raw rune, value 1 *(typically pronounced /ɪ/ or /e/)*
+>1. "Standing on its own", "individual". Best translated as "singular”.
+>2. *(from case 1)* Notable, without comparison.
+>3. Assembled from individual units, cohesive, "entire".
+>4. Complete, pinnacle; without flaw.
+
 
 ### Ya {IA}
-[[#I]] + [[#A]] "assembled process"
-1. instructions
-2. borders
-	1. guidelines, rules
+>[!metadata| txt-l ttl-c no-i subt]  [[#I]] + [[#A]] */ɪə/*
+> **basic:** "assembly *of* progression"
+> 1. Instructions on a process, orders.
+> 2. Borders on behavior, laws.
+> 3. *(from case 2)* Guidelines, rules, algorithms.
 
 #### Yel {IA=L}
 [[#Ya {IA}]] + [[#L]] "divinely assembled process"
 1. the [[Divine Equation]]
+### Yo {IO}
+[[#I]] + [[#O]] "noted meaning"
+1. (referring to a word) definition
 
 ### Yu {IU}
 [[#I]] + [[#U]] "one power"
@@ -354,6 +361,14 @@ May be Commonized as T- or Th-.
 2. mindset or ideology
 3. building, temple
 
+### Co {CO}
+[[#C]] + [[#O]] "a mind's meaning"
+
+1. thought process
+2. [[Figment|figments]]
+3. willpower
+4. vital essence
+
 ## V 
 1. “end”
 	1. fate
@@ -400,11 +415,31 @@ May be Commonized as T- or Th-.
 [[#R]] + [[#O]] "material meaning"
 1. the world (*community*)
 
+### Ru {RU}
+[[#R]] + [[#U]] "emotion of matter"
+
+1. drama (theatrical term)
+2. device
+
 ## N
 1. "souls"
 2. life
 3. "people"
 Use of N is associated with the author / the author's tribe, a subjective feature.
+
+### Ni {NI}
+[[#N]] + [[#I]] "important single person"
+
+1. important individual subject
+2. greetings
+3. contributor
+4. acknowledgement, credit
+
+#### Nyl {NI=L}
+[[#Ni {NI}]]  + [[#L]] (sometimes mistaken as [[#Ni {NI}]] + [[#Yel {IA=L}]]) "basic important person"
+
+1. casual greeting (akin to "hey" or "howdy")
+2. basic 
 
 ### Na {NA}
 [[#N]] + [[#A]] "process of people"
@@ -416,18 +451,13 @@ Use of N is associated with the author / the author's tribe, a subjective featur
 ## L
 /l/ 
 1. "root"
-2. gods
+2. base level ("raw")
+3. gods
 	1. divine power in general
 >[!note]
 > *L-* has a special rule. Specifically, in compounds, it can replace terminating vowels or follow initiating vowels, and still take pronunciation preference.
 
-
-## *Special Cases*
-
-PA : "endearing" or "popular"
-PO : 
-SA : "family"
-
+# Loanwords
 ### Os {OZ?}
 *no direct transliteration*
 truncation of [[Infernal]] loanword "orz" 
@@ -435,6 +465,10 @@ truncation of [[Infernal]] loanword "orz"
 2. wanderer
 
 # *Word-Parts*
+### Poui {PO/UI}
+[[#Po {PO}]] + [[#Uy {UI}]] "name of goodness"
+1. friend, buddy
+
 ### Duin {DU/IN}
 [[#Du {DU}]] + [[#In {IN}]] "potential of complete souls"
 1. idealized reality

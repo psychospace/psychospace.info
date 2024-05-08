@@ -307,7 +307,7 @@ A flash of silver in the dark was spotted just in time, and Linnaeus’s shoulde
 
 The prince and his companion yelped in unison -- Linnaeus out of surprise, and Aster out of wincing pain. Blue blood dripped across the ground to fill the space between it and a suspended sword. 
 
-Something stumbled out of the darkened garden. Whatever it was, its aura seemed to fill the air with a stench, like it was in disagreement with what surrounded it. With what surrounded the boys. The darkness swaying unsteadily forward was shaped like a man, modeled on one, but made up of a blur of white stained with red. Its teeth chittered and its body clambered forward, its existence hollow, restless, weightless. The only implement which distinguished it from the nature around it was a heavy, rusted wrought-iron blade, clutched in dead, ivory fingers.
+Something stumbled out of the darkened garden. Whatever it was, its aura seemed to fill the air with a stench, like it was in disagreement with what surrounded it. With what surrounded the boys. The darkness swaying unsteadily forward was shaped like a man, modeled on one, but made up of a blur of white stained with red. Its teeth chittered and its body clambered forward, its existence hollow, restless, weightless. The only implement which distinguished it from the nature around it was a heavy, rusted wrought-iron blade, clutched in dead, ivory fingers. ^53fb22
 
 The prydite-yarn had split along Aster's casting glove, exposing pale flesh and splitting the tendon of their thumb wide open. The thin blue threads of arcane-conductive material were soaked in cobalt. 
 

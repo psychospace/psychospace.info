@@ -6,7 +6,7 @@ aliases:
   - telepathic
   - telepath
 ---
-**Telepathy**, sometimes called **thoughtspeech**, is the [[Magic|magical]], [[Psion|psychic]] ability to share and receive thoughts, sensations, and emotions willfully, from a source outside your own [[Viewpoint property|viewpoint]]. A user of telepathy is known as a **telepath**. In its multiple facets, telepathy is one of a number of abilities which "interpret" [[psychospace]].
+**Telepathy**, sometimes called **thoughtspeech**, is the [[Magic|magical]], [[Psion|psychic]] ability to share and receive thoughts, sensations, and emotions from a source outside your own [[Viewpoint property|viewpoint]]. A user of telepathy is known as a **telepath**. In its multiple facets, telepathy is one of a number of abilities which "interpret" [[psychospace]].
 
 According to research, the ability is at the bedrock of powerful [[soul bond|soul bonds]], indicative of two things: that [[Soul|souls]] yearn to reach out to one another, and that psychospace is a medium by which souls these souls may yearn. Telepathy can be both a curse and a blessing, as not all souls are well-suited to receive so much information at once.
 
@@ -15,6 +15,8 @@ According to research, the ability is at the bedrock of powerful [[soul bond|sou
 # Facets
 
 There are several, individual facets of telepathy. An individual telepath may be capable of one facet without being capable of another.
+
+Many telepaths are *unwilling*, able to perceive other's thoughts as clearly as their own, with no natural way of closing off this [[Magic#Latent|latent effect]].
 
 Similar to [[Portal|teleportation]], a telepath needs a "conduit", "destination", and "source", each of which contribute to its particular manifestation's [[tribute]]. Though traditionally occuring through the medium of the [[air]], some manifestations of telepathy have different [[Phoreus field|phoreuses]] and thus different transfer methods, ranges and complexities of messaging possible.
 

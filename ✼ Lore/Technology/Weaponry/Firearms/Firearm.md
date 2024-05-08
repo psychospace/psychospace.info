@@ -37,6 +37,6 @@ A **blastgun** is a firearm (typically handheld) which uses [shaped explosions](
 
 Using chemical accelerants packed into its [[Nail|Nail]] cartridges, a blastgun can puncture armor and produce immense amounts of directed energy, making it useful (if not overkill) against organic targets and extremely effective against metallic targets. As a direct result, though, the gun itself must be reinforced against severe impact: as [[Cordyte Amak]] once said, a good blastgun is as much a weapon against the enemy as it is against the user.
 
-it It is effective for environments where physical projectiles would be repelled, but energy projectiles would pass through, or for more directed forms of attack where damaging the surroundings is not an option, such as in sensitive buildings, jungle environments, or for home defense.
+It is effective for environments where physical projectiles would be repelled, but energy projectiles would pass through, or for more directed forms of attack where damaging the surroundings is not an option, such as in sensitive buildings, jungle environments, or for home defense.
 
 Blastrifles are commonly seen fielded by the [[Blue Cinder Militia]] and [[sganyodaiyo]], who typically use the SIIR-63 or -65, known for having an impressive 6.3m maximum range.

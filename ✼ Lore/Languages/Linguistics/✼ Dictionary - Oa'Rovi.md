@@ -652,7 +652,7 @@ Neologism. Commonized demonym of [[Ith'Paraan]] (in their time, it was Ith'i "in
 ### Rag'Hain {ROGh?-HAIN}
 combines "hain" (city) with Dwarven "roggh" (fierce beast), usually Commonized as "ragbeast / ragebeast". A small nation of Bullion named by the city's founder in celebration of their victorious revolution.
 
-### Šaonathi {ŠaON/Aθ/I}
+### Šaonathi {ŠAON/Aθ/I}
 >[!metadata| txt-c no-i] [[#Šaon {ŠA/ON}]] + [[#Ath {Aθ}]] + [[#I]] 
 >"[[scion]] people of (the structural) [[chaos]]"
 

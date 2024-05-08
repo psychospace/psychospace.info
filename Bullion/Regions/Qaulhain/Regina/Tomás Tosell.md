@@ -3,6 +3,8 @@ tags:
   - character
 ancestry:
   - ???
+aliases:
+  - Tomas
 ---
 
 **Tomás Tosell Abasolo** is an [[Omen|omen child]] who was raised at the [[Lavas Hideaway]]. 

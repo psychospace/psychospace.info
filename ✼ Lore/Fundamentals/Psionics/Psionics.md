@@ -4,6 +4,7 @@ tags:
   - has_glossary_entry
 aliases:
   - psychic
+description: Psionics is the fundamental study of psychospace, especially in concerning code and data. It is the parent study of and vitally important to magic.
 ---
 **Psionics** is the fundamental study of [[psychospace]], especially in concerning [[Psychic code|code]] and [[Echo|data]]. It is the parent study of and vitally important to [[magic]]; a student of psionics is a **psionicist**, a **psionic**, or **psychic**.
 

@@ -20,7 +20,7 @@ He is more formally known as **Yukikanmuri-no-Kami**, the *kun'yomi* pronunciati
 
 
 # History
-![[⎋ Needs Expansion]]
+![[⎋ Needs Rewrite]]
 His first iteration was known as **Hosuseri**, child of [[Sakuya and Ninigi]].
 
 Before [[Kessah]], Sekkan-shin only served as a guide and a mentor to past Champions, often from within his home at the top of the mountain. But with Kessah, he was also a friend. Not many of the previous champions even saw Sekkan-shin’s true form in their lifetime. Again, he would pop in on the village during festivals and other such occasions, and mostly tried to maintain a formal act, though sometimes he would play tricks on the villagers every now and then: sometimes for fun, sometimes out of boredom.

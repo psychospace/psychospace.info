@@ -2,6 +2,7 @@
 tags:
   - language
   - has_glossary_entry
+word-goal: 250
 ---
 
 The **Celestial languages** are a family of [[Rune|runic]] languages shared by [[Celestial]] peoples, both [[Immortal|immortals]] and mortals. 

@@ -8,6 +8,7 @@ aliases:
 tags:
   - language
   - has_glossary_entry
+word-goal: 250
 ---
 >[!question|ttl-c bg-c-blue] For in-depth details on the language, see [[✼ Dictionary - Oa'Rovi]].
 

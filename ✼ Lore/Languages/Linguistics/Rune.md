@@ -4,6 +4,7 @@ aliases:
   - runetech
 tags:
   - has_glossary_entry
+word-goal: 250
 ---
 
 **Runes** are a fixture of various language systems, notably [[Arckan]], which hold a strong influence on [[magic]]. Believed to have been first etched by [[Giant|giantkin]], runes convey powerful meanings that are also at the basis of all [[Spell|spells]].

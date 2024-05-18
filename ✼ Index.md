@@ -12,7 +12,7 @@ FROM #hubs or #hub
 ```
 %%
 
-This incomplete page acts as an [index](https://en.m.wikipedia.org/wiki/Index_(publishing))  on a variety of topics to do with this website and [[the Heavens]]. **Hubs** are collected here, which allow easier access to general topics on the world and its makeup.
+This incomplete page acts as an [index](https://en.m.wikipedia.org/wiki/Index_(publishing))  on a variety of topics to do with this website and [[the Heavens]]. **Hub pages** are collected here, which allow easier access to general topics on the world and its makeup.
 
 # Guide
 
@@ -58,6 +58,8 @@ This incomplete page acts as an [index](https://en.m.wikipedia.org/wiki/Index_(p
 >    - [[Logic]] and [[Chaos]] <br>([[Elemental energy]])
 >    - [[Creature|Creatures]] <br>([[Soul|souls]], [[Echo|echoes]])
 ^f7a037
+## Magic
+>[!column|list ttl-c] The
 
 
 ## [[✼ Stories#⍟ Roleplay|Roleplay]]
@@ -90,3 +92,5 @@ This incomplete page acts as an [index](https://en.m.wikipedia.org/wiki/Index_(p
 >
 
 ^3c4723
+
+

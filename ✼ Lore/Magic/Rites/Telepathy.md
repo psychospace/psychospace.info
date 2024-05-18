@@ -6,9 +6,13 @@ aliases:
   - telepathic
   - telepath
 ---
-**Telepathy**, sometimes called **thoughtspeech**, is the [[Magic|magical]], [[Psion|psychic]] ability to share and receive thoughts, sensations, and emotions from a source outside your own [[Viewpoint property|viewpoint]]. A user of telepathy is known as a **telepath**. In its multiple facets, telepathy is one of a number of abilities which "interpret" [[psychospace]].
+**Telepathy**, sometimes called **thoughtspeech**, is the [[Magic|magical]], [[Psion|psychic]] ability to share and receive thoughts, sensations, and emotions ([[Echo|echoes]]) from a source outside your own [[Viewpoint property|viewpoint]]. According to psychic research, telepathy is one of the most common supernatural abilities manifested by many powerful [[soul bond|soul bonds]], in both artificial and natural capacities. 
 
-According to research, the ability is at the bedrock of powerful [[soul bond|soul bonds]], indicative of two things: that [[Soul|souls]] yearn to reach out to one another, and that psychospace is a medium by which souls these souls may yearn. Telepathy can be both a curse and a blessing, as not all souls are well-suited to receive so much information at once.
+A user of telepathy is known as a **telepath**. In its multiple facets, telepathy is one of a number of abilities which "interpret" [[psychospace]].
+
+
+# Prevalence
+The commonality of telepathic abilities in powerfully-bonded groups is indicative of two things: that [[Soul|souls]] yearn to reach out to one another, and that psychospace is a medium by which souls these souls may yearn. Telepathy can be both a curse and a blessing, as not all souls are well-suited to receive so much information at once.
 
 [[Uforia]] possessed the strongest telepathy ever known, able to do it over a large distance and across multiple thousands of hosts (as in the national legends of [[Valerian]]): this was eventually distilled into her descendants as the ability of [[monism]].
 

@@ -3,10 +3,12 @@ aliases:
   - giants
 issues:
   - incomplete
+tags:
+  - has_glossary_entry
 ---
 >[!question|bg-c-blue ttl-c] Not to be confused with "half-giants" in [[anlage]].
 
-**Giants** are varied powerful, ancient, and physically-imposing humanoid creatures who are ensorcelled by [[Echo|echoes]]. Their bodies are complex ecosystems which have long captured the imaginations and curiosities of the world, offering homes for myriad life. Among their species, including [[Elemental creatures|elemental]] types, giants are variously described as holders of [[The Planet|Yalagnu]]'s secrets, gaining power from mythological prowess. 
+**Giants** are varied powerful, ancient, and physically-imposing humanoid creatures who are ensorcelled by [[Echo|echoes]]. Their bodies, ranging from the scale of buildings to small mountains, are complex ecosystems which have long captured the imaginations and curiosities of the world. Among their species, including [[Elemental creatures|elemental]] types, giants are variously described as holders of [[The Planet|Yalagnu]]'s secrets, gaining power from mythological prowess. 
 
 Primeval giants have long been held to be some of the original inheritors of [[the Planet]]: in some views, they are the mortal children of [[Anti|Antic]] flesh, made to shake and shape the earth as their creator did. They existed before and alongside the works of [[First Magicians]]; it is well-known that essentially every natural remnant was at one point home to a giant society of some form or another, and the works they left behind, as well as modern pockets of giant occupation, can still be found today.
 
@@ -28,7 +30,7 @@ This blood eventually led to megaflora and megafauna emerging as early mortal li
 
 Broadly-speaking, giant culture is largely inscrutable to the modern mortal eye. Like the [[Dwarf|dwarves]] that learned from them, giants view their bodies not just as parts of themselves, but as necessary parts of the environment, to be improved and then repurposed upon their demise. As an element of this paradigm, giants believe that society, like life itself, progresses and regresses as part of a natural cycle, though the exact shape of this gradual transformation changes based on the type of giant[^1].
 
-Though their lifespans have never been seen to end naturally, giants do go through a cycle of maturity, which can end when confronted by normal threats to life and person. They craft and use tools for regular activity, with some constructing keeps and forges, though mostly in the name of survival or contemplation first-and-foremost. 
+Though their lifespans have never been seen to end naturally (similar to [[kitsune]]), giants do go through a cycle of maturity, which can end when confronted by normal threats to life and person, including predators, starvation, sickness, and conflict. They craft and use tools for regular activity, with some constructing keeps and forges, though mostly in the name of survival or contemplation first-and-foremost. 
 
 Giants widely worship an icon broadly identified as the [[Cientia|Titan of Time]], though due to fear. A giant has rare need to fear the passage of time, but in time, all things cycle anew, and the old is rendered unrecognizable: perhaps due to their original purpose in their creation, the passing of the torch is something of an anxiety looming over giant psychology
 
@@ -40,11 +42,13 @@ Despite their myriad distinctions, different types of giant see each other as di
 
 ## Cohabitation
 
-The intercession of [[scion]] and then traditional mortal life has placed boundaries (both literal and metaphorical) on giant expansionism, which giants typically respect unless to feed or when threatened. The rare giant-sapient communities largely form because an incursion by the latter was seen as a necessary evil in order to maintain a piece in the systems of life, such as in the case of [[Cherryheart]], where giants help to maintain the [[Father Sakura]].
+The intercession of [[scion]] and then traditional mortal life has placed boundaries (both literal and metaphorical) on giant expansionism, which giants typically respect unless to feed or when threatened. 
+
+The rare giant-sapient communities largely form because an incursion by the latter was seen as a necessary evil in order to maintain a piece in the systems of life, such as in the case of [[Cherryheart]], where giants help to maintain the [[Father Sakura]].
 
 In their time, giants were the ever-present antagonists of [[Dragon|dragons]], hunting them for food and materials mercilessly. Eventually, they enslaved colonies of dragons in order to become the first non-skyborne creatures to travel across the remnants. Today, giants and dragons remain extremely animose to one another, something that can even be felt in the blood of their descendants, as [[Kobold|kobolds]] and [[anlage]] often despise one another.
 
- Their association with and berserking of dragons caused them to occasionally slay [[eidolon|eidolons]], and is why giant-sapient communities typically fail to form the necessary conditions for one to [[Eidolon#Appearance|appear]]. However, clod-borne eidolons, rare though they are, are typically seen as members of their system of nature.
+Their association with and berserking of dragons caused them to occasionally slay [[eidolon|eidolons]], and is why giant-sapient communities typically fail to form the necessary conditions for one to [[Eidolon#Appearance|appear]]. However, clod-borne eidolons, rare though they are, are typically seen as members of their system of nature.
 
 # Views
 Giants were prevalent throughout much of early life on the Planet and thus recur in legends across the many seas.

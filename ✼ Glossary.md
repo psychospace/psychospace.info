@@ -270,7 +270,7 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 **[[Dawndust]]** - A [[remnant]] in the [[Shining Sea]], known for its [[Pantheon of Dawndust|religion]] and [[shindani|language]] being spread far and wide by the first modern civilization to [[airship|take to the skies]] en masse.
 
 ## De
-**[[Death]]** - Biological end of a [[creature]], freeing [[soul]] from [[body]]. Typically causes the cycles of [[reincarnation]] to kick in. Overseen as a fixture by the [[Avatar of Death]], [[Exponen|Nexos]], and the [[psychopomp|psychopomps]] of [[Unwri]].
+**[[Death]]** - Biological end of a [[creature]], freeing [[soul]] from [[body]]. Typically causes the cycles of [[reincarnation]] to kick in. Overseen as a fixture by the [[Avatar of Death]], [[Exponen|Nexos]], and the [[psychopomp|psychopomps]] of [[Unwri]]. ^14cf2b
 
 **[[Deathlock]]** - An [[undead]] created when a [[Gift (witchcraft)|Gift]] is stranded inside a [[Witchcraft|witch]]'s dead body.
 
@@ -295,7 +295,7 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 **[[Doppelganger]]** - A humanoid abomination born when a [[changeling]] loses their [[fey]]-trademark positive outlook, and must devour it from others. 
 
 ## Dr
-**[[Dragon]]** - Reptilian creatures with wings, tails, and scales, that possess the ability to specially-[[Reincarnation|reincarnate]] and have massive influence on [[magic]] and [[psychospace]]. The most ancient creatures on the planet. Rulers of [[the Above]].
+**[[Dragon]]** - Reptilian creatures with wings, tails, and scales, that possess the ability to specially-[[Reincarnation|reincarnate]] and have massive influence on [[magic]] and [[psychospace]]. The most ancient creatures on the planet. Rulers of [[the Above]]. ^02f0e8
 - **[[Dragon#Metallic|Metallic dragons]]** - Dragons which typically uphold law.
 - **[[Dragon#Chromatic|Chromatic dragons]]** - Dragons which typically uphold chaos.
 - **[[Dragon#Astral|Astral dragons]]** - Rare dragons borne under influence of [[Out There|outer space]].
@@ -307,6 +307,9 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 **[[Dragonic Curse]]** - A [[curse]] which long-plagued the rulers of the [[Kingdom of Sacred]]. Cured by the [[S4]] on [[Zero Day]], [[1251 PT]].
 - **[[Dragonic whillo]]** - A powerful [[dragon]]-like creature which distorted reality around it: the form assumed by those who succumbed to the curse.
 - **[[Dragonic War]]** - A war in [[1251 PT]] between [[Kingdom of Sacred|Sacred]] and the [[Nortian Conspiracy]], which began when [[Lazuli Dino|Linnie]]'s dragonic curse was revealed. ^88f713
+
+**Dream** - Another term for powerful *[[#^b6a827|echoes]]* generated through desires, through the natural flows of *[[#^e778a2|psychospace]]* while sleeping. Some types of *[[#^469a2f|telepathy]]* function through the conduit of dreams.
+- **[[Dream-eater]]** - Figment *[[#^70a198|slime]]* which desires, devours, and is made of dreams.
 
 ## Du
 **Duer** - The dwarvish term for [[Dwarf|dwarves]].
@@ -441,6 +444,8 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 
 **[[Ghost storm]]** - A gap or hole in [[psychospace]], which manifests in real-space as a dangerous purple [[Weather|storm]] that ensnares and damages souls and [[Portal|warps]] people around. Can be created by a [[Runic engine|runic engine]] failure. ^69d618
 ## Gi
+**[[Giant]]** - A massively-varied group of extremely powerful humanoid creatures that act as carriers of [[the Planet]]'s secrets. Mortal enemies of *[[#^02f0e8|dragons]]*.
+
 **[[Gift (witchcraft)|Gift]]** - In [[Witchcraft|witchcraft]], one's specific, personal link to a patron, which allows them the insight enough to bring about myriad possibilities.
 - **[[Gift of Stars]]** - A special Gift said to originate with [[Amakudari-no-Mikoto|Amakudari]], which visualizes possibility as an endless sea (or lake) of [[star|stars]].
 ## Go
@@ -643,7 +648,10 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 
 **[[Month (unit)|Month]]** - In [[Pinwheel Tempo]], a period of 30 [[Starfall|starfalls]].
 
-**[[Mortal God Ritual]]** - Colloquialism for any [[ritual]] said to give the participant(s) [[divinity]]. Said to be a myth, sought by [[Elemental creatures|elementals]] and fools in the past and present.
+**[[Monster]]** - Generic term for a dangerous or unnatural creature; typically distorted by magic and unable to accept *[[#^e33bbd|reality]]*. Hunted by [[Buster|busters]].
+
+**Mortal** - Any [[creature]] beholden to *[[#^14cf2b|death]]*.
+- **[[Mortal God Ritual]]** - Colloquialism for any [[ritual]] said to give the mortal participant(s) [[divinity]]. Said to be a myth, sought by [[Elemental creatures|elementals]] and fools in the past and present.
 
 ## Mu
 **Mutagen** - An [[alchemy|alchemical]] product which alters the [[body]] and [[soul]] of the host, unlocking or granting specific powers.
@@ -680,6 +688,11 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 - **[[Nortian imperial family]]** - Ruling family of the empire, possessing powerful ties to [[Uforia]].
 
 **[[Not-Where]]** - A [[Witchcraft|witchcraft]] term for a [[Plane#Demiplane|demiplane]] carved out of [[the Fortress]].
+
+## Nu
+**[[Numberless Children]]** - Broad faction / cultural movement advocating for protection of and mutual understanding for [[new magic]].
+- **Nulk** - Member or ideology associated with the NLC.
+
 # ==[ O ]==
 ## Oa
 **[[Oa'Rovi]]** - Also called "Primordial", the language of most [[Elemental creatures|elementals]]. ^af8c99
@@ -778,7 +791,7 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 
 **[[Psychopomp]]** - An [[immortal]] [[monitor]] charged with overseeing the bureaucratic elements of [[death]] and [[soul]]-retrieval.
 
-**[[Psychospace]]** - An alternate side to [[Universe|reality]], which is influenced by and influences the thoughts and energies of [[the Heavens]] (specifically). Powers all [[magic]]. Created by the three-dimensional [[#^b450b0|shadow]] of fourth-dimensional [[Kibangan]].
+**[[Psychospace]]** - An alternate side to [[Universe|reality]], which is influenced by and influences the thoughts and energies of [[the Heavens]] (specifically). Powers all [[magic]]. Created by the three-dimensional [[#^b450b0|shadow]] of fourth-dimensional [[Kibangan]]. ^e778a2
 
 ## Pu
 **[[Puretza]]** - Bladeborne entity created from a foreign *[[#^8b9f17|moon]]*.
@@ -903,7 +916,7 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 
 **[[Sleepy Yore]]** - Faith of native [[Kingdom of Sacred|Sacredites]] based in naturalistic understandings. Believe that [[Divinity|divines]] are split amongst their [[domain|domains]].
 
-**[[Slime]]** - Type of monstrosity which have fluid bodies created out of a sense of "lacking", devouring aspects from the environment which they do not naturally possess. Include [[mimic|mimics]], [[Oblex|oblexes]], [[Dream-eater|dream-eaters]], black-puddings, [[wegbrechen]], and others.
+**[[Slime]]** - Type of monstrosity which have fluid bodies created out of a sense of "lacking", devouring aspects from the environment which they do not naturally possess. Include [[mimic|mimics]], [[Oblex|oblexes]], [[Dream-eater|dream-eaters]], black-puddings, [[wegbrechen]], and others. ^70a198
 
 ## So
 **[[Songbird]]** - Generic term for [[Psion|psions]] in the employ of the [[Fifth Institute]]. Associated with cultural conceits of [[Reclamation (Bullion)|reclamation]] and chivalry.
@@ -953,7 +966,7 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 
 **[[Tarnation]]** - [[Flipside]] of [[Bullion]], a place of strange hostile life. "[[Wildwalker|Cowboy]] hell". Exile there is seen as a death-sentence. ^4e1f85
 ## Te
-**[[Telepathy]]** - Varied ability to send thoughts from one place to another using [[psychospace]].
+**[[Telepathy]]** - Varied ability to send thoughts from one place to another using [[psychospace]]. ^469a2f
 
 **Teleportation** - Varied ability utilizing *[[#^7bf48f|portals]]* to traverse space.
 

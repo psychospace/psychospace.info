@@ -1,6 +1,7 @@
 ---
 tags:
   - faction
+  - has_glossary_entry
 aliases:
   - Nulk
   - Nulks

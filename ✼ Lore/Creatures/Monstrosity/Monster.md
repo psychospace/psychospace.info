@@ -3,6 +3,8 @@ aliases:
   - monstrosity
   - monsters
   - monstrous
+tags:
+  - has_glossary_entry
 ---
 >[!quote | author] [[Kuroki]], foreword of the *[[Kuroki Almanac]] of [[1285 PT]]*
 > In the course of nature, all motivated things aspire to create a more pristine, unspoiled environment to live and thrive in. We do it, and indeed "monsters" do it. By my reckoning, the singular difference between us is that a monster's optimum environment is as impossible an assertion as their extinction.

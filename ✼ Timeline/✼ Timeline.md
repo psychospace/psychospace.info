@@ -27,17 +27,15 @@ This page acts as a [[✼ Index|hub]] for the (in-universe) chronology of [[The 
 		* [[The Maker]] emerges to attempt to correct the danger the universe is in, partly by destroying and remaking it.
 		* [[The Unmaker]] emerges out of the resistance against the Maker's apparent destruction, and is mistaken for the Maker.
 		* The war ends in an apparent stalemate as the universe is consumed. 
-2. Destruction of the old universe
+2. ??? - [[Unknown Era]]
 	* The old world is gone, and only [[The Planet|The Planet]] and the [[Echo|echoes]] of the past remain. 
 	* The fused Maker and Unmaker are otherwise alone in the broken universe.
 	* All that remains is Chaos, [[Logic|fate]], and [[Gravity|gravity]].[^roots]
-3. [[Unknown Era]]
-	* Following this, the moons orbit the planet. 
 	* The [[Out There]] cradles the [[Antic Sea]].
-4. BPT 1,000,000 to 500,000 — **[[Age of the Gods]]** according to the mythology of the [[Pantheon of Dawndust]].
-	* [[Anti]] emerges, the “husk” left behind by the fused Maker.
+3. Roughly BPT 1,000,000 to 525,000 — **[[Age of the Gods]]** according to the mythology of the [[Pantheon of Dawndust]].
+	* [[Anti]] emerges, the “husk” left behind by the fused Maker as it departed the world.
 		* Its [[Golden Voice]] speaks the [[Divine Equation]] into existence, reintroducing untold billions of concepts to the universe.
-		* [[Dragon|Dragons]] are born from the “rediscovery” of the Planet.
+		* [[Dragon|Dragons]] are born from the “rediscovery” of the Planet.[^wbis]
 	* [[Kibangan]] is discovered; Anti carves out [[Welkin]] from it as a throne of influence.[^wbis]
 	* BPT 950,000 — A new divinity emerges from Anti's influence.
 		* [[Athemat]], the first [[angel|angel]], and [[Cien|the star]]'s manifestation, [[Cientia]], create [[Arizhmiya|Lagacia]] and [[Exponen]].[^golorr]
@@ -54,14 +52,14 @@ This page acts as a [[✼ Index|hub]] for the (in-universe) chronology of [[The 
 	* BPT 800,000 — The last major god initially manifests.
 	* BPT 550,000 — The [[First Magicians|First Ones]] emerge, using [[magic|magic]] in its modern form.
 	* The [[Folly of the Twins]] occurs, causing the moons to become divine embodiments and creating [[Dwarf|dwarves]], [[goblin|goblins]], and [[Harengon|harengon]].
-5. BPT 525,000 — **[[The Gathering]]** begins.
+4. BPT 525,000 to 500,000 — **[[The Gathering]]** begins.
 	* [[Whill|Whills]] emerge powerful enough to raise themselves to [[Mortal God Ritual|godhood]], altering psychospace.
 	* BPT 510,000 — The divinity is threatened by this chaos, and create the planar stack to prevent collusion.
 		* The [[Calamity of the Eyes]] is purported to occur, reducing mortal insight by an unprecedented factor.
 		* To further reinforce their rules, the [[Lynchpin Device|lynchpins]] are created with help from Outer beings.
 	* BPT 500,000 — Arizhmiya [[Breaking of Sacred|attacks Sacred]] with two [[Blackflame|blackflame]] comets, causing [[Mount Celestia]] to erupt and kill many thousands of angels, as well as shatter the remnant in half.
 		* The Age of the Gods comes to a close as Arizhmiya is shackled by Eriva, removed from the divine roster. The past, subsequently, falls into obscurity.
-6. Post BPT 500,000 to 50,000 — The **Age of Primordia**
+5. BPT 500,000 to 50,000 — The **Age of Primordia**
 	- The First Ones archaeologically vanish: their immediate descendants, [[human|humans]] and [[Elf|elves]], are first attested.
 	* Immortal influence, especially direct divine influence, is reduced to individual instances.
 		* [[Scion|Scions]] emerge as mortality and immortality are combined.
@@ -73,11 +71,11 @@ This page acts as a [[✼ Index|hub]] for the (in-universe) chronology of [[The 
 		* [[BPT 131093]] — Umisachi eradicates thirteen entire peoples in High Sacred, and the angels condemn it to death by constructing [[Stygian]].
 	* BPT 100,000 — The last immortal conflict, between angels and devils in [[High Sacred]], ends.
 		* At last, mortal civilization is allowed to thrive.
-7. BPT 50,000 to present — The **Age of Mortals**.
+6. BPT 50,000 to present — The **Age of Mortals**.
 	* Most remnants have their most ancient societies at the start of this epoch.
 	* [[Amakudari-no-Mikoto]] is born, able to transcend its lifespan and the universe with mere thought. Delivered a [[Amakudari's phantom|Promise]] that it would abandon either the planet or its ability, it returned to the planet and founded [[Ith'Paraan]], a civilization which constructed [[Void Breaker|void breakers]].[^loa]
 	* [[BPT 12147]] — The [[Os'Grun]] meteor hits [[Bullion]], rending and destroying most magically-dependent technology that existed at the time.
-8. [[0 PT]] to present — **Pinwheel Epoch**. The remnant of [[Pinwheel]] begins counting time.
+7. [[0 PT]] to present — **Pinwheel Epoch**. The remnant of [[Pinwheel]] begins counting time.
 	* **[[1st century PT]]** — The discovery of the [[Quasidragon|quasidragon]] leads to the rise of [[Airship|airships]].
 	* **[[8th century PT]]** — The [[Carapa Republic]] falls, and they lay the [[Dragonic Curse]] on the [[Kingdom of Sacred]] which followed.[^golorr]
 	* **[[11th century PT]]** — An arms race begins with the advent of the [[firearm|firearm]].

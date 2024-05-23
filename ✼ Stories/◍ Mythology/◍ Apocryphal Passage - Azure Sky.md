@@ -4,7 +4,7 @@ cssclasses:
   - writing
 permalink: story/azure-sky
 ---
->[!quote | speaker bg-blue] From the [[Xvaka|Xvakan]] [[Apocrypha of Winds]]
+>[!quote | speaker bg-blue subt] from the [[Xvaka|Xvakan]] [[Apocrypha of Winds]], *annotations made to interpret the [[Dragonic War]]*
 >[[Heartknock|Schools of madness]] listen,<br>
 The prayers only for death:<br>
 The path to heart's envision…<br>

@@ -4,12 +4,12 @@ tags:
   - has_glossary_entry
 ---
 
-The **Folly of the Twins** is an origin myth, taking place during the [[Age of the Gods]], important to both [[Dwarf|dwarvenkind]] and [[Goblin|goblinoids]].
+The **Folly of the Twins** is an origin myth, taking place during the [[Age of the Gods]], important to both [[Dwarf|dwarvenkind]] and [[Goblin|goblinoids]]. In this myth, twins [[Calcula]] and [[Bioh]] were warring over their domains as [[Divinity|divines]], each believing that their means of fostering growth and forward progress was better and more necessary than the other.
 
 # Mythos
-In this myth, twins [[Calcula]] and [[Bioh]] were warring over their domains as [[Divinity|divines]], each believing that their means of fostering growth and forward progress was better and more necessary than the other. Without a clear voice manifesting from [[Exponen]], the future of civilization seemed unclear, and so these other deities decided to step in to offer a guiding hand.
+Without a clear voice manifesting from ever-stillborn [[Exponen]], the future of civilization seemed unclear, and so these other deities, still nascent themselves, decided to step in to offer a guiding hand and determine civilization's fate.
 
-To settle the score, they both took the form of [[Dragon#Astral|astral dragons]] who lived on opposing moons, which went unnamed at the time. The gods, though, were fickle and observing the growth of the [[First Magicians]] at the same time, and would thus spend their time and effort trying to cheat the task out to lesser creatures which they manifested from their scales. 
+To settle the score, Calcula and Bioh both took the form of [[Dragon#Astral|astral dragons]] who lived on opposing moons over [[The Planet|Yalagnu]]: little more than aggregations of rocks that were used for raw materials in the [[◍ The World Born in Stone|recreation of the world]]. The gods, though, were fickle and observing the growth of the [[First Magicians]] at the same time, and would thus spend their time and effort trying to cheat the task out to lesser creatures which they manifested from their scales. 
 
 The siblings asked for a neutral divine arbitrator for their contest, and, after great deliberation, [[Ravus]] stepped up to the position. Being the overseer of the [[Dark Sea]], the night mother decided to play a trick on the children of the [[Cientia|light goddess]], and decided the contest should be improbable. 
 

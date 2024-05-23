@@ -11,21 +11,22 @@ tags:
 ---
 **Dwarves**, known in their own language as the **t'inha duer**, are a hardy and widespread #sapient race of long-lived, short-heighted folk which have a stone-tough body composition and a general disposition for nature and community. A group of dwarves is known as a **court**. 
 
-# Origins
+Dwarves find a sort of kinship with [[Dragon|dragons]], both said to be born of the earth and the sky, as well as cultural responsibilities and history involving [[elemental energy]]. These [[Soul bond|bonds]] and their natural abilities aside are why they have become predisposed to metalwork or mining, capable of surviving areas lacking in oxygen and which might unnerve a [[human]] or [[elf]].
 
-Dwarves are said to have arisen from primeval [[Dragon|dragons]] which dwelled on the moons of [[Lex]] and [[Ordo]]. The [[Folly of the Twins]] produced two races, dwarves and [[goblin|goblins]].
-# Traits
+# Culture
 
 Dwarves treat their bodies like works of art or machines, things to be improved and evolved throughout their many years. A culture of hard work, ingenuity with molding the elements of the world, and dedication to spiritual immortality has led to many dwarves seeking treasure and renown to call their own, sometimes to the fault of their morality regarding non-dwarves. 
-
-Their ties to primeval dragons, said to be born of the earth and the sky, as well as cultural ties to [[Elemental energy]], are why they have become predisposed to metalwork or mining, capable of surviving areas lacking in oxygen and which might unnerve a [[Human]] or [[Elf]].
 
 Owing to their strong familial clan structures, many dwarves similarly treat their community or teams as integral parts of themselves, and feel that joining new cliques or leaving behind previous ones can be difficult.  Many dwarves happily share their resources with one another as a show of kinship.
 
 On the other hand, for traditional dwarves, craftsmanship and ownership go hand-in-hand, and selling a dwarven-made artifact is essentially lending it out. Dwarves know full well all things eventually must meet their fate in nature at some point in their [[Epitome|epitomes]]. When [[antique|antiques]] meet such a fate, or when their lore is transformed over the eons, dwarves venerate and trust in the [[kami]], the new spirits which spring forth from the flows of the elements, acting as blessings from the Planet herself. 
 
+# History
+
+Dwarves are said to have arisen from primeval [[Dragon|dragons]] which dwelled on the moons of [[Lex]] and [[Ordo]]. The [[Folly of the Twins]] produced two races, dwarves and [[goblin|goblins]].
+
 # Heritages
-Most dwarves are either **duer'doran** (mountain dwarves) or **duer'gola** (hill dwarves).
+The dwarven word closest in translation to "heritage", *t'inha*, holds Most* dwarves are either **duer'doran** (mountain dwarves) or **duer'gola** (hill dwarves).
 ## Duergar
 Descendants of a unusual legacy, **t'inha duer'gar**, sometimes called **dark dwarves**, are dwarves who have turned apparently monstrous through abandoning their guardian deities to remain deep underground. 
 

@@ -43,13 +43,15 @@ In [[BPT 12342]], Amakudari perishes when a [[Void Breaker]] causes a cataclysmi
 
 Colloquially, the two centuries immediately following Amakudari's death is known as the **miserable age**.
 
-In approximately [[BPT 12147]], the [[Os'Grun]] meteor strikes the [[Wabi Steppe]], punctuating the events of Ith'Paraan's dominance and bringing a close to the voidfaring, as well as many of the formative cultures that existed around that time. Collectively, the events of the miserable age result in almost all of Ith'Paraan's population dying or being rendered lost.
+In approximately [[BPT 12147]], the [[Os'Grun]] meteor struck the [[Wabi Steppe]], punctuating the events of Ith'Paraan's dominance and bringing a close to the voidfaring, as well as many of the formative cultures that existed around that time. Collectively, the events of the miserable age result in almost all of Ith'Paraan's population dying or being rendered lost.
 
 The remnant thus enters a bit of a downturn. The earliest settlers of [[Emirate of Qaulhain|Qaulhain]] vanish.
 ## Fourth Era
 The fourth and most modern era of Bullion began in about BPT 5000.
 
-In [[BPT 4720]], [[Archipel|Archipelian]] [[Elf|elven]] conquistadors led by [[Avra Michimolli]] and aided by [[Ithuriel Rysae]] reclaim the [[River-Lands of Ancestral Ith'Paraan|River-Lands]], forming the [[Throne of Mana]] and the [[Luminaria]] of [[Arnecca]] (later [[Eleyda]]).
+In [[BPT 4720]], [[Archipel|Archipelian]] [[Elf|elven]] conquistadors led by [[Avra Michimolli]] and aided by [[Ithuriel Rysae]], also attended by sibling wiches [[Aedil Rysae]] and [[Maedil Rysae]], crossed the strait between Archipel and Bullion (later known as the [[Strait of Ithuriel]]). 
+
+These conquistadors lay claim to the [[River-Lands of Ancestral Ith'Paraan|River-Lands]], forming the [[Throne of Mana]] and the [[Luminaria]] of [[Arnecca]] (later [[Eleyda]]).
 
 # Miracle City
 There is a tradition in Bullion of anointing each city where an [[Eidolon|Eidolon]] is born as a **Miracle City**. There are 14 eidolons in modern Bullion, though a dozen other cities have historically once been Miracle Cities.

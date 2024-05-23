@@ -8,11 +8,11 @@ aliases:
   - Shindan
 ---
 ![[⎋ Needs Rewrite]]
-**Dawndust**, or **Shindan**, is a religious [[remnant]] operated primarily under an old church who once worshipped idols of light who revered healing magic, not dissimilar to the original, [[Celestial|celestial]]-based societies of [[Kingdom of Sacred|Sacred]]. 
+**Dawndust**, or **Shindan**, is a mountainous [[remnant]] operated primarily under an old church who once worshipped idols of light who revered healing magic, not dissimilar to the original, [[Celestial|celestial]]-based societies of [[Kingdom of Sacred|Sacred]]. 
 
 Dawndust harbors close many secrets of the connections between gods, the remnants, and the world before all of this.
 
-Its demonym is simply **Dawndust**, or **Shindani**.
+Its demonym is simply **Dawndust**, or **Shindani** (though this shouldn't be mistaken for the language of [[Shindani|Laycant]], also called Shindani).
 
 # History
 

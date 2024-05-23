@@ -20,7 +20,7 @@ Its capital city is [[Eleyda]], and the current [[Luminaria]], ruler over the AI
  Its architectural style could be described as similar to Ottoman architecture.%%
 
 # History
-The AIP was initially founded around BPT 4000 by conquistadors from [[Archipel]], led by the charismatic hero [[Ithuriel Rysae|Ithuriel the First]] who became the first luminaria.
+The AIP was initially founded around BPT 4000, a first major settlement during the [[Bullion#Fourth Era|Fourth Era]], by conquistadors from [[Archipel]], led by the charismatic hero [[Ithuriel Rysae|Ithuriel the First]] who became the first luminaria. Its home was initially in [[Arnecca]], named the "Seedling Lands" for the vast crops of wild [[jogao]] that were found to be edible.
 
 The River-Lands have seen cultural growth in recent years due to apparent astounding discoveries in the region, the [[Age of Adventurers]] in general, and the annual [[Meteor Dance]] over the [[Aedil Plains]] drawing more and more tourists each year. 
 

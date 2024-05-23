@@ -3,6 +3,7 @@ aliases:
   - dream-eaters
 tags:
   - monster
+  - has_glossary_entry
 ---
 
 A **dream-eater** is a type of [[figment]] [[slime]] (specifically categorized as a [[mimic]]) which consumes powerful [[Echo|echoes]] (such as dreams), granting it knowledge, physical form, and sustenance, though at the cost of causing minor [[Off-wave|off-waves]] or memory-disruption in its environment. 

@@ -9,7 +9,7 @@ aliases:
 
 Archipelian conquistadors reached the [[River-Lands of Ancestral Ith'Paraan|River-Lands]], laying claim to it thanks to the assistance of [[Ithuriel Rysae|Ithuriel I]].
 
-Archipel is the homeland of many mountain dwarves. Eighteen [[eidolon|eidolons]], more than any other remnant, live there, acting as captains of the largest vessels that sail her oceans (known as "seatowns").
+Archipel is the homeland of many [[Dwarf#Heritages|mountain dwarves]]. Eighteen [[eidolon|eidolons]], more than any other remnant, live there, acting as captains of the largest vessels that sail her oceans (known as "seatowns").
 
 During the time of the [[War of the Masters]], Archipel was ostensibly an ally of [[Kingdom of Sacred|Sacred]], with bolyar [[Kamikatsu Fukushiza]]-dono, a feudal trade prince from Archipel who offered a large fleet of ships and skilled labor, helping to finance Sacred's elements of the war so long as Kami got some islands to control.
 

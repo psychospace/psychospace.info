@@ -55,7 +55,7 @@ i.e. player characters' homes would generally not receive note, as their contain
 
 
 ## Wikipedia
-When a topic is too generic to be notable or distinct enough to the Heavens, a link to Wikipedia will suffice. For example, [[fire]]:
+When a topic is too generic to be notable or distinct enough to the Heavens, a link to Wikipedia will suffice. For example, in the first paragraph of "[[fire]]":
 
 > ![[Fire#^a9cdc3]]
 

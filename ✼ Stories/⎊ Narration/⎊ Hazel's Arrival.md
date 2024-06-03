@@ -357,7 +357,7 @@ NO REGRETS, BITCH! LETS SEE HOW FAR YOU FLY WITH THOSE WINGS OF YOURS! *TY BUDES
 
 [The nine silhouettes suddenly take off, leaving streaks of black smoke across the sky as they fly to various places in the city. The ships break off as well, casting shadows over the city. You begin to hear the sounds of destruction.]
 
->Oh, of course. I'd also like to give a special thanks to the [[Kingdle Coal|two]] [[Kingdle Fire|lovely]] folks who can't be here right now whose chaos has certainly bloomed in full tonight. We were hoping for perfect attendance, but, y'know. You've got shit to do. Hope these festivities don't lead to a number of incidental casualties on your end… Eh, fuck 'em!
+>Oh, of course. I'd also like to give a special thanks to the [[Octavia Parasom|two]] [[Amanita Parasom|lovely]] folks who can't be here right now whose chaos has certainly bloomed in full tonight. We were hoping for perfect attendance, but, y'know. You've got shit to do. Hope these festivities don't lead to a number of incidental casualties on your end… Eh, fuck 'em!
 >
 >Now! Once again, I'm gonna need the crowd to listen the FUCK UP.
 >

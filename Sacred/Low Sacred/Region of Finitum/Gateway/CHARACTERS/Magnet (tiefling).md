@@ -3,15 +3,20 @@ aliases:
   - Magnet
 onenote-created: 2020-07-28 22:28:35 -0400
 onenote-modified: 2020-08-31 19:21:14 -0400
-issues:
-  - rewrite
-priority: CONSIDER_DELETION
+priority: good
 ---
-![[⎋ Needs Rewrite]]
-Purple [[Tiefling]] boy, 19, blank white eyes. Black hair, horns seem trimmed. Thin tail. Slightly muscular; in good shape. Wearing an orange and red robe.
+**Corus Ragdana**, [[Tiefling#^95da09|virtue name]] **Magnet**, was a [[Kingdom of Sacred|Sacreder]] [[tiefling|tief]]-[[human]], who briefly crossed paths with the [[S4]] in the course of their [[MMT - Arc 1, Nova|early journey with the prince]]. 
 
-He planned to be a bard when he was younger, but ended up a low-ranking [[Victory Starscouts|starscout]] in [[Gateway]] for his strength. Upset with his job and feeling as if the Starscouts were dulling his wit and harming his emotional state, he was eventually abducted by [[Kingdle Fire]]. He was taken from Gateway about 2 months ago, and public records made by the V's report that he vanished within a cave. This is only partially true. 
+After the [[Dragonic War]] and the failure of the Heartknock's [[Shiny Mask|mask]]-based [[Soul bond|bonds]], Magnet later assisted the [[Order of Hope]] in the rehabilitation of former Heartknock associates.
 
-He was taken into a cave, but Kingdle Fire has a weapon capable of creating flaming portals of some kind. Fire's words are scarred into his memory now, her promise that he would be "A master of his own destiny, in spite of whoever he is". The knuckle wounds are a symbol of self-denial: no matter who you are, you're made of the same stuff. Kingdle Fire's goal, as is the goal of the whole group by his reckoning, is to research the soul and find the "key to the heart's door", hence the name being the [[Heartknock]]: not a school of the traditional teaching sense, but instead a group of study for the soul's mysteries.
+# History
+Corus Ragdana was born in late [[1231 PT]] to two human parents in [[Wisfer]]. Shortly after his birth, his family moved to nearby [[Gateway]] for better opportunities, particularly seeking employment in the clean-up effort for the at-the-time neglected and overgrown Royal Hunting Grounds. Magnet took his virtue name for an unnatural charisma he exhibited; he had planned to be a bard when he was younger, but ended up a low-ranking [[Victory Starscouts|starscout]] for his strength. 
 
-Magnet has a scar where he was fatally shot through by an eldritch blast by [[Alexios Hawthorne]]. He was later revived at the [[Destiny Cathedral]].
+When he was 19 (in [[1250 PT]]), upset with his job and feeling as if the Starscouts were dulling his wit and harming his emotional state, he was eventually abducted by [[Amanita Parasom|Kingdle Fire]] off the streets. Public records made by the V's report that he vanished within a cave on a routine patrol of the [[Lilliputian Battlefield]].
+
+By his account, Kingdle Fire, or an associate of theirs, kidnapped him and instructed him on the goals of the Heartknock, robbing him of his self-determinism and preying on his desire for a change in his life. He was forced to conduct experiments in the typical fashion the Heartknock was known for, which resulted in his and other associates attack on the [[Bazaar of Fools]] in [[Midzone]]. 
+
+During the ensuing combat, he failed to self-destruct and was fatally shot through with an eldritch blast by [[Alexios Hawthorne]]. Because this was one of the first cult members the party had been able to "save" (without turning into [[living spell|living spells]]), the Royal Escort Group ensured that his body was quickly commuted to [[Destiny Cathedral]] and that the boy was [[Resurrection|resurrected]].
+
+There, in thanks, he provided the party with intelligence regarding the cult.
+

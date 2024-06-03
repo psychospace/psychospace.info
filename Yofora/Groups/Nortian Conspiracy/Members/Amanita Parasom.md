@@ -17,7 +17,7 @@ pronouns:
 ---
 **Amanita Nabokov Parasom**^[Аманита Парасом], sometimes going by "Amy", is a genderfluid [[kalashtar]] researcher and [[magus]]. They were raised the child of [[Illarion Parasom]] and [[Lyudmila Nabakov]].
 
-She acted as a leader of the [[Heartknock]] along with their sibling, [[Octavia Parasom]]. 
+As **Kingdle Fire**, they acted as a leader of the [[Heartknock]] along with their sibling, [[Octavia Parasom]]. 
 
 # History
 Amanita was born in [[1206 PT]]. When she was very young, she recalls Octavia "[[Octavia Parasom#^ef2572|emerged]]" from her shadow.

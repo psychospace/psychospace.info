@@ -10,9 +10,11 @@ aliases:
   - Ridd
 priority: MEDIUM
 ---
-**Ridd of Chained-Earth** is an [[earth]] [[genasi]] and [[Witchcraft|warlock]], a war hero of great power who was once a member of [[Critical Hit]]. He is a warlock of [[Puretza]], and helped her in clearing the influence of [[Althin]] from the world. His blade, the [[Sword of Estrangement]], is a legendary weapon.
+**Ridd of Chained-Earth** is an [[earth]] [[genasi]] and [[Witchcraft|warlock]], a war hero of great power who was once a member of [[Critical Hit]]. 
+
+He is a warlock of [[Puretza]], and helped her in clearing some influence of [[Althin]] from the world. His blade, known as the *Sword of Estrangement*, is a legendary weapon borne of a foreign moon.
 
 In his post-adventuring days, he works at the [[Royal Bladeworks]] in the Grander region of [[High Sacred|Sacred]], acting as a master of the base and a tactician for the Dragoons.
 
-Ridd is 69 (58 in human years).
+As of [[⍟ Magical Mystery Tour]], Ridd was 69 years of age.
 

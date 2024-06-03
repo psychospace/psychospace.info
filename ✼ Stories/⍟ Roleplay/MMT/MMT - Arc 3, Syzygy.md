@@ -62,7 +62,7 @@ Volk is put on a new mission by the Trickster's Children, and departs the party 
 
 %%Late session 47, 48, 49, and the start of session 50 take place.%%
 
-The party meet [[Lyrica]]. The [[Miraclesfield Experiment]] takes place. [[Kingdle Fire]] and Serratura are caught up in the [[Ghost storm]]: Serra witnesses [[Phantasma Goria]]. 
+The party meet [[Lyrica]]. The [[Miraclesfield Experiment]] takes place. [[Amanita Parasom|Kingdle Fire]] and Serratura are caught up in the [[ghost storm]]: Serra witnesses [[Phantasma Goria]]. 
 
 ### 2-2-1251
 Volk is contacted by [[ELIZ]] to do investigating of a nearby quarry, a [[Rollingstone Mining Company]] project that was abandoned in [[1238 PT]]. In that quarry is a [[Runic engine#Faults|runic engine bomb]] that was set off in 1250 PT to produce the first purple storm. He is rained out by the ghost storm from Miraclesfield.
@@ -71,7 +71,7 @@ Volk is contacted by [[ELIZ]] to do investigating of a nearby quarry, a [[Rollin
 
 
 ### 2-4-1251
-Volk is no longer rained out; he travels across the [[Victory Canyon]], stopping at the ruins of the *[[Caged Bird]]*. After investigating for a while, he was dropped in on by [[Kingdle Coal]], and his blood surged, causing him to temporarily lose conscious thought.
+Volk is no longer rained out; he travels across the [[Victory Canyon]], stopping at the ruins of the *[[Caged Bird]]*. After investigating for a while, he was dropped in on by [[Octavia Parasom|Kingdle Coal]], and his blood surged, causing him to temporarily lose conscious thought.
 
 ### 2-5-1251
 Volk awakens in the caves the morning after. Volk hunted for any evidence in the quarry, using his new coat to stand out in the rain freely, and discovered that the Heartknock was definitely here at some point, but found very little evidence of things being moved around. He backtracked to try and find the *Bird* again, but there was no sign nor clue of the ship having taken off or been dragged away: it just vanished.

@@ -13,7 +13,7 @@ The path to heart's envision…<br>
 Teachers of [[Miraclesfield Experiment|your tortures]],<br>
 Twenty all for thought.<br>
 Eighteen counts the sutures,<br>
-[[Kingdle Fire|And]] [[Kingdle Coal|two]] to lead the flock.<br>
+[[Amanita Parasom|And]] [[Octavia Parasom|two]] to lead the flock.<br>
 >
 [[Ikabod Caruso|Three tired eyes]] to show you.<br>
 Four [[Trobairitz|broken]] [[Certain (evangel)|eyes]] who flee.<br>

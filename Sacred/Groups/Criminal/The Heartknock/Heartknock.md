@@ -7,7 +7,7 @@ onenote-modified: 2020-01-13 15:44:26 -0500
 The **School of the Heartknock** was a cult apparently seduced by the tenets of [[Arizhmiya]]. Their iconography involved [[Rivenium|riven]] gauntlets, their typical [[Shiny Mask|shiny masks]], and the [[Crest of Conception]]. It formed several months prior to the onset of the [[Dragonic War]], and was instrumental in its beginning. 
 
 # Goals
-Apparently dedicated to a plan of awakening the "beating heart" of the planes, as well as unlocking the heart's truest potentials, the Heartknock was founded by [[Kingdle Fire]] and [[Kingdle Coal]] to stoke the fires of rebellion and conduct social and [[Psionics|psychic]] experiments on the masses. They created [[ghost storm|ghost storms]] through manipulating [[Runic engine|runic engines]], causing many to go missing.
+Apparently dedicated to a plan of awakening the "beating heart" of the planes, as well as unlocking the heart's truest potentials, the Heartknock was founded by [[Amanita Parasom|Kingdle Fire]] and [[Octavia Parasom|Kingdle Coal]] to stoke the fires of rebellion and conduct social and [[Psionics|psychic]] experiments on the masses. They created [[ghost storm|ghost storms]] through manipulating [[Runic engine|runic engines]], causing many to go missing.
 
 In reality, the School was formed to investigate and discover the source of [[occultation]] which [[Arizhmiya]] spoke of, and also to help foster and guide this power into the [[Nortian Conspiracy]]'s control.
 

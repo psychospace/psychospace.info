@@ -1,1 +1,0 @@
-**Kingdle Fire** was one of the two leaders of [[Heartknock]], along with [[Kingdle Coal]].

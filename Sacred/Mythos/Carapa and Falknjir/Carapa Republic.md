@@ -8,9 +8,9 @@ aliases:
   - Dios Evangel
   - Carapa
 ---
-The **Carapa Republic** was a government controlled by tribes of [[Evangel|evangels]] who ruled over [[High Sacred]]. 
+The **Carapa Republic** was a government controlled by tribes of [[Evangel|evangels]] who ruled over [[High Sacred]]. Its name is an [[Oa'Rovi]] word which roughly means "the tenets of people".
 
-It was described in its time as grandiose land, relatives of the inhabitants of [[Mount Celestia]], or as it was known in the time, Blank Castle ([[Celestial language|Celestial]]: Castel del'Intoso). They referred to [[Angel]]-kin as *Alle Presenza*, the Afore People.
+It was described in its time as a grandiose land, founded by relatives of the inhabitants of [[Mount Celestia]], or as it was known in the time, Blank Castle ([[Celestial language|Celestial]]: *Castel del'Intoso*). They referred to [[angel|angels]] as *Alle Presenza*, the Afore People.
 
 They only strongly controlled [[High Sacred]], though ruins of theirs which exist in [[Low Sacred]] are attributed to [[Unitor|Unitors]]. The distinction between High and Low Sacred was named by them as Carapa and Low Carapa.
 

@@ -86,8 +86,10 @@ Ignan - **Ura'oarovi** - A language full of sharp clicks and hisses.
 > 3. *(from case 2)* Guidelines, rules, algorithms.
 
 #### Yel {IA=L}
-[[#Ya {IA}]] + [[#L]] "divinely assembled process"
-1. the [[Divine Equation]]
+>[!metadata| txt-l ttl-c no-i subt] [[#Ya {IA}]] + [[#L]] */jɛl/* 
+>**basic:** "divinely assembled process"
+>
+>A broad term referring to the [[Divine Equation]].
 ### Yo {IO}
 [[#I]] + [[#O]] "noted meaning"
 1. (referring to a word) definition
@@ -603,6 +605,12 @@ denizens, creations, wards (familial)
 [[#Ith {Iθ}]] + [[#Paraan {PA/RA/AN}]]
 * "land of the storm" lit. "storm's kingdom". 
 	* ancient [[Ith'Paraan|land]] of Bullion
+
+#### Ith'Par {Iθ-PARA?}
+>[!metadata| txt-c no-i subt] [[#Ith {Iθ}]] + [[#Paraan {PA/RA/AN}]] (truncated) "denizen of the storm"
+
+Neologism. Commonized demonym of [[Ith'Paraan]] (in their time, it was Ith'i "individual of the storm")
+
 ### Rav'Ithflas {RAVv-IθFLAŠ}
 [[#Rav {RA/Vv}]] + [[#Ith {Iθ}]] + [[#Flas {L=FA/Šš}]] 
 * "portal of tumult fog"
@@ -645,12 +653,10 @@ lit. "danger of name", marked on maps to label a place to which one should not r
 [[#Owo {OU/Oo}]] + [[#Hain {HA/IN}]] "city of freedom"
 
 Official name for [[Owohain]], the Black-Iron Holdfast, the "Free City".
-### Ith'Par {Iθ-PARA?}
-[[#Ith {Iθ}]] + [[#Paraan {PA/RA/AN}]] (truncated) "denizen of the storm"
-
-Neologism. Commonized demonym of [[Ith'Paraan]] (in their time, it was Ith'i "individual of the storm")
 ### Rag'Hain {ROGh?-HAIN}
-combines "hain" (city) with Dwarven "roggh" (fierce beast), usually Commonized as "ragbeast / ragebeast". A small nation of Bullion named by the city's founder in celebration of their victorious revolution.
+>[!metadata| txt-c no-i subt] ROGh? + [[#Hain {HA/IN}]] 
+>*Combines with [[Dwarf|dwarvish]] "roggh" (fierce beast), usually [[Shindani|Commonized]] as "ragbeast / ragebeast".*
+ A small nation of Bullion named by the city's founder in celebration of their victorious revolution.
 
 ### Šaonathi {ŠAON/Aθ/I}
 >[!metadata| txt-c no-i] [[#Šaon {ŠA/ON}]] + [[#Ath {Aθ}]] + [[#I]] 

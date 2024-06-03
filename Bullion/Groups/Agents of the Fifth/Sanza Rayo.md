@@ -22,10 +22,12 @@ When he was born, his abilities caused him to become blinded, though at the same
 ## Codec: Lamella
 Rayo's [[Codec]] is known as **Lamella**, an antiquated biological term for plates, such as those used in armor. He possess the ability to unconsciously translate the Signal through reflections, in particular from his skin, into luminous energy that evokes holy, purifying properties.  Apparently, the Saint can see wherever his light is being used through his photoreception.
 
-
 He can produce this energy essentially at will, though doing so leaves him lethargic. His light is capable of reversing some of the influence of [[Reality-Bending|reality-bends]], similar to an [[Ehrgeiz]]. *Rayon energy*, also called **lamellan light**, can act as armor against reality-bending in general, thanks to this fact. 
 
 In addition to its uses as pure armor, Rayon energy can also be used for attacks, though in limited contexts. According to a potentially true legend, the Saint once [[Exorcism|exorcised]] a [[Hijacker]] instantly by removing his mask in front of it.
 
-The archetypical [[Sophist]], lamellan light can be granted to others and transported through trapping it in objects similar to that of an [[ambrotype]], as his bands of energy apparently move at ittyonic speeds compared to true light. Many of the Institute's agents have been equipped with clothing or armor that traps Rayon energy to use as a second-skin and potential countermeasure against  Through testing, it was discovered that in this more distilled form, his light can reveal potential for [[Bias coagulation#Antibias|antibias]] in an observer, and so many [[chirologist|chirologists]] bear tools that contain fragments of Lamellan light.
+### Sophistry
+The archetypical [[Sophist]], lamellan light can be shared with others and transported through trapping it in objects similar to that of an [[ambrotype]], as his bands of energy apparently move at ittyonic speeds compared to true light. Many of the Institute's agents have been equipped with clothing or armor that traps Rayon energy to use as a second-skin and potential countermeasure against new-magic threats. 
+
+Through testing, it was discovered that in this more distilled form, his light can also reveal potential for [[Bias coagulation#Antibias|antibias]] in an observer, and so many [[chirologist|chirologists]] bear tools that contain fragments of lamellan light.
 

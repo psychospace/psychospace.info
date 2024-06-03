@@ -5,7 +5,7 @@ tags:
 aliases:
   - scions
 ---
-A **scion** (*sy-onn*) is any [[Creature]] whose birth arises in the event of the tangling of mortal and [[immortal]] bloodlines, usually #sapient.
+A **scion** (*sy-onn*) is any [[creature]] whose birth arises in the event of the tangling of mortal and [[immortal]] bloodlines, usually #sapient. A **nephilim** is typically a descriptor of a scion of either [[celestial]] or [[fiend|fiendish]] origin.
 
 Since the realms often cross with the influence of [[Kibangan]], this type of blood was not uncommon in the time following [[The Gathering]], where the gods' influence began to wane and mortals began to claim the [[Remnant|remnants]]. 
 

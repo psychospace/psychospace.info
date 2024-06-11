@@ -19,7 +19,7 @@ So a myth goes, the elves of the [[Gray Waters]], located at a concentrating poi
 
 Several days later, [[Core engine|cores]] emerged on the surface of the Gray Waters, manifestations of the dragon's past lifetimes, silent but clearly in accord with the locals. The elves, who culturally associated rebirth with natural power, venerated the cores as sources of glory, and used their energy to craft a number of magical tools. 
 
-Eventually, a priestess resolved to take one of these cores home with her as a holy artifact. When it was taken aboard a ship sailing down the river, the vessel sprouted wings, creating the first [[Airship]].
+Eventually, a priestess resolved to take one of these cores home with her as a holy artifact. When it was taken aboard a ship sailing down the river, the vessel sprouted wings, creating the first [[airship]].
 
 ## Initiation of the Purge
 Many of the dragons of [[Dawndust]] at the time were hunted or sacrificed (in what is now called the [[Scaled Purge]]) to be transmogrified.

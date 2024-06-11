@@ -3,6 +3,7 @@ tags:
   - timeline/era
   - has_glossary_entry
 as_of: "[[1285 PT]]"
+permalink: history/adventurers
 ---
 
 The **Age of Adventurers** is the current[^1] cultural-informal epoch of the [[The Heavens|Heavens]]' greater [[✼ Timeline|history]], specifically originating from the [[Mer de Vide]] in [[1216 PT]].

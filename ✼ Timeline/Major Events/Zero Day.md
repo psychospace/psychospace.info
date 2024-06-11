@@ -6,6 +6,7 @@ tags:
   - timeline/event
   - has_glossary_entry
 description: Zero Day was a major event. The close of the formal Dragonic War, this 24-hour period saw the rescue and curing of Linnaeus Dino, and the death of the leadership of the Nortian Conspiracy.
+permalink: history/mmt/zero
 ---
 ![[⎋ 2FPG]]
 >[!infobox|static wikipedia right c-p-med]

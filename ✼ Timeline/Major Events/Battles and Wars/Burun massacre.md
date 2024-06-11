@@ -1,6 +1,7 @@
 ---
 tags:
   - has_glossary_entry
+permalink: history/mmt/burun
 ---
 
 On [[1251 PT#3-4-1251|3-4-1251]] PT, a **massacre** occurred at a hidden [[Heartknock]] facility underneath [[Arklay Manor]] on the outskirts of the city of [[Burun]].

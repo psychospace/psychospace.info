@@ -1,6 +1,8 @@
 ---
 tags:
   - has_glossary_entry
+  - timeline/era
+permalink: history/end
 ---
 
 The **End Times** are a theoretical [[Time|future]]^[Potentially present, depending on some interpretations.] apocalyptic era of [[the Heavens]], which are referenced in several mythologies from across the skyseas.

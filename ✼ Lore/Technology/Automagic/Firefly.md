@@ -1,0 +1,5 @@
+In [[Dust tunnel|dust networking]], a **firefly** is a tiny [[Verlan|verlanic]] device mounted on a building powered by verlan, or home to a pylon component of a [[dust tunnel]]. 
+
+Constructed of a single nodule of [[noemite]], typically, its sole purpose is to act as a convenient [[Psinomenon#Psintilla|psintilla]] indicator of network status and flow, similar to a real-world [electricity meter](https://en.wikipedia.org/wiki/Electricity_meter), for use by verlanicians to check for issues in the adjoining buildings or to prepare bills on use. Their patterning is typically directional, and its frequency can be observed to discern trends in the network's usage.
+
+It is named for its resemblance to true [fireflies](https://en.wikipedia.org/wiki/Firefly) at night, when they are most obvious, although verlanic fireflies glint blue and pink instead of yellow and green.

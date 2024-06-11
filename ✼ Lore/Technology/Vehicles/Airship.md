@@ -3,9 +3,9 @@ tags:
   - has_glossary_entry
 ---
 
-An **airship** or **airboat** is any vessel capable of flight and travel across the [[Skysea|sky-oceans]] of [[The Heavens]], powered by a [[Core engine|core engine]] and tenuously bonded to [[Gravity|gravity]]. Mostly constructed of wood and generally massive, airships are hardy and require a high degree of experience and resources to manage, construct, and pilot.
+An **airship** or **airboat** is any vessel capable of flight and travel across the [[Skysea|sky-oceans]] of [[The Heavens]], powered by a [[Core engine|core engine]] and tenuously bonded to [[Gravity|gravity]]. Mostly constructed of wood and generally massive, airships require a high degree of experience and resources to manage, construct, and pilot, the science of which is known as **pteronautics**.
 
-Airships are housed, repaired, and deployed from locations known as **ports** or **docks**. A ship's crew is comprised of many roles, the most chief of which is **captain**, a person who pilots and takes responsibility for the ship's crew, cargo, and safety. 
+Airships, like water-bound ships are housed, repaired, and deployed from locations known as **ports** or **docks**. A ship's crew is comprised of many roles upheld by **sailors** or **pteronauts**, the most chief of which is the **captain**, the leader of the crew who takes responsibility for its crew, cargo, and safety.
 
 # Categories
 Aside from the intentions of various classes of airship, some airships can be broadly defined by their unique features. 
@@ -26,7 +26,7 @@ A **supraekeic**^[Pronounced [sou-pra-eh-kay-ick]. From "supra", meaning "transc
 
 Such ships are designed for regular travel between layers of the [[The Planet#Planar stack|planar stack]]. A supraekeic craft is ultimately designed to avert or protect against [dysbarism](https://en.wikipedia.org/wiki/Dysbarism) in its crew and passengers, especially if the ship is constantly on the move, such as in the case of ships built for hunting, mining, or fishing.
 
-The construction of supraekeic craft is novel, rare, and usually industrial in nature. For much of their existence, airships designed to travel between layers have been padded with ablative material. This ablative material protects the base hull from heat and corrosion sustained when descending to a lower layer on the planar stack. 
+The construction of supraekeic craft is novel, rare, and usually industrial in nature. For much of their existence, airships designed to travel between layers have been padded with [ablative material](https://en.wikipedia.org/wiki/Ablative_armor). This ablative material protects the base hull from heat and corrosion sustained when descending to a lower layer on the planar stack, though the destination must be able to secure additional armor.
 
 Such craft are typically described as being capable of **infrayonder** (below the [[Wild Blue Yonder|Yonder]]) or **interyonder** (above the Yonder) travel.
 
@@ -38,9 +38,9 @@ It is believed that [[First Magicians]] originally tamed or allied themselves wi
 
 The first airship, a vessel specifically created to ferry passengers across the skyseas, was probably constructed in the period around 15,000 to 10,000 years ago, though several civilizations had tamed dragons and traveled the skies in limited capacities beforehand.
 
-In the era of [[Ith'Paraan|Ith'Paraan]], [[Witchcraft|witches]] known as void farers were able to use their [[Gift (witchcraft)|connection]] to their patron to mimic the role performed by cores today, able to raise islands and use them as vessels. Some myths state that the area now known as the [[Wabi Steppe]] was a mined location for these islands. This goal was the ambition of its founder, [[Amakudari-no-Mikoto]].
+In the era of [[Ith'Paraan|Ith'Paraan]], [[Witchcraft|witches]] known as void farers were able to use their [[Gift (witchcraft)|connection]] to their patron to mimic the role performed by cores today, able to raise islands and use them as vessels. Some myths state that what is today the [[Wabi Steppe]] and [[Cracked Sea]] was a mined location for these islands. This goal was the ambition of its founder, [[Amakudari-no-Mikoto]].
 
-Elsewhere, [[Wraithsword|wraith weapons]] were utilized by the native peoples of the [[Colossal Ocean]] to conduct trade with one another.
+Elsewhere, [[Wraithsword|wraith weapons]] were utilized by the native peoples of the [[Colossal Ocean]] to pilot their individual islets, used to conduct trade or warfare with one another.
 
 ## Discovery of modern cores
 The discovery of cores occurred in around [[BPT 50]].
@@ -56,7 +56,7 @@ Due to the natural resources of [[Yofora]] and [[Umazia]], the [[Great Nortian E
 
 Around the [[6th century PT]], the [[Filistec|filistec]] was invented, the first true anti-airship weapon.
 
-In [[1243 PT]], the [[Runic engine]] was invented in Nortia.
+In [[1243 PT]], the [[runic engine]] was invented in Nortia, a further innovation through their leveraging of [[the Sheer]].
 
 # Weaponry
 Up until the [[11th century PT|turn of the millennium]], airships themselves usually did not often have weaponry, with the crew and the design of the ship itself being the primary defenses. 

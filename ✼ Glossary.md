@@ -30,6 +30,8 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 ## Ab
 **[[Aberration]]** - A [[creature]] which defies [[logic]], at least as the [[Antic Sea]] understands it: typically arising from beyond the Antic -- "aliens", in the pop-cultural sense.
 
+**[[Abjuration]]** - One of the [[Classical Schools]] of [[magic]]. Consists of a focus on direct defense, the repelling and rejection of powerful influences.
+
 **[[Aboleth]]** - A powerful [[aberration]] planted on [[the Planet]] by the [[Tzitzimitl|tzitzimimeh]], who, in ancient times, supposedly manipulated life to their own ends. Posesses a tremendous memory and psionic prowess.
 
 **[[The Above|Above, The]]** - Layer overtop the [[Wild Blue Yonder]] and below [[Umbraid]]. Land of storm and dragons. Empowered by the chaos of [[air]].
@@ -52,7 +54,7 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 ## Ai
 **[[Air]]** - Oxygenated composition of the atmosphere and of [[Skysea|skyseas]]; one of the [[Elemental energy|elements]] of [[chaos]], exemplified by [[the Above]].
 
-**[[Airship]]** - An [[#^fe0932|aeronautical]] vessel constructed to allow groundbound creatures to travel across a [[skysea]]. Of varying shapes and sizes, but usually has a [[core engine]].
+**[[Airship]]** - An [[#^fe0932|aeronautical]] vessel constructed to allow groundbound creatures to travel across a [[skysea]]. Of varying shapes and sizes, but usually has a [[core engine]]. ^84cc96
 - **[[Airship feather]]** - A feather specially removed from a core engine's hard-light wings.
 - **Amphibious airships** - Capable of traveling through both water and air.
 - **Steelclad airships** - With toughened armor, capable of traveling beyond or into the [[Dustwall]].
@@ -468,6 +470,8 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 
 ***[[Gravity & Geneses]]*** - A book which gave rise to [[Critical Hit]]'s popularity.
 
+**[[Great Hurricane]]** - A severe [[Weather|storm]] which afflicted and destroyed many places in [[Bullion]] in [[1251 PT]]. [[New magic]] was cited as a factor.
+
 **Great One** - Another term for *[[#^7ccd96|outsiders]]*.
 
 **[[Gremishka]]** - Pests created by malformed magic.
@@ -547,17 +551,20 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 
 **[[Kinfolk]]** - Any sapient creature or ancestry which resembles a non-sapient creature: anthropomorphic creatures, said to be made by [[Elemental energy|elemental chaos]].
 
-**[[Kitsune]]** - Fox-like [[kinfolk]] ancestry, who can shapechange on a spectrum of full-human to full-fox. Each individual's forms depends on their heritage. 
+**[[Kitsune]]** - Fox-like [[kinfolk]] ancestry, who can change shape on a spectrum of full-human to full-fox. Extremely long-lived -- never seen perishing of old age. Each individual's forms depends on their heritage. 
 
 ## Ko
-**[[Kobold]]** - A draconically-empowered sapient ancestry, known for being prone to misjudgement, cowardice, and adventuresome tendencies.
+**[[Kobold]]** - A draconically-empowered sapient ancestry, known for being prone to misjudgment, cowardice, and adventuresome tendencies.
 
 ## Ku
 **[[Kuo-toa]]** - Piscine [[Aberration|aberrations]] who possess a god-making insight.
 # ==[ L ]==
 
 ## La
-**[[Sanza Rayo#Codec Lamella|Lamella]]** - *Typically,* a light-like [[magic]] energy that can act as an armor or weapon against [[reality-bending]]; the [[Codec]] of Saint [[Sanza Rayo]], produced constantly from his body, and seen incorporated by [[chirologist]] tools.
+**[[Lainesia]]** - The capital city of [[Emirate of Qaulhain|Qaulhain]] and seat of power for the [[Golden Council]].
+- **[[Lainese Heavy Industries]]** / **LHI** - A powerful heavy industry conglomerate founded in a collaboration between multiple powerful forces in [[Bullion]]. Today, consists of a *[[#^9f8083|rail]]* and interremnantal logistics empire, as well as several subsidiaries.
+
+**[[Sanza Rayo#Codec Lamella|Lamella]]** - *Typically,* a light-like [[magic]] energy that can act as an armor or weapon against [[reality-bending]]; sourced from the [[Codec]] of Saint [[Sanza Rayo]], produced constantly from his body, and seen incorporated by [[chirologist]] tools.
 
 **[[Lavastus]]** - An [[archfey]] entity said to assist those at their wits' end.
 
@@ -793,6 +800,9 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 
 **[[Psychospace]]** - An alternate side to [[Universe|reality]], which is influenced by and influences the thoughts and energies of [[the Heavens]] (specifically). Powers all [[magic]]. Created by the three-dimensional [[#^b450b0|shadow]] of fourth-dimensional [[Kibangan]]. ^e778a2
 
+
+## Pt
+**Pteronautics** - The study of flight and buoyancy on wings, especially as they relate to *[[#^84cc96|airships]]*.
 ## Pu
 **[[Puretza]]** - Bladeborne entity created from a foreign *[[#^8b9f17|moon]]*.
 
@@ -985,7 +995,7 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 **[[TPK]]** - "Total [[psychospace]] kill". A [[collapse state]] scenario in which psychospace is eradicated, causing [[logic]] to become unbound and [[magic]] to stop working. Happened to the [[elseworld]].
 
 ## Tr
-**[[Train]]** - Heavy locomotive vehicle used for transporting cargo or passengers across rails. Industrially used for mining and precious materials where applicable. Typically powered with a [[Core engine|core engine]].
+**[[Train]]** - Heavy locomotive vehicle used for transporting cargo or passengers across rails. Industrially used for mining and precious materials where applicable. Typically powered with a [[Core engine|core engine]]. ^9f8083
 
 **[[Transmutation]]** - One of the [[Classical Schools]] of [[magic]], to do with change and alteration.
 

@@ -2,6 +2,9 @@
 tags:
   - magic
   - has_glossary_entry
+aliases:
+  - resurrected
+  - resurrecting
 ---
 
 >[!question|ttl-c bg-c-blue] Not to be confused with [[reincarnation]] or [[necromancy]].

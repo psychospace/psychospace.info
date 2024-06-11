@@ -3,4 +3,4 @@
 
 Though initially an isolated trend, I/O branches have since seen many corporate shakeups, as entities like [[Lynchpin device|lynchpins]] are secured as property for the parent company: potentially kept secret and internal to wage corporate warfare, or more often leased out to greater research bodies such as the [[Institutes of Bullion]] to secure important funding or interest in the company's efforts.
 
-Almost any company [[✼ Wiki Principles#Rule of Notability|notable enough to be mentioned on this wiki]] has attempted or current employment of an I/O branch. 
+Almost any major company [[✼ Wiki Principles#Rule of Notability|notable enough to be mentioned on this wiki]] has attempted or current employment of an I/O branch. 

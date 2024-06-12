@@ -3,7 +3,7 @@ onenote-created: 2019-11-28 13:14:00 -0500
 onenote-modified: 2021-10-09 14:15:55 -0400
 ---
 
-**Wren "The Wrench" Doggabone** was a [[Nortian Conspiracy|conspirator]], Ranked IVth in the organization. One of the key figures in [[NIMROD]] as of the [[Dragonic War]], Wren fought in the bleakest of battles and develops the cruelest of schemes so her son, Erde, can live to see a conflict free world. Wren is Rank S in Section Four of NIMROD, marking her the division's leader.
+**Wren "The Wrench" Doggabone** was a [[Great Nortian Empire|Nortian]] [[Nortian Conspiracy|conspirator]], ranked 4th in the organization. One of the key figures in [[NIMROD]] as of the [[Dragonic War]], Wren fought in the bleakest of battles and develops the cruelest of schemes so her son, Erde, can live to see a conflict free world. Wren is Rank S in Section Four of NIMROD, marking her the division's leader.
 
 # History
 

@@ -1,3 +1,8 @@
+---
+aliases:
+  - Samix
+---
+
 **Samíx** is a settlement in [[Mozga-Chelyust]] in [[Yofora]]. 
 
 Originally minor in importance, it grew in size as the [[Great Nortian Empire|empire]] invested more and more in research through [[NIMROD]]. There is a strange magical energy to the multitude of shores surrounding this city. There is an [[Eidolon]] guardian here.

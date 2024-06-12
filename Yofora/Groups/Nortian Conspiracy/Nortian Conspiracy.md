@@ -63,5 +63,10 @@ On the Third of Augenschien, the [[Red Spark|Siege of Drastic]] took place. Due 
 
 Through the massive amounts of control at the Conspiracy's fingertips, a three-month conflict followed, known as the [[Dragonic War]]. During this, bedlam raged across Sacred, while a [[S4|particular group]] hunted down a cure to the curse, regularly beating back the Conspiracy's attempts to steal their progress. 
 
+
 ## Legacy
-After [[Zero Day|the conspiracy fell apart]], Linnie's rescue, and both Scarla and Illarion's deaths, and with reality seemingly still intact, Serena almost immediately took up her mother's role and began to try to make sense of the ambitions of the conspiracy. With [[Dom Otdykha]] turned into 
+The conspiracy functionally crumbled to pieces on [[Zero Day]], though their efforts persisted for some months after, with internal strife and betrayals as the [[mark of tears]] threatened their safeties.
+
+After [[Zero Day|the conspiracy fell apart]], Linnie's rescue, and both Scarla and Illarion's deaths, and with reality seemingly still intact, Serena almost immediately took up her mother's role and began to try to make sense of the ambitions of the conspiracy. With [[Dom Otdykha]] turned into a base for the [[Order of Hope]], many of the members were either found guilty and executed, or were forever missing.
+
+Regardless, the efforts of the conspiracy and the Heartknock had left a permanent scar on the Planet, and numerous victims remained in difficult or impossible states for years after.

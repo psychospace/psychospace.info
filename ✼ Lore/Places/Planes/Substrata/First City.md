@@ -23,7 +23,7 @@ It is physically located on a [[remnant|islet]] in a gleaming bay of flowing [[E
 
 Since [[the Gathering]], the merged elements of [[wood]] and [[metal]] have been fundamental components of the City, as a result of the incorporation of [[Umbraid]] and [[Väräh]] into its makeup. As a direct result, the city's buildings do not cleanly resemble a mortal city, a chimeric combination of all [[Elemental energy|elemental axes]]. 
 
-Contrary to the implication of this harmony with nature, the six axioms are all organized algorithmically, naturally, and carefully to form mediality. This paints the picture of a city which defies [[Chaos]] by its very distortion and organization of it.
+Contrary to the implication of this harmony with nature, the six axioms are all organized algorithmically, naturally, and carefully to form a balance. This paints the picture of a city which defies [[Chaos]] by its very distortion and organization of it.
 
 Following [[Zero Day]], though, the subduction has slipped and these planes have returned to the [[The Planet#Planar stack|planar stack]], reducing the influence of "crime" caused by their [[Elemental creatures|elementals]] on the city.
 

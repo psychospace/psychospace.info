@@ -13,7 +13,9 @@ pronouns:
 >[!quote|author] The Pitcher, during the mass-resurrection event
 >"Say, friend. I've had my fun. This time, you walk free."
 
-The **Pitcher**, also known as the *pallid figure*, is an entity of currently unknown description. They were the subject of many [[Confluence|conflux]] events between [[Vitality energy|positive]] and [[Void energy|negative energy]] in mid-[[1249 PT]], including a miraculous one in which many people were revived. Their existence was also connected to the [[Base (XI)|Bases]] in an unknown way.
+**After Hope Abasolo**, the **Pitcher**, also known as the *pallid figure*, is a [[new god]] whose [[domain]] is "freedom". A young [[omen]], slain then ascended by accident by [[Ciro Enfys]], it was responsible for a [[Mass-Resurrection Incident]], as well as stripping the entire world of the rules of [[skitball]].
+
+They were the subject of many [[Confluence|conflux]] events between [[Vitality energy|positive]] and [[Void energy|negative energy]] in mid-[[1249 PT]], including a miraculous one in which many people were revived. Their existence was also connected to the [[Base (XI)|Bases]] in an unknown way.
 
 Their existence and effect on the world is the subject of *[[⍟ Extra Innings]]*.
 # Appearance

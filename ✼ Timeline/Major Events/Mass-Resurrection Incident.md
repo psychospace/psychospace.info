@@ -6,7 +6,7 @@ campaign: "[[⍟ Extra Innings]]"
 permalink: history/xi
 ---
 
-On the Ides of Vire, [[1249 PT]], a **mass-resurrection** occurred, apparently as a result of [[The Pitcher|the Pitcher]]. Over one-hundred people from across [[Bullion]] who had died since the Ides of Vire, [[1248 PT]], suddenly returned to life without explanation. It was apparently as a result of the [[Confluence|conflux]] between positive and negative energy.
+On the Ides of Vire, [[1249 PT]], a **mass-resurrection** occurred, apparently as a result of [[The Pitcher|the Pitcher]]. Over one-hundred people from across [[Bullion]] who had died since the Ides of Vire, [[1248 PT]], suddenly returned to life without explanation. It was apparently as a result of a severe [[Confluence|conflux]] between positive and negative energy.
 
 These revived people awoke in caves nearby their points of death or burial, each with visions of a pallid figure stepping away from them, saying "*Say, friend. I've had my fun. This time, you walk free.*"
 
@@ -18,3 +18,5 @@ This included:
 * [[Silver (XI)|Silver]], who had been ensnared inside an unreal space.
 
 At the same time, the [[Base (XI)|Bases]] emerged: one of which was in [[Estelis Ranch]].
+
+The truth of the incident was that the Pitcher had just ascended as a [[new god]] and required players for a grim "game", modeled on fading psychospacial memories of [[skitball]], to release its friend [[Ciro Enfys]] from torment and recover its own memories.

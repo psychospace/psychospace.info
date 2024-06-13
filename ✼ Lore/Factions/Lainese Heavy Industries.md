@@ -4,7 +4,7 @@ tags:
   - has_glossary_entry
 ---
 
-**Lainese Heavy Industries**, typically shortened to **LHI**, is a [heavy industry](https://en.wikipedia.org/wiki/Heavy_industry) and shipping trust, one of the largest and most well-recognized companies on the face of [[Bullion]]. Named for its home of [[Lainesia]], LHI owns and operates much of the remnant's [[Train|train lines]], using the [[Blue Cinder Militia|Cinders]] to protect them: and, through a cooperation with their subsidiary [[Arkwright Improvement Company|ImCo]] and the supply company [[Diesterthan Materials|DMAT]], has also worked to support the infrastructure bringing [[Dust tunnel|dust networks]] from skysea to skysea. 
+**Lainese Heavy Industries**, typically shortened to **LHI**, is a [heavy industry](https://en.wikipedia.org/wiki/Heavy_industry) and shipping trust, one of the largest and most well-recognized companies on the face of [[Bullion]]. Named for its home of [[Lainesia]], LHI owns and operates much of the remnant's [[Train|train lines]], using the [[Blue Cinder Militia|Cinders]] to protect them: and, through a cooperation with their subsidiary [[Arkwright Improvement Company|ImCo]] and the supply company [[Yondo]], has also worked to support the infrastructure bringing [[Dust tunnel|dust networks]] from skysea to skysea. 
 
 It operates an interremnantal [[airship|ptero]]-logistics and [[Train|railroad]] empire spanning the entire [[Mer de Vide]], bringing its owners, the great noble [[House Arkwright]] and their philanthropic endeavors, extreme renown and wealth. In addition, LHI conducts many off-remnant ventures and operations, bringing these technological revolutions elsewhere. 
 

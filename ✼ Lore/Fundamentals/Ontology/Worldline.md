@@ -9,7 +9,7 @@ In [[Thaumaturgy|thaumaturgical]] studies, a "**worldline**" is the [[Epitome|ep
 
 Sometimes, though rarely, the definition expands to include other planetoids, [[Manifold Seas]], or sometimes all of the [[universe]]. 
 
-Someone who could [[time travel|travel through time]] could travel along the worldline through both time and space at once, effectively granting an extremely powerful [[teleportation]] ability.
+Someone who could [[time travel|travel through time]] could travel along the worldline through both time and space at once, effectively granting an extremely powerful [[Portal|teleportation]] ability.
 
 The worldline described on this wiki is, without otherwise specifying, describing the events of the *primary worldline* (which hasn't [[End Times|ended]], yet, to my knowledge). **Alternate** worldlines are also described, such as [[Elseworld]].  ^a586f7
 

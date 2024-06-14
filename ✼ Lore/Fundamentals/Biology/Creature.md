@@ -12,11 +12,11 @@ Within [[The Heavens]], creatures interface casually and naturally with [[Psycho
 
 A creature born under the gods' graces also receives a [[True name (concept)|true name]], though they might never learn it.
 
-# Special types
+# Special Definitions
 ## Whatsit
 A **whatsit** classifies any [[Creature|creature]] with a living [[soul]] yet without a [[body]] to its name. For example, a [[ghost]] is a whatsit.
 
-Both [[Whosit|whosits]] and whatsits can effectively be created artificially using [[Vibe]], but this is not a cheap process, and isn't the natural process by which these sorts of things are made.
+Both whosits and whatsits can effectively be created artificially using [[Vibe]], but this is not a cheap process, and isn't the natural process by which these sorts of things are made.
 
 ## Whosit
 A **whosit** classifies any [[creature]] with an animated [[body]] that does not have a [[soul]] to its name. Oft created by [[Spell|spells]], these forms can be whole or in part. 
@@ -25,6 +25,6 @@ For example, an [[unseen servant]] is a whosit.
 
 Both whosits and [[Creature#Whatsit|whatsits]] can be created in isolation using [[Vibe]], but this is not a cheap process, and isn't the natural process by which these sorts of things are made.
 
-As an example, artificial whosits, in the form of duplicrows, make up the corps of the harpy couriers used by the [[Tower of Electron]].
+As an example, artificial whosits, in the form of [[duplicrow|duplicrows]], make up the corps of the harpy couriers used by the [[Tower of Electron]].
 
 [^1]: And its [[Fylgja|fylgja]].  If it is immortal, it has a [[Domain|domain]] instead.

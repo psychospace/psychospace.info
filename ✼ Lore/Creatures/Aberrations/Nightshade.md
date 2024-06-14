@@ -54,4 +54,4 @@ Nightshades are not known to exist in the [[Antic Sea]] proper. According to acc
 
 Even so, soothsayers claim nightshades watch hungrily from the elseworld, waiting for a collapse state to annihilate Light on both sides of the "coin". Were this to occur, nightshades would be able to transcend their point of origin to continue their entropic crusade upon a new world.
 
-Nightshades can be temporarily [[summoner|summoned]] (typically by powerful [[Necromancy|necromancers]]) onto the planet; although they are powerful enough to resist the binding call of a summoning spell, it is typical for a nightshade to submit to the spell in order to spread entropy and death beyond their plane.
+Nightshades can be temporarily [[summoning|summoned]] (typically by powerful [[Necromancy|necromancers]]) onto the planet; although they are powerful enough to resist the binding call of a summoning spell, it is typical for a nightshade to submit to the spell in order to spread entropy and death beyond their plane.

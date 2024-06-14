@@ -19,7 +19,7 @@ All eidolons are made in the image of [[Athemat]], the grandfather deity of all 
 # Personality
 A community needn’t give the eidolon a home, but it will often find one if it isn’t given one. It attempts its best to live amongst people and help them out in anyway it can. An eidolon takes on personality traits predominantly displayed in their community: for example, a town of gamblers would have a greedier eidolon, or a more vicious and aggressive town might have an eidolon prone to provoking others.
 
-In general, eidolons are prone to being scholarly beings. with immense power over the people they represent and an immense spiritual link to other eidolons. They do not cast definite [[Magic]] with spells as most creatures do through psychodefinition, but instead create things out of psychospace in accordance with their powers, technically termed “[[weaving]]”.
+In general, eidolons are prone to being scholarly beings. with immense power over the people they represent and an immense spiritual link to other eidolons. They do not cast definite [[Magic|magic]] with spells as most creatures do through [[Compilation|compilation]], but instead create things out of psychospace in accordance with their powers, technically termed “[[Reality-bending|weaving]]”.
 
 # Death
 The circumstances of an eidolon's death An eidolon dies naturally when the community it represented is no more. This death is often peaceful, though bittersweet.

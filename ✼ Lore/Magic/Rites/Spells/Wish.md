@@ -13,4 +13,4 @@ In ~500,000 BPT, the cosmological event described as “[[The Gathering]]” too
 
 Less than fifty humanoid casters since are believed to have ever had access to this spell, although [[Genie|djinni]] royalty, predilected towards the spell, have been known to share their ability to cast this spell for their own ends.
 
-In modern times, [[Eidolon|eidolons]], already connected to the Divine, possess a much weaker magic akin to wish known as “[[weaving]]”, which allows them to mimic spells they have seen before below a particular level of complexity.
+In modern times, [[Eidolon|eidolons]], already connected to the Divine, possess a much weaker magic akin to wish known as “[[Reality-Bending|weaving]]”, which allows them to mimic spells they have seen before below a particular level of complexity.

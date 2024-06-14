@@ -6,6 +6,10 @@ aliases:
   - reality-benders
   - Reality-benders
   - Reality-bends
+  - reckoning
+  - reckoned
+  - weaving
+  - weaved
 tags:
   - magic/new
   - magic/type
@@ -13,6 +17,8 @@ tags:
 ---
 ![[⎋ 2FPG]]
 **Reality-bending**, or **reality-alteration,** is a generic term for an arbitrary, low-dependence change made to [[Universe|reality]]'s present [[context|context]]: often in a localized, immediate-effect manner, but sometimes in a [[Curse|curse]]-like, impermanent manner. The term is used prominently in the context of “[[New Magic]]”.
+
+Other terms for the craft include **reckoning** (commonly used by [[Witchcraft|witches]]) and **weaving** (common term more directly translated from [[Arckan]], used by [[Eidolon|eidolons]]).
 
 Due to their general ignorance of the processes of the [[Divine Equation]], the act of bending is liable to cause [[Altercation|altercations]]. A **reality-bender** (or simply **bender** for short) is any [[Creature|creature]] with a predilection to make these types of changes.
 # Definitions

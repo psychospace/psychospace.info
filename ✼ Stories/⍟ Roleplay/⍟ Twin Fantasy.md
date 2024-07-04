@@ -16,7 +16,7 @@ It will be GM'd by January November, and acts as the follow-up to [[⍟ Magical 
 
 It was split into two groups and thus two origins: "Mirror to Mirror" and "Face to Face". The latter meets primarily in-person, while the former meets primarily online. Though the games occur contemporaneously with each other, they follow different storylines and explore different themes.
 
-It has not yet begun.
+*Face to Face* began on July 1st, 2024. 
 
 # Summary
 ## Face to Face

@@ -7,7 +7,7 @@ aliases:
   - Extra Innings
 ---
 ![[⎋ Real-World]]
-**Extra Innings** is a series taking place in [[The Heavens]] in [[1249 PT]]. It was run in *Pathfinder 2e*, starting on July 14th, 2023, by January November.
+**Extra Innings** is a series taking place in [[The Heavens]] in [[1249 PT]]. It was run in *Pathfinder 2e*, starting on July 14th, 2023, by January November, ending on May 23rd, 2024.
 
 The events of XI concern several people revived in the [[Mass-Resurrection Incident]], and their quest to uncover more about the being that brought them back. In the course of this, they explore each of the [[Base (XI)|Bases]], and are confronted by the story of a strange girl named [[Ciro Enfys|Ciro]].
 

@@ -4,7 +4,7 @@ aliases:
 tags:
   - faction
 ---
-The peoples collectively known as **Kuroki Keiichi** (“first nobility of the black-tree”) are a nomadic sect found all throughout [[Bullion]]. They are ruled, loosely, by [[Kuroki]].
+The peoples collectively known as **Kuroki Keiichi** (“first nobility of the black-tree”) are a nomadic sect found all throughout [[Bullion]]. With history dating back thousands of years, the sect is ruled, loosely, by a furtive leader known as [[Kuroki]].
 
 Originating from ancient stories of “the Allegiant”, a race of [[Outsider]] beings once encountered by [[Ith'Paraan|Ith'Par]] voidfarers, the Keiichi possess strong concepts of property and hospitality in hopes of protecting themselves, and in overseeing land and protecting nature on each side of reality. 
 

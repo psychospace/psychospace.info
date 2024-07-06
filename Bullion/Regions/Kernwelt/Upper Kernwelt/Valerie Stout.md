@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - character
 campaign: "[[⍟ Extra Innings]]"
 factions:
   - "[[Fifth Institute]]"

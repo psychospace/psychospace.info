@@ -1,6 +1,9 @@
 ---
 tags:
   - has_glossary_entry
+aliases:
+  - ambrotypes
+  - ambrotypist
 ---
 
 
@@ -15,7 +18,7 @@ Prior to the [[1st century PT]], photographic prints were created entirely by ha
 
 Certain spells, such as [[encode thoughts]], were used to bring about the preservation or restoration of [[Echo|echoes]], and photographs were one such means that this could be accomplished.
 
-Glassy ambrotypes, in which one side of the print is lacquered black in order to produce a clearer, positive image, were invented during the course of the [[War of the Masters]] in order to supplant the role of wartime artists. Many of the earliest ambrotypes were created to preserve the history of the [[Colossal Ocean]]'s inhabitants, both for genuine historical purposes and for moral, propogandizing purposes. Ambrotypes produced by this method led to a much larger audience for the photographic technology, and with the rise of the [[Age of Adventurers]], that interest has only grown over time.
+Glassy ambrotypes, in which one side of the print is lacquered black in order to produce a clearer, positive image, were invented during the course of the [[War of the Masters]] in order to supplant the role of wartime artists. Many of the earliest ambrotypes were created to preserve the history of the [[Colossal Ocean]]'s inhabitants, both for genuine historical purposes and for moral, propagandizing purposes. Ambrotypes produced by this method led to a much larger audience for the photographic technology, and with the rise of the [[Age of Adventurers]], that interest has only grown over time.
 
 Enchanted ambrotypes, whose images could move on their own, were created first in about [[1236 PT]], but this technology remained difficult to access, such that only the most ostentatious of nobles might have them. The chemicals used to produce standard ambrotypes, however, became more accessible. 
 

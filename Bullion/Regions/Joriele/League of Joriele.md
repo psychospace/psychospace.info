@@ -13,3 +13,5 @@ The range separates many of the people by poorly or dangerously accessible route
 In the region of Joriele is the oldest life on the remnant: one example is an old-growth wooded region known as the [[Naciente]], and holdouts from when almost everything else was wiped out when the [[Os'Grun]] impact occurred. 
 
 The nations of Joriele generally stay apart and separately operating but united under a flag, which grants the independent states membership and at least “voting shares” in [[The Shibboleth]] through a group called the _Lords of the Northern Passage_. 
+
+The demonym of Joriele is typically *joriano* in [[Mänyya]] and *Jori* in [[Shindani]].

@@ -6,6 +6,13 @@ cssclasses:
   - writing
 permalink: sprout
 ---
+>[!metadata]-
+>| | |
+>| --: | -- |
+>| Author | January November | 
+>| Released | 03-18-2024
+
+---
 *That lonesome night*, the sword weighed far heavier than the crown. 
 
 The flashes of lightning outdoors and the night rains beating on the windows out front barely fazed [[Lazuli Dino|Linnie]], as he sat there on the creaky old barstool. Aside him, there was a leak sprung in the roof, dripping rhythmically into a pot on the ground, breaking through the wall-to-ceiling murals. The paint flowed amorphous cloud around the falling water, a clear sky punctuated by a dull black hole.
@@ -311,7 +318,7 @@ Something stumbled out of the darkened garden. Whatever it was, its aura seemed 
 
 The prydite-yarn had split along Aster's casting glove, exposing pale flesh and splitting the tendon of their thumb wide open. The thin blue threads of arcane-conductive material were soaked in cobalt. 
 
-"*Puuka!*" Aster swore, screaming in pain, in Diabolic. The word itself resonated across Dinofang's edge. 
+"*Puuka!*" Aster swore, screaming in pain, in [[Infernal|Diabolic]]. The word itself resonated across Dinofang's edge. 
 
 On adrenaline alone the prince instinctively placed his right hand over his left, white-knuckling the red sword with both arms, and stood in front of his companion. The darkened skeleton bore down towards him, chattering its teeth as though uttering a sinister laugh.
 

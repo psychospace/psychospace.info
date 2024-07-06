@@ -5,9 +5,9 @@ tags:
 cover: '"00 - Meta/Images/img_lin_dragon.png"'
 description: Manifestation of the grudge of Arahabaki and Arizhmiya, the Dragonic Curse was a long-standing plague on the crown of the Kingdom of Sacred.
 ---
->[!infobox|right wmed]
+>[!infobox|right wsmall]
 >>[!caption| center]
->>![[img_lin_dragon.png]]
+>>![[img_lin_dragon.png | center]]
 >>Prince [[Lazuli Dino|Linnaeus]] as a dragonic whillo.<br> Art by [[✼ Credits#^4926d3|forbiddentaako]].
 ^3c6376
 

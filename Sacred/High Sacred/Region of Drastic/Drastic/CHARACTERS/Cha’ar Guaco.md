@@ -1,1 +1,7 @@
-A [[Emirate of Qaulhain|Qauli]] historian of note who was very well versed in religious orders of old. He was a teacher at the [[Constellar School]] in [[Drastic]] as of [[1233 PT]].
+---
+tags:
+  - TODO
+priority: LOW
+---
+
+**Cha'ar Guaco** was a [[Emirate of Qaulhain|Qauli]] historian of note who was very well versed in religious orders of old. He was a teacher at the [[Constellar School]] in [[Drastic]] as of [[1233 PT]].

@@ -20,18 +20,18 @@ This page acts as a [[✼ Index|hub]] for the pages in the **Stories** folder, w
 # ⊛ Prose
 Stories in **prose** are stories written about or from the perspective of characters.
 
-- *NEW!!* - **[[⊛ Sprout]]**
+* [[⊛ Sprout]]
 * [[⊛ Change is In the Air]]
 * [[⊛ The First Rule]]
 
 # ⍟ Roleplay
 Stories in **roleplay** are stories which play out in tabletop roleplaying systems.
 
-* **[[⍟ Magical Mystery Tour]]** 
-    * The first campaign, which invented the Heavens. It covers the adventures of the people and destinies connected to [[Lazuli Dino|Linnaeus]], Prince of [[Kingdom of Sacred|Sacred]].
-* **[[⍟ Extra Innings]]** 
+* **[[⍟ Magical Mystery Tour]]** - 2020 - 2024
+    * The first campaign, which originated the Heavens. It covers the adventures of the people and destinies connected to [[Lazuli Dino|Linnaeus]], Prince of [[Kingdom of Sacred|Sacred]].
+* **[[⍟ Extra Innings]]**  - 2023 - 2024
     * A series acting as an experimental test for Pathfinder. An unexpected change of fate: Victims of a [[Mass-Resurrection Incident|mass-resurrection]] investigate their own return.
-* **[[⍟ Twin Fantasy]]** 
+* **[[⍟ Twin Fantasy]]** - 2024 -
     * The follow-up to *Magical Mystery Tour*. It covers the travels of new blood, amidst a wave of new-weird challenging their future, inspired to search for the [[Empty Lake]].
 * **[[⍟⛒ Second Contact]]** 
     * An alternate-universe story in which psychospace crosses over into the Lancer universe.

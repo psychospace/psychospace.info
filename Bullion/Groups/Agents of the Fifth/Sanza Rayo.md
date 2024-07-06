@@ -5,7 +5,7 @@ pronouns:
   - he-him
 ---
 ![[⎋ 2FPG]]
-Saint **Sanza Ewald Rayo** is a [[Emirate of Qaulhain|Qauli]] [[Alect Keeper]] of the [[Fifth Institute]], specifically the Keeper of [[Eudico Fenske]]. Known as the "Saint of Light", Sanza Rayo is a [[Broadcaster]], and probably the most famous one known to be allied with the [[The Shibboleth|Shibboleth]].
+[[Saint]] **Sanza Ewald Rayo** is a [[Emirate of Qaulhain|Qauli]] [[Alect Keeper]] of the [[Fifth Institute]], specifically the Keeper of [[Eudico Fenske]]. Known as the "Saint of Light", Sanza Rayo is a [[Broadcaster]], and probably the most famous one known to be allied with the [[The Shibboleth|Shibboleth]].
 
 Rayo began his tenure with the Institute as a Special Adjunct, as "[[Songbird]] 583", thanks to powers that rendered him apparently near-immortal. As of [[1285 PT]], he is around 24 years old, easily the youngest Alect Keeper, though he looks even younger for reasons unknown.
 

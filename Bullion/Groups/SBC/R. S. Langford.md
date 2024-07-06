@@ -35,8 +35,8 @@ In a public address in late [[1284 PT]], [[Sanza Rayo]] has instructed [[the Shi
 >"When you think on something long enough, and deep enough, some say everything sounds the same. It's more like, everything tends towards harmony. You think hard enough about this world of ours, sooner or later, you're gonna start *learnin*' about this world of ours. And the more you learn, the more you can control."
 
 %%
->[!quote] [[✼ To Forget]]
->![[✼ To Forget#^9e175c|no-link]]
+>[!quote] [[⊛ To Forget]]
+>![[⊛ To Forget#^9e175c|no-link]]
 %%
 
 Despite this supposedly deep connection to a decently-storied group, information in any sphere about R. S. Langford is tantamount to intense speculation. As of present day in [[1285 PT]], they have never been physically located, pictured, directly named, or identified. 

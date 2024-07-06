@@ -5,4 +5,4 @@ onenote-modified: 2022-02-27 13:49:24 -0500
 
 ---
 
-The saint who interred the [[Aboleth]] [[Golorr]] in the Stone using [[Marmarancy]].
+**Bithynia** is a [[saint]] of the [[Carapa Republic]], who interred the [[aboleth]] [[Golorr]] in a [[soulstone]] using early rites of [[marmarancy]].

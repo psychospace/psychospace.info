@@ -140,7 +140,7 @@ permalink: narration/hazel
 [Ildy holds his ground, bursts her again with the shield, until she's kneeling, the armor on her knees skidding and sparking along the ground. His expression is resolute, his voice loud.] 
 
 >>[!quote|author] [[Ildy]]
->"Silence, undead brute! I am unshaken by your threats! To get to Linnaeus, you must stop me, you must DO the impossible, stop the unstoppable. This is a fool's errand! You have WASTED your time! ...You have greatly angered me... and... and... I am his BEST FRIEND, you-!! *You*--!!"
+>"Silence, undead brute! I am unshaken by your threats! To get to Linnaeus, you must stop me, you must DO the impossible, stop the unstoppable. This is a fool's errand! You have WASTED your time! You have greatly angered me... and... and... I am his BEST FRIEND, you-!! *You*--!!"
 
 [Hazel brings her gaze up again, smiles maliciously.]
 

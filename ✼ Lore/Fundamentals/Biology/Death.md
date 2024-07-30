@@ -7,7 +7,7 @@ tags:
 description: Death, much like the real-world process, is a process of entropy which afflicts all mortal beings.
 ---
 >[!quote | author] Charlie
->"Won't remember any of this shit when you're gone. And then you'll wake up somewhere else. Far from here. Somewhere else, some time else, someone else. A fresh start. Like all this was a bad dream."
+>"Won't remember any of this shit when you're gone. And then you'll wake up somewhere else. Far from here. Somewhere else, some time else, someone else. A fresh start. Like all this was a bad [[dream]]."
 
 **Death**, much like the real-world process, is a process of entropy which afflicts all mortal beings. It occurs when a [[Soul|soul]] departs its [[Body|body]]: in other words, when a [[Creature|creature]]'s lifespan comes to an end. In [[Magic|magic]], the [[Domain|domain]] of death and domain of the grave are energies associated with [[Light (property)#Darkness|Darkness]].
 # Occurrence

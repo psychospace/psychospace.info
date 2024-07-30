@@ -46,7 +46,7 @@ Secretly, Lazuli bore the [[Dragonic Curse]], which was detected prior to his bi
 
 Linnie was born after [[Critical Hit]] came to prominence — after the ban was repealed and when the [[Age of Adventurers]] had begun in earnest. He was, from a very early age, inquisitive and cunning, never taking unknowns to be answers. Even to recent times, he was a notorious note keeper, always being caught jotting something down or taking some plant to sketch it or press it later. He would also never be caught alone, always wanting to share journeys with others. 
 
-While he could never rid himself of Ildy, who’d been appointed at his side to oversee him from birth, he also sought counsel and aid from his own friends, notable among their number [[Varri Raptra]], [[Aster Claudius]], and, of course, the paladin dragoon-in-training [[Lylian Burgitsk]].
+While he could never rid himself of Ildy, who’d been appointed at his side to oversee him from birth, he also sought counsel and aid from his own friends, notable among their number [[Varri Raptra]], [[Aster Claudius]], and [[Lylian Burgitsk]].
 
 However, all cures attempted seemed to fail, including an attempt where [[Werwin Krara]] was requested to the task, but was unable to, forcing his memory to be [[Modify memory|modified]]. 
 

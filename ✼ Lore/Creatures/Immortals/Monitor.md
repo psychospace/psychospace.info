@@ -7,7 +7,7 @@ tags:
 
 A **monitor** is a broad term which refers to [[Immortal|immortals]] that field a more neutral gamut of responsibilities than [[Celestial|celestials]] or [[fiend|fiends]].
 
-Primarily, they are the "monitors" of rules, laws, and transitions, be they the various thresholds between the [[Plane|planes]] or the more metaphorical thresholds crossed during processes like invention, dreams, [[time]], or [[Death|death]]. 
+Primarily, they are the "monitors" of rules, laws, and transitions, be they the various thresholds between the [[Plane|planes]] or the more metaphorical thresholds crossed during processes like invention, [[Dream|dreams]], [[time]], or [[Death|death]]. 
 
 It would appear that monitors are a broader concept than just the [[Antic Sea]], and some theorize they may be the go-betweens of the [[Kibangan|firmament]] and other [[manifold seas]].
 

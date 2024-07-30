@@ -36,7 +36,7 @@ They are named such for their literal physical coincidence with one another, for
 For example, the [[Wild Blue Yonder]] is a realm, as well as all the other layers of [[The Heavens|The Heavens]], including the [[Dark Sea]]. Individual [[flipside|flipsides]] are distinguished as realms in their own right, due to individualized [[Gravity]] but consistent physical space.
 
 ## Sphere
-**Super-realms**, also called the **spheres**, are spacetime-shaped influences that affect or define [[#realm|realms]] in the form of alternate planes, but which cannot be directly reached without a portal. In spite of this, [[Soul|souls]] interface with them naturally through processes such as [[magic]], [[Death|Death]], and dreams.
+**Super-realms**, also called the **spheres**, are spacetime-shaped influences that affect or define [[#realm|realms]] in the form of alternate planes, but which cannot be directly reached without a portal. In spite of this, [[Soul|souls]] interface with them naturally through processes such as [[magic]], [[Death|Death]], and [[Dream|dreams]].
 
 The most obvious is [[psychospace|psychospace]], though [[The Sheer|the Sheer]], [[necrospace]], and [[The Fortress|the Fortress]] are also spheres.
 

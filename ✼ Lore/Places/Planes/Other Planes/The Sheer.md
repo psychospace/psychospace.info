@@ -22,7 +22,7 @@ Its usual appearance is a land cloaked in eternal nightfall, with a single massi
 Its form and structure is primarily defined by powerful entities and the power they inter in their followers: as such, those who summon a portal to the Sheer often unintentionally make it resemble places they are familiar with. For example, [[Puretza]], is known to hold "stake" in the realm. It is also believed that a connection to the Sheer maintains the [[Dustwall]] around [[Yofora]], connected by [[Uforia]].
 
 ## Wildcat destabilization
-When a truly destructive Sheer portal destabilization occurs, termed a *wildcat destabilization* after the uncontrolled aggression of the process, a [[Ghost storm|ghost storm]] is created instead of a Sheer conduit, as [[Vibe]] is pulled from [[Psychospace]] through the Sheer. [[Heartknock]] created ghost storms through this process, leveraging half-finished runic engines for the task.
+When a truly destructive Sheer portal destabilization occurs, termed a *wildcat destabilization* after the uncontrolled aggression of the process, a [[Ghost storm|ghost storm]] is created instead of a Sheer conduit, as [[Vibe]] is pulled from [[Psychospace]] through the Sheer. The [[Heartknock]] created ghost storms through this process, leveraging half-finished runic engines for the task.
 
 ##### Navigation
 ![[✼ Index#^f7a037|no-link]]

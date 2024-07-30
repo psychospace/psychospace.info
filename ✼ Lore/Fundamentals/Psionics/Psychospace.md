@@ -19,7 +19,7 @@ The plane resembles the "outside world", but distorted, overblown, and driven by
 
 Blue in the horizon bends towards a sickly pink and teal, while the dark of the night turns purple and scarlet. Colors twist and glow, the light seems unnaturally perfect, geography warps and builds amid multicolored [[Cloudscape|cloud]], mundane architecture and art somehow gain delirious awe-inspiring qualities, and the [[weather]] seems fickle and bent to your will. 
 
-The unseen and ethereal call this plane home, best described as the meeting point between dreams and reality: astral megafauna might leap over distant scenery, [[fish]] soaring from lake to lake, whilst fading [[Echo|echoes]] can still be heard in passing conversation, as though the thoughts that bore them dwell here still.
+The unseen and ethereal call this plane home, best described as the meeting point between [[Dream|dreams]] and reality: astral megafauna might leap over distant scenery, [[fish]] soaring from lake to lake, whilst fading [[Echo|echoes]] can still be heard in passing conversation, as though the thoughts that bore them dwell here still.
 
 Were it to vanish, a state known as a [[TPK|total psychospace kill]], mass devastation would occur, as logic's [[Collapse state|collapse]] would force all [[Phantasm|phantasms]] simultaneously to corrupt and vanish.
 

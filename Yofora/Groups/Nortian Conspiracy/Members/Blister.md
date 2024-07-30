@@ -7,4 +7,4 @@ onenote-modified: 2020-06-04 15:01:54 -0400
 
 Like all of the Conspirators, Blister normally wears the [[Cloak of Excelsio]].
 
-Blister wields the *Oblitera*, a powerful prosthetic arm capable of wielding a charged dark gemstone — a [[Destruction Catalyst]] — carving anything and everything with long tunnel-like explosions, gathering what it destroys as alchemical strength for use in equivalent exchange.
+Blister wields the *Oblitera*, a powerful prosthetic arm capable of wielding a charged dark gemstone — a [[Destruction Catalyst]] — carving anything and everything with long tunnel-like explosions, gathering what it destroys as [[Alchemy|alchemical]] strength for use in equivalent exchange.

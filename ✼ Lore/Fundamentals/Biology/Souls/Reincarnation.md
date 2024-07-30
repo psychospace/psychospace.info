@@ -22,4 +22,4 @@ Certain creatures, such as [[Dragon|dragons]], undergo reincarnation as part of 
 ## Artificial reincarnation
 An artificial reincarnation can be effected through a high-level [[Transmutation|transmutation]] [[ritual]] or through ritualistically-created items, like the [[Mutagen of Absolute Self]]. Artificial reincarnation has the goal of some continuity of memory and perspective throughout the process.
 
-[^1]: For example, [[Kessah]] was able to access [[Sekkan-shin]]'s past life as Hosuseri through her bond to [[Champo]]. In Kessah's dreams, Hosuseri recalled his familial connection to [[Uforia]] and [[Arahabaki]], prior to Sekkan or Kessah learning of this.
+[^1]: For example, [[Kessah]] was able to access [[Sekkan-shin]]'s past life as Hosuseri through her bond to [[Champo]]. In Kessah's [[Dream|dreams]], Hosuseri recalled his familial connection to [[Uforia]] and [[Arahabaki]], prior to Sekkan or Kessah learning of this.

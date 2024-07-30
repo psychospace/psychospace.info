@@ -14,7 +14,7 @@ priority: "!!EXTREME"
 Octavia was the first to discover the [[Visage of the Fortress]], and studied it for its anomalous properties. Like all of the Conspirators, Octavia wore the [[Cloak of Excelsio]].
 
 # History
-As a young child, [[Amanita Parasom]] at some point entered the [[elseworld]] very briefly. When Amy glimpsed the elseworld through a dream of the dark from her [[quori|quori]] guide, her nascent [[Echo|shadow]] took on a protective spirit, and split, becoming Octavia. ^ef2572
+As a young child, [[Amanita Parasom]] at some point entered the [[elseworld]] very briefly. When Amy glimpsed the elseworld through a [[dream]] of the dark from her [[quori|quori]] guide, her nascent [[Echo|shadow]] took on a protective spirit, and split, becoming Octavia. ^ef2572
 
 When they did so, Octavia actualized herself and "split" from Amanita, freeing itself and becoming Amy's twin sister, assuring her that she would never have to feel alone.
 

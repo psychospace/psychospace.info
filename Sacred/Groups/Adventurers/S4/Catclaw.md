@@ -17,7 +17,7 @@ During the aerial battle aboard the [[Red Diamond]] against the *[[Briarey]]*, L
 
 When time came for goodbyes, and seeking to participate in the mission any way he felt necessary, Lethal tied his headband around it, and gifted the ethereal dagger to Serra, hoping that the prayers of the visitants would be enough to assist the party in their final battle through their collective [[soul bond]].
 
-When the [[echo]] of [[Ildy]] inside of [[Lazuli Dino]]'s mindscape was awakened during the battle against [[Arahabaki]], it found itself drawn to the dagger, causing it to sharpen and lengthen to become a shortsword. Ildy's dying wish was to protect the prince, and so the prayers to protect it channeled themselves into the church inside that dreamscape.  ^ff8b48
+When the [[echo]] of [[Ildy]] inside of [[Lazuli Dino]]'s mindscape was awakened during the battle against [[Arahabaki]], it found itself drawn to the dagger, causing it to sharpen and lengthen to become a shortsword. Ildy's dying wish was to protect the prince, and so the prayers to protect it channeled themselves into the church inside that [[Dream|dreamscape]].  ^ff8b48
 
 Able to hear the visitants and harness the memories they had been architected from, the prince was at last able to recall his true self, holding Arahabaki at the tip of the unnamed blade so that [[Even Baxly]] could cure him.  ^7e1c5d
 

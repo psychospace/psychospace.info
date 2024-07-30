@@ -13,7 +13,7 @@ A **hexicon** is a collection of [[Spell|spells]] and knowledge of [[magic]], ty
 It is the magician's equivalent to a [lexicon](https://en.wikipedia.org/wiki/Lexicon)^[Its name is a portmanteau of *[[hex]]* and *lexicon*.] and is colloquially known as a **spell list**. 
 
 # Uses
-There are two general forms of hexicons: open and closed. They vary based on whether or not they are .
+There are two general forms of hexicons: open and closed. They vary based on whether or not they are available for perusal.
 
 Open hexicons are available for additional research and appending. They are used by formally-trained casters to avoid doing redundant work where it can be avoided. For example, if one person has already figured out the necessary equations for a [[fireball]], then an open hexicon will help further the process of someone [[Viewpoint property|recreating]] the spell for themselves, without need for a [[scroll]] or replication.
 

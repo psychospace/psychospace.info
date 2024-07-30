@@ -4,8 +4,10 @@ onenote-modified: 2020-10-26 16:07:19 -0400
 tags:
   - has_glossary_entry
 ---
-**Quori** is a term for a powerful massive [[Soul]] that harbors a distinct desire to aid the living against the horrors of the [[Death|dead]] and nightmares.
+A **quori**^[(qwo-ree, singular plural)] is a powerful [[soul|psychonym]] [[figment]] --  alikened to a soul "[rat king](https://en.wikipedia.org/wiki/Rat_king)" -- whose collective desire is to aid or ail the living against the horrors of the [[Death|dead]] and nightmares. Though their origins are largely unknown, quori serve as an invisible guiding hand in the world, especially in [[dream]], through monitoring and controlling [[psychospace]]'s overall global [[Light (property)|Light]] levels.
 
-A good quori is known as a *domovoy*: vanguards of sleep, protectors of dreams and powerful forces in terms of magic and fate. Bad quori are known as *sirin*: controlling, manipulative, and immensely knowledgeable world-changing pawns of the gods and otherwise.
+A good-aligned quori is known as a *domovoy*: vanguards of sleep, protectors of dreams and powerful forces in terms of magic and fate. Bad quori are known as *sirin*: controlling, manipulative, and immensely knowledgeable world-changing pawns of the gods and otherwise.
+
+Apparently, quori are connected in some unknown way to the [[elseworld]], and are capable of delivering dreams or 
 
 These quori go on to inhabit and bond with mortals to create *[[Kalashtar]]*.

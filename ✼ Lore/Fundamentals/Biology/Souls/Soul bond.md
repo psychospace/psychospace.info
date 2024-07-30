@@ -7,7 +7,7 @@ aliases:
   - connection
 ---
 
-A **soul bond** or **[[Psionics|psychic]] bond** is any powerful [[Psychospace|psychospacial]] connection forged between a [[soul]] to another entity. Due to the pervasive nature of psychospace, soul bonds can become a source of strength, miracles, or danger under the right circumstance. 
+A **soul bond** or **[[Psionics|psychic]] bond** is any powerful [[Psychospace|psychospacial]] connection forged between a [[soul]] to another entity. Due to the pervasive nature of psychospace, soul bonds can become a source of strength, miracles, or danger under the right circumstance.  ^5e50bc
 
 Some believe this is the result of the most basic power of a soul, the ability to "connect". 
 

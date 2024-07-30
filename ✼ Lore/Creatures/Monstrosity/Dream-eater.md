@@ -6,7 +6,7 @@ tags:
   - has_glossary_entry
 ---
 
-A **dream-eater** is a type of [[figment]] [[slime]] (specifically categorized as a [[mimic]]) which consumes powerful [[Echo|echoes]] (such as dreams), granting it knowledge, physical form, and sustenance, though at the cost of causing minor [[Off-wave|off-waves]] or memory-disruption in its environment. 
+A **dream-eater** is a type of [[figment]] [[slime]] (specifically categorized as a [[mimic]]) which consumes powerful [[Echo|echoes]] (such as [[Dream|dreams]]), granting it knowledge, physical form, and sustenance, though at the cost of causing minor [[Off-wave|off-waves]] or memory-disruption in its environment. 
 
 A lesser form of an [[oblex]], dream-eaters are generally considered annoyances, but can occasionally be [[Summoning|summoned]] for protection or aid. Once a dream-eater grows to be of a particular age, it can become quite intelligent, similar to [[Sliver|slivers]], and can prove potent (though mischeivous) allies.
 

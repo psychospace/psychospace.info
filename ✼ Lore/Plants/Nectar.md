@@ -3,7 +3,7 @@ tags:
   - item
   - has_glossary_entry
 ---
-**Nectar** is the street-name for a drug made from the petals of a [[mawflower]], a carnivorous plant, which is used for alchemical or therapeutic purposes. 
+**Nectar** is the street-name for a drug made from the petals of a [[mawflower]], a carnivorous plant, which is used for [[Alchemy|alchemical]] or therapeutic purposes. 
 
 # Use
 To imbibe it, the inside of the petal sticks to your tongue, then gradually melts into sugar (akin to cotton candy) over the course of about an hour. The petal itself is left over and surprisingly sanitary, occasionally discarded or used for tea.

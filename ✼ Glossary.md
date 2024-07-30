@@ -60,6 +60,8 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 - **Steelclad airships** - With toughened armor, capable of traveling beyond or into the [[Dustwall]].
 - **Supraekeic airships** - Capable of traveling regularly between the layers of the stack.
 ## Al
+**[[Alchemy]]** - The physical application of many [[magic]] studies, enabling the creation of potions and other [[Infusion|infused items]].
+
 **Alectryomancy** - Form of [[divination]] which analyzes the movements of birds as they eat.
 - **Alect** - Associated with high-ranking staff of the [[Fifth Institute]].
     - **[[Alect Keeper]]** - Professor who acts as a handler and counterpart to a [[High Manteian|High Manteians]]. All of them are widely respected for their scientific findings. Their insight and conference guides the Institute as a whole.
@@ -310,7 +312,7 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 - **[[Dragonic whillo]]** - A powerful [[dragon]]-like creature which distorted reality around it: the form assumed by those who succumbed to the curse.
 - **[[Dragonic War]]** - A war in [[1251 PT]] between [[Kingdom of Sacred|Sacred]] and the [[Nortian Conspiracy]], which began when [[Lazuli Dino|Linnie]]'s dragonic curse was revealed. ^88f713
 
-**Dream** - Another term for powerful *[[#^b6a827|echoes]]* generated through desires, through the natural flows of *[[#^e778a2|psychospace]]* while sleeping. Some types of *[[#^469a2f|telepathy]]* function through the conduit of dreams.
+**[[Dream]]** - Another term for powerful *[[#^b6a827|echoes]]* generated through desires, through the natural flows of *[[#^e778a2|psychospace]]* while sleeping. Some types of *[[#^469a2f|telepathy]]* function through the conduit of dreams. ^1d3d65
 - **[[Dream-eater]]** - Figment *[[#^70a198|slime]]* which desires, devours, and is made of dreams.
 
 ## Du
@@ -529,6 +531,9 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 
 ## Io
 **[[Ioyon Dynasty of Gears]]** - The present-day authority over [[Pinwheel]], formed following the [[Siege of Ioyosoco]].
+
+## Is
+**Islet** - A minor *[[#^0a7569|remnant]]*.
 
 ## Iθ
 **Iθ / Ith** - An [[Oa'Rovi]] digraph which means "storm" or "tumult".
@@ -812,9 +817,9 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 **[[Emirate of Qaulhain|Qaulhain]]** - A modern emirate in the southwest of [[Bullion]], the centralized place of most commerce and power on the remnant. Ruled by the [[Golden Council]].
 
 ## Qu
-**[[Quasidragon]]** - False dragon-soul-like constructs which act as [[Core engine|cores]].
+**[[Quasidragon]]** - False *[[#^02f0e8|dragon]]*-soul-like constructs which act as [[Core engine|cores]].
 
-**[[Quori]]** - Powerful dream-bound entities that do battle with forces of evil through [[kalashtar]].
+**[[Quori]]** - Powerful *[[#^1d3d65|dream]]*-bound entities that do battle with forces of evil through [[kalashtar]].
 # ==[ R ]==
 ## Ra
 **[Rainbow](https://en.m.wikipedia.org/wiki/Rainbow)** - Phenomenon of [[weather]] caused by refracting light producing a continuous spectrum of light in the sky. Widely mythologized.
@@ -839,7 +844,7 @@ This page is a [[✼ Index|hub]] containing a **glossary** of terms which appear
 
 **[[Reincarnation]]** - When one's [[soul]] is washed afresh in [[Mana (plane)|Mana]], rendering it new again: natural stage of existence for a soul, and intrigue of magic. Under special circumstances, has continuity of *[[#^4107c4|memory]]*, allowing recollection of their past life(s).
 
-**[[Remnant]]** - Floating landmass o'er [[the Planet]]. Has two sides: its [[flipside]] can be reached through points known as [[Phantasm|phantasms]].
+**[[Remnant]]** - Floating landmass o'er [[the Planet]]. Has two sides: its [[flipside]] can be reached through points known as [[Phantasm|phantasms]]. ^0a7569
 
 **[[Renthe]]** - [[Divinity|God]] of mechanics and physics in the [[Pantheon of Dawndust]].
 

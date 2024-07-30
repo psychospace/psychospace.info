@@ -5,7 +5,7 @@ onenote-modified: 2022-01-11 20:14:49 -0500
 
 ---
 >[!quote |author subt] [[Termis Tungol]], _Foreword of "An Age Apart"_
->I imagine many of those who grew up fantasizing about [[sorcery]] and swords — thanks to my prose — have either achieved that captured ideal, have reinterpreted it as writers themselves, fostered a love for adventure in their own ways, or... in one particular case, made pacts with entities from the [[Dark Sea]], seeking to harvest any words I left unwritten in that epic. ...And let us be clear, I do not strongly envy one whose very [[soul]] they judge to be worth the eight drafts I threw out. Aim higher, friends.
+>I imagine many of those who grew up fantasizing about [[sorcery]] and swords — thanks to my prose — have either achieved that captured ideal, have reinterpreted it as writers themselves, fostered a love for adventure in their own ways, or... in one particular case, made pacts with entities from the [[Dark Sea]], seeking to harvest any words I left unwritten in that epic. And let us be clear, I do not strongly envy one whose very [[soul]] they judge to be worth the eight drafts I threw out. Aim higher, friends.
 
 
 Esteemed bard and author, one-time leader of the [[Somber Troupe of Arcane Research]] (S.T.A.R.), **Travis "Termis" Tungol**, a [[Drastic|Drasticite]] for most of his life, wrote many a story of [[Critical Hit]]'s adventures. 

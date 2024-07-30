@@ -18,7 +18,7 @@ cssclasses:
  
  *[It laughs faintly, impressed by the absurdity. It seems to be losing its cool, frustrated beyond words. And in one swift motion, its arm [lashes out behind it](https://en.wikipedia.org/wiki/Deloping) with the weapon. Eyes shut. Breath held. CLICK. **BANG**.] *
 
-*[Shrapnel flies from the roof of the Nail of Nortia. A bullet buried into brick. ...And now, the revolving chamber springs open, and the gun is empty. it breathes in, an imperceptible moment of panic and pain and fear and... resoluteness. The smell of gunpowder is the only thing perceptible in the still, cold air.]*
+*[Shrapnel flies from the roof of the Nail of Nortia. A bullet buried into brick... And now, the revolving chamber springs open, and the gun is empty. it breathes in, an imperceptible moment of panic and pain and fear and... resoluteness. The smell of gunpowder is the only thing perceptible in the still, cold air.]*
 
 > "Nortian roulette," *[it mumbles, stuffing the gun limply inside its coat, defeatedly.]*
 > 

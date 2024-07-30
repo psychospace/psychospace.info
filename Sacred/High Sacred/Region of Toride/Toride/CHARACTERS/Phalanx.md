@@ -14,7 +14,7 @@ Phalanx is generally kind, despite their lines of work, though pissing them off 
 # History
 They were born with DID after complications in pregnancy left their mother dead and themselves without breath for several days, before miraculously healing. It is believed by Dr. Láng that their father was a [[Doppelganger]], hence the complete blank point that is their parentage. 
 
-Phalanx was caught up in the [[Spider's Web]] for a time, a useful position given their product of illicit alchemy, before retiring from that faction when [[Alexios Hawthorne]] murdered Solaria Evercleave, showing that rising the ranks and sticking by was not safe, especially if they had hopes only of survival and little ambitions else.
+Phalanx was caught up in the [[Spider's Web]] for a time, a useful position given their product of illicit [[alchemy]], before retiring from that faction when [[Alexios Hawthorne]] murdered Solaria Evercleave, showing that rising the ranks and sticking by was not safe, especially if they had hopes only of survival and little ambitions else.
 
 Hoping to turn over a new leaf, the collective took over a small fort in the woods near [[Y'viry]] around ten years ago, using it as a laboratory while selling locally. When it was suspected that Phalanx had abandoned the Web as opposed to retirement, assassins were sent after them, which they endure to this day, using their myriad allies' knowledge, as well as their own, to help them fend off.
 # Alters

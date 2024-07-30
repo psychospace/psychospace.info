@@ -12,7 +12,7 @@ If completely destroyed, it can't be used again, and all fragments of the device
 
 Souls contained in prisons, souls hidden from the world, or bodies whose souls are disconnected, such as by astral projection, imprisonment, forcecage, magic circle, or sequester, can't be trapped in this manner even if they are willing, due to higher-degree effects placed on them. If a target is possessed by another soul, the container traps the possessive soul, and isn't killed by the process, merely returning original control. An [[Undead]] soul or fragmented soul cannot be placed in a container.
 
-The soul within it does think, although to say it was entirely cognizant would be an outright lie, more as if it were placed in stasis, reliving its memories or dreams eternally (as if it were watching a 24/7 broadcast of its own mental imagery), until it is released. When it communicates, its personality seems more confused, sleepy, or dreamlike than afraid or angry, unable to learn any new information.
+The soul within it does think, although to say it was entirely cognizant would be an outright lie, more as if it were placed in stasis, reliving its memories or [[Dream|dreams]] eternally (as if it were watching a 24/7 broadcast of its own mental imagery), until it is released. When it communicates, its personality seems more confused, sleepy, or dreamlike than afraid or angry, unable to learn any new information.
 
 >![[⎋ Gameplay]]
 >>[!info]- D&D 5e

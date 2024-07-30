@@ -12,7 +12,7 @@ status: alive
 ---
 Guardian and originator of the [[Great Nortian Empire|Nortian]] [[Nortian imperial family|imperial line]], **Uforia** (Эйфория), the **Dreaming Dragon**, once known as **Yamasachi**, is a demigod-level being which is in truth a blue [[Dragon#Umbral|umbral dragon]] born to [[Sakuya and Ninigi]]. It was born conjoined with [[Arahabaki|Umisachi]], and unlike its brother, she was born quiet and tired, yet eternally and monstrously grew. 
 
-She is widely worshipped by the [[Temple of the Uforiad]].
+She is widely worshipped by the [[Temple of the Uforiad]], and has an immensely powerful ability to [[Dream|dream]] wondrous, [[wish]]-granting dreams.
 
 Stories say that Uforia is actually the mortal body of [[Mynos]], the Burning Rainbow.
 

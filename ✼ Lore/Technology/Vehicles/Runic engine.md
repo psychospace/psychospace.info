@@ -4,7 +4,7 @@ tags:
   - has_glossary_entry
 description: A runic engine is a module, invented by Nortia, that can enable an airship to travel faster and farther usingthe Sheer.
 ---
-A **runic engine** is an apparatus invented by [[Great Nortian Empire|Nortia]] in [[1243 PT]] to facilitate much faster [[Airship]] travel using [[Rune|runic]] [[magic]] and a conduit created using [[The Sheer]]. It is comprised of the primary module (the **rune projector**) and a secondary module mounted to the underside of a vessel (the **conduit apparatus**).
+A **runic engine** is an apparatus invented by [[Great Nortian Empire|Nortia]] in [[1243 PT]] to facilitate much faster [[Airship]] travel using [[Rune|runic]] [[magic]] and a [[Portal|teleportation]] conduit created using [[The Sheer]]. It is comprised of the primary module (the **rune projector**) and a secondary module mounted to the underside of a vessel (the **conduit apparatus**).
 
 # Function
 The engine functions as a terrestrial equivalent of a lightspeed jump. 

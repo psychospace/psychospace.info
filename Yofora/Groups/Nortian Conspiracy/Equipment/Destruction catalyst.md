@@ -2,7 +2,7 @@
 onenote-created: 2020-04-16 17:22:13 -0400
 onenote-modified: 2022-05-29 16:40:26 -0400
 ---
-The **destruction catalyst** is a catalytic [[Mana|Mana]] crystal which can be used as a powerful alchemical weapon.
+The **destruction catalyst** is a catalytic [[Mana|Mana]] crystal which can be used as a powerful [[Alchemy|alchemical]] weapon.
 
 This small red translucent gemstone is about the size of a palm and is in the shape of a pentagon, with a yellow symbol etched into it. The symbol is Abyssal and means "Destruction". It is the infamous weapon of [[Blister]].
 

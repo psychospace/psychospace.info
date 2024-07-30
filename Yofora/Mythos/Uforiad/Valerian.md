@@ -7,7 +7,7 @@ He emerged possessing the dragon’s own identity and abilities: essentially a v
 
 As a member of the [[Temple of the Uforiad|Uforiad]], he is called “Dream of Wanderlust”. 
 # History
-As the story goes, a young man was said to have been created from Uforia's forehead over the course of a 2 month dream that covered an estimated 12,000 years of mental meditation. 
+As the story goes, a young man was said to have been created from Uforia's forehead over the course of a 2 month [[dream]] that covered an estimated 12,000 years of mental meditation. 
 
 However, Valerian lacked a [[Fylgja|fylgja]]. Because of the nature of his creation, and without a spirit to guide him, Valerian lived many hundreds of years (believed to be from around 8000 BPT to around 7400 BPT) almost wholly unbound by the yoke of the gods, a factor that caused other’s destinies to draw to his lack of one, like a [[Logic#Guidance of logic|black hole]]. 
 

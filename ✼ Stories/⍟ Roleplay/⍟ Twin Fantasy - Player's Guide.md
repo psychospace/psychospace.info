@@ -15,7 +15,7 @@ Before you read on, it is recommended that you read the prose below, which acts 
 ## A World In Motion
 Thirty-four years ago, a [[Dragonic War|war]] was briefly fought between the [[Nortian Conspiracy|puppet-government]] of [[Great Nortian Empire|Nortia]] and the curse-laden armies of [[Kingdom of Sacred|Sacred]]. 
 
-The people likely to be your family were scarcely called into service by their alliances with either side, when an event called [[Zero Day]] resulted in [[the Planet]], the world of [[Skysea|skyseas]], changing irrevocably, abruptly bringing the conflict to a screeching halt.  Though few understood the breadth and depth of what exactly had transpired, the [[Sky-scrape|scars in the sky]] above them wouldn't let them forget: ...their future, in the long-term, was highly uncertain, just like the tyrant [[Illarion Parasom|Illarion]] spoke of.
+The people likely to be your family were scarcely called into service by their alliances with either side, when an event called [[Zero Day]] resulted in [[the Planet]], the world of [[Skysea|skyseas]], changing irrevocably, abruptly bringing the conflict to a screeching halt.  Though few understood the breadth and depth of what exactly had transpired, the [[Sky-scrape|scars in the sky]] above them wouldn't let them forget: their future, in the long-term, was highly uncertain, just like the tyrant [[Illarion Parasom|Illarion]] spoke of.
 
 Many predicted that something drastic was long due. The [[omen|omens]] of the conflict were many, after all. But few were ready, especially in hindsight. Shortly after the close of the conflict, once-in-a-lifetime weather began to assail the realms. In Bullion, that was the [[Great Hurricane]].
 

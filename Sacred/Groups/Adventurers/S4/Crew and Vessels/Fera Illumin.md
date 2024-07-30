@@ -16,14 +16,14 @@ ancestry:
 >| --- | --- |
 >| Born | Aliah<br>[[10th century PT]]<br>[[Dawndust]]|
 >| Aliases | Feather-Sword |
->| Pronouns | she/her  |
+>| Pronouns | she/her and they/them  |
 >| Ancestry | [[Elf\|Sea elf]] |
 >| Conditions | n/a |
 >| Occupation(s) | Captain of the [[Wings of Dawn]] |
 >| Skills and Abilities | strong knowledge of aerial combat, impeccable charisma |
 >| Partner(s) | [[Seeley Crashburn]] |
 >| Likes | Fresh air, shapes in the [[Cloudscape\|clouds]], a good fight, learning secrets and treasure |
->| Dislikes | ...Secret...? |
+>| Dislikes | Secret...? |
 
 **Fera Adamans Illumin** is the [[Novo Shindan|Shindani]] [[Elf|elven]] co-captain of the [[Airship]] *[[Wings of Dawn]]*, and the ex-captain of the *[[Red Diamond]]*, as employed by the [[S4]] in the dawning days of the [[Dragonic War]].
 

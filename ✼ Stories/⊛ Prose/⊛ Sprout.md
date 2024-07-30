@@ -210,7 +210,7 @@ He indicated the seat next to his. “Please,” he muttered, a formality.
 
 The paladin sat beside him, reaching out and taking the glass while almost side-eyeing her companion. 
 
-“What’s going on? You don’t *get* like this,” Star casually determined, gesturing at the display before her. “I don't know you as well as some must, but I don’t know you to be this kind of way. ...Are you feeling well?”
+“What’s going on? You don’t *get* like this,” Star casually determined, gesturing at the display before her. “I don't know you as well as some must, but I don’t know you to be this kind of way... Are you feeling well?”
 
 Lin breathed in through his nose and out through bared teeth, a bout of inner frost not enough to staunch his confidence. In one hand, he took up the scabbard by the blade, and held the handle of [[Dinofang]] out towards Star. 
 
@@ -286,7 +286,7 @@ The sorcerer-page ten paces behind the prince kicked a red-bomb with the side of
 
 Linnaeus turned, searching for the words of explanation he'd hoped wouldn't have to cross his lips.
 
-"You remember a few days ago, right? When we got caught? Ildy... I mean, he cares about me, I care about him, I *love* him like anyone in my family. But... he really does treat all of us -- me, you, Lylian, Varri -- like we're stupid kids that can't do anything for ourselves."
+"You remember a few days ago, right? When we got caught? Ildy... I mean, he cares about me, I care about him, I *love* him like anyone in my family. But... he really does treat all of us -- me, you, Lylian, [[Varri Raptra|Varri]] -- like we're stupid kids that can't do anything for ourselves."
 
 "We could try following procedure more," said Aster, glancing aside, smirking.
 

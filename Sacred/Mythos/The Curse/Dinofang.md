@@ -14,7 +14,7 @@ If it ever falls out of reach, it returns back to the [[Sanctum Most Sacred]] in
 
 It is, in reality, a [[Vorpal]] weapon which has been inhibited to ensure its nature. The inhibitor gem which seals its power, made from Ninigi's scale, contains a guardian spirit comprised of the many souls who have wielded the sword. 
 
-There is something of a psionic [[Soul bond|connection]] between itself and all its wielders[^2]. Dreaming while attuned to the sword often causes visions of old battles or figures of Sacred legend to appear throughout otherwise normal dreams.
+There is something of a psionic [[Soul bond|connection]] between itself and all its wielders[^2]. Dreaming while attuned to the sword often causes visions of old battles or figures of Sacred legend to appear throughout otherwise normal [[Dream|dreams]].
 
 [^1]: If no one lives who can wield it, it would surely go down the list of royal succession and each of those families, and change its attunement properties accordingly.
 [^2]: At dawn, if it isn't in the possession of someone who can wield it, the sword puts out a "distress signal" that can be felt by all living souls who have previously attuned to it, which tells them of its location and who, if anybody, has obtained it.

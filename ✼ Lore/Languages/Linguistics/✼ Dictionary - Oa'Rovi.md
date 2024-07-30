@@ -10,7 +10,7 @@ tags:
 # Lexicography
 Sounds have associated meanings. As such, depending on why a subject is referred to, or more generally the dialect being spoken in, a subject or verb might be represented by a number of similar phrasings.
 
-Oa'Rovi is generally comprised of two-rune digraphs. Digraphs are themselves words, and can be combined to form more complex words. Whenever a rune does not form a digraph as part of a word, it takes a separate form, called its "explicit" form.
+Oa'Rovi is generally comprised of two-[[rune]] digraphs. Digraphs are themselves words, and can be combined to form more complex words. Whenever a rune does not form a digraph as part of a word, it takes a separate form, called its "explicit" form.
 
 Words are compounded to form phrases, joined by a punctuation mark (ex. Oa'Rovi combines the words [[#Oa {OA}]] and [[#Ro {RO}]] + [[#Vi {VI}]]). This mark typically moves to indicate the highest order of specificity (ex. dialects of Oa'rovi are written by \[DIALECT]'oarovi, since the dialect itself would be more specific than the language.) 
 

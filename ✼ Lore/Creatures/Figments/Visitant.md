@@ -19,7 +19,7 @@ Until that point, they lie motionless with major brain activity, as if dreaming 
 When a visitant completes their soul, it is largely a matter of conjecture how the soul will appear. Some say that aspects of the soul cannot be alienated when their form is changed, causing the soul's fragments to take on or adapt the appearance of its original source. Other hypotheses state that because the process relies on instinct, it will only ever replicate the original soul, and that differences between visitants of the same being rely only on environmental differences.
 
 ## Trauma response
-Visitants still in this dream-like state are capable of reacting to trauma by suddenly instantiating the rest of their soul as their incomplete mind perceives it, should the soul come into danger. This instantiation process is only activated by instinct, and is similar to the safety measures that many animals have when faced with adversity. 
+Visitants still in this [[dream]]-like state are capable of reacting to trauma by suddenly instantiating the rest of their soul as their incomplete mind perceives it, should the soul come into danger. This instantiation process is only activated by instinct, and is similar to the safety measures that many animals have when faced with adversity. 
 
 This occurred for each of Lazuli's visitants when the [[Red Spark]] resulted in the destruction of the *[[Ivan's Tiger]]*. This rapidly completes the soul, allowing it to immediately think, move (though so rapidly and unpredictably it is tantamount to [[Portal|teleportation]]), and escape danger. 
 

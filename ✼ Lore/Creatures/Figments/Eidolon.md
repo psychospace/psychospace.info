@@ -11,7 +11,7 @@ tags:
 Eidolons form exclusively naturally in communities where a unity manifests, in addition to the crossings of [[Psychospace|Psychospace]]. The formation of one is often marked by a sudden awakening at the center of town, or at some landmark thereabouts, called its "spawn location". 
 
 # Appearance
-Eidolons are [[Dragon|draconid]] in general form, albeit with fur instead of scales. Some have described them interchangeably as horse-like, or sometimes as "sheep dragons", resembling mythology regarding dream. They may take on a more humanoid shape at will, and can freely switch between them, with their "clothes" generally approximating their personalities.
+Eidolons are [[Dragon|draconid]] in general form, albeit with fur instead of scales. Some have described them interchangeably as horse-like, or sometimes as "sheep dragons", resembling mythology regarding [[dream]]. They may take on a more humanoid shape at will, and can freely switch between them, with their "clothes" generally approximating their personalities.
 
 All eidolons are made in the image of [[Athemat]], the grandfather deity of all psychospace, and more of his daughter, [[Exponen]]. By family tree, they are cousins to all other draconic entities: effectively the psychological versions of dragons.
 

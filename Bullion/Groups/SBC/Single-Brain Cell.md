@@ -17,7 +17,7 @@ description: The Single-Brain Cell (SBC) is a group of troublemakers and artific
 
 An occult circle of like-minded troublemakers and artificers, centered on [[Broadcaster|Broadcasters]] of various talent, jokingly self-identified as the ***Single-Brain Cell***, or “*One-Brace*” for short, referred to as "*the project*", has emerged as a group of note in [[Bullion]] since [[1281 PT]]. They are widely viewed as a coordinated group of [eco-terrorists](https://en.wikipedia.org/wiki/Eco-terrorism).
 
-Known to be bonded telepathically and through several items, the SBC was originally believed to be part of alchemical trafficking, but is now known for creating many dead-ends in the [[The Shibboleth|Shibb]]-wide hunt for the [[Lynchpin Device|lynchpin devices]], through complex pranks, [[Reality-Bending|reality-twitching]] enchantments, [[Antique#False antiques|false antiques]], and catastrophic schemes. 
+Known to be bonded telepathically and through several items, the SBC was originally believed to be part of [[Alchemy|alchemical]] trafficking, but is now known for creating many dead-ends in the [[The Shibboleth|Shibb]]-wide hunt for the [[Lynchpin Device|lynchpin devices]], through complex pranks, [[Reality-Bending|reality-twitching]] enchantments, [[Antique#False antiques|false antiques]], and catastrophic schemes. 
 
 # Ideology
 >[!quote | author] anonymous member, anecdote published by the [[Tonapoulis Gazette]]

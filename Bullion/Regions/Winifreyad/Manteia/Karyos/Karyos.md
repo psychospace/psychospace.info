@@ -15,7 +15,7 @@ As of [[1285 PT]], its current commissioner is [[Margaryda Archegon]].
 # History
 The eastern districts of the city date back to around the turn of the [[Bullion#Fourth Era|Fourth Era]], when [[Crista Dahur]]'s staff constructed a small town at the foot of her estate in order to coordinate with [[Mezcoatl]] missionaries. As the estate fell into disrepair amid Dahur's obsessions, the town grew in prominence, though evidently when Dahur entirely transformed, most of the town was abandoned.
 
-Later Most of the modern city of Karyos was initially planned as an extension of its [[Fifth Institute|Conservatory]] under the will of its first commissioner [[Calyann Manteia]].
+Later expeditions to the area were initially in service of clearing out the Dahur Valley, until the conceptualization of the Protectorate began. Most of the modern city of Karyos was initially planned as an extension of its [[Fifth Institute|Conservatory]] under the will of its first commissioner [[Calyann Manteia]].
 
 Around the time it was in the process of being planned, the [[Bullion Civil War]] scored the region with open wounds as magician turned on magician, turning the dirt to mulch and deepening a crater into the valley.
 

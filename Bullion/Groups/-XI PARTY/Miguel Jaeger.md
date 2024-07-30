@@ -19,7 +19,7 @@ In the month of Vire, [[1249 PT]], they were killed unfairly in Anacoreta, shot 
 They were then [[Mass-Resurrection Incident|revived]] by a [[The Pitcher|pallid stranger]]. Without explanation or cause for the event, they are interested in the bounty offered by the [[Daily Grind]] for personal reasons, mostly to discover the truth of the matter. 
 
 # Personality
-Despite their casual way of speaking and disheveled appearance with a keen intellect and an eye for detail, they gained reputation for solving complex cases with unorthodox methods. Their expertise lies not only in investigative skills but also in knowledge of alchemy, allowing them to discern the hidden secrets of both people and potions.
+Despite their casual way of speaking and disheveled appearance with a keen intellect and an eye for detail, they gained reputation for solving complex cases with unorthodox methods. Their expertise lies not only in investigative skills but also in knowledge of [[alchemy]], allowing them to discern the hidden secrets of both people and potions.
 
 Their dedication to the craft and their unwavering determination make them a formidable force in the pursuit of truth.
 

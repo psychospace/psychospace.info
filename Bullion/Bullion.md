@@ -34,18 +34,18 @@ The partial remains of so-called "true chaos" cause the manifestation of [[Eleme
 ## Third Era
 The third era of ancient Bullion began in about 20,000 BPT. Nomadic groups such as those of the [[Upper Kernwelt]] begin to form societies.
 
-In [[BPT 15786]], the society of [[Ith'Paraan]] is first attested to, ruled by the amethyst [[Dragon]] [[Amakudari-no-Mikoto]]. Its ancestral capital is located somewhere near [[Mezcoatl]].
+In [[BPT 15786]], the society of [[Ith'Paraan]] is first attested to, ruled by the [[Dragon#Astral|astral dragon]] [[Amakudari-no-Mikoto]]. Its ancestral capital is located somewhere near [[Mezcoatl]].
 
 In about [[BPT 13300]], the [[Ith'Alnna]] project begins preliminary setup.
 
 ### Miserable Age
-In [[BPT 12342]], Amakudari perishes when a [[Void Breaker]] causes a cataclysmic reaction shortly after lifting off. Shortly after, the outbreak of [[Angel's cough]] is attested, and [[Amakudari's phantom|the Promise]] is fulfilled. 
+In [[BPT 12342]], Amakudari perishes when a [[void breaker]] causes a cataclysmic reaction shortly after lifting off. Shortly after, the outbreak of [[Angel's cough]] is attested, and [[Amakudari's phantom|the Promise]] is fulfilled. 
 
 Colloquially, the two centuries immediately following Amakudari's death is known as the **miserable age**.
 
-In approximately [[BPT 12147]], the [[Os'Grun]] meteor struck the [[Wabi Steppe]], punctuating the events of Ith'Paraan's dominance and bringing a close to the voidfaring, as well as many of the formative cultures that existed around that time. Collectively, the events of the miserable age result in almost all of Ith'Paraan's population dying or being rendered lost.
+In approximately [[BPT 12147]], the [[Os'Grun]] meteor struck the [[Wabi Steppe]], punctuating the events of Ith'Paraan's dominance and bringing a close to the void-faring, as well as many of the formative cultures that existed around that time. Collectively, the events of the miserable age result in almost all of Ith'Paraan's population dying or being rendered lost.
 
-The remnant thus enters a bit of a downturn. The earliest settlers of [[Emirate of Qaulhain|Qaulhain]] vanish.
+The remnant thus enters a bit of a downturn, as simultaneously, the golden city of early [[Emirate of Qaulhain|Qaulhain]] also vanishes.
 ## Fourth Era
 The fourth and most modern era of Bullion began in about BPT 5000.
 

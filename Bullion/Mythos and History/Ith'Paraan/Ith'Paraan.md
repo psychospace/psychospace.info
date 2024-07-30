@@ -16,7 +16,7 @@ Ruins of theirs have been discovered all over the area surrounding [[Mount Sokro
 
 Ith'Paraan was founded and ruled over by [[Amakudari-no-Mikoto]], a legendary [[Dragon|dragon]] who wished to share its [[Gift of Stars|Gift]] with others, at cost to itself. Amakudari's pontiff, a position in its worship which changed hands from epoch to epoch, would also serve as an important ruler of the nation.
 
-Ruled by a caste of [[owlin]], [[tengu]], and [[Elf|elven]] peoples, they tinkered with life through the application of natural laws and magic, creating beasts (such as [[Owlbear|owlbears]]) and mutated people as servitors of Amakudari's will, while discarding mistakes like [[Chimera|chimera]] to the corners of their hallowed lands. The [[Harengon]] and [[anadi]] societies of the [[Siella Valley]] was coerced through force to operate as slaves and spies for Ith'Par aristocrats.
+Ruled by a caste of [[owlin]], [[tengu]], and [[Elf|elven]] peoples, they tinkered with life through the application of natural laws and magic, creating beasts (such as [[Owlbear|owlbears]]) and mutated people as servitors of Amakudari's will, while discarding mistakes like [[Chimera|chimera]] to the corners of their hallowed lands. The [[harengon]] and [[anadi]] societies of the [[Siella Valley]] was coerced through force to operate as slaves and spies for Ith'Par aristocrats.
 
 These people tamed flying beasts for work and lifting, built huge clockwork constructs (now known as [[Copperbeast|copperbeasts]]) for protection, and traveled the stars in vessels known as [[Void Breaker|void breakers]]. Apparently thanks to this affinity with the [[Dark Sea]], unearthed Ith'Par technology far surpasses the complexity of that of the modern world's.
 ## Miserable Age

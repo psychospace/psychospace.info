@@ -3,6 +3,7 @@ aliases:
   - Winifreyad
   - Winnie
   - Reyezuela
+  - Freyite
 tags:
   - faction/government/win
   - place/win

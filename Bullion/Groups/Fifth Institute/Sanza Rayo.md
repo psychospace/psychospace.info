@@ -5,16 +5,18 @@ pronouns:
   - he-him
 ---
 ![[⎋ 2FPG]]
-[[Saint]] **Sanza Ewald Rayo** is a [[Emirate of Qaulhain|Qauli]] [[Alect Keeper]] of the [[Fifth Institute]], specifically the Keeper of [[Eudico Fenske]]. Known as the "Saint of Light", Sanza Rayo is a [[Broadcaster]], and probably the most famous one known to be allied with the [[The Shibboleth|Shibboleth]]. He is well-known for the suit of armor he is always pictured wearing.
+[[Saint]] **Sanza Ewald Rayo** is a [[Emirate of Qaulhain|Qauli]] [[Alect Keeper]] of the [[Fifth Institute]], specifically the Keeper of [[Eudico Fenske]]. Known as the "Saint of Light", Sanza Rayo is a [[Broadcaster]], and probably the most famous one known to be allied with the [[The Shibboleth|Shibboleth]]. He is well-known for the suit of silvery, full-body armor he is always pictured wearing.
 
 Rayo began his tenure with the Institute as a Special Adjunct, as "[[Songbird]] 583", thanks to powers that rendered him apparently near-immortal. As of [[1285 PT]], he is around 24 years old, easily the youngest Alect Keeper, though he looks even younger for reasons unknown.
 
 # History
 Not much is known by the public of his past for certain. According to Rayo, he is a [[human]], and was born in [[1261 PT]] in the town of [[Urick]]. Around the time he was ten, the town of Urick was attacked by a caster going [[OTR]], and everyone except for those who had recently been with Sanza vanished.
 
-When he was 12, his unusual state of affairs rose to national attention when he appeared to cure someone suffering of the earliest [[taphrine]] plague. Due to this, soon as he had turned 14, he was offered Special Adjunct status at the Institute, though mysteriously, his light was incapable of being used to synthesize a chemical cure to taphrine. Regardless, he offered alms and religious services to those suffering the plague, which many cited as the reason they survived it. He rose to sainthood thanks to this dedication.
+When he was 12, his unusual state of affairs rose to national attention when he appeared to cure someone suffering of the earliest [[taphrine]] plague. Due to this, soon as he had turned 14 in [[1275 PT]], he was offered Special Adjunct status at the Institute with the hopes of producing a more permanent cure to the deadly virus. 
 
-He now acts as a vanguard advocating for the control and understanding of new-magic, as well as ways in which it might be utilized for the betterment of society.
+However he tried, though, his light was incapable of being used to synthesize a chemical cure to taphrine. Regardless, he offered alms and religious services to those suffering the plague, with many later citing him as the reason they survived it. He rose to sainthood in the eyes of the Shibboleth, thanks to this dedication.
+
+In the modern day, he is best known for publicly speaking on behalf of Broadcasters the world over, particularly through [[Dust tunnel|leywire]] radio. He now acts as a vanguard advocating for the control and understanding of new-magic, as well as ways in which it might be utilized for the betterment of society.
 
 # Abilities
 When he was born, his abilities caused him to become blinded, though at the same time restored his sight through a kind of photoperception: able to see via reflections of light he casts.

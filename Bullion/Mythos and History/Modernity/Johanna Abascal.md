@@ -1,3 +1,9 @@
+---
+tags:
+  - character
+status: unknown
+---
+
 **Johanna "Jenny" Vela Abascal** is a 20-year-old [[River-Lands of Ancestral Ith'Paraan|Paraani]] [[human|human]]. Presumed dead when she was caught during the [[burning of the Tuck farm]], she apparently survived the events, going missing shortly afterward. 
 
 Johanna is wanted by the [[Fifth Institute]] for her hosting of *[[Mournful Cry]]*, a [[Lynchpin Device|lynchpin]].

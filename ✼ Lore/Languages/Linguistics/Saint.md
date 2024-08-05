@@ -13,7 +13,7 @@ The term typically means someone of extreme holiness, of semblance or closeness 
 Many saints have been named throughout history.
 - [[St. Bithynia]]
 - [[St. Maramara]]
-- [[Alvan]]
+- San [[Alvan]]
 - The [[Witch of the Plains]]
 - [[Arias]]
-- [[Sanza Rayo]]
+- [[Sanza Rayo]], Saint of Light

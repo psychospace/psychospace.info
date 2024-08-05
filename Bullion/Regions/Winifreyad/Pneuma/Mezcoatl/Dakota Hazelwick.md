@@ -12,6 +12,7 @@ ancestry:
 pronouns:
   - they-them
 ---
+![[⎋ Uncommon#^275f81]]
 **Dakota Hazelwick** is a 292-year old^[As of [[⍟ Twin Fantasy]].] [[Elf|elven]]-[[Beastkin|therian]] [[Witchcraft|witch]], widely mythologized as the **Graven Witch of [[Mezcoatl]]**. They are also known as the Oracle of Sunfall. 
 
 A prolific ally of the [[Bullion]] sect of the modern [[Coven of the Night]], Dakota is the author of much of the modern caster-side discourse on witchcraft's place in society. To most, they are believed to be a shapechanger, as each time they appear their physical gender appears different.

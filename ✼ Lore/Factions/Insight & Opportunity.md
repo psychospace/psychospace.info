@@ -1,5 +1,5 @@
 
-**Insight & Opportunity** (typically shortened to **I/O**) is a modern colloquialism for [[new magic]]- seeking "treasure-hunting" initiatives or departments of greater corporations. A phenomenon which emerged naturally following [[Zero Day]], these branches employ itinerant adventurers, paid for by heads of the company to help them seek out sources of new magic power, and drawn by the allure and mystery of [[Psionics|psychic]] strength.
+**Insight & Opportunity** (typically shortened to **I/O**) is a modern colloquialism for [[new magic]]-seeking "treasure-hunting" initiatives or departments of greater corporations. A phenomenon which emerged naturally following [[Zero Day]], these branches employ itinerant adventurers, paid for by heads of the company to help them seek out sources of new magic power, and drawn by the allure and mystery of [[Psionics|psychic]] strength.
 
 Though initially an isolated trend, I/O branches have since seen many corporate shakeups, as entities like [[Lynchpin device|lynchpins]] are secured as property for the parent company: potentially kept secret and internal to wage corporate warfare, or more often leased out to greater research bodies such as the [[Institutes of Bullion]] to secure important funding or interest in the company's efforts.
 

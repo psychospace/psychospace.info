@@ -35,9 +35,9 @@ pronouns:
 >| Dislikes | [[Ikabod Caruso]], fear of loss, commitments |
 
 
-The first [[Visitant]] made by [[Ikabod Caruso]], **Certain** is an [[Evangel]] reanimated from extinction by excavated descriptions and injections of [[Vibe]]. 
+The first [[visitant]] remade by [[Ikabod Caruso]], **Certain** (later and formerly known as **Skuld**) is an [[evangel]] reanimated from extinction by excavated descriptions and injections of [[vibe]]. 
 
-She is presently an adventurer with [[The Runts]].
+After escaping Ikabod's care, her vocal and artistic expression had bloomed somewhat. After serving with [[the Runts]] during the Dragonic War, she presently serves as a member of the Sacred counsel during the meetings of the [[Order of Hope]].
 
 # History
 The researcher who originally described her, [[Flora Neeld]], found her corpse in the depths of an ancient Dwarven warship on [[Archipel]], and had described much of its contents based on rough Old Duer (an ancient language predating Dwarvish).
@@ -46,16 +46,13 @@ She was revived as a [[Visitant|visitant]] on the Third to Kalends of Sabela, [[
 
 Like her compatriot, she was liberated from Ikabod's care by [[Trobairitz]] during the [[Red Spark|Siege of Drastic]]. 
 ## Current Affairs
-She now works with Hikawera's crew, alongside other refugees of Ikabod's care, including her confidant.
-# Personality
-After escaping Ikabod's care, her vocal and artistic expression has bloomed somewhat, 
-
+During the [[Dragonic War]], she became an adventurer with [[the Runts]].
 # Appearance
 She appears to be a winged elven woman of young age, with long silken black hair rolling down her shoulders and a pale complexion. She has great dexterity with her broad white wings, wielding them as if they were fingered limbs. Her eyes are red, and seemingly damaged. Due to her primordial tongue, she cannot speak properly, only understanding a little bit of Common and Elvish and only speaking in small, hushed sentences.
 
 She seems able to breathe both air and [[water]], and has some form of immunity to destruction. 
 
-Due to her botched creation, Ikabod had her surrogate soul [[Lifeblinding|temporarily bound]] to his real one until the fake one can complete itself. 
+Due to her botched creation, Ikabod had her surrogate soul [[Lifeblinding|temporarily bound]] to his real one until the fake one can complete itself. She was later freed from this fate.
 
 # Etymology
 Her name is derived from the [[Old Duer]] word "[[Urthr and Verthandi|skuld]]", which means "debt" and "certain future", which is how she was described in the notes Ikabod resurrected her from. 

@@ -13,6 +13,8 @@ priority: FUTURE_PLANS
 ![[⎋ 2FPG]]
 A term originally coined by Dr. [[Mujtaba Shahin]], a “**lynchpin device**” is an archetypal and anomalous object, phenomenon, or person who exhibits highly strange and ethereal properties, most of which do not follow expected bounds of the [[Divine Equation]].
 
+The study of lynchpin devices is known as **lynchology**: its students and teachers alike are known as **lynchologists**.
+
 # History
 These objects are said to be originally created of a brokered peace between [[Elemental energy|elemental chaos]] and [[Divinity]] (through an alliance with the [[Outsider|Outsiders]]), after the former [[The Gathering|encroached]] on the latter's domains. 
 

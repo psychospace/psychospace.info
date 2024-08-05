@@ -20,7 +20,7 @@ What is proven by the [[Visage of the Fortress#Anomaly|anomaly]] discovered and 
 
 These are gaps which, as could be seen from the bubble's nature, may one day cause a [[TPK]] to come about -- or something even worse yet, that has not a name. 
 
-It was long believed that most of the most major gaps had been closed by [[the Gathering]]’s effects on the world -- the [[Lynchpin device|lynchpin devices]] as well as the [[The Planet#Planar stack|planar stack]] -- but if even schoolchildren could access these gaps, and they were being proliferated at random, we were suddenly placed in a much more dire position.
+It was long believed that most of the most major gaps had been closed by [[the Gathering]]’s effects on the world -- the [[Lynchpin device|lynchpin devices]] as well as the [[The Planet#Planar stack|planar stack]] -- but if even schoolchildren could access these gaps, and they were being proliferated at random, we were suddenly placed in a much more dire position. ^aa2e3b
 
 It was found that the bubble's influence appeared to be benign, despite consuming almost any physical attempts to move or destroy it. However, this was soon disproven, as on one harrowing evening, I returned home to find that the [[Farborough Manor|manor]] had been consumed by it entirely. 
 

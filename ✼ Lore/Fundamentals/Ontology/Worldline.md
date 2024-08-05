@@ -28,11 +28,11 @@ Typical logic, thusly, restricts potentiality to only what has occurred: in othe
 
 ## Transcendence
 
-Despite this rigidity, some believe their home worldline might be transcended.
+Despite this rigidity, some believe their home worldline might be transcended. This remains entirely theoretical, as of the present day.
 
-Through contact with a possibility-field, such as a [[Gift (witchcraft)|Gift]], your perspective might expand beyond the limits set by typical logic, viewing theoretically 'perpendicular' worldlines. However, this can cause [[altercation|dangerous side-effects]].
+Through contact with a possibility-field, such as a [[Gift (witchcraft)|Gift]], your perspective might expand beyond the limits set by typical logic, viewing theoretically 'perpendicular' worldlines. However, this is known to cause [[altercation|dangerous side-effects]].
 
-Incredibly rarely, if ever, have entities from [[the Heavens]] been able to travel to an alternate worldline, except [[elseworld]], as the cycle of souls through [[reincarnation]] keeps them anchored to the [[Divine Equation]]. 
+Incredibly rarely, if ever, have entities from [[the Heavens]] been able to travel to an alternate worldline, except the [[elseworld]], as the cycle of souls through [[reincarnation]] keeps them anchored to the [[Divine Equation]]. 
 
 During travels of [[Ith'Paraan|Ith'Par]] [[Void breaker|void breakers]], lore of theirs reported being subject to alternate "rules" and so alternate logic when traveling to different [[Manifold Seas|manifold seas]].
 

@@ -3,6 +3,7 @@ priority: HIGH
 aliases:
   - alchemist
   - alchemical
+tags:
 ---
 **Alchemy** is the [[Magic|magical]] study of **alchemists**, involving the understanding of molecular composition and [physical philosophy](https://en.wikipedia.org/wiki/Natural_philosophy), and the world's atomic interactions with [[psychospace]]. Largely considered a subject best-tread by [[Enchantment|enchanters]], alchemists are specialized scientist-magicians who prepare medicinal solutions, virulent poisons, and powerful mutagens (collectively known as "chemics") via their understanding of both the magical and non-magical world.
 

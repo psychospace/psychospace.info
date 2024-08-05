@@ -1,9 +1,6 @@
 ---
 tags:
   - meta/story
-SPOILER:
-  - "[[Burning of the Tuck farm]]"
-  - "[[⍟ Twin Fantasy]]"
 cssclasses:
   - readable
 permalink: WHERE_ARE_YOU_JENNY

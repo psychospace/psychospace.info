@@ -23,6 +23,8 @@ The concept was observed and studied in laboratory-setting first by those who di
 The term was invented by [[Ema Ekotoba]]. Older, common terms for the apocalyptic state include **nubbin** or **NBN** (standing for "nothing-but-nothing").
 
 # Ark effect
+![[⎋ Uncommon#^1bfe2a]]
+
 In an application of macro-scale [[bias coagulation]], known here as the "ark effect", things which bring about a collapse state, or are nearby when a collapse state manifests, tend to survive them.
 
 The psychological (not to mention psionic) impacts on someone who has experienced a terminus of a worldline is unprecedented, and such beings usually brings with them several consistent distortions of reality.

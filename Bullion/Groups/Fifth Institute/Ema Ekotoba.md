@@ -13,7 +13,7 @@ word-goal: 250
 ---
 Dr. **Ema Forossa Ekotoba** is a [[Sirrhad|Sirrhadi]] [[dwarf]] and one of the most premier researchers of [[Lynchpin Device|lynchpin devices]] and [[Broadcaster|Broadcasters]], working for the [[Fifth Institute|Conservatory of Karyos]] as of [[1285 PT]]. 
 
-A magus and extremely notorious in her field, she is credited with helping further the process of understanding the properties of [[New Magic]], writing many formal definitions of their processes. She is host to a piece of [[Triplicate#043-I|the Triplicate]], and acts as one of the Conservatory's [[Alect Keeper|Alect Keepers]].
+A magus and extremely notorious in her field, she is credited with helping further the process of understanding the properties of [[New Magic]], writing many formal definitions of their processes. She is host to a piece of [[Triplicate#043-I|the Triplicate]], and acts as one of the Conservatory's [[Alect Keeper|Alect Keepers]], serving as the keeper of [[Jackalyne Aton]].
 
 
 # History

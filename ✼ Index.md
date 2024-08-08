@@ -3,6 +3,8 @@ tags:
   - hub
 aliases:
   - hub
+cssclasses:
+  - tables-center
 ---
 
 %%
@@ -58,9 +60,17 @@ This incomplete page acts as an [index](https://en.m.wikipedia.org/wiki/Index_(p
 >    - [[Logic]] and [[Chaos]] <br>([[Elemental energy]])
 >    - [[Creature|Creatures]] <br>([[Soul|souls]], [[Echo|echoes]])
 ^f7a037
-## Magic
->[!column|list ttl-c] The
+## Misc.
+### Alect Keepers & High Manteians
+| *[[Alect Keeper]]*  | *[[High Manteian]]* |
+| ------------------- | ------------------- |
+| [[Sanza Rayo]]      | [[Eudico Fenske]]   |
+| [[Ema Ekotoba]]     | [[Jackalyne Aton]]  |
+| [[Valerie Stout]]   | [[Lenore Arviel]]   |
+| [[Jasper Falmouth]] | [[Al Bordeaux]]     |
+| [[Isidor Sycamore]] | [[Kaiser Nine]]     |
 
+^8c885b
 
 ## [[✼ Stories#⍟ Roleplay|Roleplay]]
 ### [[⍟ Magical Mystery Tour]]

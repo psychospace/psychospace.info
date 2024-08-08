@@ -12,13 +12,4 @@ These professors of the Institute direct and organize the interests of the schoo
 
 # Membership
 ## 1285 PT
-| *[[Alect Keeper]]*  | *[[High Manteian]]* |
-| ------------------- | ------------------- |
-| [[Sanza Rayo]]      | [[Eudico Fenske]]   |
-| [[Ema Ekotoba]]     | [[Jackalyne Aton]]  |
-| [[Valerie Stout]]   | [[Lenore Arviel]]   |
-| [[Jasper Falmouth]] | [[Al Bordeaux]]     |
-| [[Isidor Sycamore]] | [[Kaiser Nine]]     |
-
-^b6a9ac
-
+![[✼ Index#^8c885b]]

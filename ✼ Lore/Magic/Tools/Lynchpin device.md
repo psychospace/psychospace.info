@@ -33,3 +33,5 @@ Lynchpins can be identified, distinguished from magic items, by three primary fa
 Destroying a device apparently results in a new one appearing elsewhere in the world for entirely separate purposes, though with similar effects. Dr. Shahin termed this "recurrence". For example, though the [[Ring of Renthe|ring of Renthe]] exists today as a ring, it is known to [[Pinwheel]] that relics with identical effects have once emerged as blades, hammers, and even fine china. ^858a3c
 
 Most inanimate devices can be "hosted", which is a process similar to attunement to magical items. Some devices are themselves animate, and are also called lynchpins.
+
+Many lynchpins manifest as multiple "objects" which are truly the same object "[[Echo|echoed]]" physically: for example, the Triplicate exists thrice, and [[L'ipotesi]] exists as a constituted effect of two separate objects.

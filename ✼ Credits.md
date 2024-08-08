@@ -122,6 +122,8 @@ Had I never had each of those experiences, I would not be the writer I am today.
 	* [[Homecoming]]'s 3D model ([[img_homecoming.png|!]])
 * [corrucyst](https://cohost.org/corrucyst) ^10a462
     * [[R. S. Langford]] ([[doc.png|!]])
+* [crowbobot](https://crowbobot.carrd.co) ^e4ec81
+    * [[Ithuriel Rysae]] (art & visual design) ([[img_ithuriel.png|!]])
 
 # Acknowledgements and thanks
 ## Software

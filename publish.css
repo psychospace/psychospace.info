@@ -7111,7 +7111,7 @@ iframe {
 }
 
 .slrvb-g {
-  --font: "Norwester", "Staatliches", "Racing Sans One", "Heavitas", "Playfair Display", serif;
+  --font: "Kirsty Rg", "Staatliches", "Racing Sans One", "Heavitas", "Playfair Display", serif;
   --header-weight: 100;
   --vault-name-font-size: 25px;
   --vault-name-font-weight: 300;
@@ -7521,9 +7521,9 @@ body:not(.wotc-beyond) .wotc-beyond:is(.markdown-source-view,
 .pathfinder-remaster.pathfinder-remaster {
   --font: "Taroca";
   --header-weight: 100;
-  --h1-font: "Taroca";
+  --h1-font: "Kirsty Rg";
   --h2-font: var(--h1-font);
-  --h3-font: "Norwester";
+  --h3-font: "Kirsty Rg";
   --h4-font: var(--h3-font);
   --h5-font: var(--h3-font);
   --h6-font: var(--h3-font);
@@ -8274,6 +8274,7 @@ body:not(.wotc-beyond) .wotc-beyond:is(.markdown-source-view,
 
 /*----Theme: Tangerine Dunes----*/
 .t-d {
+  --font: "Kirsty Rg", "Staatliches", "Racing Sans One", "Heavitas", "Playfair Display", serif;
   --hr-sym: "";
   --hr-f: var(--mdi);
   --header-weight: 500;
@@ -8664,7 +8665,7 @@ body:not(.wotc-beyond) .wotc-beyond:is(.markdown-source-view,
 }
 
 .its.its {
-  --font-default: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif;
+  --font-default: "Kirsty Rg", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif;
   --font-monospace: "Fira Code", "Fira Code Medium", "Source Code Pro", monospace;
   --hr-icon-symbol: "";
   --hr-icon-font: var(--its);
